@@ -29,6 +29,7 @@ public class ProfileActivity extends Activity {
             i.setType("image/*");
             startActivityForResult(Intent.createChooser(i, "Choose profile picture"), REQ_PICK_PHOTO);
         });
+        findViewById(R.id.btnSettings).setOnClickListener(v -> startActivity(new Intent(this, SettingsActivity.class)));
         findViewById(R.id.btnLogout).setOnClickListener(v -> {
             Session.clear(this);
             Intent i = new Intent(this, LoginActivity.class);

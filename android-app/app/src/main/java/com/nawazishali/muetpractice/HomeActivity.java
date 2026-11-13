@@ -36,6 +36,7 @@ public class HomeActivity extends Activity {
             i.putExtra("mode", "mock");
             startActivity(i);
         });
+        findViewById(R.id.btnSettings).setOnClickListener(v -> startActivity(new Intent(this, SettingsActivity.class)));
         View.OnClickListener toPerformance = v -> startActivity(new Intent(this, PerformanceActivity.class));
         findViewById(R.id.btnPerformance).setOnClickListener(toPerformance);
         findViewById(R.id.navPerformance).setOnClickListener(toPerformance);

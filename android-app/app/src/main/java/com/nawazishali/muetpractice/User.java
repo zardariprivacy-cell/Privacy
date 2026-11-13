@@ -5,6 +5,7 @@ public class User {
     public String name;
     public String username;
     public String photoPath; // null when no picture set
+    public String email; // null when not set (optional, added v3.4)
     public boolean admin;
 
     public String initials() {

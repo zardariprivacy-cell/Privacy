@@ -65,6 +65,14 @@
                 android:textColor="#231A00" android:textSize="15sp"
                 android:textStyle="bold" />
 
+                        <Button
+                android:id="@+id/btnSettings"
+                android:layout_width="match_parent" android:layout_height="52dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/bg_btn_ghost"
+                android:text="⚙ Settings" android:textColor="#FFFFFF"
+                android:textSize="16sp" android:textStyle="bold" />
+
             <Button
                 android:id="@+id/btnLogout"
                 android:layout_width="match_parent" android:layout_height="52dp"

@@ -16,7 +16,7 @@ public class Db extends SQLiteOpenHelper {
     public static final String[] SUBJECTS = {"Mathematics", "Physics", "Chemistry", "English"};
 
     public Db(Context context) {
-        super(context, "muet.db", null, 6);
+        super(context, "muet.db", null, 7);
     }
 
     @Override
@@ -24,7 +24,7 @@ public class Db extends SQLiteOpenHelper {
         db.execSQL("CREATE TABLE users (" +
                 "id INTEGER PRIMARY KEY AUTOINCREMENT, " +
                 "name TEXT NOT NULL, " +
-                "username TEXT NOT NULL UNIQUE, " +
+                "username TEXT NOT NULL UNIQUE, email TEXT, " +
                 "passhash TEXT NOT NULL, " +
                 "photo TEXT, " +
                 "admin INTEGER NOT NULL DEFAULT 0)");
@@ -66,6 +66,10 @@ public class Db extends SQLiteOpenHelper {
         if (oldVersion < 4) {
             // v3.0 -> v3.1: wave-1 topic expansion (every topic grows to 20 MCQs).
             seedBatch4(db);
+        }
+        if (oldVersion < 7) {
+            // v3.3 -> v3.4: optional email column for the Settings screen.
+            db.execSQL("ALTER TABLE users ADD COLUMN email TEXT");
         }
         if (oldVersion < 3) {
             // v2.1 -> v3.0: chapter/topic columns + class XII topic-wise bank.
@@ -137,6 +141,40 @@ public class Db extends SQLiteOpenHelper {
         return out;
     }
 
+    public void updateEmail(long userId, String email) {
+        ContentValues v = new ContentValues();
+        v.put("email", email);
+        getWritableDatabase().update("users", v, "id=?", new String[]{String.valueOf(userId)});
+    }
+
+    public boolean checkPassword(long userId, String password) {
+        SQLiteDatabase db = getReadableDatabase();
+        Cursor c = db.query("users", new String[]{"passhash"}, "id=?",
+                new String[]{String.valueOf(userId)}, null, null, null);
+        String stored = null;
+        if (c.moveToFirst()) stored = c.getString(0);
+        c.close();
+        return stored != null && stored.equals(hash(password));
+    }
+
+    public void updatePassword(long userId, String newPassword) {
+        ContentValues v = new ContentValues();
+        v.put("passhash", hash(newPassword));
+        getWritableDatabase().update("users", v, "id=?", new String[]{String.valueOf(userId)});
+    }
+
+    public void deleteResultsForUser(long userId) {
+        getWritableDatabase().delete("results", "user_id=?", new String[]{String.valueOf(userId)});
+    }
+
+    public int totalQuestions() {
+        Cursor c = getReadableDatabase().rawQuery("SELECT COUNT(*) FROM questions", null);
+        int n = 0;
+        if (c.moveToFirst()) n = c.getInt(0);
+        c.close();
+        return n;
+    }
+
     public void updatePhoto(long userId, String path) {
         SQLiteDatabase db = getWritableDatabase();
         ContentValues v = new ContentValues();
@@ -149,6 +187,8 @@ public class Db extends SQLiteOpenHelper {
         u.id = c.getLong(c.getColumnIndexOrThrow("id"));
         u.name = c.getString(c.getColumnIndexOrThrow("name"));
         u.username = c.getString(c.getColumnIndexOrThrow("username"));
+        int ei = c.getColumnIndex("email");
+        u.email = (ei >= 0 && !c.isNull(ei)) ? c.getString(ei) : null;
         int pi = c.getColumnIndexOrThrow("photo");
         u.photoPath = c.isNull(pi) ? null : c.getString(pi);
         u.admin = c.getInt(c.getColumnIndexOrThrow("admin")) == 1;

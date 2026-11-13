@@ -35,6 +35,8 @@ public class QuizActivity extends Activity {
     private boolean answered = false;
     private final List<String> reviewItems = new ArrayList<>();
     private CountDownTimer timer;
+    private boolean prefVibrate = true;
+    private boolean prefExplain = true;
 
     private TextView tvTitle, tvTimer, tvQBadge, tvSubject, tvQuestion, tvExplanation, tvProgressBottom;
     private ProgressBar pbQuiz;
@@ -46,6 +48,9 @@ public class QuizActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
+        android.content.SharedPreferences sp = getSharedPreferences(SettingsActivity.PREFS, MODE_PRIVATE);
+        prefVibrate = sp.getBoolean(SettingsActivity.KEY_VIBRATE, true);
+        prefExplain = sp.getBoolean(SettingsActivity.KEY_EXPLAIN, true);
         db = new Db(this);
         if (Session.currentUserId(this) <= 0) {
             finish();
@@ -200,6 +205,12 @@ public class QuizActivity extends Activity {
         }
         if (answered) return;
         answered = true;
+        if (prefVibrate) {
+            try {
+                android.os.Vibrator vib = (android.os.Vibrator) getSystemService(VIBRATOR_SERVICE);
+                if (vib != null) vib.vibrate(35);
+            } catch (Throwable ignored) { }
+        }
         selected = oi;
         boolean right = oi == q.correctIndex;
         if (right) score++;
@@ -214,7 +225,7 @@ public class QuizActivity extends Activity {
                 b.setText(optionText(i, q.options[i], "   ✗"));
             }
         }
-        if (q.explanation != null && !q.explanation.trim().isEmpty()) {
+        if (prefExplain && q.explanation != null && !q.explanation.trim().isEmpty()) {
             tvExplanation.setText("💡 " + q.explanation);
             tvExplanation.setVisibility(View.VISIBLE);
         }

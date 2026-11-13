@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="@drawable/bg_header" android:padding="18dp"
+        android:text="⚙ Settings" android:textColor="#FFFFFF"
+        android:textSize="20sp" android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent" android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:padding="16dp">
+
+            <!-- Account -->
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_card" android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="MY ACCOUNT" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/setName"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" android:text="Name"
+                    android:textColor="#FFFFFF" android:textSize="18sp" android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/setUsername"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp" android:text="@username"
+                    android:textColor="#A9BADF" android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/setRole"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp" android:text="Student account"
+                    android:textColor="#A9BADF" android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="14dp" android:text="Email (optional)"
+                    android:textColor="#FFFFFF" android:textSize="14sp" />
+
+                <EditText
+                    android:id="@+id/etEmail"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp" android:background="@drawable/bg_input"
+                    android:hint="your@email.com" android:inputType="textEmailAddress"
+                    android:padding="12dp" android:textColor="#FFFFFF"
+                    android:textColorHint="#66779F" android:textSize="15sp" />
+
+                <Button
+                    android:id="@+id/btnSaveEmail"
+                    android:layout_width="match_parent" android:layout_height="48dp"
+                    android:layout_marginTop="10dp" android:background="@drawable/bg_btn_gold"
+                    android:text="Save Email" android:textColor="#231A00"
+                    android:textSize="15sp" android:textStyle="bold" />
+            </LinearLayout>
+
+            <!-- Appearance -->
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="14dp" android:background="@drawable/bg_card"
+                android:orientation="vertical" android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="APPEARANCE" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" android:text="🌙 Dark Theme — Active"
+                    android:textColor="#FFFFFF" android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="Premium Navy + Gold dark theme is on. A full Light theme is being designed and will arrive in a future update."
+                    android:textColor="#A9BADF" android:textSize="13sp" />
+            </LinearLayout>
+
+            <!-- Quiz preferences -->
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="14dp" android:background="@drawable/bg_card"
+                android:orientation="vertical" android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="QUIZ PREFERENCES" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+
+                <Switch
+                    android:id="@+id/swVibrate"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" android:text="Vibration on answer"
+                    android:textColor="#FFFFFF" android:textSize="15sp" />
+
+                <Switch
+                    android:id="@+id/swExplain"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp" android:text="Show explanation in Practice"
+                    android:textColor="#FFFFFF" android:textSize="15sp" />
+            </LinearLayout>
+
+            <!-- Security -->
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="14dp" android:background="@drawable/bg_card"
+                android:orientation="vertical" android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="CHANGE PASSWORD" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/etOldPass"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" android:background="@drawable/bg_input"
+                    android:hint="Current password" android:inputType="textPassword"
+                    android:padding="12dp" android:textColor="#FFFFFF"
+                    android:textColorHint="#66779F" android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/etNewPass"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp" android:background="@drawable/bg_input"
+                    android:hint="New password" android:inputType="textPassword"
+                    android:padding="12dp" android:textColor="#FFFFFF"
+                    android:textColorHint="#66779F" android:textSize="15sp" />
+
+                <Button
+                    android:id="@+id/btnChangePass"
+                    android:layout_width="match_parent" android:layout_height="48dp"
+                    android:layout_marginTop="10dp" android:background="@drawable/bg_btn_gold"
+                    android:text="Change Password" android:textColor="#231A00"
+                    android:textSize="15sp" android:textStyle="bold" />
+            </LinearLayout>
+
+            <!-- Data -->
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="14dp" android:background="@drawable/bg_card"
+                android:orientation="vertical" android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="MY DATA" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/btnResetProgress"
+                    android:layout_width="match_parent" android:layout_height="48dp"
+                    android:layout_marginTop="10dp" android:background="@drawable/bg_btn_danger"
+                    android:text="Reset My Progress" android:textColor="#FFFFFF"
+                    android:textSize="15sp" android:textStyle="bold" />
+            </LinearLayout>
+
+            <!-- About -->
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="14dp" android:background="@drawable/bg_card"
+                android:orientation="vertical" android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="ABOUT" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/setAbout"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp" android:text="About"
+                    android:textColor="#FFFFFF" android:textSize="14sp" />
+
+                <Button
+                    android:id="@+id/btnShare"
+                    android:layout_width="match_parent" android:layout_height="48dp"
+                    android:layout_marginTop="12dp" android:background="@drawable/bg_btn_ghost"
+                    android:text="Share App with Friends" android:textColor="#FFFFFF"
+                    android:textSize="15sp" android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
