@@ -1,0 +1,538 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light" />
+    <link rel="icon" href="data:," />
+    <title>MUET MCQ Practice App</title>
+    <style>
+      :root{
+        --green:#0b6b3a;
+        --green-dark:#084f2b;
+        --green-soft:#e7f4ec;
+        --ink:#17211b;
+        --muted:#4c5a51;
+        --line:#d8e2db;
+        --card:#ffffff;
+        --bg:#ffffff;
+        --correct-bg:#e3f5e9;
+        --correct-line:#1c8a4a;
+        --wrong-bg:#fdecec;
+        --wrong-line:#c62f2f;
+        --note-bg:#fff8e1;
+        --note-line:#b98a00;
+      }
+      *{ box-sizing:border-box; }
+      html{ -webkit-text-size-adjust:100%; }
+      body{
+        margin:0; background:var(--bg); color:var(--ink);
+        font-family:"Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size:17px; line-height:1.5;
+      }
+      button{ font:inherit; cursor:pointer; min-height:48px; }
+      .wrap{ max-width:660px; margin:0 auto; padding:20px 16px 56px; }
+
+      /* ---------- Home ---------- */
+      .intro h1{ font-size:1.72rem; line-height:1.2; margin:6px 0 8px; letter-spacing:-.01em; }
+      .intro p{ margin:0 0 4px; color:var(--muted); font-size:1.02rem; }
+      .note{
+        margin:18px 0 22px; padding:14px 16px;
+        background:var(--note-bg); border:1.5px solid var(--note-line); border-radius:10px;
+        font-weight:600; font-size:1rem;
+      }
+      h2.section{ font-size:1.12rem; margin:22px 0 12px; }
+      .subjects{ display:grid; grid-template-columns:1fr; gap:12px; }
+      @media (min-width:560px){ .subjects{ grid-template-columns:1fr 1fr; } }
+      .subject-card{
+        display:block; width:100%; text-align:left;
+        background:var(--card); border:1.5px solid var(--line); border-radius:12px;
+        padding:18px; color:var(--ink);
+      }
+      .subject-card:active{ border-color:var(--green); }
+      .subject-card .s-name{ font-size:1.22rem; font-weight:700; display:block; }
+      .subject-card .s-meta{ color:var(--muted); font-size:.95rem; display:block; margin-top:2px; }
+      .subject-card .s-real{ display:block; margin-top:6px; font-size:.9rem; color:var(--green-dark); font-weight:600; }
+      .best{
+        display:inline-block; margin-top:12px; padding:5px 12px; border-radius:999px;
+        background:var(--green-soft); color:var(--green-dark); font-weight:700; font-size:.9rem;
+      }
+      .best.none{ background:#f0f3f1; color:var(--muted); font-weight:600; }
+      .mock-btn{
+        display:block; width:100%; margin-top:22px; padding:18px;
+        background:var(--green); color:#fff; border:none; border-radius:12px;
+        font-size:1.15rem; font-weight:700; text-align:center;
+      }
+      .mock-btn:active{ background:var(--green-dark); }
+      .mock-sub{ text-align:center; color:var(--muted); font-size:.93rem; margin:8px 0 0; }
+      .fact{ margin-top:30px; padding-top:16px; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
+      .fact a{ color:var(--green-dark); }
+
+      /* ---------- Quiz ---------- */
+      .quiz-top{ display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:10px; }
+      .quiz-label{ font-weight:700; font-size:1.05rem; }
+      .timer{
+        font-variant-numeric:tabular-nums; font-weight:700; font-size:1.05rem;
+        background:var(--green-soft); color:var(--green-dark);
+        padding:6px 14px; border-radius:999px; white-space:nowrap;
+      }
+      .timer.low{ background:var(--wrong-bg); color:var(--wrong-line); }
+      .progress-text{ color:var(--muted); font-size:.95rem; margin:0 0 6px; }
+      .bar{ height:10px; background:#edf1ee; border-radius:999px; overflow:hidden; margin-bottom:22px; }
+      .bar > div{ height:100%; background:var(--green); border-radius:999px; transition:width .25s ease; }
+      @media (prefers-reduced-motion: reduce){ .bar > div{ transition:none; } }
+      .q-text{ font-size:1.28rem; font-weight:700; line-height:1.35; margin:0 0 18px; }
+      .options{ display:grid; gap:10px; }
+      .opt{
+        display:block; width:100%; text-align:left;
+        background:#fff; border:1.5px solid var(--line); border-radius:10px;
+        padding:14px 16px; font-size:1.05rem; color:var(--ink);
+      }
+      .opt .letter{ font-weight:700; color:var(--green-dark); margin-right:8px; }
+      .opt.selected{ border-color:var(--green); background:var(--green-soft); }
+      .opt.correct{ border-color:var(--correct-line); background:var(--correct-bg); }
+      .opt.wrong{ border-color:var(--wrong-line); background:var(--wrong-bg); }
+      .opt:disabled{ cursor:default; opacity:1; }
+      .explain{
+        margin-top:16px; padding:14px 16px; border-radius:10px;
+        background:var(--green-soft); border:1.5px solid var(--green);
+        font-size:1rem;
+      }
+      .explain .verdict{ font-weight:800; display:block; margin-bottom:4px; }
+      .explain.bad{ background:var(--wrong-bg); border-color:var(--wrong-line); }
+      .next-btn{
+        display:block; width:100%; margin-top:18px; padding:15px;
+        background:var(--green); color:#fff; border:none; border-radius:10px;
+        font-size:1.08rem; font-weight:700;
+      }
+      .next-btn:active{ background:var(--green-dark); }
+      .quit-btn{
+        display:block; margin:14px auto 0; background:none; border:none; color:var(--muted);
+        text-decoration:underline; min-height:44px; padding:8px 16px; font-size:.98rem;
+      }
+
+      /* ---------- Result ---------- */
+      .result-box{ text-align:center; padding:26px 10px 6px; }
+      .score-big{ font-size:3rem; font-weight:800; line-height:1; color:var(--green-dark); }
+      .score-big small{ font-size:1.4rem; color:var(--muted); font-weight:600; }
+      .pct{ font-size:1.15rem; font-weight:700; margin-top:8px; }
+      .encourage{ color:var(--muted); font-size:1.05rem; margin:10px auto 0; max-width:44ch; }
+      .result-actions{ display:grid; gap:10px; margin-top:24px; }
+      .btn-primary{
+        padding:15px; background:var(--green); color:#fff; border:none; border-radius:10px;
+        font-size:1.08rem; font-weight:700; width:100%;
+      }
+      .btn-primary:active{ background:var(--green-dark); }
+      .btn-secondary{
+        padding:15px; background:#fff; color:var(--green-dark); border:1.5px solid var(--green); border-radius:10px;
+        font-size:1.08rem; font-weight:700; width:100%;
+      }
+      h2.review-title{ font-size:1.2rem; margin:34px 0 6px; text-align:left; }
+      .review-item{
+        border:1.5px solid var(--line); border-radius:10px; padding:16px; margin-top:12px; text-align:left;
+      }
+      .review-item .r-sub{ font-size:.82rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--green-dark); }
+      .review-item .r-q{ font-weight:700; margin:4px 0 10px; font-size:1.05rem; }
+      .review-item p{ margin:5px 0; font-size:.98rem; }
+      .review-item .ok{ color:var(--correct-line); font-weight:700; }
+      .review-item .bad{ color:var(--wrong-line); font-weight:700; }
+      .review-item .r-expl{ color:var(--muted); margin-top:8px; }
+      [hidden]{ display:none !important; }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+
+      <!-- ================= HOME ================= -->
+      <section id="view-home">
+        <div class="intro">
+          <h1>Practice for the MUET Entry Test</h1>
+          <p>Simple MCQs for Pre-Engineering students. Pick a subject and start — no login, no fees.</p>
+        </div>
+
+        <div class="note">Real MUET test: 100 MCQs, no negative marking — always attempt every question!</div>
+
+        <h2 class="section">Practice by subject — 10 questions each</h2>
+        <div class="subjects" id="subject-cards"></div>
+
+        <button class="mock-btn" id="mock-start" type="button">Start Mock Test</button>
+        <p class="mock-sub">20 mixed questions (5 from each subject) &middot; 20 minutes &middot; answers shown at the end, like the real test</p>
+
+        <p class="fact">Why this matters: 6,615 students sat the MUET pre-admission test in 2025–26 for just 2,298 seats — about 3 students for every seat. (<a href="https://minutemirror.com.pk/muet-kicks-off-computerized-admission-tests-for-2025-26-intake-403327/" target="_blank" rel="noopener">Minute Mirror, 17 Jun 2025</a>)</p>
+      </section>
+
+      <!-- ================= QUIZ ================= -->
+      <section id="view-quiz" hidden>
+        <div class="quiz-top">
+          <span class="quiz-label" id="quiz-label">Mathematics</span>
+          <span class="timer" id="quiz-timer" hidden>20:00</span>
+        </div>
+        <p class="progress-text" id="progress-text">Question 1 of 10</p>
+        <div class="bar"><div id="progress-bar" style="width:0%"></div></div>
+
+        <p class="q-text" id="q-text"></p>
+        <div class="options" id="q-options"></div>
+
+        <div class="explain" id="q-explain" hidden>
+          <span class="verdict" id="q-verdict"></span>
+          <span id="q-explain-text"></span>
+        </div>
+
+        <button class="next-btn" id="q-next" type="button" hidden>Next Question</button>
+        <button class="quit-btn" id="q-quit" type="button">Quit and go home</button>
+      </section>
+
+      <!-- ================= RESULT ================= -->
+      <section id="view-result" hidden>
+        <div class="result-box">
+          <div class="score-big"><span id="r-score">0</span> <small id="r-total">/ 10</small></div>
+          <div class="pct" id="r-pct"></div>
+          <p class="encourage" id="r-message"></p>
+          <div class="result-actions">
+            <button class="btn-primary" id="r-again" type="button">Practice Again</button>
+            <button class="btn-secondary" id="r-home" type="button">Home</button>
+          </div>
+        </div>
+        <div id="review-wrap" hidden>
+          <h2 class="review-title">Review your answers</h2>
+          <div id="review-list"></div>
+          <div class="result-actions">
+            <button class="btn-secondary" id="r-home-2" type="button">Home</button>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <script>
+      "use strict";
+
+      /* ============ QUESTION BANK (exactly as provided) ============ */
+      var BANK = {
+        math: {
+          name: "Mathematics",
+          real: "30 MCQs in the real test",
+          questions: [
+            { q: "If x + 5 = 12, then x = ?", opts: ["5", "7", "12", "17"], ans: 1, expl: "When a number crosses the = sign, + becomes −. So x = 12 − 5 = 7." },
+            { q: "If x − 3 = 5, then x = ?", opts: ["2", "3", "8", "15"], ans: 2, expl: "Crossing the = sign, − becomes +. So x = 5 + 3 = 8." },
+            { q: "What is 20% of 200?", opts: ["20", "40", "60", "100"], ans: 1, expl: "20% means 20 out of 100. 200 × 20/100 = 40." },
+            { q: "7 × 8 = ?", opts: ["54", "56", "63", "72"], ans: 1, expl: "7 × 8 = 56." },
+            { q: "If 3x = 15, then x = ?", opts: ["3", "5", "12", "45"], ans: 1, expl: "Divide both sides by 3: x = 15 ÷ 3 = 5." },
+            { q: "What is the square of 9?", opts: ["18", "36", "81", "99"], ans: 2, expl: "Square means multiply the number by itself: 9 × 9 = 81." },
+            { q: "Which number is prime?", opts: ["9", "15", "11", "21"], ans: 2, expl: "A prime number has only two factors: 1 and itself. 11 is prime." },
+            { q: "1/2 + 1/4 = ?", opts: ["1/6", "2/6", "3/4", "1"], ans: 2, expl: "Make the bottom numbers equal: 1/2 = 2/4, so 2/4 + 1/4 = 3/4." },
+            { q: "What is 2³?", opts: ["5", "6", "8", "9"], ans: 2, expl: "2³ = 2 × 2 × 2 = 8." },
+            { q: "The angles of a triangle add up to:", opts: ["90°", "180°", "270°", "360°"], ans: 1, expl: "The three angles of any triangle always add up to 180 degrees." }
+          ]
+        },
+        physics: {
+          name: "Physics",
+          real: "30 MCQs in the real test",
+          questions: [
+            { q: "Speed is calculated as:", opts: ["Distance × Time", "Distance ÷ Time", "Time ÷ Distance", "Distance + Time"], ans: 1, expl: "Speed = Distance ÷ Time." },
+            { q: "The SI unit of force is:", opts: ["Joule", "Watt", "Newton", "Pascal"], ans: 2, expl: "Force is measured in newtons (N)." },
+            { q: "A bus covers 60 km in 2 hours. Its speed is:", opts: ["120 km/h", "30 km/h", "62 km/h", "15 km/h"], ans: 1, expl: "Speed = 60 ÷ 2 = 30 km/h." },
+            { q: "The SI unit of length is:", opts: ["Centimeter", "Metre", "Kilometer", "Inch"], ans: 1, expl: "The standard (SI) unit of length is the metre (m)." },
+            { q: "Which of these is a scalar quantity?", opts: ["Speed", "Velocity", "Force", "Acceleration"], ans: 0, expl: "Speed has only size, no direction, so it is a scalar. The others have direction too." },
+            { q: "Objects fall to the Earth because of:", opts: ["Magnetism", "Friction", "Gravity", "Pressure"], ans: 2, expl: "Gravity is the force that pulls objects toward the Earth." },
+            { q: "The SI unit of energy is:", opts: ["Newton", "Joule", "Watt", "Volt"], ans: 1, expl: "Energy is measured in joules (J)." },
+            { q: "A car moves at a constant speed of 10 m/s for 5 seconds. Distance covered = ?", opts: ["2 m", "15 m", "50 m", "100 m"], ans: 2, expl: "Distance = Speed × Time = 10 × 5 = 50 m." },
+            { q: "Capacitive reactance (Xc) decreases when frequency:", opts: ["Decreases", "Increases", "Stays zero", "Becomes DC"], ans: 1, expl: "Xc = 1/(2πfC). When frequency f increases, Xc decreases." },
+            { q: "At sea level, water boils at:", opts: ["90°C", "95°C", "100°C", "120°C"], ans: 2, expl: "At normal air pressure (sea level), water boils at 100°C." }
+          ]
+        },
+        chemistry: {
+          name: "Chemistry",
+          real: "20 MCQs in the real test",
+          questions: [
+            { q: "The chemical formula of water is:", opts: ["CO2", "H2O", "O2", "H2"], ans: 1, expl: "Water is H2O." },
+            { q: "One molecule of water has how many hydrogen atoms?", opts: ["1", "2", "3", "4"], ans: 1, expl: "H2O means 2 hydrogen atoms and 1 oxygen atom." },
+            { q: "The smallest particle of an element is called:", opts: ["Molecule", "Atom", "Ion", "Cell"], ans: 1, expl: "Everything is made of atoms; an atom is the smallest part of an element." },
+            { q: "The chemical symbol of sodium is:", opts: ["S", "So", "Na", "N"], ans: 2, expl: "Sodium's symbol is Na." },
+            { q: "The pH of a neutral solution is:", opts: ["0", "7", "14", "1"], ans: 1, expl: "pH 7 is neutral. Below 7 is acidic, above 7 is basic." },
+            { q: "Which of these is an acid?", opts: ["NaOH", "HCl", "NaCl", "CaCO3"], ans: 1, expl: "HCl (hydrochloric acid) is an acid." },
+            { q: "The atomic number of oxygen is:", opts: ["6", "8", "16", "2"], ans: 1, expl: "Oxygen has 8 protons, so its atomic number is 8." },
+            { q: "The formula of common salt is:", opts: ["KCl", "NaCl", "CaCl2", "NaOH"], ans: 1, expl: "Common salt is sodium chloride, NaCl." },
+            { q: "Plants take in which gas for photosynthesis?", opts: ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"], ans: 2, expl: "Plants use carbon dioxide (CO2) and release oxygen." },
+            { q: "H2SO4 is the formula of:", opts: ["Hydrochloric acid", "Nitric acid", "Sulfuric acid", "Acetic acid"], ans: 2, expl: "H2SO4 is sulfuric acid." }
+          ]
+        },
+        english: {
+          name: "English",
+          real: "20 MCQs in the real test",
+          questions: [
+            { q: "The synonym of “happy” is:", opts: ["Sad", "Glad", "Angry", "Tired"], ans: 1, expl: "Glad means happy." },
+            { q: "The antonym of “big” is:", opts: ["Large", "Huge", "Small", "Wide"], ans: 2, expl: "The opposite of big is small." },
+            { q: "The past tense of “go” is:", opts: ["Goed", "Went", "Gone to", "Going"], ans: 1, expl: "Go → went (past) → gone." },
+            { q: "Choose the correct sentence:", opts: ["He go to school daily.", "He goes to school daily.", "He going to school daily.", "He gone to school daily."], ans: 1, expl: "With he/she/it, we add -s or -es to the verb: he goes." },
+            { q: "The plural of “child” is:", opts: ["Childs", "Children", "Childes", "Childrens"], ans: 1, expl: "Child is irregular: its plural is children." },
+            { q: "Which word is a noun?", opts: ["Run", "Quickly", "Book", "Happy"], ans: 2, expl: "A noun is a person, place or thing. Book is a thing." },
+            { q: "She has ___ apple.", opts: ["a", "an", "the to", "two"], ans: 1, expl: "We use “an” before words starting with a vowel sound: an apple." },
+            { q: "The synonym of “fast” is:", opts: ["Slow", "Quick", "Late", "Weak"], ans: 1, expl: "Quick means fast." },
+            { q: "Choose the correct spelling:", opts: ["Beautifull", "Beautiful", "Biutiful", "Beautyful"], ans: 1, expl: "The correct spelling is B-E-A-U-T-I-F-U-L." },
+            { q: "He is afraid ___ dogs.", opts: ["from", "of", "with", "by"], ans: 1, expl: "The correct phrase is “afraid of”." }
+          ]
+        }
+      };
+
+      var SUBJECT_KEYS = ["math", "physics", "chemistry", "english"];
+      var LETTERS = ["A", "B", "C", "D"];
+
+      /* Best scores for this session only (kept in memory, nothing is saved). */
+      var bestScores = { math: null, physics: null, chemistry: null, english: null };
+
+      /* ============ ELEMENTS ============ */
+      var el = function (id) { return document.getElementById(id); };
+      var viewHome = el("view-home"), viewQuiz = el("view-quiz"), viewResult = el("view-result");
+
+      function show(view) {
+        viewHome.hidden = view !== viewHome;
+        viewQuiz.hidden = view !== viewQuiz;
+        viewResult.hidden = view !== viewResult;
+        window.scrollTo(0, 0);
+      }
+
+      /* ============ HOME ============ */
+      function renderHome() {
+        var wrap = el("subject-cards");
+        wrap.innerHTML = "";
+        SUBJECT_KEYS.forEach(function (key) {
+          var s = BANK[key];
+          var card = document.createElement("button");
+          card.type = "button";
+          card.className = "subject-card";
+          var best = bestScores[key];
+          card.innerHTML =
+            '<span class="s-name"></span>' +
+            '<span class="s-meta">10 practice questions</span>' +
+            '<span class="s-real"></span>' +
+            (best === null
+              ? '<span class="best none">Not attempted yet</span>'
+              : '<span class="best">Best score: ' + best + ' / 10</span>');
+          card.querySelector(".s-name").textContent = s.name;
+          card.querySelector(".s-real").textContent = s.real;
+          card.addEventListener("click", function () { startPractice(key); });
+          wrap.appendChild(card);
+        });
+        show(viewHome);
+      }
+
+      /* ============ QUIZ STATE ============ */
+      var quiz = null;      // { mode, subjectKey, items:[{subject, q, opts, ans, expl}], index, score, answers:[], answered }
+      var timerId = null;
+      var timeLeft = 0;
+
+      function shuffle(arr) {
+        var a = arr.slice();
+        for (var i = a.length - 1; i > 0; i--) {
+          var j = Math.floor(Math.random() * (i + 1));
+          var t = a[i]; a[i] = a[j]; a[j] = t;
+        }
+        return a;
+      }
+
+      function stopTimer() {
+        if (timerId !== null) { clearInterval(timerId); timerId = null; }
+      }
+
+      function startPractice(key) {
+        stopTimer();
+        var s = BANK[key];
+        var items = s.questions.map(function (item) {
+          return { subject: s.name, q: item.q, opts: item.opts, ans: item.ans, expl: item.expl };
+        });
+        quiz = { mode: "practice", subjectKey: key, title: s.name + " — Practice", items: items, index: 0, score: 0, answers: [], answered: false, selected: -1 };
+        el("quiz-timer").hidden = true;
+        show(viewQuiz);
+        renderQuestion();
+      }
+
+      function startMock() {
+        stopTimer();
+        var items = [];
+        SUBJECT_KEYS.forEach(function (key) {
+          var s = BANK[key];
+          var picked = shuffle(s.questions).slice(0, 5);
+          picked.forEach(function (item) {
+            items.push({ subject: s.name, q: item.q, opts: item.opts, ans: item.ans, expl: item.expl });
+          });
+        });
+        items = shuffle(items);
+        quiz = { mode: "mock", subjectKey: null, title: "Mock Test", items: items, index: 0, score: 0, answers: [], answered: false, selected: -1 };
+        timeLeft = 20 * 60;
+        var timerEl = el("quiz-timer");
+        timerEl.hidden = false;
+        updateTimerDisplay();
+        timerId = setInterval(function () {
+          timeLeft--;
+          updateTimerDisplay();
+          if (timeLeft <= 0) { finishQuiz(true); }
+        }, 1000);
+        show(viewQuiz);
+        renderQuestion();
+      }
+
+      function updateTimerDisplay() {
+        var m = Math.floor(timeLeft / 60);
+        var s = timeLeft % 60;
+        var timerEl = el("quiz-timer");
+        timerEl.textContent = (m < 10 ? "0" : "") + m + ":" + (s < 10 ? "0" : "") + s;
+        timerEl.classList.toggle("low", timeLeft <= 60);
+      }
+
+      function renderQuestion() {
+        var item = quiz.items[quiz.index];
+        var total = quiz.items.length;
+        el("quiz-label").textContent = quiz.title;
+        el("progress-text").textContent = "Question " + (quiz.index + 1) + " of " + total;
+        el("progress-bar").style.width = ((quiz.index) / total * 100) + "%";
+        el("q-text").textContent = item.q;
+        el("q-explain").hidden = true;
+        var nextBtn = el("q-next");
+        nextBtn.hidden = quiz.mode === "practice"; // practice: Next appears after answering
+        nextBtn.textContent = quiz.index === total - 1
+          ? (quiz.mode === "mock" ? "Finish Test" : "See My Score")
+          : "Next Question";
+        quiz.answered = false;
+        quiz.selected = -1;
+
+        var box = el("q-options");
+        box.innerHTML = "";
+        item.opts.forEach(function (optText, i) {
+          var b = document.createElement("button");
+          b.type = "button";
+          b.className = "opt";
+          var letter = document.createElement("span");
+          letter.className = "letter";
+          letter.textContent = LETTERS[i] + ".";
+          b.appendChild(letter);
+          b.appendChild(document.createTextNode(optText));
+          b.addEventListener("click", function () { onOptionTap(i); });
+          box.appendChild(b);
+        });
+      }
+
+      function onOptionTap(i) {
+        var item = quiz.items[quiz.index];
+        if (quiz.mode === "practice") {
+          if (quiz.answered) return;
+          quiz.answered = true;
+          quiz.answers[quiz.index] = i;
+          var buttons = el("q-options").children;
+          for (var k = 0; k < buttons.length; k++) {
+            buttons[k].disabled = true;
+            if (k === item.ans) buttons[k].classList.add("correct");
+            else if (k === i) buttons[k].classList.add("wrong");
+          }
+          var isRight = i === item.ans;
+          if (isRight) quiz.score++;
+          var box = el("q-explain");
+          box.hidden = false;
+          box.classList.toggle("bad", !isRight);
+          el("q-verdict").textContent = isRight ? "Correct! Well done." : "Not correct. The right answer is: " + item.opts[item.ans];
+          el("q-explain-text").textContent = item.expl;
+          el("progress-bar").style.width = ((quiz.index + 1) / quiz.items.length * 100) + "%";
+          el("q-next").hidden = false;
+        } else {
+          // Mock: just record the choice, no feedback.
+          quiz.selected = i;
+          quiz.answers[quiz.index] = i;
+          var buttons2 = el("q-options").children;
+          for (var k2 = 0; k2 < buttons2.length; k2++) {
+            buttons2[k2].classList.toggle("selected", k2 === i);
+          }
+        }
+      }
+
+      el("q-next").addEventListener("click", function () {
+        if (!quiz) return;
+        if (quiz.mode === "mock" && quiz.selected === -1 && quiz.answers[quiz.index] === undefined) {
+          quiz.answers[quiz.index] = -1; // skipped
+        }
+        if (quiz.index < quiz.items.length - 1) {
+          quiz.index++;
+          renderQuestion();
+        } else {
+          finishQuiz(false);
+        }
+      });
+
+      el("q-quit").addEventListener("click", function () {
+        stopTimer();
+        quiz = null;
+        renderHome();
+      });
+
+      /* ============ RESULTS ============ */
+      function encourage(pct) {
+        if (pct >= 80) return "Excellent work! You are preparing the right way. Keep this speed up and try the Mock Test next.";
+        if (pct >= 50) return "Good job! You are getting there. Read the explanations once more and try again — every try makes you stronger.";
+        return "Do not worry — this is exactly why we practice. Your basics will become strong step by step. Read each explanation slowly and try again.";
+      }
+
+      function finishQuiz(timeUp) {
+        stopTimer();
+        if (quiz.mode === "mock") {
+          var score = 0;
+          quiz.items.forEach(function (item, i) {
+            if (quiz.answers[i] === item.ans) score++;
+          });
+          quiz.score = score;
+        }
+        var total = quiz.items.length;
+        var pct = Math.round(quiz.score / total * 100);
+
+        if (quiz.mode === "practice" && quiz.subjectKey) {
+          var prev = bestScores[quiz.subjectKey];
+          if (prev === null || quiz.score > prev) bestScores[quiz.subjectKey] = quiz.score;
+        }
+
+        el("r-score").textContent = quiz.score;
+        el("r-total").textContent = "/ " + total;
+        el("r-pct").textContent = pct + "% correct" + (timeUp ? " — time finished!" : "");
+        el("r-message").textContent = encourage(pct);
+        el("r-again").textContent = quiz.mode === "mock" ? "Take Mock Test Again" : "Practice Again";
+
+        var reviewWrap = el("review-wrap");
+        if (quiz.mode === "mock") {
+          reviewWrap.hidden = false;
+          var list = el("review-list");
+          list.innerHTML = "";
+          quiz.items.forEach(function (item, i) {
+            var userAns = quiz.answers[i];
+            var isRight = userAns === item.ans;
+            var div = document.createElement("div");
+            div.className = "review-item";
+            var userText = (userAns === undefined || userAns === -1) ? "Not answered" : item.opts[userAns];
+            div.innerHTML =
+              '<span class="r-sub"></span>' +
+              '<p class="r-q"></p>' +
+              '<p>Your answer: <span class="' + (isRight ? "ok" : "bad") + '"></span></p>' +
+              '<p>Correct answer: <span class="ok"></span></p>' +
+              '<p class="r-expl"></p>';
+            div.querySelector(".r-sub").textContent = "Question " + (i + 1) + " · " + item.subject + (isRight ? " · ✓ Correct" : " · ✗ Wrong");
+            div.querySelector(".r-q").textContent = item.q;
+            div.querySelectorAll("p")[1].querySelector("span").textContent = userText;
+            div.querySelectorAll("p")[2].querySelector("span").textContent = item.opts[item.ans];
+            div.querySelector(".r-expl").textContent = item.expl;
+            list.appendChild(div);
+          });
+        } else {
+          reviewWrap.hidden = true;
+        }
+        show(viewResult);
+      }
+
+      el("r-again").addEventListener("click", function () {
+        if (!quiz) { renderHome(); return; }
+        if (quiz.mode === "mock") startMock();
+        else startPractice(quiz.subjectKey);
+      });
+      el("r-home").addEventListener("click", renderHome);
+      el("r-home-2").addEventListener("click", renderHome);
+      el("mock-start").addEventListener("click", startMock);
+
+      renderHome();
+    </script>
+  </body>
+</html>
