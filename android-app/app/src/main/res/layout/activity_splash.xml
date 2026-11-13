@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:gravity="center"
+    android:orientation="vertical" android:padding="32dp">
+
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="190dp" android:layout_height="190dp"
+        android:contentDescription="MUET logo"
+        android:src="@drawable/emblem" />
+
+    <TextView
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="MUET" android:textColor="#FFFFFF"
+        android:textSize="42sp" android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="ENTRY TEST" android:textColor="#F5B81D"
+        android:textSize="30sp" android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_timer"
+        android:paddingLeft="18dp" android:paddingRight="18dp"
+        android:paddingTop="5dp" android:paddingBottom="5dp"
+        android:text="P R E P A R A T I O N" android:textColor="#231A00"
+        android:textSize="14sp" android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="Your Gateway to Engineering Excellence"
+        android:textColor="#A9BADF" android:textSize="14sp" android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Loading..." android:textColor="#66779F" android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="Developed by Nawazish Ali" android:textColor="#66779F" android:textSize="12sp" />
+</LinearLayout>

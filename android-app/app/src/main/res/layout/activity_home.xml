@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:padding="18dp">
+
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:gravity="center_vertical" android:orientation="horizontal">
+
+                <FrameLayout
+                    android:layout_width="46dp" android:layout_height="46dp">
+
+                    <TextView
+                        android:id="@+id/tvInitials"
+                        android:layout_width="46dp" android:layout_height="46dp"
+                        android:background="@drawable/bg_circle" android:gravity="center"
+                        android:text="?" android:textColor="#231A00"
+                        android:textSize="17sp" android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/imgAvatar"
+                        android:layout_width="46dp" android:layout_height="46dp"
+                        android:contentDescription="Profile"
+                        android:scaleType="centerCrop" android:visibility="gone" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp" android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp" android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent" android:layout_height="wrap_content"
+                        android:text="Welcome Back!" android:textColor="#A9BADF"
+                        android:textSize="13sp" />
+
+                    <TextView
+                        android:id="@+id/tvUserName"
+                        android:layout_width="match_parent" android:layout_height="wrap_content"
+                        android:text="Student" android:textColor="#FFFFFF"
+                        android:textSize="19sp" android:textStyle="bold" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="MUET\nPrep" android:textColor="#F5B81D"
+                    android:textSize="13sp" android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/bg_card"
+                android:orientation="vertical" android:padding="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Your Preparation Progress"
+                        android:textColor="#FFFFFF" android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvProgressPct"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="0%" android:textColor="#F5B81D"
+                        android:textSize="14sp" android:textStyle="bold" />
+                </LinearLayout>
+
+                <ProgressBar
+                    android:id="@+id/pbProgress"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent" android:layout_height="10dp"
+                    android:layout_marginTop="10dp" android:max="100"
+                    android:progress="0"
+                    android:progressDrawable="@drawable/bg_progress" />
+
+                <TextView
+                    android:id="@+id/tvProgressNote"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="Practice accuracy — attempt questions to grow it"
+                    android:textColor="#66779F" android:textSize="11sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnMock"
+                    android:layout_width="0dp" android:layout_height="86dp"
+                    android:layout_marginRight="6dp" android:layout_weight="1"
+                    android:background="@drawable/bg_tile_purple"
+                    android:text="📝&#10;Mock Test" android:textColor="#FFFFFF"
+                    android:textSize="15sp" android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/btnPerformance"
+                    android:layout_width="0dp" android:layout_height="86dp"
+                    android:layout_marginLeft="6dp" android:layout_weight="1"
+                    android:background="@drawable/bg_tile_orange"
+                    android:text="📊&#10;Performance" android:textColor="#FFFFFF"
+                    android:textSize="15sp" android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="12dp" android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnLeaderboard"
+                    android:layout_width="0dp" android:layout_height="86dp"
+                    android:layout_marginRight="6dp" android:layout_weight="1"
+                    android:background="@drawable/bg_tile_teal"
+                    android:text="🏆&#10;Leaderboard" android:textColor="#FFFFFF"
+                    android:textSize="15sp" android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/btnProfile"
+                    android:layout_width="0dp" android:layout_height="86dp"
+                    android:layout_marginLeft="6dp" android:layout_weight="1"
+                    android:background="@drawable/bg_tile_blue"
+                    android:text="👤&#10;My Profile" android:textColor="#FFFFFF"
+                    android:textSize="15sp" android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="16dp" android:gravity="center"
+                android:background="@drawable/bg_card" android:padding="14dp"
+                android:text="🏆  “Dream Big, Prepare Better!”"
+                android:textColor="#F5B81D" android:textSize="14sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Subjects" android:textColor="#FFFFFF"
+                android:textSize="18sp" android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="Ek subject chuno aur practice shuru karo"
+                android:textColor="#A9BADF" android:textSize="12sp" />
+
+            <LinearLayout
+                android:id="@+id/layoutSubjects"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="10dp" android:orientation="vertical" />
+
+            <Button
+                android:id="@+id/btnManage"
+                android:layout_width="match_parent" android:layout_height="52dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/bg_btn_primary"
+                android:text="⚙️  Manage MCQs (Admin)"
+                android:textColor="#FFFFFF" android:textSize="15sp"
+                android:textStyle="bold" android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnLogout"
+                android:layout_width="match_parent" android:layout_height="52dp"
+                android:layout_marginTop="12dp" android:layout_marginBottom="6dp"
+                android:background="@drawable/bg_btn_ghost"
+                android:text="Logout" android:textColor="#F5B81D"
+                android:textSize="15sp" android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="@drawable/bg_bottom_nav" android:orientation="horizontal"
+        android:paddingTop="8dp" android:paddingBottom="8dp">
+
+        <TextView
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:text="🏠&#10;Home" android:textColor="#F5B81D"
+            android:textSize="12sp" android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/navPerformance"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:text="📊&#10;Analytics" android:textColor="#A9BADF"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/navProfile"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:text="👤&#10;Profile" android:textColor="#A9BADF"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/navLeaderboard"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:text="🏆&#10;Ranks" android:textColor="#A9BADF"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

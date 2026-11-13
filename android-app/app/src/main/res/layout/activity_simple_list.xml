@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="@drawable/bg_header" android:padding="18dp"
+        android:text="Title" android:textColor="#FFFFFF"
+        android:textSize="20sp" android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent" android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:padding="16dp">
+
+            <TextView
+                android:id="@+id/tvSummary"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:background="@drawable/bg_card" android:padding="16dp"
+                android:textColor="#FFFFFF" android:textSize="15sp" />
+
+            <LinearLayout
+                android:id="@+id/listContainer"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="12dp" android:orientation="vertical" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

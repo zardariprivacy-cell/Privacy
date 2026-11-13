@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="@drawable/bg_header" android:padding="18dp"
+        android:text="My Profile" android:textColor="#FFFFFF"
+        android:textSize="20sp" android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent" android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:padding="24dp">
+
+            <FrameLayout
+                android:layout_width="110dp" android:layout_height="110dp"
+                android:layout_gravity="center_horizontal">
+
+                <TextView
+                    android:id="@+id/tvAvatarInitials"
+                    android:layout_width="110dp" android:layout_height="110dp"
+                    android:background="@drawable/bg_circle" android:gravity="center"
+                    android:text="?" android:textColor="#231A00"
+                    android:textSize="38sp" android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imgPhoto"
+                    android:layout_width="110dp" android:layout_height="110dp"
+                    android:contentDescription="Profile picture"
+                    android:scaleType="centerCrop" android:visibility="gone" />
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="14dp" android:gravity="center"
+                android:text="Name" android:textColor="#FFFFFF"
+                android:textSize="22sp" android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tvUsername"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="3dp" android:gravity="center"
+                android:text="Username: —" android:textColor="#A9BADF"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tvRole"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/bg_card" android:padding="16dp"
+                android:text="Role: Student" android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/btnChangePhoto"
+                android:layout_width="match_parent" android:layout_height="54dp"
+                android:layout_marginTop="22dp"
+                android:background="@drawable/bg_btn_gold"
+                android:text="📷  Change Profile Photo"
+                android:textColor="#231A00" android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnLogout"
+                android:layout_width="match_parent" android:layout_height="52dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/bg_btn_ghost"
+                android:text="Logout" android:textColor="#F5B81D"
+                android:textSize="15sp" android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
