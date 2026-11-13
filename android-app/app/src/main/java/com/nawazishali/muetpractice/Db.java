@@ -16,7 +16,7 @@ public class Db extends SQLiteOpenHelper {
     public static final String[] SUBJECTS = {"Mathematics", "Physics", "Chemistry", "English"};
 
     public Db(Context context) {
-        super(context, "muet.db", null, 1);
+        super(context, "muet.db", null, 2);
     }
 
     @Override
@@ -48,7 +48,11 @@ public class Db extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        // Version 1 — nothing to upgrade yet.
+        if (oldVersion < 2) {
+            // v2.0 -> v2.1: add the MUET entry-test-style question batch.
+            // Users, photos and past results are NOT touched.
+            seedBatch2(db);
+        }
     }
 
     public static String hash(String password) {
@@ -329,5 +333,55 @@ public class Db extends SQLiteOpenHelper {
         ins(db, "English", "The synonym of \"fast\" is:", "Slow", "Quick", "Late", "Weak", 1, "Quick means fast.");
         ins(db, "English", "Choose the correct spelling:", "Beautifull", "Beautiful", "Biutiful", "Beautyful", 1, "The correct spelling is B-E-A-U-T-I-F-U-L.");
         ins(db, "English", "He is afraid ___ dogs.", "from", "of", "with", "by", 1, "The correct phrase is \"afraid of\".");
+        seedBatch2(db);
+    }
+
+    // ---------- Batch 2: MUET entry-test-style questions ----------
+
+    private void seedBatch2(SQLiteDatabase db) {
+        // Mathematics — entry test style
+        ins(db, "Mathematics", "If f(x) = 2x + 3, then f(4) = ?", "8", "11", "14", "7", 1, "Put x = 4: f(4) = 2(4) + 3 = 11.");
+        ins(db, "Mathematics", "The solution of x^2 - 5x + 6 = 0 is:", "x = 1, 6", "x = -2, -3", "x = 2, 3", "x = 5, 1", 2, "x^2 - 5x + 6 = (x - 2)(x - 3) = 0, so x = 2 or x = 3.");
+        ins(db, "Mathematics", "log(1000) to the base 10 is:", "2", "3", "4", "10", 1, "10^3 = 1000, so log of 1000 is 3.");
+        ins(db, "Mathematics", "The 5th term of the A.P. 2, 5, 8, ... is:", "11", "17", "20", "14", 3, "Difference d = 3. 5th term = 2 + 4 x 3 = 14.");
+        ins(db, "Mathematics", "sin^2(theta) + cos^2(theta) = ?", "0", "2", "1", "tan^2(theta)", 2, "This is a basic identity: sin^2 + cos^2 is always 1.");
+        ins(db, "Mathematics", "A matrix having only one row is called:", "Column matrix", "Square matrix", "Row matrix", "Zero matrix", 2, "A matrix with a single row is a row matrix.");
+        ins(db, "Mathematics", "If A = {1, 2, 3} and B = {3, 4}, then A intersection B = ?", "{1, 2}", "{3}", "{1, 2, 3, 4}", "Empty set", 1, "Intersection means the common elements. Only 3 is in both sets.");
+        ins(db, "Mathematics", "The derivative of x^3 is:", "x^2", "3x", "x^3 / 3", "3x^2", 3, "Bring the power down and reduce it by 1: d/dx (x^3) = 3x^2.");
+        ins(db, "Mathematics", "In how many ways can the letters of the word CAT be arranged?", "3", "6", "9", "27", 1, "3 different letters can be arranged in 3! = 3 x 2 x 1 = 6 ways.");
+        ins(db, "Mathematics", "If |x| = 5, then x = ?", "5 only", "-5 only", "0", "+5 or -5", 3, "|x| means distance from zero, so x can be 5 or -5.");
+        // Physics — entry test style
+        ins(db, "Physics", "The SI unit of power is:", "Joule", "Newton", "Watt", "Pascal", 2, "Power is measured in watts (W). 1 watt = 1 joule per second.");
+        ins(db, "Physics", "A body of mass 2 kg moves with velocity 20 m/s. Its kinetic energy is:", "200 J", "400 J", "40 J", "800 J", 1, "KE = (1/2)mv^2 = (1/2)(2)(20)^2 = 400 J.");
+        ins(db, "Physics", "Which of the following is a vector quantity?", "Speed", "Distance", "Time", "Displacement", 3, "Displacement has both size and direction, so it is a vector.");
+        ins(db, "Physics", "The value of g (acceleration due to gravity) is approximately:", "8.9 m/s^2", "9.8 m/s^2", "10.8 m/s^2", "6.7 m/s^2", 1, "On Earth, g is about 9.8 m/s^2.");
+        ins(db, "Physics", "If V = 12 volts and R = 4 ohms, the current I = V/R is:", "48 A", "8 A", "3 A", "16 A", 2, "I = 12 / 4 = 3 amperes.");
+        ins(db, "Physics", "The time period of a simple pendulum depends on its:", "Mass", "Length", "Amplitude", "Bob size", 1, "T = 2 x pi x sqrt(L/g) — only length (and g) matter, not the mass.");
+        ins(db, "Physics", "Which wave cannot travel through a vacuum?", "Light waves", "Radio waves", "Sound waves", "X-rays", 2, "Sound needs a material medium (air, water, solids) to travel.");
+        ins(db, "Physics", "A force of 10 N moves a body 5 m in its own direction. Work done = ?", "2 J", "15 J", "0.5 J", "50 J", 3, "Work = Force x Distance = 10 x 5 = 50 J.");
+        ins(db, "Physics", "The frequency of the AC supply in Pakistan is:", "50 Hz", "60 Hz", "100 Hz", "220 Hz", 0, "Pakistan uses 50 Hz AC supply.");
+        ins(db, "Physics", "A convex mirror always forms an image that is:", "Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted", 1, "A convex (bulging) mirror always gives a virtual, erect and smaller image.");
+        // Chemistry — entry test style
+        ins(db, "Chemistry", "The atomic mass unit (amu) is defined with respect to:", "Hydrogen-1", "Oxygen-16", "Carbon-12", "Helium-4", 2, "1 amu is 1/12 of the mass of one carbon-12 atom.");
+        ins(db, "Chemistry", "The number of moles in 18 g of water is:", "0.5", "1", "2", "18", 1, "Molar mass of water is 18 g/mol, so 18 g = 1 mole.");
+        ins(db, "Chemistry", "The type of bond in NaCl is:", "Covalent", "Metallic", "Hydrogen", "Ionic", 3, "Sodium gives an electron to chlorine, forming an ionic bond.");
+        ins(db, "Chemistry", "The most electronegative element is:", "Oxygen", "Fluorine", "Chlorine", "Nitrogen", 1, "Fluorine attracts electrons the most strongly.");
+        ins(db, "Chemistry", "Avogadro's number is:", "6.02 x 10^23", "6.02 x 10^22", "1.6 x 10^-19", "3.0 x 10^8", 0, "One mole of any substance contains 6.02 x 10^23 particles.");
+        ins(db, "Chemistry", "Oxidation means:", "Gain of electrons", "Gain of hydrogen", "Loss of electrons", "Loss of oxygen", 2, "OIL RIG: Oxidation Is Loss (of electrons), Reduction Is Gain.");
+        ins(db, "Chemistry", "The lightest gas is:", "Oxygen", "Helium", "Nitrogen", "Hydrogen", 3, "Hydrogen is the lightest element and gas.");
+        ins(db, "Chemistry", "Ca(OH)2 is commonly called:", "Quicklime", "Slaked lime", "Limestone", "Gypsum", 1, "Ca(OH)2 is slaked lime. CaO is quicklime and CaCO3 is limestone.");
+        ins(db, "Chemistry", "Elements in the same group of the periodic table have the same:", "Atomic mass", "Number of shells", "Valence electrons", "Number of neutrons", 2, "Group members have the same number of electrons in their outer shell.");
+        ins(db, "Chemistry", "Which of the following is an organic compound?", "NaCl", "CO2", "CH4", "CaCO3", 2, "CH4 (methane) is organic — organic compounds are built on carbon-hydrogen chains.");
+        // English — entry test style
+        ins(db, "English", "The synonym of \"rapid\" is:", "Slow", "Swift", "Weak", "Late", 1, "Rapid and swift both mean very fast.");
+        ins(db, "English", "The antonym of \"ancient\" is:", "Old", "Past", "Modern", "Antique", 2, "Ancient means very old; its opposite is modern.");
+        ins(db, "English", "Choose the correct sentence:", "He has been living here for 2015.", "He has been living here since 2015.", "He has been living here from 2015.", "He has been living here at 2015.", 1, "\"Since\" is used with a point in time (since 2015); \"for\" is used with a period (for 5 years).");
+        ins(db, "English", "She is good ___ Mathematics.", "in", "on", "at", "for", 2, "The correct phrase is \"good at\" a subject or skill.");
+        ins(db, "English", "The passive voice of \"He wrote a letter\" is:", "A letter is written by him.", "A letter was written by him.", "A letter has written by him.", "A letter wrote by him.", 1, "\"Wrote\" is past tense, so the passive uses \"was written\".");
+        ins(db, "English", "The past participle of \"eat\" is:", "Ate", "Eating", "Eats", "Eaten", 3, "Eat — ate — eaten.");
+        ins(db, "English", "One of the boys ___ absent today.", "are", "were", "is", "have", 2, "\"One of...\" takes a singular verb: one boy is absent.");
+        ins(db, "English", "The idiom \"to break the ice\" means:", "To break something frozen", "To feel very cold", "To start a conversation", "To end a fight", 2, "To break the ice means to start talking in a social situation.");
+        ins(db, "English", "Choose the correct spelling:", "Ocassion", "Occassion", "Ocasion", "Occasion", 3, "The correct spelling is O-C-C-A-S-I-O-N.");
+        ins(db, "English", "He prefers tea ___ coffee.", "than", "to", "from", "over", 1, "We say \"prefer X to Y\", not \"prefer X than Y\".");
     }
 }
