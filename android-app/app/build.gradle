@@ -23,3 +23,9 @@ android {
         targetCompatibility JavaVersion.VERSION_17
     }
 }
+
+// AdMob (Google Mobile Ads SDK). The manual APK build in this
+// workspace links the same SDK from ~/workspace/tools/ads-sdk.
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads:23.6.0'
+}

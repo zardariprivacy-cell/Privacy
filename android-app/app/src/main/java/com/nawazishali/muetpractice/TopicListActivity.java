@@ -22,6 +22,7 @@ public class TopicListActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_topics);
+        Ads.attachBanner(this, findViewById(R.id.adContainer));
         db = new Db(this);
         subject = getIntent().getStringExtra("subject");
         if (subject == null) subject = "Mathematics";

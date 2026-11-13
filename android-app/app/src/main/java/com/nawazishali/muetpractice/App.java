@@ -6,6 +6,7 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        Ads.init(this);
         Thread.UncaughtExceptionHandler previous = Thread.getDefaultUncaughtExceptionHandler();
         Thread.setDefaultUncaughtExceptionHandler((thread, error) -> {
             CrashSaver.save(this, error);

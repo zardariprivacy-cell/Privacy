@@ -10,7 +10,7 @@
         <ImageView
             android:layout_width="100dp" android:layout_height="100dp"
             android:layout_gravity="center_horizontal"
-            android:contentDescription="MUET logo"
+            android:contentDescription="App logo"
             android:src="@drawable/emblem" />
 
         <TextView

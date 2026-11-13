@@ -23,6 +23,7 @@ public class HomeActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+        Ads.attachBanner(this, findViewById(R.id.adContainer));
         db = new Db(this);
         user = db.getUser(Session.currentUserId(this));
         if (user == null) {

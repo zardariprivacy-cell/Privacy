@@ -63,7 +63,7 @@ public class LoginActivity extends Activity {
         root.setPadding(pad, pad, pad, pad);
 
         TextView title = new TextView(this);
-        title.setText("MUET MCQ Practice — Login");
+        title.setText("UniTest Prep — Login");
         title.setTextSize(20);
         title.setTextColor(0xFF0D1B3E);
         root.addView(title);

@@ -53,6 +53,7 @@ public class ResultActivity extends Activity {
             startActivity(i);
             finish();
         });
+        Ads.onResultShown(this);
     }
 
     private int dp(int v) {
