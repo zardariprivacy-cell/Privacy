@@ -94,7 +94,7 @@ public class SettingsActivity extends Activity {
                         .show());
 
         ((TextView) findViewById(R.id.setAbout)).setText(
-                "UniTest Prep — Version 3.4\n" +
+                "UniTest Prep — Version 3.5\n" +
                 "Total MCQs in this app: " + db.totalQuestions() + "\n" +
                 "Subjects: Mathematics • Physics • Chemistry • English\n" +
                 "For entry tests of all universities\n" +
@@ -105,7 +105,8 @@ public class SettingsActivity extends Activity {
             share.setType("text/plain");
             share.putExtra(Intent.EXTRA_TEXT,
                     "UniTest Prep — 4,480 Entry Test MCQs! Har topic mein 50 sawal, " +
-                    "Mathematics, Physics, Chemistry aur English. Saari universities ke entry test ki tayyari ke liye best app!");
+                    "Mathematics, Physics, Chemistry aur English. Saari universities ke entry test ki tayyari ke liye best app!\n" +
+                    "Download: https://drive.google.com/uc?id=1kF0AWDSx5WfLgStzgMFshvBc70C6l7I1&export=download");
             startActivity(Intent.createChooser(share, "Share UniTest Prep"));
         });
     }
