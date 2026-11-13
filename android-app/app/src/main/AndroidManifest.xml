@@ -12,11 +12,10 @@
         android:label="UniTest Prep"
         android:theme="@style/AppTheme">
 
-        <!-- AdMob App ID. TEST ID for now: replace with the real ID from
-             the owner's AdMob account before publishing. -->
+        <!-- AdMob App ID (owner's real AdMob account, added Nov 13, 2026). -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-5229747293404900~9451816666" />
 
         <activity
             android:name=".MainActivity"

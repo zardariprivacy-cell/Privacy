@@ -14,21 +14,17 @@ import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 /**
  * AdMob ads for UniTest Prep.
  *
- * CURRENT STATE: Google's official TEST ad units are used below, so the app
- * shows sample "Test Ad" banners. These earn NO money.
- *
- * TO GO LIVE (owner must do this):
- * 1. Create a free AdMob account at admob.com and add this app.
- * 2. AdMob gives an App ID  -> put it in AndroidManifest.xml
- *    (meta-data com.google.android.gms.ads.APPLICATION_ID).
- * 3. Create a Banner ad unit and an Interstitial ad unit in AdMob and
- *    replace BANNER_ID and INTERSTITIAL_ID below with the real IDs.
- * 4. Rebuild and publish on Google Play.
+ * CURRENT STATE (Nov 13, 2026): the owner's real AdMob App ID is in
+ * AndroidManifest.xml and BANNER_ID below is his real banner unit, so
+ * banner ads are LIVE and earn money once the app is published/used.
+ * INTERSTITIAL_ID is still Google's TEST unit: it must be replaced with
+ * the owner's real Interstitial ad unit ID as soon as he creates one in
+ * AdMob, and the app rebuilt, before publishing on Google Play.
  */
 public class Ads {
 
-    // Google TEST ad unit IDs (replace with real AdMob IDs to earn).
-    private static final String BANNER_ID = "ca-app-pub-3940256099942544/6300978111";
+    // Ad unit IDs (banner = owner's real unit; interstitial = Google TEST unit for now).
+    private static final String BANNER_ID = "ca-app-pub-5229747293404900/5728194075"; // owner's real banner unit
     private static final String INTERSTITIAL_ID = "ca-app-pub-3940256099942544/1033173712";
 
     private static boolean initialized = false;
