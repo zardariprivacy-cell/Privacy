@@ -94,11 +94,12 @@ public class SettingsActivity extends Activity {
                         .show());
 
         ((TextView) findViewById(R.id.setAbout)).setText(
-                "UniTest Prep — Version 3.5\n" +
+                "UniTest Prep — Version 3.6\n" +
                 "Total MCQs in this app: " + db.totalQuestions() + "\n" +
                 "Subjects: Mathematics • Physics • Chemistry • English\n" +
                 "For entry tests of all universities\n" +
-                "Developed by Nawazish Ali");
+                "Developed by Nawazish Ali\n" +
+                "Ad status: " + Ads.bannerStatus + " (" + Ads.sdkStatus + ")");
 
         ((Button) findViewById(R.id.btnShare)).setOnClickListener(v -> {
             Intent share = new Intent(Intent.ACTION_SEND);

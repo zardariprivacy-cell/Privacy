@@ -224,4 +224,11 @@
         android:id="@+id/adContainer"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:gravity="center" />
+
+    <TextView
+        android:id="@+id/tvAdStatus"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:gravity="center" android:padding="3dp"
+        android:text="Ad status: ..." android:textColor="#66779F"
+        android:textSize="10sp" />
 </LinearLayout>

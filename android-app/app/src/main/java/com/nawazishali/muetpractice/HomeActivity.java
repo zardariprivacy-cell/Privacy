@@ -24,6 +24,16 @@ public class HomeActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
         Ads.attachBanner(this, findViewById(R.id.adContainer));
+        final android.widget.TextView tvAdStatus = findViewById(R.id.tvAdStatus);
+        final android.os.Handler adHandler = new android.os.Handler();
+        final int[] adTicks = {0};
+        adHandler.post(new Runnable() {
+            @Override
+            public void run() {
+                tvAdStatus.setText("Ad status: " + Ads.sdkStatus + "  •  Banner: " + Ads.bannerStatus);
+                if (++adTicks[0] < 20) adHandler.postDelayed(this, 1000);
+            }
+        });
         db = new Db(this);
         user = db.getUser(Session.currentUserId(this));
         if (user == null) {
