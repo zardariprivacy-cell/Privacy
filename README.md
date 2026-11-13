@@ -1,6 +1,9 @@
-# MUET MCQ Practice App
+# UniTest Prep — Entry Test MCQ Practice
 
-A free practice app for students preparing for the **MUET (Mehran University of Engineering & Technology, Jamshoro)** entry test — Pre-Engineering pattern.
+**Live web demo:** https://zardariprivacy-cell.github.io/Privacy/
+**Android app (4,480 MCQs, free):** https://drive.google.com/uc?id=1kF0AWDSx5WfLgStzgMFshvBc70C6l7I1&export=download
+
+A free practice app for students preparing for university entry tests in Pakistan (**MUET, NED, UET, ECAT** and more) — Pre-Engineering pattern. The Android app has 4,480 MCQs (50 per topic: Mathematics, Physics, Chemistry, English); this web version is a small free demo.
 
 ## What is inside
 
