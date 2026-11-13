@@ -1,0 +1,339 @@
+{
+ "updated": "2026-11-13",
+ "scholarships": [
+  {
+   "name": "CM Punjab Honhaar Undergraduate Scholarship",
+   "scope": "Pakistan",
+   "country": "Punjab, Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "Punjab domicile students who started a selected degree in 2026 at a listed institute",
+   "coverage": "Full tuition fees (50,000 new awards in this phase)",
+   "deadline": "19 November 2026",
+   "deadlineDate": "2026-11-19",
+   "status": "Open now",
+   "url": "https://honhaarscholarship.punjabhec.gov.pk/",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "HEC Need-Based Scholarships",
+   "scope": "Pakistan",
+   "country": "All Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "Pakistani students in financial need studying 4-5 year undergraduate programmes at HEC-selected public universities",
+   "coverage": "University fee + Rs 6,000 per month for the complete programme",
+   "deadline": "Har university ki apni last date hoti hai — apni university ke Financial Aid Office se check karein",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/Eligibility-Criteria.aspx",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "BEEF Out of Province Scholarships (Balochistan)",
+   "scope": "Pakistan",
+   "country": "Balochistan (study in other provinces)",
+   "levels": [
+    "Bachelor",
+    "Master"
+   ],
+   "who": "Balochistan domicile students with 60% marks / 3.00 GPA studying at public institutions outside Balochistan",
+   "coverage": "Annual stipend (partial support)",
+   "deadline": "Applications open hain — closing date abhi publish nahi hui",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://beef.org.pk/",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "HEC BISP Undergraduate Scholarships (formerly Ehsaas)",
+   "scope": "Pakistan",
+   "country": "All Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "Newly admitted needy students at public-sector universities (merit + financial need)",
+   "coverage": "Tuition fee + Rs 40,000 per year",
+   "deadline": "Abhi band hai — naya schedule announce nahi hua",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://www.hec.gov.pk/english/scholarshipsgrants/Ehsaas/Pages/Scholarship-Award-Process.aspx",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "PEEF Scholarships (Punjab Educational Endowment Fund)",
+   "scope": "Pakistan",
+   "country": "Punjab, Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor",
+    "Master"
+   ],
+   "who": "Punjab domicile, at least 60% marks, family income Rs 60,000/month or less, full-time at a partner institution",
+   "coverage": "Stipend paid twice a year till degree completion (partial)",
+   "deadline": "2026-27 ka schedule abhi announce nahi hua",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://peef.org.pk/masterlevel-scholarships",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "SEEF Scholarships (Sindh Educational Endowment Fund)",
+   "scope": "Pakistan",
+   "country": "Sindh, Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "Sindh domicile needy and meritorious students at SEEF-approved institutions",
+   "coverage": "Full tuition fee for one academic year (renewable)",
+   "deadline": "August 2027 mein nayi applications expected hain",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://seef.sindh.gov.pk",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Commonwealth Shared Scholarships (UK)",
+   "scope": "International",
+   "country": "United Kingdom",
+   "levels": [
+    "Master"
+   ],
+   "who": "Pakistani students resident in Pakistan who cannot afford UK study; first degree at least 2:1; apply via a participating UK university",
+   "coverage": "Full — tuition, airfare and monthly stipend (£1,712/month, £2,000 in London)",
+   "deadline": "8 December 2026",
+   "deadlineDate": "2026-12-08",
+   "status": "Open now",
+   "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Gates Cambridge Scholarship (UK)",
+   "scope": "International",
+   "country": "United Kingdom",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Students from outside the UK (including Pakistan) applying for a full-time postgraduate course at Cambridge",
+   "coverage": "Full cost — tuition, maintenance, airfare and visa/health charges",
+   "deadline": "8 December 2026 ya 6 January 2027 — course par munhasir hai",
+   "deadlineDate": "2026-12-08",
+   "status": "Open now",
+   "url": "https://www.gatescambridge.org/apply/timeline/",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "France Excellence Eiffel Scholarship",
+   "scope": "International",
+   "country": "France",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Non-French students including Pakistanis — a French university applies on your behalf (students cannot apply directly)",
+   "coverage": "Monthly allowance + travel, insurance and housing support (tuition NOT covered)",
+   "deadline": "6 January 2027 (universities ke through)",
+   "deadlineDate": "2027-01-06",
+   "status": "Open now",
+   "url": "https://www.campusfrance.org/en/actu/call-for-france-excellence-eiffel-applications-2027",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "HEC US-Pakistan Knowledge Corridor PhD Scholarship",
+   "scope": "International",
+   "country": "United States",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Pakistani/AJK citizens with confirmed admission at a Top-100 QS US university; GRE 300+ or HAT 60%+",
+   "coverage": "Full (Top-50 universities) / partial (51-100) — tuition, stipend, insurance, airfare",
+   "deadline": "30 March 2027",
+   "deadlineDate": "2027-03-30",
+   "status": "Open now",
+   "url": "https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/default.aspx",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Chinese Government Scholarship (CSC) via HEC",
+   "scope": "International",
+   "country": "China",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani/AJK citizens; apply on BOTH HEC and CSC portals (Type A, Agency No. 5861); entry test score 50+ required",
+   "coverage": "Full — tuition, dormitory, monthly stipend and medical insurance (airfare not included)",
+   "deadline": "Applications open hain — HEC ki last date abhi announce nahi hui (ETC test registration 22 November 2026 tak)",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/How-to-Apply.aspx",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Erasmus Mundus Joint Masters (Europe)",
+   "scope": "International",
+   "country": "Europe (many countries)",
+   "levels": [
+    "Master"
+   ],
+   "who": "Students worldwide including Pakistan with a Bachelor degree (or in final year); apply directly to the programme",
+   "coverage": "Full for scholarship holders — fees, travel, visa and €1,400/month living allowance",
+   "deadline": "Har programme ki apni date — zyada tar December 2026 / January 2027 tak band hoti hain",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "DAAD EPOS Scholarship (Germany)",
+   "scope": "International",
+   "country": "Germany",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Graduates from developing countries including Pakistan with at least 2 years professional experience; EPOS-listed courses only",
+   "coverage": "€992/month (Master) or €1,400/month (PhD) + insurance and travel allowance",
+   "deadline": "Har course ki apni date — zyada tar October-December 2026",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-stipendiendatenbank/?detail=50076777",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Global Korea Scholarship (GKS)",
+   "scope": "International",
+   "country": "South Korea",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Non-Korean students including Pakistanis (Embassy and University tracks)",
+   "coverage": "Full — tuition, airfare, 1-year Korean language training and monthly allowance",
+   "deadline": "University Track ki dates har university ki alag hain; Graduate (GKS-G) February 2027 mein expected",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://www.studyinkorea.go.kr",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Turkiye Burslari Scholarship",
+   "scope": "International",
+   "country": "Turkey",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Non-Turkish citizens including Pakistanis meeting the level criteria",
+   "coverage": "Full — tuition, stipend, accommodation, airfare, health insurance and 1-year Turkish course",
+   "deadline": "10 January - 20 February 2027 (expected — har saal yahi schedule hota hai)",
+   "deadlineDate": "2027-02-20",
+   "status": "Opening soon",
+   "url": "https://www.turkiyeburslari.gov.tr/calendar",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Stipendium Hungaricum Scholarship (Hungary) via HEC",
+   "scope": "International",
+   "country": "Hungary",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani citizens nominated by HEC; apply on BOTH the Hungarian and HEC portals",
+   "coverage": "Full — tuition, housing contribution, stipend, health insurance and travel contribution",
+   "deadline": "Applications jald khulengi — aam tor par January mein band hoti hain",
+   "deadlineDate": null,
+   "status": "Opening soon",
+   "url": "https://apply.stipendiumhungaricum.hu/",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Fulbright Scholarship Pakistan (USA)",
+   "scope": "International",
+   "country": "United States",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani citizens resident in Pakistan; 16 years education for Master, 18 years for PhD; GRE required",
+   "coverage": "Full — tuition, books, airfare, living stipend, health insurance and visa",
+   "deadline": "February 2027 mein dobara khulengi (2027 wali applications band ho chuki hain)",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://usefp.org/scholarships/fulbright-degree-FAQ.cfm",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Chevening Scholarship (UK)",
+   "scope": "International",
+   "country": "United Kingdom",
+   "levels": [
+    "Master"
+   ],
+   "who": "Pakistani citizens with a completed degree and at least 2,800 hours of work experience",
+   "coverage": "Full — tuition, monthly stipend, airfare and arrival allowances",
+   "deadline": "August 2027 mein dobara khulengi",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://www.chevening.org/scholarship/pakistan/",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Australia Awards Scholarships",
+   "scope": "International",
+   "country": "Australia",
+   "levels": [
+    "Master"
+   ],
+   "who": "Pakistani citizens resident in Pakistan with 16 years education and at least 5 years work experience (Master only for Pakistan)",
+   "coverage": "Full — tuition, airfare, establishment allowance, living costs and health cover",
+   "deadline": "February 2027 mein dobara khulengi",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships-opening-and-closing-dates",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "MEXT Scholarship (Japan)",
+   "scope": "International",
+   "country": "Japan",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani nationals applying through the Embassy of Japan in Pakistan",
+   "coverage": "Full — tuition, monthly stipend and return airfare",
+   "deadline": "April 2027 mein dobara khulengi",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://www.pk.emb-japan.go.jp/itpr_en/MEXT_Research_Scholarship.html",
+   "added": "2026-11-13"
+  },
+  {
+   "name": "Saudi Government Scholarships (Study in Saudi)",
+   "scope": "International",
+   "country": "Saudi Arabia",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Non-Saudi students including Pakistanis; age 17-25 for Bachelor, up to 30 Master, up to 35 PhD",
+   "coverage": "Full offers include tuition, stipend, housing, insurance and annual flight (some seats are partial/paid)",
+   "deadline": "April 2027 mein nayi applications expected hain (har university ki date alag ho sakti hai)",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://studyinsaudi.sa/en",
+   "added": "2026-11-13"
+  }
+ ]
+}

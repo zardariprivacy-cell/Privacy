@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scholarships for Pakistani Students — Daily Updated | Pakistan + International</title>
+<meta name="description" content="All scholarships for Pakistani students in one place: HEC, Ehsaas/BISP, PEEF, SEEF, Fulbright, Turkiye Burslari, CSC China, Erasmus and more — checked daily, with deadlines and official apply links.">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; font-family:'Segoe UI', Arial, sans-serif; }
+  body { background:#0A1633; color:#EDF2FF; min-height:100vh; }
+  .hero { background:linear-gradient(135deg,#0A1633 0%,#14295E 55%,#0A1633 100%); padding:38px 18px 26px; text-align:center; border-bottom:3px solid #F5B81D; }
+  .hero .cap { font-size:44px; }
+  .hero h1 { font-size:27px; margin-top:6px; }
+  .hero h1 span { color:#F5B81D; }
+  .hero p { color:#A9BADF; font-size:14px; margin-top:8px; }
+  .stats { display:flex; gap:10px; justify-content:center; margin-top:18px; flex-wrap:wrap; }
+  .stat { background:#13234D; border:1px solid #263B78; border-radius:12px; padding:10px 18px; min-width:104px; }
+  .stat b { display:block; font-size:21px; color:#F5B81D; }
+  .stat small { color:#A9BADF; font-size:11.5px; }
+  .bar { max-width:860px; margin:18px auto 0; padding:0 14px; }
+  .search { width:100%; padding:13px 16px; border-radius:12px; border:1px solid #263B78; background:#13234D; color:#fff; font-size:15px; outline:none; }
+  .search:focus { border-color:#F5B81D; }
+  .chips { display:flex; gap:8px; flex-wrap:wrap; margin-top:12px; }
+  .chip { padding:8px 14px; border-radius:99px; border:1px solid #263B78; background:#13234D; color:#C9D6F5; font-size:13px; cursor:pointer; }
+  .chip.on { background:#F5B81D; color:#231A00; font-weight:bold; border-color:#F5B81D; }
+  .wrap { max-width:860px; margin:0 auto; padding:18px 14px 40px; }
+  .card { background:#13234D; border:1px solid #263B78; border-radius:16px; padding:18px; margin-bottom:14px; }
+  .card .top { display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
+  .card h3 { font-size:17px; line-height:1.35; }
+  .pill { font-size:11px; font-weight:bold; padding:4px 10px; border-radius:99px; white-space:nowrap; }
+  .open { background:#14532D; color:#86EFAC; }
+  .soon { background:#5B4300; color:#FCD34D; }
+  .closed { background:#3F3F46; color:#C9C9CF; }
+  .meta { color:#A9BADF; font-size:13px; margin-top:7px; }
+  .tags { margin-top:9px; display:flex; gap:6px; flex-wrap:wrap; }
+  .tag { font-size:11.5px; background:#0A1633; border:1px solid #263B78; color:#F5B81D; border-radius:99px; padding:3px 9px; }
+  .row { font-size:13.5px; margin-top:9px; line-height:1.5; }
+  .row b { color:#F5B81D; }
+  .dl { margin-top:11px; background:#0A1633; border-radius:10px; padding:10px 12px; font-size:13.5px; }
+  .dl b { color:#fff; }
+  .dl.urgent { border:1px solid #DC2626; }
+  .dl.urgent b { color:#FCA5A5; }
+  .apply { display:block; text-align:center; margin-top:13px; background:#F5B81D; color:#231A00; font-weight:bold; text-decoration:none; padding:12px; border-radius:11px; font-size:15px; }
+  .note { max-width:860px; margin:0 auto; padding:0 14px 8px; color:#A9BADF; font-size:12.5px; line-height:1.6; }
+  footer { text-align:center; color:#5F74A8; font-size:12px; padding:16px 10px 30px; }
+  footer a { color:#F5B81D; text-decoration:none; }
+  .empty { text-align:center; color:#A9BADF; padding:30px 0; font-size:14px; }
+</style>
+</head>
+<body>
+  <div class="hero">
+    <div class="cap">🎓</div>
+    <h1>Scholarships <span>Pakistan</span></h1>
+    <p>Pakistan ke students ke liye tamam scholarships ek jagah — Pakistan ki bhi, bahar mulk ki bhi.<br>Har roz check karke update ki jati hain.</p>
+    <div class="stats">
+      <div class="stat"><b id="stTotal">–</b><small>Total Scholarships</small></div>
+      <div class="stat"><b id="stOpen">–</b><small>Abhi Open</small></div>
+      <div class="stat"><b id="stUpdated">–</b><small>Last Updated</small></div>
+    </div>
+  </div>
+
+  <div class="bar">
+    <input class="search" id="q" type="text" placeholder="🔍 Scholarship dhundo — jese Turkey, HEC, UK...">
+    <div class="chips" id="chips">
+      <button class="chip on" data-f="all">Sab</button>
+      <button class="chip" data-f="open">✅ Abhi Open</button>
+      <button class="chip" data-f="soon">🕐 Jald Khulengi</button>
+      <button class="chip" data-f="Pakistan">🇵🇰 Pakistan</button>
+      <button class="chip" data-f="International">🌍 International</button>
+      <button class="chip" data-f="Intermediate">Intermediate</button>
+      <button class="chip" data-f="Bachelor">Bachelor</button>
+      <button class="chip" data-f="Master">Master</button>
+      <button class="chip" data-f="PhD">PhD</button>
+    </div>
+  </div>
+
+  <div class="wrap" id="list"><div class="empty">Scholarships load ho rahi hain...</div></div>
+
+  <p class="note">⚠️ <b>Zaroori baat:</b> Har scholarship ki maloomat official website se li gayi hai — apply karne se pehle official page par last date dobara check kar lein. Apply hamesha <b>official link</b> se karein. Asli scholarships ke liye kabhi kisi agent ko fees nahi deni parti — jo fees mange, wo fraud hai.</p>
+
+  <footer>Made with ❤️ for Pakistani students by <b>Nawazish Ali</b> • Rozana update hoti hai<br>
+  Practice ke liye: <a href="index.html">UniTest Prep — 4,480 free MCQs</a></footer>
+
+<script>
+var FALLBACK = {"updated": "2026-11-13", "scholarships": [{"name": "CM Punjab Honhaar Undergraduate Scholarship", "scope": "Pakistan", "country": "Punjab, Pakistan", "levels": ["Bachelor"], "who": "Punjab domicile students who started a selected degree in 2026 at a listed institute", "coverage": "Full tuition fees (50,000 new awards in this phase)", "deadline": "19 November 2026", "deadlineDate": "2026-11-19", "status": "Open now", "url": "https://honhaarscholarship.punjabhec.gov.pk/", "added": "2026-11-13"}, {"name": "HEC Need-Based Scholarships", "scope": "Pakistan", "country": "All Pakistan", "levels": ["Bachelor"], "who": "Pakistani students in financial need studying 4-5 year undergraduate programmes at HEC-selected public universities", "coverage": "University fee + Rs 6,000 per month for the complete programme", "deadline": "Har university ki apni last date hoti hai — apni university ke Financial Aid Office se check karein", "deadlineDate": null, "status": "Open now", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/Eligibility-Criteria.aspx", "added": "2026-11-13"}, {"name": "BEEF Out of Province Scholarships (Balochistan)", "scope": "Pakistan", "country": "Balochistan (study in other provinces)", "levels": ["Bachelor", "Master"], "who": "Balochistan domicile students with 60% marks / 3.00 GPA studying at public institutions outside Balochistan", "coverage": "Annual stipend (partial support)", "deadline": "Applications open hain — closing date abhi publish nahi hui", "deadlineDate": null, "status": "Open now", "url": "https://beef.org.pk/", "added": "2026-11-13"}, {"name": "HEC BISP Undergraduate Scholarships (formerly Ehsaas)", "scope": "Pakistan", "country": "All Pakistan", "levels": ["Bachelor"], "who": "Newly admitted needy students at public-sector universities (merit + financial need)", "coverage": "Tuition fee + Rs 40,000 per year", "deadline": "Abhi band hai — naya schedule announce nahi hua", "deadlineDate": null, "status": "Closed", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/Ehsaas/Pages/Scholarship-Award-Process.aspx", "added": "2026-11-13"}, {"name": "PEEF Scholarships (Punjab Educational Endowment Fund)", "scope": "Pakistan", "country": "Punjab, Pakistan", "levels": ["Intermediate", "Bachelor", "Master"], "who": "Punjab domicile, at least 60% marks, family income Rs 60,000/month or less, full-time at a partner institution", "coverage": "Stipend paid twice a year till degree completion (partial)", "deadline": "2026-27 ka schedule abhi announce nahi hua", "deadlineDate": null, "status": "Closed", "url": "https://peef.org.pk/masterlevel-scholarships", "added": "2026-11-13"}, {"name": "SEEF Scholarships (Sindh Educational Endowment Fund)", "scope": "Pakistan", "country": "Sindh, Pakistan", "levels": ["Bachelor"], "who": "Sindh domicile needy and meritorious students at SEEF-approved institutions", "coverage": "Full tuition fee for one academic year (renewable)", "deadline": "August 2027 mein nayi applications expected hain", "deadlineDate": null, "status": "Closed", "url": "https://seef.sindh.gov.pk", "added": "2026-11-13"}, {"name": "Commonwealth Shared Scholarships (UK)", "scope": "International", "country": "United Kingdom", "levels": ["Master"], "who": "Pakistani students resident in Pakistan who cannot afford UK study; first degree at least 2:1; apply via a participating UK university", "coverage": "Full — tuition, airfare and monthly stipend (£1,712/month, £2,000 in London)", "deadline": "8 December 2026", "deadlineDate": "2026-12-08", "status": "Open now", "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/", "added": "2026-11-13"}, {"name": "Gates Cambridge Scholarship (UK)", "scope": "International", "country": "United Kingdom", "levels": ["Master", "PhD"], "who": "Students from outside the UK (including Pakistan) applying for a full-time postgraduate course at Cambridge", "coverage": "Full cost — tuition, maintenance, airfare and visa/health charges", "deadline": "8 December 2026 ya 6 January 2027 — course par munhasir hai", "deadlineDate": "2026-12-08", "status": "Open now", "url": "https://www.gatescambridge.org/apply/timeline/", "added": "2026-11-13"}, {"name": "France Excellence Eiffel Scholarship", "scope": "International", "country": "France", "levels": ["Master", "PhD"], "who": "Non-French students including Pakistanis — a French university applies on your behalf (students cannot apply directly)", "coverage": "Monthly allowance + travel, insurance and housing support (tuition NOT covered)", "deadline": "6 January 2027 (universities ke through)", "deadlineDate": "2027-01-06", "status": "Open now", "url": "https://www.campusfrance.org/en/actu/call-for-france-excellence-eiffel-applications-2027", "added": "2026-11-13"}, {"name": "HEC US-Pakistan Knowledge Corridor PhD Scholarship", "scope": "International", "country": "United States", "levels": ["PhD"], "who": "Pakistani/AJK citizens with confirmed admission at a Top-100 QS US university; GRE 300+ or HAT 60%+", "coverage": "Full (Top-50 universities) / partial (51-100) — tuition, stipend, insurance, airfare", "deadline": "30 March 2027", "deadlineDate": "2027-03-30", "status": "Open now", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/default.aspx", "added": "2026-11-13"}, {"name": "Chinese Government Scholarship (CSC) via HEC", "scope": "International", "country": "China", "levels": ["Bachelor", "Master", "PhD"], "who": "Pakistani/AJK citizens; apply on BOTH HEC and CSC portals (Type A, Agency No. 5861); entry test score 50+ required", "coverage": "Full — tuition, dormitory, monthly stipend and medical insurance (airfare not included)", "deadline": "Applications open hain — HEC ki last date abhi announce nahi hui (ETC test registration 22 November 2026 tak)", "deadlineDate": null, "status": "Open now", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/How-to-Apply.aspx", "added": "2026-11-13"}, {"name": "Erasmus Mundus Joint Masters (Europe)", "scope": "International", "country": "Europe (many countries)", "levels": ["Master"], "who": "Students worldwide including Pakistan with a Bachelor degree (or in final year); apply directly to the programme", "coverage": "Full for scholarship holders — fees, travel, visa and €1,400/month living allowance", "deadline": "Har programme ki apni date — zyada tar December 2026 / January 2027 tak band hoti hain", "deadlineDate": null, "status": "Open now", "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters", "added": "2026-11-13"}, {"name": "DAAD EPOS Scholarship (Germany)", "scope": "International", "country": "Germany", "levels": ["Master", "PhD"], "who": "Graduates from developing countries including Pakistan with at least 2 years professional experience; EPOS-listed courses only", "coverage": "€992/month (Master) or €1,400/month (PhD) + insurance and travel allowance", "deadline": "Har course ki apni date — zyada tar October-December 2026", "deadlineDate": null, "status": "Open now", "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-stipendiendatenbank/?detail=50076777", "added": "2026-11-13"}, {"name": "Global Korea Scholarship (GKS)", "scope": "International", "country": "South Korea", "levels": ["Bachelor", "Master", "PhD"], "who": "Non-Korean students including Pakistanis (Embassy and University tracks)", "coverage": "Full — tuition, airfare, 1-year Korean language training and monthly allowance", "deadline": "University Track ki dates har university ki alag hain; Graduate (GKS-G) February 2027 mein expected", "deadlineDate": null, "status": "Open now", "url": "https://www.studyinkorea.go.kr", "added": "2026-11-13"}, {"name": "Turkiye Burslari Scholarship", "scope": "International", "country": "Turkey", "levels": ["Bachelor", "Master", "PhD"], "who": "Non-Turkish citizens including Pakistanis meeting the level criteria", "coverage": "Full — tuition, stipend, accommodation, airfare, health insurance and 1-year Turkish course", "deadline": "10 January - 20 February 2027 (expected — har saal yahi schedule hota hai)", "deadlineDate": "2027-02-20", "status": "Opening soon", "url": "https://www.turkiyeburslari.gov.tr/calendar", "added": "2026-11-13"}, {"name": "Stipendium Hungaricum Scholarship (Hungary) via HEC", "scope": "International", "country": "Hungary", "levels": ["Bachelor", "Master", "PhD"], "who": "Pakistani citizens nominated by HEC; apply on BOTH the Hungarian and HEC portals", "coverage": "Full — tuition, housing contribution, stipend, health insurance and travel contribution", "deadline": "Applications jald khulengi — aam tor par January mein band hoti hain", "deadlineDate": null, "status": "Opening soon", "url": "https://apply.stipendiumhungaricum.hu/", "added": "2026-11-13"}, {"name": "Fulbright Scholarship Pakistan (USA)", "scope": "International", "country": "United States", "levels": ["Master", "PhD"], "who": "Pakistani citizens resident in Pakistan; 16 years education for Master, 18 years for PhD; GRE required", "coverage": "Full — tuition, books, airfare, living stipend, health insurance and visa", "deadline": "February 2027 mein dobara khulengi (2027 wali applications band ho chuki hain)", "deadlineDate": null, "status": "Closed", "url": "https://usefp.org/scholarships/fulbright-degree-FAQ.cfm", "added": "2026-11-13"}, {"name": "Chevening Scholarship (UK)", "scope": "International", "country": "United Kingdom", "levels": ["Master"], "who": "Pakistani citizens with a completed degree and at least 2,800 hours of work experience", "coverage": "Full — tuition, monthly stipend, airfare and arrival allowances", "deadline": "August 2027 mein dobara khulengi", "deadlineDate": null, "status": "Closed", "url": "https://www.chevening.org/scholarship/pakistan/", "added": "2026-11-13"}, {"name": "Australia Awards Scholarships", "scope": "International", "country": "Australia", "levels": ["Master"], "who": "Pakistani citizens resident in Pakistan with 16 years education and at least 5 years work experience (Master only for Pakistan)", "coverage": "Full — tuition, airfare, establishment allowance, living costs and health cover", "deadline": "February 2027 mein dobara khulengi", "deadlineDate": null, "status": "Closed", "url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships-opening-and-closing-dates", "added": "2026-11-13"}, {"name": "MEXT Scholarship (Japan)", "scope": "International", "country": "Japan", "levels": ["Bachelor", "Master", "PhD"], "who": "Pakistani nationals applying through the Embassy of Japan in Pakistan", "coverage": "Full — tuition, monthly stipend and return airfare", "deadline": "April 2027 mein dobara khulengi", "deadlineDate": null, "status": "Closed", "url": "https://www.pk.emb-japan.go.jp/itpr_en/MEXT_Research_Scholarship.html", "added": "2026-11-13"}, {"name": "Saudi Government Scholarships (Study in Saudi)", "scope": "International", "country": "Saudi Arabia", "levels": ["Bachelor", "Master", "PhD"], "who": "Non-Saudi students including Pakistanis; age 17-25 for Bachelor, up to 30 Master, up to 35 PhD", "coverage": "Full offers include tuition, stipend, housing, insurance and annual flight (some seats are partial/paid)", "deadline": "April 2027 mein nayi applications expected hain (har university ki date alag ho sakti hai)", "deadlineDate": null, "status": "Closed", "url": "https://studyinsaudi.sa/en", "added": "2026-11-13"}]};
+var DATA = FALLBACK, filter = 'all', query = '';
+
+function daysLeft(d) {
+  if (!d) return null;
+  var today = new Date(); today.setHours(0,0,0,0);
+  var end = new Date(d + 'T23:59:59');
+  return Math.round((end - today) / 86400000);
+}
+function esc(s) { return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+
+function render() {
+  var list = (DATA.scholarships || []).slice();
+  var order = { 'Open now': 0, 'Opening soon': 1, 'Closed': 2 };
+  list.sort(function(a, b) {
+    var o = (order[a.status] || 3) - (order[b.status] || 3);
+    if (o !== 0) return o;
+    var da = a.deadlineDate || '9999-12-31', db = b.deadlineDate || '9999-12-31';
+    return da < db ? -1 : (da > db ? 1 : 0);
+  });
+  var html = '', shown = 0;
+  list.forEach(function(s) {
+    if (filter === 'open' && s.status !== 'Open now') return;
+    if (filter === 'soon' && s.status !== 'Opening soon') return;
+    if ((filter === 'Pakistan' || filter === 'International') && s.scope !== filter) return;
+    if (['Intermediate','Bachelor','Master','PhD'].indexOf(filter) >= 0 && (s.levels || []).indexOf(filter) < 0) return;
+    if (query) {
+      var hay = (s.name + ' ' + s.country + ' ' + s.scope).toLowerCase();
+      if (hay.indexOf(query) < 0) return;
+    }
+    shown++;
+    var pill = s.status === 'Open now' ? 'open' : (s.status === 'Opening soon' ? 'soon' : 'closed');
+    var pillTxt = s.status === 'Open now' ? '✅ OPEN' : (s.status === 'Opening soon' ? '🕐 JALD KHULEGI' : '❌ BAND');
+    var dl = daysLeft(s.deadlineDate);
+    var urgent = dl !== null && dl >= 0 && dl <= 30;
+    var dlTxt = esc(s.deadline) + (dl !== null && dl >= 0 ? ' &nbsp;•&nbsp; ⏳ Sirf ' + dl + ' din reh gaye!' : '');
+    var tags = (s.levels || []).map(function(l){ return '<span class="tag">' + esc(l) + '</span>'; }).join('');
+    html += '<div class="card"><div class="top"><h3>' + esc(s.name) + '</h3><span class="pill ' + pill + '">' + pillTxt + '</span></div>'
+      + '<div class="meta">📍 ' + esc(s.country) + '</div>'
+      + '<div class="tags">' + tags + '</div>'
+      + '<div class="row"><b>Kon apply kar sakta hai:</b> ' + esc(s.who) + '</div>'
+      + '<div class="row"><b>Kya milta hai:</b> ' + esc(s.coverage) + '</div>'
+      + '<div class="dl' + (urgent ? ' urgent' : '') + '">📅 <b>Last date:</b> ' + dlTxt + '</div>'
+      + '<a class="apply" href="' + esc(s.url) + '" target="_blank" rel="noopener">Apply / Official Details ➜</a></div>';
+  });
+  document.getElementById('list').innerHTML = shown ? html : '<div class="empty">Is filter mein koi scholarship nahi mili.</div>';
+  document.getElementById('stTotal').textContent = (DATA.scholarships || []).length;
+  document.getElementById('stOpen').textContent = (DATA.scholarships || []).filter(function(s){ return s.status === 'Open now'; }).length;
+  document.getElementById('stUpdated').textContent = DATA.updated || '—';
+}
+
+document.getElementById('chips').addEventListener('click', function(e) {
+  if (e.target.className.indexOf('chip') < 0) return;
+  var chips = document.querySelectorAll('.chip');
+  for (var i = 0; i < chips.length; i++) chips[i].classList.remove('on');
+  e.target.classList.add('on');
+  filter = e.target.getAttribute('data-f');
+  render();
+});
+document.getElementById('q').addEventListener('input', function(e) {
+  query = e.target.value.toLowerCase().trim();
+  render();
+});
+
+render();
+fetch('scholarships.json').then(function(r){ return r.json(); }).then(function(j){
+  if (j && j.scholarships) { DATA = j; render(); }
+}).catch(function(){});
+</script>
+</body>
+</html>
