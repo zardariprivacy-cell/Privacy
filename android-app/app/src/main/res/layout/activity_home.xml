@@ -152,6 +152,15 @@
                 android:textColor="#F5B81D" android:textSize="14sp"
                 android:textStyle="bold|italic" />
 
+            <Button
+                android:id="@+id/btnBooks"
+                android:layout_width="match_parent" android:layout_height="54dp"
+                android:layout_marginTop="14dp"
+                android:background="@drawable/bg_btn_gold"
+                android:text="📚 Books Library — Class 11 &amp; 12 Free PDFs"
+                android:textColor="#231A00" android:textSize="15sp"
+                android:textStyle="bold" />
+
             <TextView
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
