@@ -81,7 +81,7 @@ public class ManageActivity extends Activity {
         List<Question> qs = filter.equals("All") ? db.allQuestions() : db.questionsFor(filter);
         for (Question q : qs) {
             TextView row = new TextView(this);
-            row.setText(q.subject + "\n" + q.question);
+            row.setText(q.subject + " • " + q.topic + "\n" + q.question);
             row.setTextSize(15);
             row.setTextColor(0xFFFFFFFF);
             row.setBackgroundResource(R.drawable.bg_card);

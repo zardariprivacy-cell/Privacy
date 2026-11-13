@@ -107,6 +107,14 @@ public class EditQuestionActivity extends Activity {
     private void save() {
         Question q = new Question();
         q.id = qid;
+        if (qid > 0) {
+            // Keep the existing chapter/topic when editing a question.
+            Question old = db.getQuestion(qid);
+            if (old != null) {
+                q.chapter = old.chapter;
+                q.topic = old.topic;
+            }
+        }
         q.subject = Db.SUBJECTS[spSubject.getSelectedItemPosition()];
         q.question = etQuestion.getText().toString().trim();
         for (int i = 0; i < 4; i++) q.options[i] = etOptions[i].getText().toString().trim();

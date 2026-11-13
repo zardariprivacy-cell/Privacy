@@ -23,6 +23,7 @@
         <activity android:name=".SignupActivity" android:exported="false" />
         <activity android:name=".HomeActivity" android:exported="false" />
         <activity android:name=".QuizActivity" android:exported="false" />
+        <activity android:name=".TopicListActivity" android:exported="false" />
         <activity android:name=".ResultActivity" android:exported="false" />
         <activity android:name=".PerformanceActivity" android:exported="false" />
         <activity android:name=".LeaderboardActivity" android:exported="false" />

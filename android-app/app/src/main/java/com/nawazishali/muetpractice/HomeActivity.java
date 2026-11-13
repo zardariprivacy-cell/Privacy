@@ -136,8 +136,7 @@ public class HomeActivity extends Activity {
             card.addView(arrow);
 
             card.setOnClickListener(v -> {
-                Intent i = new Intent(this, QuizActivity.class);
-                i.putExtra("mode", "practice");
+                Intent i = new Intent(this, TopicListActivity.class);
                 i.putExtra("subject", subject);
                 startActivity(i);
             });

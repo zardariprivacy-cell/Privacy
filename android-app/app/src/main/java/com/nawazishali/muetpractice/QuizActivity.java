@@ -27,6 +27,7 @@ public class QuizActivity extends Activity {
     private Db db;
     private boolean mock;
     private String subjectLabel;
+    private String displayTitle;
     private List<Question> questions = new ArrayList<>();
     private int index = 0;
     private int score = 0;
@@ -76,8 +77,16 @@ public class QuizActivity extends Activity {
         } else {
             subjectLabel = getIntent().getStringExtra("subject");
             if (subjectLabel == null) subjectLabel = "Mathematics";
-            raw = db.questionsFor(subjectLabel);
-            tvTitle.setText(subjectLabel + " Practice");
+            String chapter = getIntent().getStringExtra("chapter");
+            String topic = getIntent().getStringExtra("topic");
+            if (topic != null) {
+                raw = db.questionsForTopic(subjectLabel, chapter, topic);
+                displayTitle = topic;
+            } else {
+                raw = db.questionsFor(subjectLabel);
+                displayTitle = subjectLabel + " Practice";
+            }
+            tvTitle.setText(displayTitle);
         }
         // Shuffle the options of every question once, keeping track of the answer.
         for (Question q : raw) {
@@ -251,7 +260,7 @@ public class QuizActivity extends Activity {
         Intent i = new Intent(this, ResultActivity.class);
         i.putExtra("score", score);
         i.putExtra("total", questions.size());
-        i.putExtra("title", mock ? "Mock Test Result" : subjectLabel + " Practice Result");
+        i.putExtra("title", mock ? "Mock Test Result" : displayTitle + " Result");
         StringBuilder sb = new StringBuilder();
         for (int k = 0; k < reviewItems.size(); k++) {
             if (k > 0) sb.append("\n\n");
