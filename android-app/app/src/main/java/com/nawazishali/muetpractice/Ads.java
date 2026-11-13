@@ -14,18 +14,15 @@ import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 /**
  * AdMob ads for UniTest Prep.
  *
- * CURRENT STATE (Nov 13, 2026): the owner's real AdMob App ID is in
- * AndroidManifest.xml and BANNER_ID below is his real banner unit, so
- * banner ads are LIVE and earn money once the app is published/used.
- * INTERSTITIAL_ID is still Google's TEST unit: it must be replaced with
- * the owner's real Interstitial ad unit ID as soon as he creates one in
- * AdMob, and the app rebuilt, before publishing on Google Play.
+ * LIVE STATE (Nov 13, 2026): ALL AdMob IDs are the owner's real ones —
+ * App ID in AndroidManifest.xml, BANNER_ID and INTERSTITIAL_ID below.
+ * Ads earn money for the owner's AdMob account. Never click your own ads.
  */
 public class Ads {
 
-    // Ad unit IDs (banner = owner's real unit; interstitial = Google TEST unit for now).
+    // Ad unit IDs — both are the owner's real AdMob units.
     private static final String BANNER_ID = "ca-app-pub-5229747293404900/5728194075"; // owner's real banner unit
-    private static final String INTERSTITIAL_ID = "ca-app-pub-3940256099942544/1033173712";
+    private static final String INTERSTITIAL_ID = "ca-app-pub-5229747293404900/5983199150"; // owner's real interstitial unit
 
     private static boolean initialized = false;
     private static InterstitialAd interstitial = null;
