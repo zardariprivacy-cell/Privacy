@@ -9,52 +9,74 @@
   * { margin:0; padding:0; box-sizing:border-box; font-family:'Segoe UI', Arial, sans-serif; }
   html { scroll-behavior:smooth; }
   body { background:linear-gradient(180deg,#F2F8FF 0%,#E9F3FF 340px,#F7FBFF 100%); color:#12234D; min-height:100vh; }
+  svg { display:block; }
+  .ic { display:inline-flex; align-items:center; justify-content:center; color:#1D6FF2; flex:none; }
+  .ic svg { width:100%; height:100%; }
   /* NAVBAR */
-  .nav { position:sticky; top:0; z-index:50; background:rgba(255,255,255,.92); backdrop-filter:blur(8px); box-shadow:0 2px 14px rgba(18,50,120,.08); }
+  .nav { position:sticky; top:0; z-index:50; background:rgba(255,255,255,.94); backdrop-filter:blur(8px); box-shadow:0 2px 14px rgba(18,50,120,.08); }
   .nav-in { max-width:1180px; margin:0 auto; display:flex; align-items:center; gap:22px; padding:12px 18px; }
   .logo { display:flex; align-items:center; gap:10px; text-decoration:none; }
-  .logo .ic { background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff; font-size:22px; width:44px; height:44px; border-radius:12px; display:flex; align-items:center; justify-content:center; box-shadow:0 6px 14px rgba(29,111,242,.35); }
+  .logo .ic { background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff; width:44px; height:44px; border-radius:12px; padding:9px; box-shadow:0 6px 14px rgba(29,111,242,.35); }
   .logo b { color:#0A1B3D; font-size:21px; display:block; line-height:1; }
   .logo small { color:#5B729E; font-size:10.5px; letter-spacing:.4px; }
-  .links { display:flex; gap:20px; margin-left:auto; }
+  .links { display:flex; gap:20px; margin-left:auto; align-items:center; }
   .links a { color:#22386B; text-decoration:none; font-size:14.5px; font-weight:600; }
   .links a:hover { color:#1D6FF2; }
-  .dash { margin-left:6px; background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff !important; padding:10px 18px; border-radius:99px; box-shadow:0 6px 14px rgba(29,111,242,.35); }
+  .dash { background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff !important; padding:10px 18px; border-radius:99px; box-shadow:0 6px 14px rgba(29,111,242,.35); display:inline-flex; gap:7px; align-items:center; }
+  .dash .ic { width:16px; height:16px; color:#fff; }
   /* HERO */
   .hero { max-width:1180px; margin:0 auto; padding:38px 18px 8px; display:grid; grid-template-columns:1.05fr .95fr; gap:30px; align-items:center; }
-  .pill-ai { display:inline-block; background:#E3EFFF; color:#0B4FCE; font-size:12.5px; font-weight:700; padding:7px 14px; border-radius:99px; }
+  .pill-ai { display:inline-flex; gap:7px; align-items:center; background:#E3EFFF; color:#0B4FCE; font-size:12.5px; font-weight:700; padding:7px 14px; border-radius:99px; }
+  .pill-ai .ic { width:14px; height:14px; color:#F5A623; }
   .hero h1 { font-size:clamp(34px,4.6vw,54px); line-height:1.12; color:#0A1B3D; margin-top:16px; font-weight:800; }
   .hero h1 .bl { color:#1D6FF2; }
   .hero .sub { color:#47608F; font-size:16px; line-height:1.6; margin-top:14px; max-width:520px; }
-  .searchbar { margin-top:24px; background:#fff; border-radius:99px; box-shadow:0 14px 34px rgba(18,50,120,.14); display:flex; padding:6px; max-width:560px; border:1px solid #DCE8FA; }
-  .searchbar input { flex:1; border:none; outline:none; font-size:15px; padding:10px 16px; color:#12234D; background:transparent; min-width:0; }
+  .searchbar { margin-top:24px; background:#fff; border-radius:99px; box-shadow:0 14px 34px rgba(18,50,120,.14); display:flex; align-items:center; padding:6px 6px 6px 18px; max-width:560px; border:1px solid #DCE8FA; }
+  .searchbar .ic { width:20px; height:20px; color:#8AA5CE; }
+  .searchbar input { flex:1; border:none; outline:none; font-size:15px; padding:10px 12px; color:#12234D; background:transparent; min-width:0; }
   .searchbar button { background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff; border:none; font-size:15px; font-weight:700; padding:12px 26px; border-radius:99px; cursor:pointer; }
   .feats { display:flex; gap:8px; flex-wrap:wrap; margin-top:26px; }
   .feat { text-align:center; width:96px; }
-  .feat .fi { width:52px; height:52px; margin:0 auto; background:#fff; border:1px solid #DCE8FA; border-radius:16px; display:flex; align-items:center; justify-content:center; font-size:23px; box-shadow:0 6px 14px rgba(18,50,120,.07); }
+  .feat .ic { width:52px; height:52px; margin:0 auto; background:#fff; border:1px solid #DCE8FA; border-radius:16px; padding:13px; box-shadow:0 6px 14px rgba(18,50,120,.07); }
   .feat small { display:block; margin-top:7px; color:#47608F; font-size:11.5px; font-weight:600; line-height:1.3; }
   .hero-visual { position:relative; }
   .hero-visual img { width:100%; border-radius:26px; box-shadow:0 24px 50px rgba(11,79,206,.28); display:block; }
-  .fc { position:absolute; background:#fff; border-radius:16px; box-shadow:0 14px 30px rgba(18,50,120,.18); padding:12px 16px; display:flex; gap:11px; align-items:center; max-width:250px; }
-  .fc .fi { font-size:22px; background:#E3EFFF; width:44px; height:44px; border-radius:12px; display:flex; align-items:center; justify-content:center; flex:none; }
+  .plane { position:absolute; top:-14px; right:6px; width:44px; height:44px; color:#1D6FF2; transform:rotate(8deg); }
+  .fc { position:absolute; background:#fff; border-radius:16px; box-shadow:0 14px 30px rgba(18,50,120,.18); padding:12px 16px; display:flex; gap:11px; align-items:center; max-width:255px; }
+  .fc .ic { font-size:22px; background:#E3EFFF; width:44px; height:44px; border-radius:12px; padding:10px; }
   .fc b { font-size:13.5px; color:#0A1B3D; display:block; line-height:1.3; }
   .fc small { color:#5B729E; font-size:11.5px; }
   .fc1 { top:26px; left:-16px; }
   .fc2 { top:38%; right:-12px; }
   .fc3 { bottom:26px; left:-10px; }
+  /* DASHBOARD PREVIEW */
+  .dashwrap { max-width:1180px; margin:28px auto 0; padding:0 18px; }
+  .dashcard { background:#fff; border:1px solid #DCE8FA; border-radius:20px; box-shadow:0 16px 34px rgba(18,50,120,.10); padding:20px 22px; }
+  .dashcard h3 { font-size:19px; color:#0A1B3D; }
+  .dashcard .dsub { color:#5B729E; font-size:13px; margin-top:3px; }
+  .dstats { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-top:16px; }
+  .dstat { border-radius:14px; padding:14px; background:#F2F8FF; border:1px solid #E1EDFC; }
+  .dstat .ic { width:34px; height:34px; border-radius:10px; padding:7px; background:#fff; box-shadow:0 3px 8px rgba(18,50,120,.08); }
+  .dstat b { display:block; font-size:20px; color:#0A1B3D; margin-top:8px; }
+  .dstat small { color:#5B729E; font-size:11.5px; font-weight:600; }
+  .featured { margin-top:16px; border-top:1px dashed #DCE8FA; padding-top:14px; display:flex; justify-content:space-between; gap:12px; align-items:center; flex-wrap:wrap; }
+  .featured .fl small { color:#5B729E; font-weight:700; font-size:11px; letter-spacing:.6px; }
+  .featured .fl b { display:block; color:#0A1B3D; font-size:15.5px; margin-top:3px; }
+  .featured .fl span { color:#47608F; font-size:12.5px; }
+  .fbtn { background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff; text-decoration:none; font-weight:700; font-size:13.5px; padding:10px 18px; border-radius:99px; }
   /* ASSISTANT */
-  .assistant { max-width:1180px; margin:26px auto 0; padding:0 18px; }
+  .assistant { max-width:1180px; margin:20px auto 0; padding:0 18px; }
   .a-card { background:#fff; border:1px solid #DCE8FA; border-radius:20px; box-shadow:0 12px 28px rgba(18,50,120,.08); padding:20px 22px; }
   .a-head { display:flex; align-items:center; gap:10px; }
-  .a-head .bot { font-size:24px; background:#E3EFFF; width:46px; height:46px; border-radius:50%; display:flex; align-items:center; justify-content:center; }
+  .a-head .ic { width:46px; height:46px; border-radius:50%; background:#E3EFFF; padding:11px; }
   .a-head b { font-size:16px; color:#0A1B3D; }
-  .a-head small { color:#22A06B; font-weight:700; display:block; font-size:11.5px; }
+  .a-head small { color:#12805C; font-weight:700; display:block; font-size:11.5px; }
   .a-card p { color:#47608F; font-size:14px; margin-top:12px; line-height:1.6; }
   .a-chips { display:flex; gap:8px; flex-wrap:wrap; margin-top:13px; }
   .a-chip { border:1.5px solid #BFD7FB; background:#F2F8FF; color:#0B4FCE; font-weight:600; font-size:13px; padding:8px 15px; border-radius:99px; cursor:pointer; }
   .a-chip:hover { background:#1D6FF2; color:#fff; }
   /* STATS + FIND */
-  .stats { max-width:1180px; margin:24px auto 0; padding:0 18px; display:grid; grid-template-columns:repeat(4,1fr); gap:12px; }
+  .stats { max-width:1180px; margin:20px auto 0; padding:0 18px; display:grid; grid-template-columns:repeat(4,1fr); gap:12px; }
   .stat { background:#fff; border:1px solid #DCE8FA; border-radius:16px; padding:16px; text-align:center; box-shadow:0 8px 18px rgba(18,50,120,.06); }
   .stat b { display:block; font-size:24px; color:#1D6FF2; }
   .stat small { color:#5B729E; font-size:12px; font-weight:600; }
@@ -62,7 +84,8 @@
   .find h2 { font-size:26px; color:#0A1B3D; }
   .find h2 span { color:#1D6FF2; }
   .chips { display:flex; gap:8px; flex-wrap:wrap; margin-top:14px; }
-  .chip { padding:9px 16px; border-radius:99px; border:1.5px solid #BFD7FB; background:#fff; color:#22386B; font-size:13.5px; font-weight:600; cursor:pointer; }
+  .chip { padding:9px 16px; border-radius:99px; border:1.5px solid #BFD7FB; background:#fff; color:#22386B; font-size:13.5px; font-weight:600; cursor:pointer; display:inline-flex; align-items:center; gap:6px; }
+  .chip .dot { width:8px; height:8px; border-radius:50%; display:inline-block; }
   .chip.on { background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff; border-color:transparent; }
   .grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:18px; }
   .card { background:#fff; border:1px solid #DCE8FA; border-radius:18px; padding:19px; box-shadow:0 8px 20px rgba(18,50,120,.06); }
@@ -72,35 +95,42 @@
   .open { background:#DCF5E7; color:#12805C; }
   .soon { background:#FEF3C7; color:#B45309; }
   .closed { background:#ECECF1; color:#6B7280; }
-  .meta { color:#5B729E; font-size:13px; margin-top:7px; }
+  .meta { color:#5B729E; font-size:13px; margin-top:7px; display:flex; align-items:center; gap:5px; }
+  .meta .ic { width:14px; height:14px; color:#8AA5CE; }
   .tags { margin-top:9px; display:flex; gap:6px; flex-wrap:wrap; }
   .tag { font-size:11.5px; background:#E3EFFF; color:#0B4FCE; font-weight:700; border-radius:99px; padding:3px 9px; }
   .row { font-size:13.5px; margin-top:9px; line-height:1.55; color:#33477A; }
   .row b { color:#0B4FCE; }
-  .dl { margin-top:11px; background:#F2F8FF; border-radius:10px; padding:10px 12px; font-size:13.5px; color:#33477A; }
+  .dl { margin-top:11px; background:#F2F8FF; border-radius:10px; padding:10px 12px; font-size:13.5px; color:#33477A; display:flex; gap:8px; align-items:flex-start; }
+  .dl .ic { width:16px; height:16px; color:#1D6FF2; margin-top:1px; }
   .dl b { color:#0A1B3D; }
   .dl.urgent { background:#FEF2F2; border:1px solid #FCA5A5; }
   .dl.urgent b { color:#DC2626; }
   .apply { display:block; text-align:center; margin-top:13px; background:linear-gradient(135deg,#1D6FF2,#0B4FCE); color:#fff; font-weight:700; text-decoration:none; padding:12px; border-radius:11px; font-size:15px; }
-  .note { max-width:1180px; margin:0 auto; padding:16px 18px 6px; color:#5B729E; font-size:12.5px; line-height:1.6; }
+  .sources { max-width:1180px; margin:0 auto; padding:14px 18px 0; text-align:center; color:#8AA5CE; font-size:12.5px; font-weight:600; letter-spacing:.3px; }
+  .note { max-width:1180px; margin:0 auto; padding:10px 18px 6px; color:#5B729E; font-size:12.5px; line-height:1.6; }
   footer { background:#0A1B3D; color:#B9C8E8; text-align:center; font-size:12.5px; padding:22px 14px 30px; margin-top:26px; }
   footer a { color:#F5B81D; text-decoration:none; font-weight:700; }
+  footer .flogo { display:inline-flex; align-items:center; gap:8px; color:#fff; font-weight:800; font-size:15px; }
+  footer .flogo .ic { width:20px; height:20px; color:#7FB2FF; }
   .empty { text-align:center; color:#5B729E; padding:30px 0; font-size:14px; grid-column:1/-1; }
   @media (max-width:900px) {
     .hero { grid-template-columns:1fr; padding-top:26px; }
     .links a:not(.dash) { display:none; }
     .grid { grid-template-columns:1fr; }
     .stats { grid-template-columns:repeat(2,1fr); }
+    .dstats { grid-template-columns:repeat(2,1fr); }
     .fc { position:static; margin-top:10px; max-width:none; }
     .hero-visual .fcs { display:flex; flex-direction:column; }
     .feat { width:31%; }
+    .plane { display:none; }
   }
 </style>
 </head>
 <body>
 
   <div class="nav"><div class="nav-in">
-    <a class="logo" href="#"><span class="ic">🎓</span><span><b>ScholarAI</b><small>Find • Apply • Achieve</small></span></a>
+    <a class="logo" href="#"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 9L12 4 2 9l10 5 10-5z"/><path d="M6 11.5V16c0 1.7 2.7 3 6 3s6-1.3 6-3v-4.5"/><path d="M22 9v5"/></svg></span><span><b>ScholarAI</b><small>Find • Apply • Achieve</small></span></a>
     <div class="links">
       <a href="#">Home</a>
       <a href="#find">Find Scholarships</a>
@@ -108,40 +138,57 @@
       <a href="#find">Degree</a>
       <a href="#find">Deadline</a>
       <a href="#assistant">AI Assistant</a>
-      <a href="#find" class="dash">👤 My Dashboard</a>
+      <a href="#find" class="dash"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></span>My Dashboard</a>
     </div>
   </div></div>
 
   <div class="hero">
     <div>
-      <span class="pill-ai">✨ AI-Powered Scholarship Finder</span>
+      <span class="pill-ai"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9L12 3z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8L19 15z"/></svg></span>AI-Powered Scholarship Finder</span>
       <h1>Your Future.<br>Your <span class="bl">Scholarship.</span><br>One Smart Search.</h1>
       <p class="sub">Pakistan ke students ke liye duniya bhar ki scholarships — AI rozana nayi scholarships dhoond kar, official website se verify karke, yahan update karta hai. Kabhi koi mauqa miss nahi hoga.</p>
       <div class="searchbar">
+        <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg></span>
         <input id="q" type="text" placeholder="Search scholarships (e.g. Fully Funded, USA, Masters)...">
-        <button onclick="document.getElementById('find').scrollIntoView({behavior:'smooth'})">Search ➜</button>
+        <button onclick="document.getElementById('find').scrollIntoView({behavior:'smooth'})">Search</button>
       </div>
       <div class="feats">
-        <div class="feat"><div class="fi">🌐</div><small>Global Opportunities</small></div>
-        <div class="feat"><div class="fi">⚡</div><small>Daily AI Updates</small></div>
-        <div class="feat"><div class="fi">🛡️</div><small>Verified Sources</small></div>
-        <div class="feat"><div class="fi">🔔</div><small>Deadline Alerts</small></div>
-        <div class="feat"><div class="fi">⭐</div><small>Personalized Matches</small></div>
+        <div class="feat"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span><small>Global Opportunities</small></div>
+        <div class="feat"><span class="ic"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></span><small>Daily AI Updates</small></div>
+        <div class="feat"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-3.6 8-10V5l-8-3-8 3v7c0 6.4 8 10 8 10z"/><path d="m9 11.5 2 2 4-4.5"/></svg></span><small>Verified Sources</small></div>
+        <div class="feat"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg></span><small>Deadline Alerts</small></div>
+        <div class="feat"><span class="ic"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span><small>Personalized Matches</small></div>
       </div>
     </div>
     <div class="hero-visual">
+      <span class="ic plane"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4 20-7z"/><path d="M22 2 11 13"/></svg></span>
       <img src="https://lh3.googleusercontent.com/d/1Ki7UUaT9CfXrLzIye7SIxV8cl3R7QHC8" alt="Graduate student with a globe" onerror="this.onerror=null;this.src='https://drive.google.com/uc?id=1Ki7UUaT9CfXrLzIye7SIxV8cl3R7QHC8&export=view';">
       <div class="fcs">
-        <div class="fc fc1"><span class="fi">🏆</span><span><b>Fully Funded Scholarships</b><small id="fcFull">100% funded mauqay</small></span></div>
-        <div class="fc fc2"><span class="fi">📅</span><span><b>Apply Before</b><small id="fcDeadline">Nearest deadline jald araha hai</small></span></div>
-        <div class="fc fc3"><span class="fi">🌍</span><span><b>Study Abroad</b><small id="fcCountries">Kai mulkon ke mauqay</small></span></div>
+        <div class="fc fc1"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></span><span><b>Fully Funded Scholarships</b><small id="fcFull">100% funded mauqay</small></span></div>
+        <div class="fc fc2"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg></span><span><b>Apply Before</b><small id="fcDeadline">Nearest deadline jald araha hai</small></span></div>
+        <div class="fc fc3"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span><span><b>Study Abroad</b><small id="fcCountries">Kai mulkon ke mauqay</small></span></div>
       </div>
     </div>
   </div>
 
+  <div class="dashwrap"><div class="dashcard">
+    <h3>Hello, Scholar!</h3>
+    <div class="dsub">Yahan tumhare liye chuni gayi taaza scholarship maloomat hain — rozana updated.</div>
+    <div class="dstats">
+      <div class="dstat"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></span><b id="dTotal">–</b><small>Total Scholarships</small></div>
+      <div class="dstat"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><b id="dOpen">–</b><small>Abhi Open</small></div>
+      <div class="dstat"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span><b id="dCountries">–</b><small>Countries / Areas</small></div>
+      <div class="dstat"><span class="ic"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span><b id="dFull">–</b><small>Fully Funded</small></div>
+    </div>
+    <div class="featured">
+      <div class="fl"><small>FEATURED — SAB SE QAREEB DEADLINE</small><b id="fName">—</b><span id="fMeta">—</span></div>
+      <a class="fbtn" id="fBtn" href="#find">View Details</a>
+    </div>
+  </div></div>
+
   <div class="assistant" id="assistant"><div class="a-card">
-    <div class="a-head"><span class="bot">🤖</span><span><b>ScholarAI Assistant</b><small>● Online — rozana update hoti hai</small></span></div>
-    <p>Hi! 👋 Main rozana nayi scholarships dhoond kar is page par daalta hoon — har ek official website se verified. Neeche ke buttons se foran apni pasand ki scholarships dhundo:</p>
+    <div class="a-head"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9L12 3z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8L19 15z"/></svg></span><span><b>ScholarAI Assistant</b><small>Online — rozana update hoti hai</small></span></div>
+    <p>Hi! Main rozana nayi scholarships dhoond kar is page par daalta hoon — har ek official website se verified. Neeche ke buttons se foran apni pasand ki scholarships dhundo:</p>
     <div class="a-chips">
       <button class="a-chip" onclick="quickSearch('full')">Fully Funded?</button>
       <button class="a-chip" onclick="quickSearch('united kingdom')">Scholarships in UK?</button>
@@ -162,10 +209,10 @@
     <h2>Find <span>Scholarships</span></h2>
     <div class="chips" id="chips">
       <button class="chip on" data-f="all">Sab</button>
-      <button class="chip" data-f="open">✅ Abhi Open</button>
-      <button class="chip" data-f="soon">🕐 Jald Khulengi</button>
-      <button class="chip" data-f="Pakistan">🇵🇰 Pakistan</button>
-      <button class="chip" data-f="International">🌍 International</button>
+      <button class="chip" data-f="open"><span class="dot" style="background:#12805C"></span>Abhi Open</button>
+      <button class="chip" data-f="soon"><span class="dot" style="background:#B45309"></span>Jald Khulengi</button>
+      <button class="chip" data-f="Pakistan">Pakistan</button>
+      <button class="chip" data-f="International">International</button>
       <button class="chip" data-f="Intermediate">Intermediate</button>
       <button class="chip" data-f="Bachelor">Bachelor</button>
       <button class="chip" data-f="Master">Master</button>
@@ -174,15 +221,18 @@
     <div class="grid" id="list"><div class="empty">Scholarships load ho rahi hain...</div></div>
   </div>
 
-  <p class="note">⚠️ <b>Zaroori baat:</b> Har scholarship ki maloomat official website se li gayi hai — apply karne se pehle official page par last date dobara check kar lein. Apply hamesha <b>official link</b> se karein. Asli scholarships ke liye kabhi kisi agent ko fees nahi deni parti — jo fees mange, wo fraud hai.</p>
+  <p class="sources">OFFICIAL SOURCES — HEC • USEFP • TURKIYE BURSLARI • CSC • ERASMUS+ • PEEF • SEEF • BEEF</p>
+  <p class="note">Zaroori baat: Har scholarship ki maloomat official website se li gayi hai — apply karne se pehle official page par last date dobara check kar lein. Apply hamesha <b>official link</b> se karein. Asli scholarships ke liye kabhi kisi agent ko fees nahi deni parti — jo fees mange, wo fraud hai.</p>
 
-  <footer>🎓 <b>ScholarAI</b> — Made with ❤️ for Pakistani students by <b>Nawazish Ali</b> • Rozana AI se update hoti hai<br>
+  <footer><span class="flogo"><span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 9L12 4 2 9l10 5 10-5z"/><path d="M6 11.5V16c0 1.7 2.7 3 6 3s6-1.3 6-3v-4.5"/><path d="M22 9v5"/></svg></span>ScholarAI</span><br><br>
+  Made for Pakistani students by <b>Nawazish Ali</b> • Rozana AI se update hoti hai<br>
   Practice ke liye: <a href="index.html">UniTest Prep — 4,480 free MCQs + Books Library</a></footer>
 
 <script>
 var FALLBACK = {"updated": "2026-11-13", "scholarships": [{"name": "CM Punjab Honhaar Undergraduate Scholarship", "scope": "Pakistan", "country": "Punjab, Pakistan", "levels": ["Bachelor"], "who": "Punjab domicile students who started a selected degree in 2026 at a listed institute", "coverage": "Full tuition fees (50,000 new awards in this phase)", "deadline": "19 November 2026", "deadlineDate": "2026-11-19", "status": "Open now", "url": "https://honhaarscholarship.punjabhec.gov.pk/", "added": "2026-11-13"}, {"name": "HEC Need-Based Scholarships", "scope": "Pakistan", "country": "All Pakistan", "levels": ["Bachelor"], "who": "Pakistani students in financial need studying 4-5 year undergraduate programmes at HEC-selected public universities", "coverage": "University fee + Rs 6,000 per month for the complete programme", "deadline": "Har university ki apni last date hoti hai — apni university ke Financial Aid Office se check karein", "deadlineDate": null, "status": "Open now", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/Eligibility-Criteria.aspx", "added": "2026-11-13"}, {"name": "BEEF Out of Province Scholarships (Balochistan)", "scope": "Pakistan", "country": "Balochistan (study in other provinces)", "levels": ["Bachelor", "Master"], "who": "Balochistan domicile students with 60% marks / 3.00 GPA studying at public institutions outside Balochistan", "coverage": "Annual stipend (partial support)", "deadline": "Applications open hain — closing date abhi publish nahi hui", "deadlineDate": null, "status": "Open now", "url": "https://beef.org.pk/", "added": "2026-11-13"}, {"name": "HEC BISP Undergraduate Scholarships (formerly Ehsaas)", "scope": "Pakistan", "country": "All Pakistan", "levels": ["Bachelor"], "who": "Newly admitted needy students at public-sector universities (merit + financial need)", "coverage": "Tuition fee + Rs 40,000 per year", "deadline": "Abhi band hai — naya schedule announce nahi hua", "deadlineDate": null, "status": "Closed", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/Ehsaas/Pages/Scholarship-Award-Process.aspx", "added": "2026-11-13"}, {"name": "PEEF Scholarships (Punjab Educational Endowment Fund)", "scope": "Pakistan", "country": "Punjab, Pakistan", "levels": ["Intermediate", "Bachelor", "Master"], "who": "Punjab domicile, at least 60% marks, family income Rs 60,000/month or less, full-time at a partner institution", "coverage": "Stipend paid twice a year till degree completion (partial)", "deadline": "2026-27 ka schedule abhi announce nahi hua", "deadlineDate": null, "status": "Closed", "url": "https://peef.org.pk/masterlevel-scholarships", "added": "2026-11-13"}, {"name": "SEEF Scholarships (Sindh Educational Endowment Fund)", "scope": "Pakistan", "country": "Sindh, Pakistan", "levels": ["Bachelor"], "who": "Sindh domicile needy and meritorious students at SEEF-approved institutions", "coverage": "Full tuition fee for one academic year (renewable)", "deadline": "August 2027 mein nayi applications expected hain", "deadlineDate": null, "status": "Closed", "url": "https://seef.sindh.gov.pk", "added": "2026-11-13"}, {"name": "Commonwealth Shared Scholarships (UK)", "scope": "International", "country": "United Kingdom", "levels": ["Master"], "who": "Pakistani students resident in Pakistan who cannot afford UK study; first degree at least 2:1; apply via a participating UK university", "coverage": "Full — tuition, airfare and monthly stipend (£1,712/month, £2,000 in London)", "deadline": "8 December 2026", "deadlineDate": "2026-12-08", "status": "Open now", "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/", "added": "2026-11-13"}, {"name": "Gates Cambridge Scholarship (UK)", "scope": "International", "country": "United Kingdom", "levels": ["Master", "PhD"], "who": "Students from outside the UK (including Pakistan) applying for a full-time postgraduate course at Cambridge", "coverage": "Full cost — tuition, maintenance, airfare and visa/health charges", "deadline": "8 December 2026 ya 6 January 2027 — course par munhasir hai", "deadlineDate": "2026-12-08", "status": "Open now", "url": "https://www.gatescambridge.org/apply/timeline/", "added": "2026-11-13"}, {"name": "France Excellence Eiffel Scholarship", "scope": "International", "country": "France", "levels": ["Master", "PhD"], "who": "Non-French students including Pakistanis — a French university applies on your behalf (students cannot apply directly)", "coverage": "Monthly allowance + travel, insurance and housing support (tuition NOT covered)", "deadline": "6 January 2027 (universities ke through)", "deadlineDate": "2027-01-06", "status": "Open now", "url": "https://www.campusfrance.org/en/actu/call-for-france-excellence-eiffel-applications-2027", "added": "2026-11-13"}, {"name": "HEC US-Pakistan Knowledge Corridor PhD Scholarship", "scope": "International", "country": "United States", "levels": ["PhD"], "who": "Pakistani/AJK citizens with confirmed admission at a Top-100 QS US university; GRE 300+ or HAT 60%+", "coverage": "Full (Top-50 universities) / partial (51-100) — tuition, stipend, insurance, airfare", "deadline": "30 March 2027", "deadlineDate": "2027-03-30", "status": "Open now", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/default.aspx", "added": "2026-11-13"}, {"name": "Chinese Government Scholarship (CSC) via HEC", "scope": "International", "country": "China", "levels": ["Bachelor", "Master", "PhD"], "who": "Pakistani/AJK citizens; apply on BOTH HEC and CSC portals (Type A, Agency No. 5861); entry test score 50+ required", "coverage": "Full — tuition, dormitory, monthly stipend and medical insurance (airfare not included)", "deadline": "Applications open hain — HEC ki last date abhi announce nahi hui (ETC test registration 22 November 2026 tak)", "deadlineDate": null, "status": "Open now", "url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/How-to-Apply.aspx", "added": "2026-11-13"}, {"name": "Erasmus Mundus Joint Masters (Europe)", "scope": "International", "country": "Europe (many countries)", "levels": ["Master"], "who": "Students worldwide including Pakistan with a Bachelor degree (or in final year); apply directly to the programme", "coverage": "Full for scholarship holders — fees, travel, visa and €1,400/month living allowance", "deadline": "Har programme ki apni date — zyada tar December 2026 / January 2027 tak band hoti hain", "deadlineDate": null, "status": "Open now", "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters", "added": "2026-11-13"}, {"name": "DAAD EPOS Scholarship (Germany)", "scope": "International", "country": "Germany", "levels": ["Master", "PhD"], "who": "Graduates from developing countries including Pakistan with at least 2 years professional experience; EPOS-listed courses only", "coverage": "€992/month (Master) or €1,400/month (PhD) + insurance and travel allowance", "deadline": "Har course ki apni date — zyada tar October-December 2026", "deadlineDate": null, "status": "Open now", "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-stipendiendatenbank/?detail=50076777", "added": "2026-11-13"}, {"name": "Global Korea Scholarship (GKS)", "scope": "International", "country": "South Korea", "levels": ["Bachelor", "Master", "PhD"], "who": "Non-Korean students including Pakistanis (Embassy and University tracks)", "coverage": "Full — tuition, airfare, 1-year Korean language training and monthly allowance", "deadline": "University Track ki dates har university ki alag hain; Graduate (GKS-G) February 2027 mein expected", "deadlineDate": null, "status": "Open now", "url": "https://www.studyinkorea.go.kr", "added": "2026-11-13"}, {"name": "Turkiye Burslari Scholarship", "scope": "International", "country": "Turkey", "levels": ["Bachelor", "Master", "PhD"], "who": "Non-Turkish citizens including Pakistanis meeting the level criteria", "coverage": "Full — tuition, stipend, accommodation, airfare, health insurance and 1-year Turkish course", "deadline": "10 January - 20 February 2027 (expected — har saal yahi schedule hota hai)", "deadlineDate": "2027-02-20", "status": "Opening soon", "url": "https://www.turkiyeburslari.gov.tr/calendar", "added": "2026-11-13"}, {"name": "Stipendium Hungaricum Scholarship (Hungary) via HEC", "scope": "International", "country": "Hungary", "levels": ["Bachelor", "Master", "PhD"], "who": "Pakistani citizens nominated by HEC; apply on BOTH the Hungarian and HEC portals", "coverage": "Full — tuition, housing contribution, stipend, health insurance and travel contribution", "deadline": "Applications jald khulengi — aam tor par January mein band hoti hain", "deadlineDate": null, "status": "Opening soon", "url": "https://apply.stipendiumhungaricum.hu/", "added": "2026-11-13"}, {"name": "Fulbright Scholarship Pakistan (USA)", "scope": "International", "country": "United States", "levels": ["Master", "PhD"], "who": "Pakistani citizens resident in Pakistan; 16 years education for Master, 18 years for PhD; GRE required", "coverage": "Full — tuition, books, airfare, living stipend, health insurance and visa", "deadline": "February 2027 mein dobara khulengi (2027 wali applications band ho chuki hain)", "deadlineDate": null, "status": "Closed", "url": "https://usefp.org/scholarships/fulbright-degree-FAQ.cfm", "added": "2026-11-13"}, {"name": "Chevening Scholarship (UK)", "scope": "International", "country": "United Kingdom", "levels": ["Master"], "who": "Pakistani citizens with a completed degree and at least 2,800 hours of work experience", "coverage": "Full — tuition, monthly stipend, airfare and arrival allowances", "deadline": "August 2027 mein dobara khulengi", "deadlineDate": null, "status": "Closed", "url": "https://www.chevening.org/scholarship/pakistan/", "added": "2026-11-13"}, {"name": "Australia Awards Scholarships", "scope": "International", "country": "Australia", "levels": ["Master"], "who": "Pakistani citizens resident in Pakistan with 16 years education and at least 5 years work experience (Master only for Pakistan)", "coverage": "Full — tuition, airfare, establishment allowance, living costs and health cover", "deadline": "February 2027 mein dobara khulengi", "deadlineDate": null, "status": "Closed", "url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships-opening-and-closing-dates", "added": "2026-11-13"}, {"name": "MEXT Scholarship (Japan)", "scope": "International", "country": "Japan", "levels": ["Bachelor", "Master", "PhD"], "who": "Pakistani nationals applying through the Embassy of Japan in Pakistan", "coverage": "Full — tuition, monthly stipend and return airfare", "deadline": "April 2027 mein dobara khulengi", "deadlineDate": null, "status": "Closed", "url": "https://www.pk.emb-japan.go.jp/itpr_en/MEXT_Research_Scholarship.html", "added": "2026-11-13"}, {"name": "Saudi Government Scholarships (Study in Saudi)", "scope": "International", "country": "Saudi Arabia", "levels": ["Bachelor", "Master", "PhD"], "who": "Non-Saudi students including Pakistanis; age 17-25 for Bachelor, up to 30 Master, up to 35 PhD", "coverage": "Full offers include tuition, stipend, housing, insurance and annual flight (some seats are partial/paid)", "deadline": "April 2027 mein nayi applications expected hain (har university ki date alag ho sakti hai)", "deadlineDate": null, "status": "Closed", "url": "https://studyinsaudi.sa/en", "added": "2026-11-13"}]};
 var DATA = FALLBACK, filter = 'all', query = '';
 var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+var PIN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>', CAL = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg>';
 
 function daysLeft(d) {
   if (!d) return null;
@@ -232,28 +282,34 @@ function render() {
     }
     shown++;
     var pill = s.status === 'Open now' ? 'open' : (s.status === 'Opening soon' ? 'soon' : 'closed');
-    var pillTxt = s.status === 'Open now' ? '✅ OPEN' : (s.status === 'Opening soon' ? '🕐 JALD KHULEGI' : '❌ BAND');
+    var pillTxt = s.status === 'Open now' ? 'OPEN' : (s.status === 'Opening soon' ? 'JALD KHULEGI' : 'BAND');
     var dl = daysLeft(s.deadlineDate);
     var urgent = dl !== null && dl >= 0 && dl <= 30;
-    var dlTxt = esc(s.deadline) + (dl !== null && dl >= 0 ? ' &nbsp;•&nbsp; ⏳ Sirf ' + dl + ' din reh gaye!' : '');
+    var dlTxt = esc(s.deadline) + (dl !== null && dl >= 0 ? ' &nbsp;•&nbsp; Sirf ' + dl + ' din reh gaye!' : '');
     var tags = (s.levels || []).map(function(l){ return '<span class="tag">' + esc(l) + '</span>'; }).join('');
     html += '<div class="card"><div class="top"><h3>' + esc(s.name) + '</h3><span class="pill ' + pill + '">' + pillTxt + '</span></div>'
-      + '<div class="meta">📍 ' + esc(s.country) + '</div>'
+      + '<div class="meta"><span class="ic">' + PIN + '</span>' + esc(s.country) + '</div>'
       + '<div class="tags">' + tags + '</div>'
       + '<div class="row"><b>Kon apply kar sakta hai:</b> ' + esc(s.who) + '</div>'
       + '<div class="row"><b>Kya milta hai:</b> ' + esc(s.coverage) + '</div>'
-      + '<div class="dl' + (urgent ? ' urgent' : '') + '">📅 <b>Last date:</b> ' + dlTxt + '</div>'
-      + '<a class="apply" href="' + esc(s.url) + '" target="_blank" rel="noopener">Apply / Official Details ➜</a></div>';
+      + '<div class="dl' + (urgent ? ' urgent' : '') + '"><span class="ic">' + CAL + '</span><span><b>Last date:</b> ' + dlTxt + '</span></div>'
+      + '<a class="apply" href="' + esc(s.url) + '" target="_blank" rel="noopener">Apply / Official Details</a></div>';
   });
   document.getElementById('list').innerHTML = shown ? html : '<div class="empty">Is filter mein koi scholarship nahi mili.</div>';
-  document.getElementById('stTotal').textContent = all.length;
-  document.getElementById('stOpen').textContent = all.filter(function(s){ return s.status === 'Open now'; }).length;
+  var openCount = all.filter(function(s){ return s.status === 'Open now'; }).length;
   var seen = {}, cc = 0;
   all.forEach(function(s){ if (!seen[s.country]) { seen[s.country] = 1; cc++; } });
+  var full = all.filter(function(s){ return (s.coverage || '').toLowerCase().indexOf('full') === 0; }).length;
+  document.getElementById('stTotal').textContent = all.length;
+  document.getElementById('stOpen').textContent = openCount;
   document.getElementById('stCountries').textContent = cc;
   document.getElementById('stUpdated').textContent = DATA.updated || '—';
-  var full = all.filter(function(s){ return (s.coverage || '').toLowerCase().indexOf('full') === 0; }).length;
+  document.getElementById('dTotal').textContent = all.length;
+  document.getElementById('dOpen').textContent = openCount;
+  document.getElementById('dCountries').textContent = cc;
+  document.getElementById('dFull').textContent = full;
   document.getElementById('fcFull').textContent = full + ' fully funded mauqay abhi listed hain';
+  document.getElementById('fcCountries').textContent = cc + ' countries / areas ke mauqay';
   var best = null;
   all.forEach(function(s){
     if (s.status === 'Open now' && s.deadlineDate) {
@@ -261,13 +317,19 @@ function render() {
       if (d !== null && d >= 0 && (best === null || d < best.d)) best = { d: d, s: s };
     }
   });
-  if (best) document.getElementById('fcDeadline').textContent = fmtDate(best.s.deadlineDate) + ' — ' + best.s.name;
-  document.getElementById('fcCountries').textContent = cc + ' countries / areas ke mauqay';
+  if (best) {
+    document.getElementById('fcDeadline').textContent = fmtDate(best.s.deadlineDate) + ' — ' + best.s.name;
+    document.getElementById('fName').textContent = best.s.name;
+    document.getElementById('fMeta').textContent = best.s.country + ' • Last date: ' + fmtDate(best.s.deadlineDate) + ' (sirf ' + best.d + ' din!)';
+    var fb = document.getElementById('fBtn');
+    fb.href = best.s.url; fb.target = '_blank'; fb.rel = 'noopener';
+  }
 }
 
 document.getElementById('chips').addEventListener('click', function(e) {
-  if (e.target.className.indexOf('chip') < 0) return;
-  setFilter(e.target.getAttribute('data-f'));
+  var t = e.target.closest('.chip');
+  if (!t) return;
+  setFilter(t.getAttribute('data-f'));
 });
 document.getElementById('q').addEventListener('input', function(e) {
   query = e.target.value.toLowerCase().trim();
