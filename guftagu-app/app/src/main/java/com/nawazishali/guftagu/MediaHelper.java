@@ -162,6 +162,8 @@ public class MediaHelper {
             case "voice": return "🎤 Voice message";
             case "photo": return "📷 Photo";
             case "file": return "📎 " + p.optString("name", "File");
+            case "text": return (p.optBoolean("fwd") ? "↪ " : "") + p.optString("x", "");
+            case "deleted": return "🚫 Message delete ho gaya";
             default: return body;
         }
     }

@@ -14,7 +14,7 @@ aapt2 compile --dir app/src/main/res -o build/compiled/res.zip
 echo "== aapt2 link =="
 aapt2 link -o build/stage/app.apk -I $AJAR --manifest app/src/main/AndroidManifest.xml \
   --java build/gen \
-  --min-sdk-version 26 --target-sdk-version 34 --version-code 5 --version-name 2.3 \
+  --min-sdk-version 26 --target-sdk-version 34 --version-code 6 --version-name 2.4 \
   build/compiled/res.zip
 
 echo "== javac =="

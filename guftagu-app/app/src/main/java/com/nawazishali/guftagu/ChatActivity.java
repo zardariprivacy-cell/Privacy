@@ -49,6 +49,10 @@ public class ChatActivity extends Activity {
     private String myUid, peerUid, peerName, peerPub, roomId;
     private Ratchet ratchet;
     private LocalDb db;
+    private String replyMid, replyWho, replySnip;
+    private android.view.View replyBar;
+    private TextView tvReply;
+    private long lastTypingMs = 0;
     private LinearLayout msgList;
     private ScrollView scroll;
     private EditText etMessage;
@@ -106,6 +110,11 @@ public class ChatActivity extends Activity {
             public void onTextChanged(CharSequence cs, int a, int b, int c) { }
             public void afterTextChanged(android.text.Editable ed) {
                 btnMicSend.setText(ed.toString().trim().isEmpty() ? "\uD83C\uDFA4" : "\u27A4");
+                if (!ed.toString().trim().isEmpty()
+                        && System.currentTimeMillis() - lastTypingMs > 4000) {
+                    lastTypingMs = System.currentTimeMillis();
+                    Presence.typing(ChatActivity.this, roomId);
+                }
             }
         });
         inputBar = findViewById(R.id.inputBar);
@@ -154,6 +163,9 @@ public class ChatActivity extends Activity {
         findViewById(R.id.btnEmoji).setOnClickListener(v ->
                 emojiPanel.setVisibility(emojiPanel.getVisibility() == android.view.View.VISIBLE
                         ? android.view.View.GONE : android.view.View.VISIBLE));
+        replyBar = findViewById(R.id.replyBar);
+        tvReply = findViewById(R.id.tvReply);
+        findViewById(R.id.btnReplyX).setOnClickListener(v -> clearReply());
         findViewById(R.id.btnRecCancel).setOnClickListener(v -> cancelRecording());
         findViewById(R.id.btnRecSend).setOnClickListener(v -> sendRecording());
 
@@ -198,7 +210,55 @@ public class ChatActivity extends Activity {
     private void sendText() {
         String text = etMessage.getText().toString().trim();
         if (text.isEmpty()) return;
-        sendPayload(text, () -> etMessage.setText(""));
+        String body = text;
+        if (replyMid != null) {
+            try {
+                JSONObject p = new JSONObject();
+                p.put("t", "text");
+                p.put("x", text);
+                JSONObject q = new JSONObject();
+                q.put("mid", replyMid);
+                q.put("who", replyWho == null ? "" : replyWho);
+                q.put("snip", replySnip == null ? "" : replySnip);
+                p.put("q", q);
+                body = p.toString();
+            } catch (Exception ignored) {
+            }
+        }
+        sendPayload(body, () -> {
+            etMessage.setText("");
+            clearReply();
+        });
+    }
+
+    private void setReply(LocalDb.Msg m) {
+        replyMid = m.msgid;
+        replyWho = m.sender.equals(myUid) ? "Tum" : peerName;
+        replySnip = Meta.snippetOf(m.body);
+        tvReply.setText("\u21A9\uFE0F " + replyWho + ": " + replySnip);
+        replyBar.setVisibility(android.view.View.VISIBLE);
+        etMessage.requestFocus();
+    }
+
+    private void clearReply() {
+        replyMid = null;
+        replyWho = null;
+        replySnip = null;
+        if (replyBar != null) replyBar.setVisibility(android.view.View.GONE);
+    }
+
+    private void sendMeta(String body) {
+        if (ratchet == null) return;
+        try {
+            Ratchet.Encrypted e = ratchet.encrypt(body);
+            JSONObject m = new JSONObject();
+            m.put("from", myUid);
+            m.put("idx", e.idx);
+            m.put("body", e.bodyB64);
+            m.put("ts", System.currentTimeMillis());
+            Api.dbPost(this, "/rooms/" + roomId + "/messages", m, (pid, err) -> { });
+        } catch (Exception ignored) {
+        }
     }
 
     /** Encrypts the body (text or a media payload JSON) and posts it as one chat message. */
@@ -450,8 +510,14 @@ public class ChatActivity extends Activity {
         if (ratchet == null) return;
         Api.dbGet(this, "/users/" + peerUid, (profile, err) -> {
             if (profile != null && !blocked) {
-                String pres = Presence.format(profile);
-                tvSub.setText(pres != null ? pres : "🔒 end-to-end encrypted");
+                String sub = null;
+                JSONObject typing = profile.optJSONObject("typing");
+                if (typing != null && roomId.equals(typing.optString("room", ""))
+                        && System.currentTimeMillis() - typing.optLong("ts", 0) < 6000) {
+                    sub = "✍️ likh raha hai...";
+                }
+                if (sub == null) sub = Presence.format(profile);
+                tvSub.setText(sub != null ? sub : "🔒 end-to-end encrypted");
             }
         });
         Api.dbGetQ(this, "/rooms/" + roomId + "/messages", "orderBy=%22ts%22&limitToLast=100", (msgs, err) -> {
@@ -464,6 +530,7 @@ public class ChatActivity extends Activity {
             boolean added = false;
             boolean ticksChanged = false;
             boolean gotPeerMsg = false;
+            boolean metaChanged = false;
             for (String id : ids) {
                 JSONObject m = msgs.optJSONObject(id);
                 if (m == null) continue;
@@ -487,11 +554,16 @@ public class ChatActivity extends Activity {
                     if (blocked) continue;
                     long midx = m.optLong("idx", -1);
                     String plain = ratchet.decrypt(midx, m.optString("body", ""), from);
-                    db.addMessage(roomId, id, from,
-                            plain != null ? plain : "🔒 Encrypted message — khul nahi saka", ts, midx);
+                    if (plain != null && Meta.isMeta(plain)) {
+                        Meta.apply(db, roomId, from, plain);
+                        metaChanged = true;
+                    } else {
+                        db.addMessage(roomId, id, from,
+                                plain != null ? plain : "🔒 Encrypted message — khul nahi saka", ts, midx);
+                        added = true;
+                        gotPeerMsg = true;
+                    }
                     if (midx > maxPeerIdx) maxPeerIdx = midx;
-                    added = true;
-                    gotPeerMsg = true;
                 }
             }
             if (added) {
@@ -499,7 +571,7 @@ public class ChatActivity extends Activity {
                 scrollToBottom();
                 if (gotPeerMsg && !firstPoll) notifyCue();
             }
-            if (ticksChanged && !added) renderAll();
+            if ((ticksChanged || metaChanged) && !added) renderAll();
             firstPoll = false;
             // publish my read receipt
             if (AppPrefs.readReceipts(this) && maxPeerIdx > lastSeenSent) {
@@ -605,12 +677,15 @@ public class ChatActivity extends Activity {
         JSONObject payload = MediaHelper.parsePayload(m.body);
         View content;
 
-        if (payload == null) {
+        if (Meta.isDeleted(m.body)) {
             TextView tv = new TextView(this);
-            tv.setText(m.body);
-            tv.setTextColor(0xFF111111);
+            tv.setText("🚫 Ye message delete ho gaya");
+            tv.setTextColor(0xFF667781);
             tv.setTextSize(AppPrefs.bubbleTextSize(this));
+            tv.setTypeface(null, android.graphics.Typeface.ITALIC);
             content = tv;
+        } else if (payload == null || "text".equals(payload.optString("t"))) {
+            content = richTextView(m, payload);
         } else if ("voice".equals(payload.optString("t"))) {
             content = voiceView(m, payload);
         } else if ("photo".equals(payload.optString("t"))) {
@@ -625,7 +700,8 @@ public class ChatActivity extends Activity {
         card.setPadding(dp(12), dp(8), dp(12), dp(6));
         card.addView(content);
         TextView foot = new TextView(this);
-        foot.setText(footer(m));
+        boolean edited = payload != null && payload.optBoolean("ed");
+        foot.setText(edited ? "✎ edited • " + footer(m) : footer(m));
         foot.setTextColor(0xFF667781);
         foot.setTextSize(11);
         foot.setGravity(Gravity.END);
@@ -638,7 +714,239 @@ public class ChatActivity extends Activity {
         lp.rightMargin = mine ? 0 : dp(56);
         card.setLayoutParams(lp);
         wrap.addView(card);
+        View chips = reactionChips(m);
+        if (chips != null) wrap.addView(chips);
+        if (!Meta.isDeleted(m.body)) {
+            card.setOnLongClickListener(v -> {
+                showMsgMenu(m);
+                return true;
+            });
+        }
         return wrap;
+    }
+
+    private View richTextView(final LocalDb.Msg m, final JSONObject payload) {
+        LinearLayout col = new LinearLayout(this);
+        col.setOrientation(LinearLayout.VERTICAL);
+        String text = m.body;
+        if (payload != null) {
+            text = payload.optString("x", "");
+            if (payload.optBoolean("fwd")) {
+                TextView fwd = new TextView(this);
+                fwd.setText("↪ Forwarded");
+                fwd.setTextColor(0xFF667781);
+                fwd.setTextSize(11);
+                fwd.setTypeface(null, android.graphics.Typeface.ITALIC);
+                col.addView(fwd);
+            }
+            JSONObject q = payload.optJSONObject("q");
+            if (q != null) {
+                LinearLayout quote = new LinearLayout(this);
+                quote.setOrientation(LinearLayout.HORIZONTAL);
+                quote.setBackgroundResource(R.drawable.bg_chip);
+                quote.setPadding(dp(8), dp(5), dp(8), dp(5));
+                View bar = new View(this);
+                bar.setBackgroundColor(0xFF00A884);
+                bar.setLayoutParams(new LinearLayout.LayoutParams(dp(3), LinearLayout.LayoutParams.MATCH_PARENT));
+                quote.addView(bar);
+                LinearLayout qtexts = new LinearLayout(this);
+                qtexts.setOrientation(LinearLayout.VERTICAL);
+                LinearLayout.LayoutParams qlp = new LinearLayout.LayoutParams(
+                        LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+                qlp.leftMargin = dp(8);
+                qtexts.setLayoutParams(qlp);
+                TextView who = new TextView(this);
+                who.setText(q.optString("who", ""));
+                who.setTextColor(0xFF00A884);
+                who.setTextSize(12);
+                who.setTypeface(null, android.graphics.Typeface.BOLD);
+                qtexts.addView(who);
+                TextView snip = new TextView(this);
+                snip.setText(q.optString("snip", ""));
+                snip.setTextColor(0xFF667781);
+                snip.setTextSize(12);
+                snip.setMaxLines(2);
+                qtexts.addView(snip);
+                quote.addView(qtexts);
+                LinearLayout.LayoutParams quoteLp = new LinearLayout.LayoutParams(
+                        LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+                quoteLp.bottomMargin = dp(5);
+                quote.setLayoutParams(quoteLp);
+                col.addView(quote);
+            }
+        }
+        TextView tv = new TextView(this);
+        tv.setText(text);
+        tv.setTextColor(0xFF111111);
+        tv.setTextSize(AppPrefs.bubbleTextSize(this));
+        col.addView(tv);
+        return col;
+    }
+
+    private String myReaction(LocalDb.Msg m) {
+        if (m.react == null || m.react.isEmpty()) return "";
+        try {
+            return new JSONObject(m.react).optString(myUid, "");
+        } catch (Exception e) {
+            return "";
+        }
+    }
+
+    private View reactionChips(final LocalDb.Msg m) {
+        if (m.react == null || m.react.isEmpty()) return null;
+        try {
+            JSONObject r = new JSONObject(m.react);
+            java.util.Map<String, Integer> counts = new java.util.LinkedHashMap<>();
+            Iterator<String> it = r.keys();
+            while (it.hasNext()) {
+                String e = r.optString(it.next(), "");
+                if (!e.isEmpty()) counts.put(e, counts.containsKey(e) ? counts.get(e) + 1 : 1);
+            }
+            if (counts.isEmpty()) return null;
+            LinearLayout row = new LinearLayout(this);
+            row.setOrientation(LinearLayout.HORIZONTAL);
+            LinearLayout.LayoutParams rlp = new LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+            rlp.gravity = m.sender.equals(myUid) ? Gravity.END : Gravity.START;
+            rlp.topMargin = dp(2);
+            row.setLayoutParams(rlp);
+            for (final java.util.Map.Entry<String, Integer> en : counts.entrySet()) {
+                TextView chip = new TextView(this);
+                chip.setText(en.getKey() + " " + en.getValue());
+                chip.setTextSize(12);
+                chip.setBackgroundResource(R.drawable.bg_chip);
+                chip.setPadding(dp(8), dp(2), dp(8), dp(2));
+                LinearLayout.LayoutParams clp = new LinearLayout.LayoutParams(
+                        LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+                clp.leftMargin = dp(4);
+                chip.setLayoutParams(clp);
+                chip.setOnClickListener(v -> {
+                    String send = en.getKey().equals(myReaction(m)) ? "" : en.getKey();
+                    sendMeta(Meta.react(m.msgid, send));
+                    db.setReact(roomId, m.msgid, myUid, send);
+                    renderAll();
+                });
+                row.addView(chip);
+            }
+            return row;
+        } catch (Exception e) {
+            return null;
+        }
+    }
+
+    private void showMsgMenu(final LocalDb.Msg m) {
+        final boolean mine = m.sender.equals(myUid);
+        final JSONObject payload = MediaHelper.parsePayload(m.body);
+        final boolean textish = payload == null || "text".equals(payload.optString("t"));
+        final java.util.List<String> items = new java.util.ArrayList<>();
+        items.add("😍 React karo");
+        items.add("↩️ Reply");
+        items.add("➡️ Forward");
+        if (textish) items.add("📋 Copy");
+        if (mine && textish) items.add("✏️ Edit");
+        if (mine) items.add("🗑 Delete — sab ke liye");
+        new AlertDialog.Builder(this)
+                .setItems(items.toArray(new String[0]), (d, which) -> {
+                    String sel = items.get(which);
+                    if (sel.startsWith("😍")) reactPicker(m);
+                    else if (sel.startsWith("↩")) setReply(m);
+                    else if (sel.startsWith("➡")) forwardDialog(m);
+                    else if (sel.startsWith("📋")) {
+                        android.content.ClipboardManager cm = (android.content.ClipboardManager)
+                                getSystemService(CLIPBOARD_SERVICE);
+                        if (cm != null) cm.setPrimaryClip(android.content.ClipData.newPlainText(
+                                "message", Meta.displayText(m.body)));
+                        Toast.makeText(this, "Copy ho gaya", Toast.LENGTH_SHORT).show();
+                    } else if (sel.startsWith("✏")) editDialog(m);
+                    else if (sel.startsWith("🗑")) deleteConfirm(m);
+                })
+                .show();
+    }
+
+    private void reactPicker(final LocalDb.Msg m) {
+        final String[] emojis = {"❤️", "👍", "😂", "😮", "😢", "🙏"};
+        new AlertDialog.Builder(this)
+                .setTitle("Reaction chuno")
+                .setItems(emojis, (d, which) -> {
+                    String send = emojis[which].equals(myReaction(m)) ? "" : emojis[which];
+                    sendMeta(Meta.react(m.msgid, send));
+                    db.setReact(roomId, m.msgid, myUid, send);
+                    renderAll();
+                })
+                .show();
+    }
+
+    private void editDialog(final LocalDb.Msg m) {
+        final EditText et = new EditText(this);
+        et.setText(Meta.displayText(m.body));
+        et.setSelection(et.getText().length());
+        new AlertDialog.Builder(this)
+                .setTitle("Message edit karo")
+                .setView(et)
+                .setNegativeButton("Cancel", null)
+                .setPositiveButton("Save", (d, w) -> {
+                    String nt = et.getText().toString().trim();
+                    if (nt.isEmpty()) return;
+                    sendMeta(Meta.edit(m.msgid, nt));
+                    db.applyEdit(roomId, m.msgid, nt);
+                    renderAll();
+                })
+                .show();
+    }
+
+    private void deleteConfirm(final LocalDb.Msg m) {
+        new AlertDialog.Builder(this)
+                .setTitle("Message delete karun?")
+                .setMessage("Ye message sab ke liye delete ho jayega.")
+                .setNegativeButton("Cancel", null)
+                .setPositiveButton("Delete", (d, w) -> {
+                    sendMeta(Meta.del(m.msgid));
+                    db.applyDelete(roomId, m.msgid);
+                    renderAll();
+                })
+                .show();
+    }
+
+    private void forwardDialog(final LocalDb.Msg m) {
+        Api.dbGet(this, "/users", (users, err) -> {
+            if (users == null) {
+                Toast.makeText(this, "Users load nahi hue", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            final java.util.List<String> labels = new java.util.ArrayList<>();
+            final java.util.List<String[]> targets = new java.util.ArrayList<>();
+            labels.add("👥 Sab ka Group");
+            targets.add(new String[]{"group", "", ""});
+            Iterator<String> it = users.keys();
+            while (it.hasNext()) {
+                String uid = it.next();
+                if (uid.equals(myUid) || uid.equals(peerUid)) continue;
+                JSONObject u = users.optJSONObject(uid);
+                if (u == null) continue;
+                labels.add(u.optString("name", "User"));
+                targets.add(new String[]{uid, u.optString("name", ""), u.optString("pub", "")});
+            }
+            new AlertDialog.Builder(this)
+                    .setTitle("Kisko forward karun?")
+                    .setItems(labels.toArray(new String[0]), (d, which) -> {
+                        String[] t = targets.get(which);
+                        final String fwdBody = Meta.forwardBody(m.body);
+                        if ("group".equals(t[0])) {
+                            Intent i = new Intent(this, GroupActivity.class);
+                            i.putExtra("forwardBody", fwdBody);
+                            startActivity(i);
+                        } else {
+                            if (t[2].isEmpty()) {
+                                Toast.makeText(this, "Is user ne abhi app nahi khola", Toast.LENGTH_SHORT).show();
+                                return;
+                            }
+                            Forwarder.forwardToUser(this, t[0], t[2], fwdBody, ok ->
+                                    Toast.makeText(this, ok ? "Forward ho gaya ✅" : "Forward nahi hua",
+                                            Toast.LENGTH_SHORT).show());
+                        }
+                    })
+                    .show();
+        });
     }
 
     private View voiceView(final LocalDb.Msg m, final JSONObject payload) {

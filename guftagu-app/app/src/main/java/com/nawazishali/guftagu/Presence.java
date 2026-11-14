@@ -33,6 +33,19 @@ public class Presence {
         }
     }
 
+    /** Publishes "I am typing in this room" (a sibling node of pres; owner-write). */
+    public static void typing(final Context ctx, final String roomId) {
+        try {
+            String uid = Session.uid(ctx);
+            if (uid == null) return;
+            JSONObject t = new JSONObject();
+            t.put("room", roomId);
+            t.put("ts", System.currentTimeMillis());
+            Api.dbPut(ctx, "/users/" + uid + "/typing", t, (ok, err) -> { });
+        } catch (Exception ignored) {
+        }
+    }
+
     /** Returns "online" / "last seen ..." / null when nothing should be shown. */
     public static String format(JSONObject userProfile) {
         if (userProfile == null) return null;
