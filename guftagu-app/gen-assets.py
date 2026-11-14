@@ -5,15 +5,15 @@ import random, math
 
 OUT = "app/src/main/res/drawable/"
 
-def doodle_tile(path, base_rgb, seed):
+def doodle(path, base_rgb, ink, seed):
     S = 240
     img = Image.new("RGB", (S, S), base_rgb)
     d = ImageDraw.Draw(img, "RGBA")
     rnd = random.Random(seed)
     for _ in range(30):
         x, y = rnd.uniform(0, S), rnd.uniform(0, S)
-        a = rnd.randint(7, 15)
-        col = (255, 255, 255, a)
+        a = rnd.randint(7, 16) if ink == (255, 255, 255) else rnd.randint(8, 16)
+        col = ink + (a,)
         kind = rnd.choice(["dot", "circle", "plus", "arc", "tri", "wave"])
         r = rnd.uniform(4, 11)
         if kind == "dot":
@@ -32,9 +32,10 @@ def doodle_tile(path, base_rgb, seed):
             d.line(pts, fill=col, width=2)
     img.save(path)
 
-doodle_tile(OUT + "wp_doodle_1.png", (11, 20, 26), 11)
-doodle_tile(OUT + "wp_doodle_2.png", (10, 25, 49), 22)
-doodle_tile(OUT + "wp_doodle_3.png", (6, 40, 29), 33)
+doodle(OUT + "wp_doodle_0.png", (236, 229, 221), (90, 78, 55), 44)   # classic light
+doodle(OUT + "wp_doodle_1.png", (11, 20, 26), (255, 255, 255), 11)  # dark
+doodle(OUT + "wp_doodle_2.png", (10, 25, 49), (255, 255, 255), 22)  # blue
+doodle(OUT + "wp_doodle_3.png", (6, 40, 29), (255, 255, 255), 33)   # green
 
 S = 512
 grad = Image.new("RGBA", (S, S), (0, 0, 0, 0))

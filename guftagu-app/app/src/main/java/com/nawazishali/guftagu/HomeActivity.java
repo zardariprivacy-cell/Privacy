@@ -41,6 +41,7 @@ public class HomeActivity extends Activity {
     private final Handler handler = new Handler();
     private boolean alive = true;
 
+    private int filterMode = 0;
     private JSONObject cachedUsers;
     private JSONObject cachedStatus;
     private boolean banned = false;
@@ -74,6 +75,21 @@ public class HomeActivity extends Activity {
             @Override public void onTextChanged(CharSequence s, int a, int b, int c) { renderChats(); }
             @Override public void afterTextChanged(Editable s) { }
         });
+
+        Button chipAll = findViewById(R.id.chipAll);
+        Button chipOnline = findViewById(R.id.chipOnline);
+        Button chipGroups = findViewById(R.id.chipGroups);
+        chipAll.setOnClickListener(v -> setFilter(0));
+        chipOnline.setOnClickListener(v -> setFilter(1));
+        chipGroups.setOnClickListener(v -> setFilter(2));
+        findViewById(R.id.navStatus).setOnClickListener(v -> {
+            if (!banned) postStatusMenu();
+        });
+        findViewById(R.id.navGroup).setOnClickListener(v ->
+                startActivity(new Intent(this, GroupActivity.class)));
+        findViewById(R.id.navSettings).setOnClickListener(v ->
+                startActivity(new Intent(this, SettingsActivity.class)));
+        findViewById(R.id.fabNew).setOnClickListener(v -> newChatDialog());
 
         Presence.beat(this);
         loadAll();
@@ -133,13 +149,57 @@ public class HomeActivity extends Activity {
         });
     }
 
+    private void setFilter(int mode) {
+        filterMode = mode;
+        ((Button) findViewById(R.id.chipAll)).setBackgroundResource(
+                mode == 0 ? R.drawable.bg_chip_sel : R.drawable.bg_chip);
+        ((Button) findViewById(R.id.chipOnline)).setBackgroundResource(
+                mode == 1 ? R.drawable.bg_chip_sel : R.drawable.bg_chip);
+        ((Button) findViewById(R.id.chipGroups)).setBackgroundResource(
+                mode == 2 ? R.drawable.bg_chip_sel : R.drawable.bg_chip);
+        renderChats();
+    }
+
+    private void newChatDialog() {
+        if (cachedUsers == null) {
+            Toast.makeText(this, "Users load ho rahe hain...", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        List<String> names = new ArrayList<>();
+        List<String[]> refs = new ArrayList<>();
+        Iterator<String> it = cachedUsers.keys();
+        while (it.hasNext()) {
+            String uid = it.next();
+            if (uid.equals(myUid)) continue;
+            JSONObject u = cachedUsers.optJSONObject(uid);
+            if (u == null) continue;
+            names.add(u.optString("name", "User"));
+            refs.add(new String[]{uid, u.optString("name", ""), u.optString("pub", "")});
+        }
+        if (names.isEmpty()) {
+            Toast.makeText(this, "Abhi koi aur user nahi hai", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        new AlertDialog.Builder(this)
+                .setTitle("Nayi chat — kisse?")
+                .setItems(names.toArray(new String[0]), (d, w) -> {
+                    String[] r = refs.get(w);
+                    Intent i = new Intent(this, ChatActivity.class);
+                    i.putExtra("peerUid", r[0]);
+                    i.putExtra("peerName", r[1]);
+                    i.putExtra("peerPub", r[2]);
+                    startActivity(i);
+                })
+                .show();
+    }
+
     // ---------------- chats ----------------
 
     private void renderChats() {
         if (cachedUsers == null || banned) return;
         String q = etSearch.getText().toString().trim().toLowerCase();
         chatList.removeAllViews();
-        chatList.addView(groupRow());
+        if (filterMode != 1) chatList.addView(groupRow());
         List<String[]> rows = new ArrayList<>();
         Iterator<String> it = cachedUsers.keys();
         while (it.hasNext()) {
@@ -149,6 +209,8 @@ public class HomeActivity extends Activity {
             if (u == null) continue;
             String name = u.optString("name", "");
             if (!q.isEmpty() && !name.toLowerCase().contains(q)) continue;
+            if (filterMode == 2) continue;
+            if (filterMode == 1 && !Presence.isOnline(u)) continue;
             rows.add(new String[]{uid, name, u.optString("pub", "")});
         }
         Collections.sort(rows, (a, b) -> a[1].compareToIgnoreCase(b[1]));
@@ -187,15 +249,18 @@ public class HomeActivity extends Activity {
     }
 
     private LinearLayout rowBase(String title, String sub, String time, boolean online) {
-        return rowBase(title, sub, time, online, title, false);
+        return rowBase(title, sub, time, online, title, false, null);
     }
 
     private LinearLayout rowBase(String title, String sub, String time, boolean online, String avatarSeed, boolean ring) {
+        return rowBase(title, sub, time, online, avatarSeed, ring, null);
+    }
+
+    private LinearLayout rowBase(String title, String sub, String time, boolean online, String avatarSeed, boolean ring, JSONObject prof) {
         LinearLayout row = new LinearLayout(this);
         row.setOrientation(LinearLayout.HORIZONTAL);
         row.setGravity(Gravity.CENTER_VERTICAL);
-        row.setBackgroundResource(R.drawable.bg_card);
-        row.setPadding(dp(12), dp(10), dp(12), dp(10));
+        row.setPadding(dp(14), dp(12), dp(14), dp(12));
         LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
         lp.topMargin = dp(8);
@@ -216,6 +281,7 @@ public class HomeActivity extends Activity {
         String t = title.trim();
         init.setText(t.isEmpty() ? "?" : t.substring(0, 1).toUpperCase());
         avatar.addView(init, new FrameLayout.LayoutParams(dp(46), dp(46)));
+        if (prof != null && prof.has("pic")) bindAvatarPhoto(avatar, init, prof.optJSONObject("pic"));
         if (online) {
             View dot = new View(this);
             dot.setBackgroundResource(R.drawable.bg_circle);
@@ -233,13 +299,13 @@ public class HomeActivity extends Activity {
         texts.setLayoutParams(tlp);
         TextView tvT = new TextView(this);
         tvT.setText(title);
-        tvT.setTextColor(0xFFFFFFFF);
+        tvT.setTextColor(0xFF111111);
         tvT.setTextSize(16);
         tvT.setTypeface(null, Typeface.BOLD);
         texts.addView(tvT);
         TextView tvS = new TextView(this);
         tvS.setText(sub);
-        tvS.setTextColor(0xFF8696A0);
+        tvS.setTextColor(0xFF667781);
         tvS.setTextSize(13);
         tvS.setSingleLine(true);
         texts.addView(tvS);
@@ -248,7 +314,7 @@ public class HomeActivity extends Activity {
         if (time != null) {
             TextView tvTime = new TextView(this);
             tvTime.setText(time);
-            tvTime.setTextColor(0xFF8696A0);
+            tvTime.setTextColor(0xFF667781);
             tvTime.setTextSize(12);
             row.addView(tvTime);
         }
@@ -282,7 +348,7 @@ public class HomeActivity extends Activity {
                     ? "Abhi app nahi khola — key nahi bani"
                     : "🔒 End-to-end encrypted";
         }
-        LinearLayout row = rowBase(name.isEmpty() ? "(bina naam)" : name, sub, time, online, uid, false);
+        LinearLayout row = rowBase(name.isEmpty() ? "(bina naam)" : name, sub, time, online, uid, false, prof);
         row.setOnClickListener(v -> {
             Intent i = new Intent(this, ChatActivity.class);
             i.putExtra("peerUid", uid);
@@ -309,7 +375,7 @@ public class HomeActivity extends Activity {
         LinearLayout myRow = rowBase("Mera Status",
                 myFresh ? "Laga hua hai • " + timeLabel(mine.optLong("ts")) + " — manage ke liye tap karo"
                         : "Photo ya text status lagao — 24 ghante rahega",
-                null, false, myUid, false);
+                null, false, myUid, false, cachedUsers != null ? cachedUsers.optJSONObject(myUid) : null);
         myRow.setOnClickListener(v -> {
             if (myFresh) {
                 new AlertDialog.Builder(this)
@@ -351,7 +417,7 @@ public class HomeActivity extends Activity {
                 final String fUid = uid;
                 final String fName = name;
                 LinearLayout row = rowBase(name.isEmpty() ? "Status" : name,
-                        "Status • " + timeLabel(st.optLong("ts")), null, false, uid, true);
+                        "Status • " + timeLabel(st.optLong("ts")), null, false, uid, true, cachedUsers != null ? cachedUsers.optJSONObject(uid) : null);
                 row.setOnClickListener(v -> openStatus(fUid, fName));
                 statusList.addView(row);
             }
@@ -468,6 +534,39 @@ public class HomeActivity extends Activity {
                 Toast.makeText(this, "Status encryption masla", Toast.LENGTH_SHORT).show();
             }
         });
+    }
+
+    private void bindAvatarPhoto(FrameLayout frame, final TextView init, JSONObject pic) {
+        if (pic == null) return;
+        String b = pic.optString("b", "");
+        String k = pic.optString("k", "");
+        if (b.isEmpty() || k.isEmpty()) return;
+        final android.widget.ImageView iv = new android.widget.ImageView(this);
+        iv.setScaleType(android.widget.ImageView.ScaleType.CENTER_CROP);
+        frame.addView(iv, new FrameLayout.LayoutParams(
+                FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT));
+        MediaHelper.fetchBlob(this, b, k, (file, err) -> {
+            if (file == null || !alive) return;
+            android.graphics.Bitmap bmp = decodeSampled(file, 200);
+            if (bmp == null) return;
+            iv.setImageBitmap(MediaHelper.circular(bmp));
+            init.setVisibility(View.GONE);
+        });
+    }
+
+    private android.graphics.Bitmap decodeSampled(java.io.File f, int targetW) {
+        try {
+            android.graphics.BitmapFactory.Options o = new android.graphics.BitmapFactory.Options();
+            o.inJustDecodeBounds = true;
+            android.graphics.BitmapFactory.decodeFile(f.getAbsolutePath(), o);
+            int sample = 1;
+            while (o.outWidth / sample > targetW) sample *= 2;
+            o.inSampleSize = sample;
+            o.inJustDecodeBounds = false;
+            return android.graphics.BitmapFactory.decodeFile(f.getAbsolutePath(), o);
+        } catch (Exception e) {
+            return null;
+        }
     }
 
     private int dp(int v) {

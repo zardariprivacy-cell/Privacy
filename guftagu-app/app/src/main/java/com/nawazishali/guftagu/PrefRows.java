@@ -37,7 +37,7 @@ public class PrefRows {
     public static void note(Activity a, LinearLayout parent, String text) {
         TextView tv = new TextView(a);
         tv.setText(text);
-        tv.setTextColor(0xFF8696A0);
+        tv.setTextColor(0xFF667781);
         tv.setTextSize(13);
         LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
@@ -62,7 +62,7 @@ public class PrefRows {
         row.addView(texts(a, title, sub));
         TextView arrow = new TextView(a);
         arrow.setText("›");
-        arrow.setTextColor(0xFF8696A0);
+        arrow.setTextColor(0xFF667781);
         arrow.setTextSize(22);
         row.addView(arrow);
         if (click != null) row.setOnClickListener(click);
@@ -87,13 +87,13 @@ public class PrefRows {
                 0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
         TextView tvT = new TextView(a);
         tvT.setText(title);
-        tvT.setTextColor(0xFFFFFFFF);
+        tvT.setTextColor(0xFF111111);
         tvT.setTextSize(16);
         texts.addView(tvT);
         if (sub != null && !sub.isEmpty()) {
             TextView tvS = new TextView(a);
             tvS.setText(sub);
-            tvS.setTextColor(0xFF8696A0);
+            tvS.setTextColor(0xFF667781);
             tvS.setTextSize(13);
             texts.addView(tvS);
         }

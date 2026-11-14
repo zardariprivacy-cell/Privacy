@@ -522,10 +522,11 @@ public class ChatActivity extends Activity {
         if ("sys".equals(m.sender)) {
             TextView tv = new TextView(this);
             tv.setText(m.body);
-            tv.setTextColor(0xFFF5B81D);
+            tv.setTextColor(0xFF5A4E1F);
             tv.setTextSize(12);
             tv.setGravity(Gravity.CENTER);
-            tv.setPadding(dp(16), dp(4), dp(16), dp(4));
+            tv.setBackgroundResource(R.drawable.bg_sys);
+            tv.setPadding(dp(14), dp(6), dp(14), dp(6));
             wrap.addView(tv);
             return wrap;
         }
@@ -537,7 +538,7 @@ public class ChatActivity extends Activity {
         if (payload == null) {
             TextView tv = new TextView(this);
             tv.setText(m.body);
-            tv.setTextColor(0xFFFFFFFF);
+            tv.setTextColor(0xFF111111);
             tv.setTextSize(AppPrefs.bubbleTextSize(this));
             content = tv;
         } else if ("voice".equals(payload.optString("t"))) {
@@ -555,7 +556,7 @@ public class ChatActivity extends Activity {
         card.addView(content);
         TextView foot = new TextView(this);
         foot.setText(footer(m));
-        foot.setTextColor(0xFFB9C6BC);
+        foot.setTextColor(0xFF667781);
         foot.setTextSize(11);
         foot.setGravity(Gravity.END);
         card.addView(foot);
@@ -577,14 +578,14 @@ public class ChatActivity extends Activity {
         TextView play = new TextView(this);
         boolean isPlaying = m.msgid.equals(playingId);
         play.setText(isPlaying ? "⏸" : "▶");
-        play.setTextColor(0xFFFFFFFF);
+        play.setTextColor(0xFF00A884);
         play.setTextSize(20);
         play.setPadding(dp(2), dp(2), dp(10), dp(2));
         row.addView(play);
         TextView label = new TextView(this);
         int dur = payload.optInt("dur", 0);
         label.setText("🎤 Voice message • " + MediaHelper.fmtDur(dur));
-        label.setTextColor(0xFFFFFFFF);
+        label.setTextColor(0xFF111111);
         label.setTextSize(AppPrefs.bubbleTextSize(this));
         row.addView(label);
         final String blobId = payload.optString("b", "");
@@ -649,7 +650,7 @@ public class ChatActivity extends Activity {
         col.setOrientation(LinearLayout.VERTICAL);
         TextView name = new TextView(this);
         name.setText("📎 " + payload.optString("name", "File"));
-        name.setTextColor(0xFFFFFFFF);
+        name.setTextColor(0xFF111111);
         name.setTextSize(AppPrefs.bubbleTextSize(this));
         col.addView(name);
         final TextView sub = new TextView(this);
@@ -658,7 +659,7 @@ public class ChatActivity extends Activity {
         final String key = payload.optString("k", "");
         File saved = savedFileTarget(payload.optString("name", "file"));
         sub.setText(MediaHelper.fmtSize(size) + (saved.exists() ? " • Save hai — tap karke dekho" : " • Download ke liye tap karo"));
-        sub.setTextColor(0xFFB9C6BC);
+        sub.setTextColor(0xFF667781);
         sub.setTextSize(12);
         col.addView(sub);
         col.setOnClickListener(v -> MediaHelper.fetchBlob(this, blobId, key, (file, err) -> {

@@ -12,11 +12,11 @@
             android:layout_width="wrap_content" android:layout_height="44dp"
             android:background="@drawable/bg_btn_ghost" android:paddingLeft="12dp"
             android:paddingRight="12dp" android:text="←"
-            android:textColor="#FFFFFF" android:textSize="16sp" />
+            android:textColor="#111111" android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:layout_marginLeft="10dp" android:text="Settings"
-            android:textColor="#FFFFFF" android:textSize="18sp" android:textStyle="bold" />
+            android:textColor="#111111" android:textSize="18sp" android:textStyle="bold" />
     </LinearLayout>
 
     <ScrollView
@@ -43,17 +43,17 @@
                     <TextView
                         android:id="@+id/tvProfName"
                         android:layout_width="match_parent" android:layout_height="wrap_content"
-                        android:text="Name" android:textColor="#FFFFFF"
+                        android:text="Name" android:textColor="#111111"
                         android:textSize="18sp" android:textStyle="bold" />
                     <TextView
                         android:id="@+id/tvProfAbout"
                         android:layout_width="match_parent" android:layout_height="wrap_content"
                         android:text="Profile edit karne ke liye tap karo"
-                        android:textColor="#8696A0" android:textSize="13sp" />
+                        android:textColor="#667781" android:textSize="13sp" />
                 </LinearLayout>
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="›" android:textColor="#8696A0" android:textSize="22sp" />
+                    android:text="›" android:textColor="#667781" android:textSize="22sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -73,7 +73,7 @@
                     android:id="@+id/tvOwnerStatus"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:text="Admin Panel band hai."
-                    android:textColor="#FFFFFF" android:textSize="14sp" />
+                    android:textColor="#111111" android:textSize="14sp" />
                 <Button
                     android:id="@+id/btnOwner"
                     android:layout_width="match_parent" android:layout_height="48dp"
@@ -86,7 +86,7 @@
                 android:id="@+id/tvVersion"
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:layout_marginTop="18dp" android:gravity="center"
-                android:text="Guftagu" android:textColor="#8696A0" android:textSize="13sp" />
+                android:text="Guftagu" android:textColor="#667781" android:textSize="13sp" />
 
             <Button
                 android:id="@+id/btnLogout"

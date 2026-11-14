@@ -6,73 +6,182 @@
     <LinearLayout
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:background="@drawable/bg_header" android:gravity="center_vertical"
-        android:orientation="horizontal" android:padding="14dp">
+        android:orientation="horizontal" android:paddingLeft="16dp" android:paddingRight="10dp"
+        android:paddingTop="12dp" android:paddingBottom="6dp">
 
         <TextView
             android:layout_width="0dp" android:layout_height="wrap_content"
             android:layout_weight="1" android:text="Guftagu"
-            android:textColor="#FFFFFF" android:textSize="22sp" android:textStyle="bold" />
+            android:textColor="#25D366" android:textSize="27sp" android:textStyle="bold" />
 
         <Button
             android:id="@+id/btnAdmin"
-            android:layout_width="wrap_content" android:layout_height="44dp"
-            android:background="@drawable/bg_btn_ghost" android:paddingLeft="14dp"
+            android:layout_width="wrap_content" android:layout_height="40dp"
+            android:background="@drawable/bg_chip_sel" android:paddingLeft="14dp"
             android:paddingRight="14dp" android:text="Admin"
-            android:textColor="#00A884" android:textSize="14sp"
+            android:textColor="#0B5345" android:textSize="13sp"
             android:visibility="gone" />
 
         <Button
             android:id="@+id/btnSettings"
-            android:layout_width="wrap_content" android:layout_height="44dp"
-            android:layout_marginLeft="8dp" android:background="@drawable/bg_btn_ghost"
-            android:paddingLeft="14dp" android:paddingRight="14dp" android:text="⚙"
-            android:textColor="#FFFFFF" android:textSize="16sp" />
+            android:layout_width="wrap_content" android:layout_height="40dp"
+            android:layout_marginLeft="6dp" android:background="@drawable/bg_btn_ghost"
+            android:paddingLeft="13dp" android:paddingRight="13dp" android:text="⚙"
+            android:textColor="#111111" android:textSize="15sp" />
     </LinearLayout>
 
     <TextView
         android:id="@+id/tvBroadcast"
         android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:background="#005C4B" android:padding="10dp"
-        android:textColor="#FFFFFF" android:textSize="14sp" android:visibility="gone" />
+        android:background="#D9FDD3" android:padding="10dp"
+        android:textColor="#0B3D2E" android:textSize="14sp" android:visibility="gone" />
 
     <EditText
         android:id="@+id/etSearch"
         android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:layout_marginLeft="12dp" android:layout_marginRight="12dp"
-        android:layout_marginTop="10dp" android:background="@drawable/bg_input"
-        android:hint="🔍 Users dhoondho" android:inputType="text"
-        android:padding="12dp" android:singleLine="true" android:textColor="#FFFFFF"
-        android:textColorHint="#8696A0" android:textSize="14sp" />
+        android:layout_marginLeft="14dp" android:layout_marginRight="14dp"
+        android:layout_marginTop="8dp" android:background="@drawable/bg_input"
+        android:hint="🔍  Search" android:inputType="text"
+        android:padding="13dp" android:singleLine="true" android:textColor="#111111"
+        android:textColorHint="#667781" android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginLeft="14dp" android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/chipAll"
+            android:layout_width="wrap_content" android:layout_height="36dp"
+            android:background="@drawable/bg_chip_sel" android:paddingLeft="16dp"
+            android:paddingRight="16dp" android:text="All"
+            android:textColor="#111111" android:textSize="14sp" />
+        <Button
+            android:id="@+id/chipOnline"
+            android:layout_width="wrap_content" android:layout_height="36dp"
+            android:layout_marginLeft="8dp" android:background="@drawable/bg_chip"
+            android:paddingLeft="16dp" android:paddingRight="16dp" android:text="Online"
+            android:textColor="#111111" android:textSize="14sp" />
+        <Button
+            android:id="@+id/chipGroups"
+            android:layout_width="wrap_content" android:layout_height="36dp"
+            android:layout_marginLeft="8dp" android:background="@drawable/bg_chip"
+            android:paddingLeft="16dp" android:paddingRight="16dp" android:text="Groups"
+            android:textColor="#111111" android:textSize="14sp" />
+    </LinearLayout>
 
     <TextView
         android:id="@+id/tvHomeStatus"
         android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingTop="8dp"
-        android:text="" android:textColor="#8696A0" android:textSize="13sp" />
+        android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingTop="6dp"
+        android:text="" android:textColor="#667781" android:textSize="13sp" />
 
-    <ScrollView
-        android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ScrollView
+            android:id="@+id/homeScroll"
+            android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:orientation="vertical" android:paddingLeft="6dp"
+                android:paddingRight="6dp" android:paddingBottom="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp" android:layout_marginTop="8dp"
+                    android:text="STATUS" android:textColor="#667781"
+                    android:textSize="12sp" android:textStyle="bold" />
+                <LinearLayout
+                    android:id="@+id/statusList"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="vertical" />
+
+                <TextView
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp" android:layout_marginTop="14dp"
+                    android:text="CHATS" android:textColor="#667781"
+                    android:textSize="12sp" android:textStyle="bold" />
+                <LinearLayout
+                    android:id="@+id/chatList"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="vertical" />
+            </LinearLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/fabNew"
+            android:layout_width="58dp" android:layout_height="58dp"
+            android:layout_gravity="bottom|end" android:layout_margin="18dp"
+            android:background="@drawable/bg_fab" android:text="+"
+            android:textColor="#FFFFFF" android:textSize="30sp" android:textStyle="bold" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:background="#FFFFFF" android:orientation="horizontal"
+        android:paddingTop="6dp" android:paddingBottom="8dp">
+
         <LinearLayout
-            android:layout_width="match_parent" android:layout_height="wrap_content"
-            android:orientation="vertical" android:padding="12dp">
-
+            android:id="@+id/navChats"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:orientation="vertical">
             <TextView
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="STATUS" android:textColor="#00A884"
+                android:background="@drawable/bg_nav_sel" android:gravity="center"
+                android:paddingLeft="18dp" android:paddingRight="18dp"
+                android:paddingTop="3dp" android:paddingBottom="3dp" android:text="💬"
+                android:textSize="19sp" />
+            <TextView
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Chats" android:textColor="#111111"
                 android:textSize="13sp" android:textStyle="bold" />
-            <LinearLayout
-                android:id="@+id/statusList"
-                android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:orientation="vertical" />
+        </LinearLayout>
 
+        <LinearLayout
+            android:id="@+id/navStatus"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:orientation="vertical">
             <TextView
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:layout_marginTop="16dp" android:text="CHATS"
-                android:textColor="#00A884" android:textSize="13sp" android:textStyle="bold" />
-            <LinearLayout
-                android:id="@+id/chatList"
-                android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:orientation="vertical" />
+                android:gravity="center" android:paddingLeft="18dp" android:paddingRight="18dp"
+                android:paddingTop="3dp" android:paddingBottom="3dp" android:text="◉"
+                android:textColor="#111111" android:textSize="19sp" />
+            <TextView
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Status" android:textColor="#111111" android:textSize="13sp" />
         </LinearLayout>
-    </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/navGroup"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:gravity="center" android:paddingLeft="18dp" android:paddingRight="18dp"
+                android:paddingTop="3dp" android:paddingBottom="3dp" android:text="👥"
+                android:textSize="19sp" />
+            <TextView
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Group" android:textColor="#111111" android:textSize="13sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/navSettings"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:gravity="center"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:gravity="center" android:paddingLeft="18dp" android:paddingRight="18dp"
+                android:paddingTop="3dp" android:paddingBottom="3dp" android:text="⚙"
+                android:textColor="#111111" android:textSize="19sp" />
+            <TextView
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Settings" android:textColor="#111111" android:textSize="13sp" />
+        </LinearLayout>
+    </LinearLayout>
 </LinearLayout>

@@ -1,4 +1,4 @@
-# Guftagu — Android app (v2.1)
+# Guftagu — Android app (v2.2)
 
 End-to-end encrypted chat app (WhatsApp-style), built by Nawazish Ali.
 
@@ -6,12 +6,13 @@ End-to-end encrypted chat app (WhatsApp-style), built by Nawazish Ali.
 - 1-to-1 chat: ECDH P-256 + HKDF + AES-256-GCM with a symmetric hash-chain ratchet
   (per-message keys, forward secrecy for past messages, safety numbers)
 - Group chat ("Sab ka Group"): fresh random key per message, wrapped per member
-- Voice messages, photos and small files (AES-GCM encrypted blobs in the database —
-  Firebase Storage needs the paid Blaze plan)
+- Voice messages, photos, profile photos and small files (AES-GCM encrypted blobs
+  in the database — Firebase Storage needs the paid Blaze plan)
 - 24-hour Status (photo/text), wrapped per user like group keys
-- WhatsApp-style UI + premium theme: gradient headers/buttons, doodle chat
-  wallpapers, per-user gradient avatars, status rings, presence (online/last
-  seen), read receipts (blue ticks), last-message previews, user search
+- Full LIGHT theme modeled on WhatsApp: white home with green wordmark, search,
+  filter chips, bottom navigation, green FAB, classic beige doodle chat
+  wallpaper, light-green outgoing bubbles, blue ticks; more wallpapers in Settings
+- Presence (online/last seen), read receipts, last-message previews, user search
 - Full settings suite: Profile, Privacy, Chats, Notifications, Storage, Account,
   App Lock (PIN)
 - Owner-only admin panel: users, bans, broadcasts — enforced by server rules

@@ -461,7 +461,7 @@ public class GroupActivity extends Activity {
             if (!n.isEmpty()) {
                 TextView nameTv = new TextView(this);
                 nameTv.setText(n);
-                nameTv.setTextColor(0xFFF5B81D);
+                nameTv.setTextColor(0xFFB7791F);
                 nameTv.setTextSize(12);
                 card.addView(nameTv);
             }
@@ -472,7 +472,7 @@ public class GroupActivity extends Activity {
         if (payload == null) {
             TextView tv = new TextView(this);
             tv.setText(m.body);
-            tv.setTextColor(0xFFFFFFFF);
+            tv.setTextColor(0xFF111111);
             tv.setTextSize(AppPrefs.bubbleTextSize(this));
             content = tv;
         } else if ("voice".equals(payload.optString("t"))) {
@@ -486,7 +486,7 @@ public class GroupActivity extends Activity {
 
         TextView foot = new TextView(this);
         foot.setText(new SimpleDateFormat("HH:mm", Locale.getDefault()).format(new Date(m.ts)));
-        foot.setTextColor(0xFFB9C6BC);
+        foot.setTextColor(0xFF667781);
         foot.setTextSize(11);
         foot.setGravity(Gravity.END);
         card.addView(foot);
@@ -507,13 +507,13 @@ public class GroupActivity extends Activity {
         row.setGravity(Gravity.CENTER_VERTICAL);
         TextView play = new TextView(this);
         play.setText(m.msgid.equals(playingId) ? "⏸" : "▶");
-        play.setTextColor(0xFFFFFFFF);
+        play.setTextColor(0xFF00A884);
         play.setTextSize(20);
         play.setPadding(dp(2), dp(2), dp(10), dp(2));
         row.addView(play);
         TextView label = new TextView(this);
         label.setText("🎤 Voice message • " + MediaHelper.fmtDur(payload.optInt("dur", 0)));
-        label.setTextColor(0xFFFFFFFF);
+        label.setTextColor(0xFF111111);
         label.setTextSize(AppPrefs.bubbleTextSize(this));
         row.addView(label);
         final String blobId = payload.optString("b", "");
@@ -577,12 +577,12 @@ public class GroupActivity extends Activity {
         col.setOrientation(LinearLayout.VERTICAL);
         TextView name = new TextView(this);
         name.setText("📎 " + payload.optString("name", "File"));
-        name.setTextColor(0xFFFFFFFF);
+        name.setTextColor(0xFF111111);
         name.setTextSize(AppPrefs.bubbleTextSize(this));
         col.addView(name);
         TextView sub = new TextView(this);
         sub.setText(MediaHelper.fmtSize(payload.optLong("size", 0)) + " • Download ke liye tap karo");
-        sub.setTextColor(0xFFB9C6BC);
+        sub.setTextColor(0xFF667781);
         sub.setTextSize(12);
         col.addView(sub);
         final String blobId = payload.optString("b", "");

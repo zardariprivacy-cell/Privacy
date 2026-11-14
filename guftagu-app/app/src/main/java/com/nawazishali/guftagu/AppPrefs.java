@@ -17,11 +17,12 @@ public class AppPrefs {
 
     // Wallpapers: indices 0-2 are doodle patterns (drawables), 3-8 are solid colors
     public static final String[] WALLPAPER_NAMES = {
-            "Doodle — WhatsApp Dark", "Doodle — Neela", "Doodle — Hara",
-            "WhatsApp Dark (plain)", "Gehra Neela", "Gehra Hara", "Maroon", "Purple", "Brown"
+            "Doodle — Classic (halka)", "Safed (plain)", "Doodle — Dark",
+            "Doodle — Neela", "Doodle — Hara",
+            "Gehra Neela", "Gehra Hara", "Maroon", "Purple", "Brown"
     };
     private static final int[] WALLPAPER_COLORS = {
-            0xFF0B141A, 0xFF0A1931, 0xFF06281D, 0xFF2B0B12, 0xFF170B2E, 0xFF1D130B
+            0xFF0A1931, 0xFF06281D, 0xFF2B0B12, 0xFF170B2E, 0xFF1D130B
     };
     private static final int[] AVATAR_BGS = {
             R.drawable.bg_circle, R.drawable.bg_circle_1, R.drawable.bg_circle_2,
@@ -36,12 +37,17 @@ public class AppPrefs {
 
     public static void applyWallpaper(android.app.Activity a, android.view.View target) {
         int i = wallpaper(a);
-        if (i == 0) target.setBackgroundResource(R.drawable.bg_wp1);
-        else if (i == 1) target.setBackgroundResource(R.drawable.bg_wp2);
-        else if (i == 2) target.setBackgroundResource(R.drawable.bg_wp3);
+        if (i == 0) target.setBackgroundResource(R.drawable.bg_wp0);
+        else if (i == 1) target.setBackgroundColor(0xFFFFFFFF);
+        else if (i == 2) target.setBackgroundResource(R.drawable.bg_wp1);
+        else if (i == 3) target.setBackgroundResource(R.drawable.bg_wp2);
+        else if (i == 4) target.setBackgroundResource(R.drawable.bg_wp3);
         else {
-            int ci = i - 3;
-            if (ci < 0 || ci >= WALLPAPER_COLORS.length) ci = 0;
+            int ci = i - 5;
+            if (ci < 0 || ci >= WALLPAPER_COLORS.length) {
+                target.setBackgroundResource(R.drawable.bg_wp0);
+                return;
+            }
             target.setBackgroundColor(WALLPAPER_COLORS[ci]);
         }
     }

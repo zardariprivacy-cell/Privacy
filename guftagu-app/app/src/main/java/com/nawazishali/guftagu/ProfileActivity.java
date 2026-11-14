@@ -12,8 +12,11 @@ import org.json.JSONObject;
 
 public class ProfileActivity extends PrefsActivity {
 
+    private static final int REQ_AVATAR = 71;
     private EditText etName, etAbout;
     private String uid;
+    private android.widget.ImageView ivAvatar;
+    private TextView tvAvatarInit;
 
     @Override
     protected String title() { return "Profile"; }
@@ -21,18 +24,43 @@ public class ProfileActivity extends PrefsActivity {
     @Override
     protected void build() {
         uid = Session.uid(this);
-        TextView avatar = new TextView(this);
+        android.widget.FrameLayout avatarWrap = new android.widget.FrameLayout(this);
+        LinearLayout.LayoutParams awp = new LinearLayout.LayoutParams(dp(84), dp(84));
+        awp.gravity = Gravity.CENTER_HORIZONTAL;
+        avatarWrap.setLayoutParams(awp);
+        tvAvatarInit = new TextView(this);
         String n = Session.name(this);
-        avatar.setText(n == null || n.trim().isEmpty() ? "?" : n.trim().substring(0, 1).toUpperCase());
-        avatar.setGravity(Gravity.CENTER);
-        avatar.setTextColor(0xFFFFFFFF);
-        avatar.setTextSize(30);
-        avatar.setTypeface(null, Typeface.BOLD);
-        avatar.setBackgroundResource(R.drawable.bg_circle);
-        LinearLayout.LayoutParams alp = new LinearLayout.LayoutParams(dp(84), dp(84));
-        alp.gravity = Gravity.CENTER_HORIZONTAL;
-        avatar.setLayoutParams(alp);
-        list.addView(avatar);
+        tvAvatarInit.setText(n == null || n.trim().isEmpty() ? "?" : n.trim().substring(0, 1).toUpperCase());
+        tvAvatarInit.setGravity(Gravity.CENTER);
+        tvAvatarInit.setTextColor(0xFFFFFFFF);
+        tvAvatarInit.setTextSize(30);
+        tvAvatarInit.setTypeface(null, Typeface.BOLD);
+        tvAvatarInit.setBackgroundResource(AppPrefs.avatarBgFor(uid));
+        avatarWrap.addView(tvAvatarInit, new android.widget.FrameLayout.LayoutParams(
+                android.widget.FrameLayout.LayoutParams.MATCH_PARENT,
+                android.widget.FrameLayout.LayoutParams.MATCH_PARENT));
+        ivAvatar = new android.widget.ImageView(this);
+        ivAvatar.setScaleType(android.widget.ImageView.ScaleType.CENTER_CROP);
+        ivAvatar.setVisibility(android.view.View.GONE);
+        avatarWrap.addView(ivAvatar, new android.widget.FrameLayout.LayoutParams(
+                android.widget.FrameLayout.LayoutParams.MATCH_PARENT,
+                android.widget.FrameLayout.LayoutParams.MATCH_PARENT));
+        list.addView(avatarWrap);
+
+        Button btnPhoto = new Button(this);
+        btnPhoto.setText("📷 Profile Photo Lagao");
+        btnPhoto.setTextColor(0xFFFFFFFF);
+        btnPhoto.setBackgroundResource(R.drawable.bg_btn_teal);
+        LinearLayout.LayoutParams bpp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, dp(46));
+        bpp.topMargin = dp(12);
+        btnPhoto.setLayoutParams(bpp);
+        btnPhoto.setOnClickListener(v -> {
+            android.content.Intent pick = new android.content.Intent(android.content.Intent.ACTION_GET_CONTENT);
+            pick.setType("image/*");
+            startActivityForResult(pick, REQ_AVATAR);
+        });
+        list.addView(btnPhoto);
 
         PrefRows.header(this, list, "NAAM");
         etName = input(n == null ? "" : n, "Poora naam");
@@ -63,6 +91,7 @@ public class ProfileActivity extends PrefsActivity {
                 if (!about.isEmpty()) etAbout.setText(about);
                 String name = prof.optString("name", "");
                 if (!name.isEmpty()) etName.setText(name);
+                if (prof.has("pic")) showAvatar(prof.optJSONObject("pic"));
             }
         });
     }
@@ -74,7 +103,7 @@ public class ProfileActivity extends PrefsActivity {
         et.setSingleLine(true);
         et.setBackgroundResource(R.drawable.bg_input);
         et.setPadding(dp(14), dp(12), dp(14), dp(12));
-        et.setTextColor(0xFFFFFFFF);
+        et.setTextColor(0xFF111111);
         et.setHintTextColor(0xFF8696A0);
         et.setTextSize(16);
         LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
@@ -82,6 +111,61 @@ public class ProfileActivity extends PrefsActivity {
         lp.topMargin = dp(6);
         et.setLayoutParams(lp);
         return et;
+    }
+
+    private void showAvatar(JSONObject pic) {
+        if (pic == null) return;
+        MediaHelper.fetchBlob(this, pic.optString("b", ""), pic.optString("k", ""), (file, err) -> {
+            if (file == null) return;
+            try {
+                android.graphics.Bitmap bmp = android.graphics.BitmapFactory.decodeFile(file.getAbsolutePath());
+                if (bmp == null) return;
+                ivAvatar.setImageBitmap(MediaHelper.circular(bmp));
+                ivAvatar.setVisibility(android.view.View.VISIBLE);
+                tvAvatarInit.setVisibility(android.view.View.GONE);
+            } catch (Exception ignored) {
+            }
+        });
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, android.content.Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode != REQ_AVATAR || resultCode != RESULT_OK || data == null || data.getData() == null) return;
+        final android.net.Uri uri = data.getData();
+        Toast.makeText(this, "Photo tayyar ho raha hai...", Toast.LENGTH_SHORT).show();
+        new Thread(() -> {
+            try {
+                byte[] bytes = MediaHelper.prepAvatar(this, uri);
+                runOnUiThread(() -> MediaHelper.uploadBlob(this, bytes, (blobId, keyB64, err) -> {
+                    if (err != null) {
+                        Toast.makeText(this, "Photo nahi lagi", Toast.LENGTH_SHORT).show();
+                        return;
+                    }
+                    Api.dbGet(this, "/users/" + uid, (prof, e2) -> {
+                        try {
+                            JSONObject p = prof != null ? prof : new JSONObject();
+                            JSONObject pic = new JSONObject();
+                            pic.put("b", blobId);
+                            pic.put("k", keyB64);
+                            p.put("pic", pic);
+                            if (!p.has("pub")) p.put("pub", Crypto.myPubB64(this));
+                            if (!p.has("name")) p.put("name", Session.name(this));
+                            Api.dbPut(this, "/users/" + uid, p, (ok, e3) -> {
+                                if (e3 != null) Toast.makeText(this, "Photo save nahi hui", Toast.LENGTH_SHORT).show();
+                                else {
+                                    Toast.makeText(this, "Profile photo lag gayi ✅", Toast.LENGTH_SHORT).show();
+                                    showAvatar(pic);
+                                }
+                            });
+                        } catch (Exception ignored) {
+                        }
+                    });
+                }));
+            } catch (Exception e) {
+                runOnUiThread(() -> Toast.makeText(this, "Photo parhi nahi gayi", Toast.LENGTH_SHORT).show());
+            }
+        }).start();
     }
 
     private void save() {

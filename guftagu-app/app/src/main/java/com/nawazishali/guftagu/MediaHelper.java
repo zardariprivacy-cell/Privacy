@@ -81,6 +81,33 @@ public class MediaHelper {
         });
     }
 
+    /** Center-crops a bitmap into a circle (for avatars). */
+    public static android.graphics.Bitmap circular(android.graphics.Bitmap bmp) {
+        int size = Math.min(bmp.getWidth(), bmp.getHeight());
+        android.graphics.Bitmap out = android.graphics.Bitmap.createBitmap(
+                size, size, android.graphics.Bitmap.Config.ARGB_8888);
+        android.graphics.Canvas c = new android.graphics.Canvas(out);
+        android.graphics.Path path = new android.graphics.Path();
+        path.addCircle(size / 2f, size / 2f, size / 2f, android.graphics.Path.Direction.CCW);
+        c.clipPath(path);
+        int left = (bmp.getWidth() - size) / 2, top = (bmp.getHeight() - size) / 2;
+        c.drawBitmap(bmp, -left, -top, null);
+        return out;
+    }
+
+    /** Small square JPEG for profile photos. */
+    public static byte[] prepAvatar(android.content.Context ctx, Uri uri) throws Exception {
+        byte[] full = prepPhoto(ctx, uri);
+        android.graphics.Bitmap bmp = BitmapFactory.decodeByteArray(full, 0, full.length);
+        int size = Math.min(bmp.getWidth(), bmp.getHeight());
+        android.graphics.Bitmap sq = android.graphics.Bitmap.createBitmap(
+                bmp, (bmp.getWidth() - size) / 2, (bmp.getHeight() - size) / 2, size, size);
+        android.graphics.Bitmap small = android.graphics.Bitmap.createScaledBitmap(sq, 256, 256, true);
+        java.io.ByteArrayOutputStream bos = new java.io.ByteArrayOutputStream();
+        small.compress(android.graphics.Bitmap.CompressFormat.JPEG, 80, bos);
+        return bos.toByteArray();
+    }
+
     // ---- message payloads (these JSON strings are what actually get encrypted into a chat message) ----
 
     public static String voicePayload(String blobId, String keyB64, int durSec) {
