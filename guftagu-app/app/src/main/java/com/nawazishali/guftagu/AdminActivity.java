@@ -18,7 +18,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class AdminActivity extends Activity {
+public class AdminActivity extends BaseActivity {
 
     private LinearLayout userList;
     private TextView tvStatus;
@@ -115,13 +115,13 @@ public class AdminActivity extends Activity {
         TextView tvN = new TextView(this);
         boolean isOwner = uid.equals(G.OWNER_UID);
         tvN.setText(name.isEmpty() ? "(bina naam)" : name);
-        tvN.setTextColor(0xFF111111);
+        tvN.setTextColor(AppPrefs.ink(this));
         tvN.setTextSize(15);
         tvN.setTypeface(null, Typeface.BOLD);
         texts.addView(tvN);
         TextView tvU = new TextView(this);
         tvU.setText(isOwner ? "OWNER — tumhara account" : (banned ? "⛔ BANNED" : uid.substring(0, Math.min(10, uid.length())) + "…"));
-        tvU.setTextColor(banned ? 0xFFF44336 : 0xFF667781);
+        tvU.setTextColor(banned ? 0xFFF44336 : AppPrefs.sub(this));
         tvU.setTextSize(12);
         texts.addView(tvU);
         row.addView(texts);

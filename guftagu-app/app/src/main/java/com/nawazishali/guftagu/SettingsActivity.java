@@ -12,7 +12,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class SettingsActivity extends Activity {
+public class SettingsActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +32,15 @@ public class SettingsActivity extends Activity {
                 v -> startActivity(new Intent(this, PrivacyActivity.class)));
         PrefRows.textRow(this, menu, "💬 Chats", "Font size, wallpaper, Enter se send",
                 v -> startActivity(new Intent(this, ChatsSettingsActivity.class)));
+        PrefRows.textRow(this, menu, "🎨 Theme", AppPrefs.darkMode(this) ? "Dark mode — ON hai" : "Light mode — ON hai",
+                v -> new AlertDialog.Builder(this)
+                        .setTitle("Theme chuno")
+                        .setSingleChoiceItems(new String[]{"☀️ Light", "🌙 Dark"}, AppPrefs.darkMode(this) ? 1 : 0, (d, which) -> {
+                            AppPrefs.setDarkMode(this, which == 1);
+                            d.dismiss();
+                            recreate();
+                        })
+                        .show());
         PrefRows.textRow(this, menu, "🔔 Notifications", "Awaz aur vibration (chat khuli ho to)",
                 v -> startActivity(new Intent(this, NotificationsActivity.class)));
         PrefRows.textRow(this, menu, "💾 Storage", "Cache, local history",
@@ -41,11 +50,11 @@ public class SettingsActivity extends Activity {
         PrefRows.textRow(this, menu, "🔐 App Lock (PIN)",
                 AppPrefs.pinHash(this) != null ? "On hai — badalne/hatane ke liye tap karo" : "Off hai — PIN lagane ke liye tap karo",
                 v -> pinMenu());
-        PrefRows.textRow(this, menu, "❓ Help / About", "Guftagu 2.4 — encryption aur haddain",
+        PrefRows.textRow(this, menu, "❓ Help / About", "Guftagu 2.5 — encryption aur haddain",
                 v -> startActivity(new Intent(this, HelpActivity.class)));
 
         ((TextView) findViewById(R.id.tvVersion)).setText(
-                "Guftagu — Version 2.4 • End-to-end encrypted • Developed by Nawazish Ali");
+                "Guftagu — Version 2.5 • End-to-end encrypted • Developed by Nawazish Ali");
 
         refreshOwnerSection();
         ((Button) findViewById(R.id.btnOwner)).setOnClickListener(v -> {

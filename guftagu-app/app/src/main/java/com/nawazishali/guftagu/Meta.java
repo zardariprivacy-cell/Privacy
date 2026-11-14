@@ -9,6 +9,28 @@ import org.json.JSONObject;
  */
 public class Meta {
 
+    /** Disappearing-message setting for a room: {t:"exp", h:<hours>} (room state, not a bubble). */
+    public static boolean isExp(String body) {
+        JSONObject p = MediaHelper.parsePayload(body);
+        return p != null && "exp".equals(p.optString("t"));
+    }
+
+    public static int expHours(String body) {
+        JSONObject p = MediaHelper.parsePayload(body);
+        return p == null ? 0 : p.optInt("h", 0);
+    }
+
+    public static String exp(int hours) {
+        try {
+            JSONObject p = new JSONObject();
+            p.put("t", "exp");
+            p.put("h", hours);
+            return p.toString();
+        } catch (Exception e) {
+            return "";
+        }
+    }
+
     public static boolean isMeta(String body) {
         JSONObject p = MediaHelper.parsePayload(body);
         if (p == null) return false;

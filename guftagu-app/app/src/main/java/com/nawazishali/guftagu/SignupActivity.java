@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import org.json.JSONObject;
 
-public class SignupActivity extends Activity {
+public class SignupActivity extends BaseActivity {
 
     private EditText etName, etUsername, etPassword;
     private TextView tvStatus;

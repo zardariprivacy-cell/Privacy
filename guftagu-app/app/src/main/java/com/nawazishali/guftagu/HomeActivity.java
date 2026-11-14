@@ -29,7 +29,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 
-public class HomeActivity extends Activity {
+public class HomeActivity extends BaseActivity {
 
     private static final int REQ_STATUS_PHOTO = 61;
 
@@ -199,7 +199,29 @@ public class HomeActivity extends Activity {
         if (cachedUsers == null || banned) return;
         String q = etSearch.getText().toString().trim().toLowerCase();
         chatList.removeAllViews();
-        if (filterMode != 1) chatList.addView(groupRow());
+
+        if (!q.isEmpty()) {
+            TextView searchRow = new TextView(this);
+            searchRow.setText("🔍 Messages mein dhundo: \"" + etSearch.getText().toString().trim() + "\"");
+            searchRow.setTextColor(AppPrefs.ink(this));
+            searchRow.setTextSize(15);
+            searchRow.setPadding(dp(16), dp(12), dp(16), dp(12));
+            final String query = etSearch.getText().toString().trim();
+            searchRow.setOnClickListener(v -> {
+                Intent i = new Intent(this, SearchActivity.class);
+                i.putExtra("q", query);
+                startActivity(i);
+            });
+            chatList.addView(searchRow);
+        }
+
+        java.util.List<View> pinnedViews = new ArrayList<>();
+        java.util.List<View> normalViews = new ArrayList<>();
+
+        if (filterMode != 1 && !AppPrefs.isArchived(this, "group")) {
+            View g = groupRow();
+            (AppPrefs.isPinned(this, "group") ? pinnedViews : normalViews).add(g);
+        }
         List<String[]> rows = new ArrayList<>();
         Iterator<String> it = cachedUsers.keys();
         while (it.hasNext()) {
@@ -211,6 +233,7 @@ public class HomeActivity extends Activity {
             if (!q.isEmpty() && !name.toLowerCase().contains(q)) continue;
             if (filterMode == 2) continue;
             if (filterMode == 1 && !Presence.isOnline(u)) continue;
+            if (AppPrefs.isArchived(this, uid)) continue;
             rows.add(new String[]{uid, name, u.optString("pub", "")});
         }
         Collections.sort(rows, (a, b) -> a[1].compareToIgnoreCase(b[1]));
@@ -225,14 +248,71 @@ public class HomeActivity extends Activity {
             visible.add(r);
         }
 
-        if (visible.isEmpty()) {
+        if (visible.isEmpty() && pinnedViews.isEmpty() && normalViews.isEmpty()) {
             tvStatus.setText(q.isEmpty()
                     ? "Abhi aur koi user nahi hai — doston ko Guftagu par bulao!"
                     : "Is naam ka koi user nahi mila");
         } else {
             tvStatus.setText("");
         }
-        for (String[] r : visible) chatList.addView(userRow(r[0], r[1], r[2]));
+        for (String[] r : visible) {
+            View row = userRow(r[0], r[1], r[2]);
+            (AppPrefs.isPinned(this, r[0]) ? pinnedViews : normalViews).add(row);
+        }
+        for (View v : pinnedViews) chatList.addView(v);
+        for (View v : normalViews) chatList.addView(v);
+
+        if (q.isEmpty() && filterMode == 0) {
+            int n = archivedCount();
+            if (n > 0) {
+                TextView arch = new TextView(this);
+                arch.setText("📥 Archived chats (" + n + ")");
+                arch.setTextColor(AppPrefs.sub(this));
+                arch.setTextSize(14);
+                arch.setPadding(dp(16), dp(14), dp(16), dp(10));
+                arch.setOnClickListener(v -> startActivity(new Intent(this, ArchivedActivity.class)));
+                chatList.addView(arch);
+            }
+        }
+    }
+
+    private int archivedCount() {
+        int n = 0;
+        if (AppPrefs.isArchived(this, "group")) n++;
+        if (cachedUsers != null) {
+            Iterator<String> it = cachedUsers.keys();
+            while (it.hasNext()) {
+                String uid = it.next();
+                if (!uid.equals(myUid) && AppPrefs.isArchived(this, uid)) n++;
+            }
+        }
+        return n;
+    }
+
+    private void chatMenu(final String key, final String label) {
+        final boolean pinned = AppPrefs.isPinned(this, key);
+        final boolean archived = AppPrefs.isArchived(this, key);
+        String[] items = {
+                pinned ? "📌 Pin hatao" : "📌 Pin karo",
+                archived ? "📤 Archive se hatao" : "📥 Archive karo"
+        };
+        new AlertDialog.Builder(this)
+                .setTitle(label)
+                .setItems(items, (d, which) -> {
+                    if (which == 0) {
+                        if (!pinned && AppPrefs.pinnedSet(this).size() >= 3) {
+                            Toast.makeText(this, "Sirf 3 chats pin ho sakti hain", Toast.LENGTH_SHORT).show();
+                            return;
+                        }
+                        AppPrefs.setPinned(this, key, !pinned);
+                    } else {
+                        AppPrefs.setArchived(this, key, !archived);
+                        Toast.makeText(this, !archived ? "Archive ho gaya 📥" : "Archive se wapas aa gaya",
+                                Toast.LENGTH_SHORT).show();
+                    }
+                    renderChats();
+                })
+                .show();
     }
 
     private String roomId(String peerUid) {
@@ -299,13 +379,13 @@ public class HomeActivity extends Activity {
         texts.setLayoutParams(tlp);
         TextView tvT = new TextView(this);
         tvT.setText(title);
-        tvT.setTextColor(0xFF111111);
+        tvT.setTextColor(AppPrefs.ink(this));
         tvT.setTextSize(16);
         tvT.setTypeface(null, Typeface.BOLD);
         texts.addView(tvT);
         TextView tvS = new TextView(this);
         tvS.setText(sub);
-        tvS.setTextColor(0xFF667781);
+        tvS.setTextColor(AppPrefs.sub(this));
         tvS.setTextSize(13);
         tvS.setSingleLine(true);
         texts.addView(tvS);
@@ -314,7 +394,7 @@ public class HomeActivity extends Activity {
         if (time != null) {
             TextView tvTime = new TextView(this);
             tvTime.setText(time);
-            tvTime.setTextColor(0xFF667781);
+            tvTime.setTextColor(AppPrefs.sub(this));
             tvTime.setTextSize(12);
             row.addView(tvTime);
         }
@@ -329,8 +409,12 @@ public class HomeActivity extends Activity {
             sub = (last.sender.equals(myUid) ? "Tum: " : "") + MediaHelper.previewText(last.body);
             time = timeLabel(last.ts);
         }
-        LinearLayout row = rowBase("Sab ka Group", sub, time, false, "group", false);
+        LinearLayout row = rowBase("Sab ka Group" + (AppPrefs.isPinned(this, "group") ? " 📌" : ""), sub, time, false, "group", false);
         row.setOnClickListener(v -> startActivity(new Intent(this, GroupActivity.class)));
+        row.setOnLongClickListener(v -> {
+            chatMenu("group", "Sab ka Group");
+            return true;
+        });
         return row;
     }
 
@@ -348,7 +432,11 @@ public class HomeActivity extends Activity {
                     ? "Abhi app nahi khola — key nahi bani"
                     : "🔒 End-to-end encrypted";
         }
-        LinearLayout row = rowBase(name.isEmpty() ? "(bina naam)" : name, sub, time, online, uid, false, prof);
+        LinearLayout row = rowBase((name.isEmpty() ? "(bina naam)" : name) + (AppPrefs.isPinned(this, uid) ? " 📌" : ""), sub, time, online, uid, false, prof);
+        row.setOnLongClickListener(v -> {
+            chatMenu(uid, name);
+            return true;
+        });
         row.setOnClickListener(v -> {
             Intent i = new Intent(this, ChatActivity.class);
             i.putExtra("peerUid", uid);

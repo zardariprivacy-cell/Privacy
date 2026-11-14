@@ -12,11 +12,11 @@
             android:layout_width="wrap_content" android:layout_height="44dp"
             android:background="@drawable/bg_btn_ghost" android:paddingLeft="12dp"
             android:paddingRight="12dp" android:text="←"
-            android:textColor="#111111" android:textSize="16sp" />
+            android:textColor="@color/ink" android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:layout_marginLeft="10dp" android:text="Admin Panel — Sirf Owner"
-            android:textColor="#111111" android:textSize="18sp" android:textStyle="bold" />
+            android:textColor="@color/ink" android:textSize="18sp" android:textStyle="bold" />
     </LinearLayout>
 
     <ScrollView
@@ -28,7 +28,7 @@
             <TextView
                 android:id="@+id/tvAdminStatus"
                 android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:text="" android:textColor="#667781" android:textSize="14sp" />
+                android:text="" android:textColor="@color/sub" android:textSize="14sp" />
 
             <LinearLayout
                 android:layout_width="match_parent" android:layout_height="wrap_content"
@@ -43,8 +43,8 @@
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:background="@drawable/bg_input"
                     android:hint="Announcement likho..." android:inputType="textMultiLine"
-                    android:maxLines="3" android:padding="12dp" android:textColor="#111111"
-                    android:textColorHint="#667781" android:textSize="15sp" />
+                    android:maxLines="3" android:padding="12dp" android:textColor="@color/ink"
+                    android:textColorHint="@color/sub" android:textSize="15sp" />
                 <Button
                     android:id="@+id/btnBroadcast"
                     android:layout_width="match_parent" android:layout_height="48dp"
@@ -55,7 +55,7 @@
                     android:id="@+id/btnClearBroadcast"
                     android:layout_width="match_parent" android:layout_height="48dp"
                     android:layout_marginTop="8dp" android:background="@drawable/bg_btn_ghost"
-                    android:text="Announcement Hatao" android:textColor="#111111"
+                    android:text="Announcement Hatao" android:textColor="@color/ink"
                     android:textSize="15sp" />
             </LinearLayout>
 

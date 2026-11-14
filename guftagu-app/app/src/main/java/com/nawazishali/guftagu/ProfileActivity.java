@@ -103,8 +103,8 @@ public class ProfileActivity extends PrefsActivity {
         et.setSingleLine(true);
         et.setBackgroundResource(R.drawable.bg_input);
         et.setPadding(dp(14), dp(12), dp(14), dp(12));
-        et.setTextColor(0xFF111111);
-        et.setHintTextColor(0xFF8696A0);
+        et.setTextColor(AppPrefs.ink(this));
+        et.setHintTextColor(AppPrefs.sub(this));
         et.setTextSize(16);
         LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);

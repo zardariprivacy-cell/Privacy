@@ -36,7 +36,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-public class GroupActivity extends Activity {
+public class GroupActivity extends BaseActivity {
 
     private static final String ROOM = "group";
     private static final int REQ_PHOTO = 51;
@@ -106,6 +106,7 @@ public class GroupActivity extends Activity {
                         .setTitle("🔒 Group Encryption")
                         .setMessage("Har message ek nayi random key se lock hota hai, aur wo key har member ke liye alag se uski public key se band kar bheji jati hai. Server par sirf band (encrypted) text jata hai — server, admin, koi bhi message nahi parh sakta. Jo member baad mein join kare, wo puranay messages nahi parh sakta.")
                         .setPositiveButton("Theek hai", null)
+                        .setNeutralButton("⏳ Gayab Msgs", (d, w) -> expDialog())
                         .show());
 
         db = new LocalDb(this);
@@ -158,6 +159,40 @@ public class GroupActivity extends Activity {
     }
 
     // ---------------- group send (text or media payload) ----------------
+
+    private void expDialog() {
+        final String[] opts = {"Off", "24 ghante", "7 din"};
+        final int[] hours = {0, 24, 168};
+        int cur = AppPrefs.disappearHours(this, ROOM);
+        int sel = cur == 24 ? 1 : cur == 168 ? 2 : 0;
+        new AlertDialog.Builder(this)
+                .setTitle("⏳ Disappearing messages (poora group)")
+                .setSingleChoiceItems(opts, sel, (d, w) -> {
+                    int h = hours[w];
+                    AppPrefs.setDisappearHours(this, ROOM, h);
+                    sendGroupMeta(Meta.exp(h));
+                    db.addMessage(ROOM, "sys" + System.currentTimeMillis(), myUid,
+                            h == 0 ? "⏳ Disappearing messages OFF ho gaye"
+                                    : "⏳ Disappearing messages ON: " + opts[w] + " se puranay messages gayab ho jayenge",
+                            System.currentTimeMillis());
+                    d.dismiss();
+                    pruneExpired();
+                    renderAll();
+                })
+                .show();
+    }
+
+    private void pruneExpired() {
+        int h = AppPrefs.disappearHours(this, ROOM);
+        if (h <= 0) return;
+        long cutoff = System.currentTimeMillis() - h * 3600000L;
+        for (LocalDb.Msg m : db.expired(ROOM, cutoff)) {
+            if (m.sender.equals(myUid) && !m.msgid.startsWith("sys")) {
+                Api.dbDelete(this, "/group/messages/" + m.msgid, (ok, e) -> { });
+            }
+            db.deleteMessage(ROOM, m.msgid);
+        }
+    }
 
     private void sendGroupText(String text) {
         String body = text;
@@ -534,7 +569,10 @@ public class GroupActivity extends Activity {
                 if (AppPrefs.isBlocked(this, from)) continue;
                 long ts = m.optLong("ts", System.currentTimeMillis());
                 String plain = decryptGroupMessage(m);
-                if (plain != null && Meta.isMeta(plain)) {
+                if (plain != null && Meta.isExp(plain)) {
+                    AppPrefs.setDisappearHours(this, ROOM, Meta.expHours(plain));
+                    metaChanged = true;
+                } else if (plain != null && Meta.isMeta(plain)) {
                     Meta.apply(db, ROOM, from, plain);
                     metaChanged = true;
                 } else {
@@ -544,6 +582,7 @@ public class GroupActivity extends Activity {
                     added = true;
                 }
             }
+            pruneExpired();
             if (added || metaChanged || msgList.getChildCount() == 0) {
                 renderAll();
                 if (added) scrollToBottom();
@@ -599,7 +638,7 @@ public class GroupActivity extends Activity {
             if (!n.isEmpty()) {
                 TextView nameTv = new TextView(this);
                 nameTv.setText(n);
-                nameTv.setTextColor(0xFFB7791F);
+                nameTv.setTextColor(AppPrefs.nameInk(this));
                 nameTv.setTextSize(12);
                 card.addView(nameTv);
             }
@@ -610,7 +649,7 @@ public class GroupActivity extends Activity {
         if (Meta.isDeleted(m.body)) {
             TextView tv = new TextView(this);
             tv.setText("🚫 Ye message delete ho gaya");
-            tv.setTextColor(0xFF667781);
+            tv.setTextColor(AppPrefs.sub(this));
             tv.setTextSize(AppPrefs.bubbleTextSize(this));
             tv.setTypeface(null, android.graphics.Typeface.ITALIC);
             content = tv;
@@ -628,7 +667,7 @@ public class GroupActivity extends Activity {
         TextView foot = new TextView(this);
         boolean edited = payload != null && payload.optBoolean("ed");
         foot.setText((edited ? "✎ edited • " : "") + new SimpleDateFormat("HH:mm", Locale.getDefault()).format(new Date(m.ts)));
-        foot.setTextColor(0xFF667781);
+        foot.setTextColor(AppPrefs.sub(this));
         foot.setTextSize(11);
         foot.setGravity(Gravity.END);
         card.addView(foot);
@@ -660,7 +699,7 @@ public class GroupActivity extends Activity {
             if (payload.optBoolean("fwd")) {
                 TextView fwd = new TextView(this);
                 fwd.setText("↪ Forwarded");
-                fwd.setTextColor(0xFF667781);
+                fwd.setTextColor(AppPrefs.sub(this));
                 fwd.setTextSize(11);
                 fwd.setTypeface(null, android.graphics.Typeface.ITALIC);
                 col.addView(fwd);
@@ -689,7 +728,7 @@ public class GroupActivity extends Activity {
                 qtexts.addView(who);
                 TextView snip = new TextView(this);
                 snip.setText(q.optString("snip", ""));
-                snip.setTextColor(0xFF667781);
+                snip.setTextColor(AppPrefs.sub(this));
                 snip.setTextSize(12);
                 snip.setMaxLines(2);
                 qtexts.addView(snip);
@@ -703,7 +742,7 @@ public class GroupActivity extends Activity {
         }
         TextView tv = new TextView(this);
         tv.setText(text);
-        tv.setTextColor(0xFF111111);
+        tv.setTextColor(AppPrefs.ink(this));
         tv.setTextSize(AppPrefs.bubbleTextSize(this));
         col.addView(tv);
         return col;
@@ -873,7 +912,7 @@ public class GroupActivity extends Activity {
         row.addView(play);
         TextView label = new TextView(this);
         label.setText("🎤 Voice message • " + MediaHelper.fmtDur(payload.optInt("dur", 0)));
-        label.setTextColor(0xFF111111);
+        label.setTextColor(AppPrefs.ink(this));
         label.setTextSize(AppPrefs.bubbleTextSize(this));
         row.addView(label);
         final String blobId = payload.optString("b", "");
@@ -937,12 +976,12 @@ public class GroupActivity extends Activity {
         col.setOrientation(LinearLayout.VERTICAL);
         TextView name = new TextView(this);
         name.setText("📎 " + payload.optString("name", "File"));
-        name.setTextColor(0xFF111111);
+        name.setTextColor(AppPrefs.ink(this));
         name.setTextSize(AppPrefs.bubbleTextSize(this));
         col.addView(name);
         TextView sub = new TextView(this);
         sub.setText(MediaHelper.fmtSize(payload.optLong("size", 0)) + " • Download ke liye tap karo");
-        sub.setTextColor(0xFF667781);
+        sub.setTextColor(AppPrefs.sub(this));
         sub.setTextSize(12);
         col.addView(sub);
         final String blobId = payload.optString("b", "");

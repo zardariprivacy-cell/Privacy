@@ -161,6 +161,42 @@ public class LocalDb extends SQLiteOpenHelper {
                 new String[]{room, msgid});
     }
 
+    public void deleteMessage(String room, String msgid) {
+        getWritableDatabase().delete("messages", "room=? AND msgid=?",
+                new String[]{room, msgid});
+    }
+
+    /** Messages in a room older than the cutoff (for disappearing-message pruning). */
+    public List<Msg> expired(String room, long cutoff) {
+        List<Msg> out = new ArrayList<>();
+        Cursor c = getReadableDatabase().query("messages", null, "room=? AND ts<?",
+                new String[]{room, String.valueOf(cutoff)}, null, null, "ts ASC");
+        while (c.moveToNext()) out.add(readRow(c));
+        c.close();
+        return out;
+    }
+
+    public static class Hit {
+        public String room;
+        public Msg msg;
+    }
+
+    /** Raw candidate matches for global search (callers filter on display text). */
+    public List<Hit> search(String q) {
+        List<Hit> out = new ArrayList<>();
+        Cursor c = getReadableDatabase().rawQuery(
+                "SELECT * FROM messages WHERE body LIKE ? ORDER BY ts DESC LIMIT 300",
+                new String[]{"%" + q + "%"});
+        while (c.moveToNext()) {
+            Hit h = new Hit();
+            h.room = c.getString(0);
+            h.msg = readRow(c);
+            out.add(h);
+        }
+        c.close();
+        return out;
+    }
+
     public int countAll() {
         Cursor c = getReadableDatabase().rawQuery("SELECT COUNT(*) FROM messages", null);
         int n = 0;

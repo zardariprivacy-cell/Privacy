@@ -6,7 +6,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 /** Base class for the WhatsApp-style settings sub-screens. */
-public abstract class PrefsActivity extends Activity {
+public abstract class PrefsActivity extends BaseActivity {
 
     protected LinearLayout list;
 

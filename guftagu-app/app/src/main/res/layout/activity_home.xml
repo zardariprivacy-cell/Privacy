@@ -27,7 +27,7 @@
             android:layout_width="wrap_content" android:layout_height="40dp"
             android:layout_marginLeft="6dp" android:background="@drawable/bg_btn_ghost"
             android:paddingLeft="13dp" android:paddingRight="13dp" android:text="⚙"
-            android:textColor="#111111" android:textSize="15sp" />
+            android:textColor="@color/ink" android:textSize="15sp" />
     </LinearLayout>
 
     <TextView
@@ -42,8 +42,8 @@
         android:layout_marginLeft="14dp" android:layout_marginRight="14dp"
         android:layout_marginTop="8dp" android:background="@drawable/bg_input"
         android:hint="🔍  Search" android:inputType="text"
-        android:padding="13dp" android:singleLine="true" android:textColor="#111111"
-        android:textColorHint="#667781" android:textSize="15sp" />
+        android:padding="13dp" android:singleLine="true" android:textColor="@color/ink"
+        android:textColorHint="@color/sub" android:textSize="15sp" />
 
     <LinearLayout
         android:layout_width="match_parent" android:layout_height="wrap_content"
@@ -54,26 +54,26 @@
             android:layout_width="wrap_content" android:layout_height="36dp"
             android:background="@drawable/bg_chip_sel" android:paddingLeft="16dp"
             android:paddingRight="16dp" android:text="All"
-            android:textColor="#111111" android:textSize="14sp" />
+            android:textColor="@color/ink" android:textSize="14sp" />
         <Button
             android:id="@+id/chipOnline"
             android:layout_width="wrap_content" android:layout_height="36dp"
             android:layout_marginLeft="8dp" android:background="@drawable/bg_chip"
             android:paddingLeft="16dp" android:paddingRight="16dp" android:text="Online"
-            android:textColor="#111111" android:textSize="14sp" />
+            android:textColor="@color/ink" android:textSize="14sp" />
         <Button
             android:id="@+id/chipGroups"
             android:layout_width="wrap_content" android:layout_height="36dp"
             android:layout_marginLeft="8dp" android:background="@drawable/bg_chip"
             android:paddingLeft="16dp" android:paddingRight="16dp" android:text="Groups"
-            android:textColor="#111111" android:textSize="14sp" />
+            android:textColor="@color/ink" android:textSize="14sp" />
     </LinearLayout>
 
     <TextView
         android:id="@+id/tvHomeStatus"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingTop="6dp"
-        android:text="" android:textColor="#667781" android:textSize="13sp" />
+        android:text="" android:textColor="@color/sub" android:textSize="13sp" />
 
     <FrameLayout
         android:layout_width="match_parent" android:layout_height="0dp"
@@ -90,7 +90,7 @@
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp" android:layout_marginTop="8dp"
-                    android:text="STATUS" android:textColor="#667781"
+                    android:text="STATUS" android:textColor="@color/sub"
                     android:textSize="12sp" android:textStyle="bold" />
                 <LinearLayout
                     android:id="@+id/statusList"
@@ -100,7 +100,7 @@
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp" android:layout_marginTop="14dp"
-                    android:text="CHATS" android:textColor="#667781"
+                    android:text="CHATS" android:textColor="@color/sub"
                     android:textSize="12sp" android:textStyle="bold" />
                 <LinearLayout
                     android:id="@+id/chatList"
@@ -119,7 +119,7 @@
 
     <LinearLayout
         android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:background="#FFFFFF" android:orientation="horizontal"
+        android:background="@color/paper" android:orientation="horizontal"
         android:paddingTop="6dp" android:paddingBottom="8dp">
 
         <LinearLayout
@@ -135,7 +135,7 @@
                 android:textSize="19sp" />
             <TextView
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Chats" android:textColor="#111111"
+                android:text="Chats" android:textColor="@color/ink"
                 android:textSize="13sp" android:textStyle="bold" />
         </LinearLayout>
 
@@ -148,10 +148,10 @@
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:gravity="center" android:paddingLeft="18dp" android:paddingRight="18dp"
                 android:paddingTop="3dp" android:paddingBottom="3dp" android:text="◉"
-                android:textColor="#111111" android:textSize="19sp" />
+                android:textColor="@color/ink" android:textSize="19sp" />
             <TextView
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Status" android:textColor="#111111" android:textSize="13sp" />
+                android:text="Status" android:textColor="@color/ink" android:textSize="13sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -166,7 +166,7 @@
                 android:textSize="19sp" />
             <TextView
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Group" android:textColor="#111111" android:textSize="13sp" />
+                android:text="Group" android:textColor="@color/ink" android:textSize="13sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -178,10 +178,10 @@
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
                 android:gravity="center" android:paddingLeft="18dp" android:paddingRight="18dp"
                 android:paddingTop="3dp" android:paddingBottom="3dp" android:text="⚙"
-                android:textColor="#111111" android:textSize="19sp" />
+                android:textColor="@color/ink" android:textSize="19sp" />
             <TextView
                 android:layout_width="wrap_content" android:layout_height="wrap_content"
-                android:text="Settings" android:textColor="#111111" android:textSize="13sp" />
+                android:text="Settings" android:textColor="@color/ink" android:textSize="13sp" />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>

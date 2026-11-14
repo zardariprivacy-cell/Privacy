@@ -65,7 +65,7 @@ public class AppPrefs {
             return;
         }
         if (i == 0) target.setBackgroundResource(R.drawable.bg_wp0);
-        else if (i == 1) target.setBackgroundColor(0xFFFFFFFF);
+        else if (i == 1) target.setBackgroundColor(paper(a));
         else if (i == 2) target.setBackgroundResource(R.drawable.bg_wp1);
         else if (i == 3) target.setBackgroundResource(R.drawable.bg_wp2);
         else if (i == 4) target.setBackgroundResource(R.drawable.bg_wp3);
@@ -81,6 +81,43 @@ public class AppPrefs {
     public static final String[] FONT_NAMES = {"Chhota", "Darmiyana", "Bara"};
 
     private static SharedPreferences p(Context c) { return c.getSharedPreferences(P, Context.MODE_PRIVATE); }
+
+    // ---- Stage B: theme ----
+    public static boolean darkMode(Context c) { return p(c).getBoolean("darkMode", false); }
+    public static void setDarkMode(Context c, boolean v) { p(c).edit().putBoolean("darkMode", v).apply(); }
+
+    // ---- Stage B: theme colors (values change with the night configuration) ----
+    public static int ink(Context c) { return c.getResources().getColor(R.color.ink, c.getTheme()); }
+    public static int sub(Context c) { return c.getResources().getColor(R.color.sub, c.getTheme()); }
+    public static int paper(Context c) { return c.getResources().getColor(R.color.paper, c.getTheme()); }
+    public static int sysInk(Context c) { return c.getResources().getColor(R.color.sysInk, c.getTheme()); }
+    public static int nameInk(Context c) { return c.getResources().getColor(R.color.nameInk, c.getTheme()); }
+
+    // ---- Stage B: pinned / archived chats (keys: a user uid, or "group") ----
+    public static java.util.Set<String> pinnedSet(Context c) {
+        return new java.util.HashSet<>(p(c).getStringSet("pinnedChats", new java.util.HashSet<>()));
+    }
+    public static boolean isPinned(Context c, String key) { return pinnedSet(c).contains(key); }
+    public static void setPinned(Context c, String key, boolean on) {
+        java.util.Set<String> set = pinnedSet(c);
+        if (on) set.add(key); else set.remove(key);
+        p(c).edit().putStringSet("pinnedChats", set).apply();
+    }
+    public static java.util.Set<String> archivedSet(Context c) {
+        return new java.util.HashSet<>(p(c).getStringSet("archivedChats", new java.util.HashSet<>()));
+    }
+    public static boolean isArchived(Context c, String key) { return archivedSet(c).contains(key); }
+    public static void setArchived(Context c, String key, boolean on) {
+        java.util.Set<String> set = archivedSet(c);
+        if (on) set.add(key); else set.remove(key);
+        p(c).edit().putStringSet("archivedChats", set).apply();
+    }
+
+    // ---- Stage B: disappearing messages (hours per room; 0 = off) ----
+    public static int disappearHours(Context c, String room) { return p(c).getInt("exp_" + room, 0); }
+    public static void setDisappearHours(Context c, String room, int h) {
+        p(c).edit().putInt("exp_" + room, h).apply();
+    }
 
     public static boolean readReceipts(Context c) { return p(c).getBoolean("readReceipts", true); }
     public static void setReadReceipts(Context c, boolean v) { p(c).edit().putBoolean("readReceipts", v).apply(); }

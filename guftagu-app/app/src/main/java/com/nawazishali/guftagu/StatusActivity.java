@@ -15,7 +15,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-public class StatusActivity extends Activity {
+public class StatusActivity extends BaseActivity {
 
     private String authorUid, myUid;
     private TextView tvBody;

@@ -40,7 +40,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 
-public class ChatActivity extends Activity {
+public class ChatActivity extends BaseActivity {
 
     private static final int REQ_PHOTO = 41;
     private static final int REQ_FILE = 42;
@@ -554,7 +554,10 @@ public class ChatActivity extends Activity {
                     if (blocked) continue;
                     long midx = m.optLong("idx", -1);
                     String plain = ratchet.decrypt(midx, m.optString("body", ""), from);
-                    if (plain != null && Meta.isMeta(plain)) {
+                    if (plain != null && Meta.isExp(plain)) {
+                        AppPrefs.setDisappearHours(this, roomId, Meta.expHours(plain));
+                        metaChanged = true;
+                    } else if (plain != null && Meta.isMeta(plain)) {
                         Meta.apply(db, roomId, from, plain);
                         metaChanged = true;
                     } else {
@@ -573,6 +576,7 @@ public class ChatActivity extends Activity {
             }
             if ((ticksChanged || metaChanged) && !added) renderAll();
             firstPoll = false;
+            pruneExpired();
             // publish my read receipt
             if (AppPrefs.readReceipts(this) && maxPeerIdx > lastSeenSent) {
                 lastSeenSent = maxPeerIdx;
@@ -608,6 +612,40 @@ public class ChatActivity extends Activity {
 
     // ---------------- safety + block ----------------
 
+    private void expDialog() {
+        final String[] opts = {"Off", "24 ghante", "7 din"};
+        final int[] hours = {0, 24, 168};
+        int cur = AppPrefs.disappearHours(this, roomId);
+        int sel = cur == 24 ? 1 : cur == 168 ? 2 : 0;
+        new AlertDialog.Builder(this)
+                .setTitle("⏳ Disappearing messages")
+                .setSingleChoiceItems(opts, sel, (d, w) -> {
+                    int h = hours[w];
+                    AppPrefs.setDisappearHours(this, roomId, h);
+                    sendMeta(Meta.exp(h));
+                    db.addMessage(roomId, "sys" + System.currentTimeMillis(), "sys",
+                            h == 0 ? "⏳ Disappearing messages OFF ho gaye"
+                                    : "⏳ Disappearing messages ON: " + opts[w] + " se puranay messages gayab ho jayenge",
+                            System.currentTimeMillis());
+                    d.dismiss();
+                    pruneExpired();
+                    renderAll();
+                })
+                .show();
+    }
+
+    private void pruneExpired() {
+        int h = AppPrefs.disappearHours(this, roomId);
+        if (h <= 0) return;
+        long cutoff = System.currentTimeMillis() - h * 3600000L;
+        for (LocalDb.Msg m : db.expired(roomId, cutoff)) {
+            if (m.sender.equals(myUid)) {
+                Api.dbDelete(this, "/rooms/" + roomId + "/messages/" + m.msgid, (ok, e) -> { });
+            }
+            db.deleteMessage(roomId, m.msgid);
+        }
+    }
+
     private void showSafety() {
         if (peerPub == null || peerPub.isEmpty()) {
             Toast.makeText(this, "Saathi ki key abhi nahi hai", Toast.LENGTH_SHORT).show();
@@ -620,6 +658,7 @@ public class ChatActivity extends Activity {
                     .setMessage(num + "\n\nYe number tumhare aur " + peerName + " ke phone par ek jaisa hona chahiye. " +
                             "Phone call par mila kar confirm karo — number ek jaisa hai to beech mein koi tumhari baat nahi sun sakta, server bhi nahi.")
                     .setPositiveButton("Theek hai", null);
+            b.setNeutralButton("⏳ Gayab Msgs", (d, w) -> expDialog());
             b.setNegativeButton(blocked ? "✅ Unblock karo" : "🚫 Block karo", (d, w) -> {
                 if (blocked) AppPrefs.unblock(this, peerUid);
                 else AppPrefs.block(this, peerUid, peerName);
@@ -664,7 +703,7 @@ public class ChatActivity extends Activity {
         if ("sys".equals(m.sender)) {
             TextView tv = new TextView(this);
             tv.setText(m.body);
-            tv.setTextColor(0xFF5A4E1F);
+            tv.setTextColor(AppPrefs.sysInk(this));
             tv.setTextSize(12);
             tv.setGravity(Gravity.CENTER);
             tv.setBackgroundResource(R.drawable.bg_sys);
@@ -680,7 +719,7 @@ public class ChatActivity extends Activity {
         if (Meta.isDeleted(m.body)) {
             TextView tv = new TextView(this);
             tv.setText("🚫 Ye message delete ho gaya");
-            tv.setTextColor(0xFF667781);
+            tv.setTextColor(AppPrefs.sub(this));
             tv.setTextSize(AppPrefs.bubbleTextSize(this));
             tv.setTypeface(null, android.graphics.Typeface.ITALIC);
             content = tv;
@@ -702,7 +741,7 @@ public class ChatActivity extends Activity {
         TextView foot = new TextView(this);
         boolean edited = payload != null && payload.optBoolean("ed");
         foot.setText(edited ? "✎ edited • " + footer(m) : footer(m));
-        foot.setTextColor(0xFF667781);
+        foot.setTextColor(AppPrefs.sub(this));
         foot.setTextSize(11);
         foot.setGravity(Gravity.END);
         card.addView(foot);
@@ -734,7 +773,7 @@ public class ChatActivity extends Activity {
             if (payload.optBoolean("fwd")) {
                 TextView fwd = new TextView(this);
                 fwd.setText("↪ Forwarded");
-                fwd.setTextColor(0xFF667781);
+                fwd.setTextColor(AppPrefs.sub(this));
                 fwd.setTextSize(11);
                 fwd.setTypeface(null, android.graphics.Typeface.ITALIC);
                 col.addView(fwd);
@@ -763,7 +802,7 @@ public class ChatActivity extends Activity {
                 qtexts.addView(who);
                 TextView snip = new TextView(this);
                 snip.setText(q.optString("snip", ""));
-                snip.setTextColor(0xFF667781);
+                snip.setTextColor(AppPrefs.sub(this));
                 snip.setTextSize(12);
                 snip.setMaxLines(2);
                 qtexts.addView(snip);
@@ -777,7 +816,7 @@ public class ChatActivity extends Activity {
         }
         TextView tv = new TextView(this);
         tv.setText(text);
-        tv.setTextColor(0xFF111111);
+        tv.setTextColor(AppPrefs.ink(this));
         tv.setTextSize(AppPrefs.bubbleTextSize(this));
         col.addView(tv);
         return col;
@@ -963,7 +1002,7 @@ public class ChatActivity extends Activity {
         TextView label = new TextView(this);
         int dur = payload.optInt("dur", 0);
         label.setText("🎤 Voice message • " + MediaHelper.fmtDur(dur));
-        label.setTextColor(0xFF111111);
+        label.setTextColor(AppPrefs.ink(this));
         label.setTextSize(AppPrefs.bubbleTextSize(this));
         row.addView(label);
         final String blobId = payload.optString("b", "");
@@ -1028,7 +1067,7 @@ public class ChatActivity extends Activity {
         col.setOrientation(LinearLayout.VERTICAL);
         TextView name = new TextView(this);
         name.setText("📎 " + payload.optString("name", "File"));
-        name.setTextColor(0xFF111111);
+        name.setTextColor(AppPrefs.ink(this));
         name.setTextSize(AppPrefs.bubbleTextSize(this));
         col.addView(name);
         final TextView sub = new TextView(this);
@@ -1037,7 +1076,7 @@ public class ChatActivity extends Activity {
         final String key = payload.optString("k", "");
         File saved = savedFileTarget(payload.optString("name", "file"));
         sub.setText(MediaHelper.fmtSize(size) + (saved.exists() ? " • Save hai — tap karke dekho" : " • Download ke liye tap karo"));
-        sub.setTextColor(0xFF667781);
+        sub.setTextColor(AppPrefs.sub(this));
         sub.setTextSize(12);
         col.addView(sub);
         col.setOnClickListener(v -> MediaHelper.fetchBlob(this, blobId, key, (file, err) -> {

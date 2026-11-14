@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#E9EDEF</color>
+    <color name="sub">#8696A0</color>
+    <color name="paper">#111B21</color>
+    <color name="sysInk">#FFD279</color>
+    <color name="nameInk">#F5B81D</color>
+</resources>

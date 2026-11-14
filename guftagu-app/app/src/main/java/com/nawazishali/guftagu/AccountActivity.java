@@ -21,8 +21,8 @@ public class AccountActivity extends PrefsActivity {
         et.setInputType(android.text.InputType.TYPE_CLASS_TEXT | android.text.InputType.TYPE_TEXT_VARIATION_PASSWORD);
         et.setBackgroundResource(R.drawable.bg_input);
         et.setPadding(dp(14), dp(12), dp(14), dp(12));
-        et.setTextColor(0xFF111111);
-        et.setHintTextColor(0xFF8696A0);
+        et.setTextColor(AppPrefs.ink(this));
+        et.setHintTextColor(AppPrefs.sub(this));
         list.addView(et);
         Button btn = new Button(this);
         btn.setText("Password Change Karo");

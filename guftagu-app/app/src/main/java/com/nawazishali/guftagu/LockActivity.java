@@ -7,7 +7,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class LockActivity extends Activity {
+public class LockActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
