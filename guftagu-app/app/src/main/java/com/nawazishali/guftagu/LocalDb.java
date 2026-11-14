@@ -20,30 +20,37 @@ public class LocalDb extends SQLiteOpenHelper {
         public String sender;
         public String body;
         public long ts;
+        public long idx = -1;
     }
 
     public LocalDb(Context ctx) {
-        super(ctx, "guftagu.db", null, 1);
+        super(ctx, "guftagu.db", null, 2);
     }
 
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL("CREATE TABLE messages(room TEXT NOT NULL, msgid TEXT NOT NULL, " +
                 "sender TEXT NOT NULL, body TEXT NOT NULL, ts INTEGER NOT NULL, " +
-                "PRIMARY KEY(room, msgid))");
+                "idx INTEGER DEFAULT -1, PRIMARY KEY(room, msgid))");
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldV, int newV) {
+        if (oldV < 2) db.execSQL("ALTER TABLE messages ADD COLUMN idx INTEGER DEFAULT -1");
     }
 
     public void addMessage(String room, String msgid, String sender, String body, long ts) {
+        addMessage(room, msgid, sender, body, ts, -1);
+    }
+
+    public void addMessage(String room, String msgid, String sender, String body, long ts, long idx) {
         ContentValues v = new ContentValues();
         v.put("room", room);
         v.put("msgid", msgid);
         v.put("sender", sender);
         v.put("body", body);
         v.put("ts", ts);
+        v.put("idx", idx);
         getWritableDatabase().insertWithOnConflict("messages", null, v, SQLiteDatabase.CONFLICT_IGNORE);
     }
 
@@ -62,13 +69,42 @@ public class LocalDb extends SQLiteOpenHelper {
                 new String[]{room}, null, null, "ts ASC");
         while (c.moveToNext()) {
             Msg m = new Msg();
-            m.msgid = c.getString(0 + 1);
+            m.msgid = c.getString(1);
             m.sender = c.getString(2);
             m.body = c.getString(3);
             m.ts = c.getLong(4);
+            m.idx = c.getLong(5);
             out.add(m);
         }
         c.close();
         return out;
+    }
+
+    public Msg lastMessage(String room) {
+        Cursor c = getReadableDatabase().query("messages", null, "room=?",
+                new String[]{room}, null, null, "ts DESC", "1");
+        Msg m = null;
+        if (c.moveToFirst()) {
+            m = new Msg();
+            m.msgid = c.getString(1);
+            m.sender = c.getString(2);
+            m.body = c.getString(3);
+            m.ts = c.getLong(4);
+            m.idx = c.getLong(5);
+        }
+        c.close();
+        return m;
+    }
+
+    public int countAll() {
+        Cursor c = getReadableDatabase().rawQuery("SELECT COUNT(*) FROM messages", null);
+        int n = 0;
+        if (c.moveToFirst()) n = c.getInt(0);
+        c.close();
+        return n;
+    }
+
+    public void clearAll() {
+        getWritableDatabase().delete("messages", null, null);
     }
 }

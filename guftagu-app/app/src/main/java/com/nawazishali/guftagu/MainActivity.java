@@ -8,7 +8,11 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Intent i = new Intent(this, Session.isLoggedIn(this) ? HomeActivity.class : LoginActivity.class);
+        Class<?> next;
+        if (!Session.isLoggedIn(this)) next = LoginActivity.class;
+        else if (AppPrefs.pinHash(this) != null) next = LockActivity.class;
+        else next = HomeActivity.class;
+        Intent i = new Intent(this, next);
         i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
         startActivity(i);
         finish();

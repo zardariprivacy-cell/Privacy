@@ -188,6 +188,25 @@ public class Api {
         });
     }
 
+    /** Deletes the signed-in user's Firebase account itself. Call after removing their profile. */
+    public static void deleteAccount(final Context ctx, final Cb<Boolean> cb) {
+        EX.execute(() -> {
+            try {
+                String tok = tokenBlocking(ctx);
+                JSONObject body = new JSONObject();
+                body.put("idToken", tok);
+                Resp r = raw("POST", G.AUTH + "/accounts:delete?key=" + G.API_KEY, body.toString());
+                if (r.code == 200) {
+                    MAIN.post(() -> cb.done(true, null));
+                } else {
+                    MAIN.post(() -> cb.done(null, "Account delete nahi hua — dobara login karke try karo"));
+                }
+            } catch (Exception e) {
+                MAIN.post(() -> cb.done(null, "Network masla — dobara try karo"));
+            }
+        });
+    }
+
     // ---------- Database ----------
 
     private interface DbWork<T> {
