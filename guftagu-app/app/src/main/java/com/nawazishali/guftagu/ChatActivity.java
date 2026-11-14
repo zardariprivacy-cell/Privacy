@@ -90,7 +90,7 @@ public class ChatActivity extends Activity {
         tvSub = findViewById(R.id.tvChatSub);
         msgList = findViewById(R.id.msgList);
         scroll = findViewById(R.id.chatScroll);
-        scroll.setBackgroundColor(AppPrefs.wallpaperColor(this));
+        AppPrefs.applyWallpaper(this, scroll);
         etMessage = findViewById(R.id.etMessage);
         btnSend = findViewById(R.id.btnSend);
         btnMic = findViewById(R.id.btnMic);

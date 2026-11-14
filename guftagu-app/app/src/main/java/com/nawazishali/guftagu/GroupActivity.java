@@ -76,7 +76,7 @@ public class GroupActivity extends Activity {
         tvSub.setText("🔒 Group encryption — naye members puranay messages nahi parh sakte");
         msgList = findViewById(R.id.msgList);
         scroll = findViewById(R.id.chatScroll);
-        scroll.setBackgroundColor(AppPrefs.wallpaperColor(this));
+        AppPrefs.applyWallpaper(this, scroll);
         etMessage = findViewById(R.id.etMessage);
         btnSend = findViewById(R.id.btnSend);
         btnMic = findViewById(R.id.btnMic);

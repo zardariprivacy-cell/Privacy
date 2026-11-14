@@ -15,17 +15,36 @@ public class AppPrefs {
     private static final String P = "guftagu_settings";
     private static final String B = "guftagu_blocks";
 
-    public static final int[] WALLPAPERS = {
-            0xFF0B141A, // WhatsApp dark (default)
-            0xFF0A1931, // gehra neela
-            0xFF06281D, // gehra hara
-            0xFF2B0B12, // maroon
-            0xFF170B2E, // purple
-            0xFF1D130B  // brown
-    };
+    // Wallpapers: indices 0-2 are doodle patterns (drawables), 3-8 are solid colors
     public static final String[] WALLPAPER_NAMES = {
-            "WhatsApp Dark (default)", "Gehra Neela", "Gehra Hara", "Maroon", "Purple", "Brown"
+            "Doodle — WhatsApp Dark", "Doodle — Neela", "Doodle — Hara",
+            "WhatsApp Dark (plain)", "Gehra Neela", "Gehra Hara", "Maroon", "Purple", "Brown"
     };
+    private static final int[] WALLPAPER_COLORS = {
+            0xFF0B141A, 0xFF0A1931, 0xFF06281D, 0xFF2B0B12, 0xFF170B2E, 0xFF1D130B
+    };
+    private static final int[] AVATAR_BGS = {
+            R.drawable.bg_circle, R.drawable.bg_circle_1, R.drawable.bg_circle_2,
+            R.drawable.bg_circle_3, R.drawable.bg_circle_4, R.drawable.bg_circle_5
+    };
+
+    /** A stable gradient avatar color for a user (same person = same color everywhere). */
+    public static int avatarBgFor(String seed) {
+        if (seed == null) return AVATAR_BGS[0];
+        return AVATAR_BGS[Math.abs(seed.hashCode()) % AVATAR_BGS.length];
+    }
+
+    public static void applyWallpaper(android.app.Activity a, android.view.View target) {
+        int i = wallpaper(a);
+        if (i == 0) target.setBackgroundResource(R.drawable.bg_wp1);
+        else if (i == 1) target.setBackgroundResource(R.drawable.bg_wp2);
+        else if (i == 2) target.setBackgroundResource(R.drawable.bg_wp3);
+        else {
+            int ci = i - 3;
+            if (ci < 0 || ci >= WALLPAPER_COLORS.length) ci = 0;
+            target.setBackgroundColor(WALLPAPER_COLORS[ci]);
+        }
+    }
     public static final String[] FONT_NAMES = {"Chhota", "Darmiyana", "Bara"};
 
     private static SharedPreferences p(Context c) { return c.getSharedPreferences(P, Context.MODE_PRIVATE); }
@@ -51,10 +70,6 @@ public class AppPrefs {
 
     public static int wallpaper(Context c) { return p(c).getInt("wallpaper", 0); }
     public static void setWallpaper(Context c, int v) { p(c).edit().putInt("wallpaper", v).apply(); }
-    public static int wallpaperColor(Context c) {
-        int i = wallpaper(c);
-        return (i >= 0 && i < WALLPAPERS.length) ? WALLPAPERS[i] : WALLPAPERS[0];
-    }
 
     public static boolean autoDlPhoto(Context c) { return p(c).getBoolean("autoDlPhoto", true); }
     public static void setAutoDlPhoto(Context c, boolean v) { p(c).edit().putBoolean("autoDlPhoto", v).apply(); }

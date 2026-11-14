@@ -187,6 +187,10 @@ public class HomeActivity extends Activity {
     }
 
     private LinearLayout rowBase(String title, String sub, String time, boolean online) {
+        return rowBase(title, sub, time, online, title, false);
+    }
+
+    private LinearLayout rowBase(String title, String sub, String time, boolean online, String avatarSeed, boolean ring) {
         LinearLayout row = new LinearLayout(this);
         row.setOrientation(LinearLayout.HORIZONTAL);
         row.setGravity(Gravity.CENTER_VERTICAL);
@@ -199,12 +203,16 @@ public class HomeActivity extends Activity {
 
         FrameLayout avatar = new FrameLayout(this);
         avatar.setLayoutParams(new LinearLayout.LayoutParams(dp(46), dp(46)));
+        if (ring) {
+            avatar.setBackgroundResource(R.drawable.bg_circle_ring);
+            avatar.setPadding(dp(3), dp(3), dp(3), dp(3));
+        }
         TextView init = new TextView(this);
         init.setGravity(Gravity.CENTER);
         init.setTextSize(16);
         init.setTextColor(0xFFFFFFFF);
         init.setTypeface(null, Typeface.BOLD);
-        init.setBackgroundResource(R.drawable.bg_circle);
+        init.setBackgroundResource(AppPrefs.avatarBgFor(avatarSeed));
         String t = title.trim();
         init.setText(t.isEmpty() ? "?" : t.substring(0, 1).toUpperCase());
         avatar.addView(init, new FrameLayout.LayoutParams(dp(46), dp(46)));
@@ -255,7 +263,7 @@ public class HomeActivity extends Activity {
             sub = (last.sender.equals(myUid) ? "Tum: " : "") + MediaHelper.previewText(last.body);
             time = timeLabel(last.ts);
         }
-        LinearLayout row = rowBase("Sab ka Group", sub, time, false);
+        LinearLayout row = rowBase("Sab ka Group", sub, time, false, "group", false);
         row.setOnClickListener(v -> startActivity(new Intent(this, GroupActivity.class)));
         return row;
     }
@@ -274,7 +282,7 @@ public class HomeActivity extends Activity {
                     ? "Abhi app nahi khola — key nahi bani"
                     : "🔒 End-to-end encrypted";
         }
-        LinearLayout row = rowBase(name.isEmpty() ? "(bina naam)" : name, sub, time, online);
+        LinearLayout row = rowBase(name.isEmpty() ? "(bina naam)" : name, sub, time, online, uid, false);
         row.setOnClickListener(v -> {
             Intent i = new Intent(this, ChatActivity.class);
             i.putExtra("peerUid", uid);
@@ -301,7 +309,7 @@ public class HomeActivity extends Activity {
         LinearLayout myRow = rowBase("Mera Status",
                 myFresh ? "Laga hua hai • " + timeLabel(mine.optLong("ts")) + " — manage ke liye tap karo"
                         : "Photo ya text status lagao — 24 ghante rahega",
-                null, false);
+                null, false, myUid, false);
         myRow.setOnClickListener(v -> {
             if (myFresh) {
                 new AlertDialog.Builder(this)
@@ -343,7 +351,7 @@ public class HomeActivity extends Activity {
                 final String fUid = uid;
                 final String fName = name;
                 LinearLayout row = rowBase(name.isEmpty() ? "Status" : name,
-                        "Status • " + timeLabel(st.optLong("ts")), null, false);
+                        "Status • " + timeLabel(st.optLong("ts")), null, false, uid, true);
                 row.setOnClickListener(v -> openStatus(fUid, fName));
                 statusList.addView(row);
             }
