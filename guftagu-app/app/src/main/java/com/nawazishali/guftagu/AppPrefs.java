@@ -19,7 +19,8 @@ public class AppPrefs {
     public static final String[] WALLPAPER_NAMES = {
             "Doodle — Classic (halka)", "Safed (plain)", "Doodle — Dark",
             "Doodle — Neela", "Doodle — Hara",
-            "Gehra Neela", "Gehra Hara", "Maroon", "Purple", "Brown"
+            "Gehra Neela", "Gehra Hara", "Maroon", "Purple", "Brown",
+            "Apni Photo (gallery se)"
     };
     private static final int[] WALLPAPER_COLORS = {
             0xFF0A1931, 0xFF06281D, 0xFF2B0B12, 0xFF170B2E, 0xFF1D130B
@@ -35,8 +36,34 @@ public class AppPrefs {
         return AVATAR_BGS[Math.abs(seed.hashCode()) % AVATAR_BGS.length];
     }
 
+    public static java.io.File customWallpaperFile(android.content.Context c) {
+        return new java.io.File(c.getFilesDir(), "wallpaper_custom.jpg");
+    }
+
     public static void applyWallpaper(android.app.Activity a, android.view.View target) {
         int i = wallpaper(a);
+        if (i == WALLPAPER_NAMES.length - 1) {
+            java.io.File f = customWallpaperFile(a);
+            if (f.exists()) {
+                try {
+                    android.graphics.BitmapFactory.Options o = new android.graphics.BitmapFactory.Options();
+                    o.inJustDecodeBounds = true;
+                    android.graphics.BitmapFactory.decodeFile(f.getAbsolutePath(), o);
+                    int sample = 1;
+                    while (o.outWidth / sample > 1080) sample *= 2;
+                    o.inSampleSize = sample;
+                    o.inJustDecodeBounds = false;
+                    android.graphics.Bitmap bmp = android.graphics.BitmapFactory.decodeFile(f.getAbsolutePath(), o);
+                    if (bmp != null) {
+                        target.setBackground(new android.graphics.drawable.BitmapDrawable(a.getResources(), bmp));
+                        return;
+                    }
+                } catch (Exception ignored) {
+                }
+            }
+            target.setBackgroundResource(R.drawable.bg_wp0);
+            return;
+        }
         if (i == 0) target.setBackgroundResource(R.drawable.bg_wp0);
         else if (i == 1) target.setBackgroundColor(0xFFFFFFFF);
         else if (i == 2) target.setBackgroundResource(R.drawable.bg_wp1);

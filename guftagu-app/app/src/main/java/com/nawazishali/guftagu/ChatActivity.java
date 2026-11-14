@@ -52,7 +52,11 @@ public class ChatActivity extends Activity {
     private LinearLayout msgList;
     private ScrollView scroll;
     private EditText etMessage;
-    private Button btnSend, btnMic, btnAttach;
+    private Button btnMicSend;
+    private android.view.View btnAttach, btnCamera;
+    private android.net.Uri pendingCamUri;
+    private static final int REQ_CAMERA = 61;
+    private static final int REQ_PERM_CAM = 62;
     private LinearLayout inputBar, recordBar;
     private TextView tvRecTime, tvSub;
     private final Handler handler = new Handler();
@@ -90,11 +94,20 @@ public class ChatActivity extends Activity {
         tvSub = findViewById(R.id.tvChatSub);
         msgList = findViewById(R.id.msgList);
         scroll = findViewById(R.id.chatScroll);
-        AppPrefs.applyWallpaper(this, scroll);
+        AppPrefs.applyWallpaper(this, findViewById(R.id.wallpaperRoot));
         etMessage = findViewById(R.id.etMessage);
-        btnSend = findViewById(R.id.btnSend);
-        btnMic = findViewById(R.id.btnMic);
+        btnMicSend = findViewById(R.id.btnMicSend);
         btnAttach = findViewById(R.id.btnAttach);
+        btnCamera = findViewById(R.id.btnCamera);
+        final android.widget.GridLayout emojiPanel = findViewById(R.id.emojiPanel);
+        EmojiPanel.build(this, emojiPanel, etMessage);
+        etMessage.addTextChangedListener(new android.text.TextWatcher() {
+            public void beforeTextChanged(CharSequence cs, int a, int b, int c) { }
+            public void onTextChanged(CharSequence cs, int a, int b, int c) { }
+            public void afterTextChanged(android.text.Editable ed) {
+                btnMicSend.setText(ed.toString().trim().isEmpty() ? "\uD83C\uDFA4" : "\u27A4");
+            }
+        });
         inputBar = findViewById(R.id.inputBar);
         recordBar = findViewById(R.id.recordBar);
         tvRecTime = findViewById(R.id.tvRecTime);
@@ -132,9 +145,15 @@ public class ChatActivity extends Activity {
             return;
         }
 
-        btnSend.setOnClickListener(v -> sendText());
+        btnMicSend.setOnClickListener(v -> {
+            if (!etMessage.getText().toString().trim().isEmpty()) sendText();
+            else onMicTap();
+        });
         btnAttach.setOnClickListener(v -> showAttachMenu());
-        btnMic.setOnClickListener(v -> onMicTap());
+        btnCamera.setOnClickListener(v -> openCamera());
+        findViewById(R.id.btnEmoji).setOnClickListener(v ->
+                emojiPanel.setVisibility(emojiPanel.getVisibility() == android.view.View.VISIBLE
+                        ? android.view.View.GONE : android.view.View.VISIBLE));
         findViewById(R.id.btnRecCancel).setOnClickListener(v -> cancelRecording());
         findViewById(R.id.btnRecSend).setOnClickListener(v -> sendRecording());
 
@@ -169,9 +188,9 @@ public class ChatActivity extends Activity {
 
     private void setInputEnabled(boolean on) {
         etMessage.setEnabled(on);
-        btnSend.setEnabled(on);
-        btnMic.setEnabled(on);
+        btnMicSend.setEnabled(on);
         btnAttach.setEnabled(on);
+        btnCamera.setEnabled(on);
     }
 
     // ---------------- sending ----------------
@@ -228,6 +247,28 @@ public class ChatActivity extends Activity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == REQ_CAMERA) {
+            if (resultCode == RESULT_OK && pendingCamUri != null) {
+                final Uri camUri = pendingCamUri;
+                Toast.makeText(this, "Photo tayyar ho raha hai...", Toast.LENGTH_SHORT).show();
+                new Thread(() -> {
+                    try {
+                        byte[] bytes = MediaHelper.prepPhoto(this, camUri);
+                        runOnUiThread(() -> MediaHelper.uploadBlob(this, bytes, (blobId, keyB64, err) -> {
+                            if (err != null) {
+                                Toast.makeText(this, "Photo nahi gaya", Toast.LENGTH_SHORT).show();
+                                return;
+                            }
+                            sendPayload(MediaHelper.photoPayload(blobId, keyB64), null);
+                        }));
+                    } catch (Exception e) {
+                        runOnUiThread(() -> Toast.makeText(this, "Photo parhi nahi gayi", Toast.LENGTH_SHORT).show());
+                    }
+                }).start();
+            }
+            pendingCamUri = null;
+            return;
+        }
         if (resultCode != RESULT_OK || data == null || data.getData() == null) return;
         final Uri uri = data.getData();
         if (requestCode == REQ_PHOTO) {
@@ -273,6 +314,31 @@ public class ChatActivity extends Activity {
 
     // ---------------- voice recording ----------------
 
+    private void openCamera() {
+        if (android.os.Build.VERSION.SDK_INT < 29
+                && checkSelfPermission(android.Manifest.permission.WRITE_EXTERNAL_STORAGE)
+                        != PackageManager.PERMISSION_GRANTED) {
+            requestPermissions(new String[]{android.Manifest.permission.WRITE_EXTERNAL_STORAGE}, REQ_PERM_CAM);
+            return;
+        }
+        try {
+            android.content.ContentValues vals = new android.content.ContentValues();
+            vals.put(android.provider.MediaStore.Images.Media.TITLE, "guftagu_" + System.currentTimeMillis());
+            pendingCamUri = getContentResolver().insert(
+                    android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI, vals);
+            if (pendingCamUri == null) {
+                Toast.makeText(this, "Camera nahi khula", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            Intent cam = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
+            cam.putExtra(android.provider.MediaStore.EXTRA_OUTPUT, pendingCamUri);
+            cam.addFlags(Intent.FLAG_GRANT_WRITE_URI_PERMISSION | Intent.FLAG_GRANT_READ_URI_PERMISSION);
+            startActivityForResult(cam, REQ_CAMERA);
+        } catch (Exception e) {
+            Toast.makeText(this, "Camera nahi khula", Toast.LENGTH_SHORT).show();
+        }
+    }
+
     private void onMicTap() {
         if (checkSelfPermission(Manifest.permission.RECORD_AUDIO) != PackageManager.PERMISSION_GRANTED) {
             requestPermissions(new String[]{Manifest.permission.RECORD_AUDIO}, REQ_MIC);
@@ -283,6 +349,10 @@ public class ChatActivity extends Activity {
 
     @Override
     public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        if (requestCode == REQ_PERM_CAM) {
+            if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) openCamera();
+            return;
+        }
         if (requestCode == REQ_MIC && grantResults.length > 0
                 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
             startRecording();
