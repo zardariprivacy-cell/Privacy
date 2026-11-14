@@ -268,6 +268,13 @@ public class QuizActivity extends Activity {
         if (timer != null) timer.cancel();
         long uid = Session.currentUserId(this);
         db.addResult(uid, mock ? "mock" : "practice", subjectLabel, score, questions.size());
+        if (mock) {
+            User me = db.getUser(uid);
+            ResultRow best = db.bestMock(uid);
+            if (me != null && best != null) {
+                OnlineBoard.pushBest(this, me.name, best.score, best.total, best.percent());
+            }
+        }
         Intent i = new Intent(this, ResultActivity.class);
         i.putExtra("score", score);
         i.putExtra("total", questions.size());

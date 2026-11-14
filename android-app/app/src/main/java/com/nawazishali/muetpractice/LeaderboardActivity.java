@@ -26,8 +26,61 @@ public class LeaderboardActivity extends Activity {
         TextView tvTitle = findViewById(R.id.tvTitle);
         tvTitle.setText("Leaderboard");
         TextView tvSummary = findViewById(R.id.tvSummary);
-        tvSummary.setText("Ranked by best Mock Test score on this phone.");
+        tvSummary.setText("Mock Test ke best score par ranking — upar ONLINE board (saare students), neeche is phone ka board.");
         LinearLayout container = findViewById(R.id.listContainer);
+
+        // ---- Online board (saare students) ----
+        TextView tvOnlineHead = new TextView(this);
+        tvOnlineHead.setText("🌐 ONLINE — SAARE STUDENTS");
+        tvOnlineHead.setTextColor(0xFFF5B81D);
+        tvOnlineHead.setTextSize(14);
+        tvOnlineHead.setTypeface(null, android.graphics.Typeface.BOLD);
+        container.addView(tvOnlineHead);
+
+        final TextView tvOnlineStatus = new TextView(this);
+        tvOnlineStatus.setText("Online board load ho raha hai...");
+        tvOnlineStatus.setTextColor(0xFFA9BADF);
+        tvOnlineStatus.setTextSize(14);
+        LinearLayout.LayoutParams osLp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        osLp.topMargin = dp(6);
+        tvOnlineStatus.setLayoutParams(osLp);
+        container.addView(tvOnlineStatus);
+
+        final LinearLayout onlineBox = new LinearLayout(this);
+        onlineBox.setOrientation(LinearLayout.VERTICAL);
+        container.addView(onlineBox);
+
+        // Pehle apna best score online bhejo, phir board load karo
+        OnlineBoard.syncMyBest(this, db);
+        OnlineBoard.fetch(rows -> runOnUiThread(() -> {
+            if (rows == null) {
+                tvOnlineStatus.setText("Internet nahi hai — online board abhi nahi dikh sakta.");
+                return;
+            }
+            if (rows.isEmpty()) {
+                tvOnlineStatus.setText("Abhi tak koi online score nahi. Mock Test do aur pehle tum top par aao!");
+                return;
+            }
+            tvOnlineStatus.setVisibility(android.view.View.GONE);
+            int r = 1;
+            for (OnlineBoard.Row row : rows) {
+                onlineBox.addView(onlineRow(row, r));
+                r++;
+                if (r > 50) break;
+            }
+        }));
+
+        TextView tvLocalHead = new TextView(this);
+        tvLocalHead.setText("📱 IS PHONE PAR");
+        tvLocalHead.setTextColor(0xFFF5B81D);
+        tvLocalHead.setTextSize(14);
+        tvLocalHead.setTypeface(null, android.graphics.Typeface.BOLD);
+        LinearLayout.LayoutParams lhLp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lhLp.topMargin = dp(18);
+        tvLocalHead.setLayoutParams(lhLp);
+        container.addView(tvLocalHead);
 
         List<Entry> entries = new ArrayList<>();
         for (User u : db.allUsers()) {
@@ -111,6 +164,37 @@ public class LeaderboardActivity extends Activity {
             container.addView(rowLayout);
             rank++;
         }
+    }
+
+    private LinearLayout onlineRow(OnlineBoard.Row row, int rank) {
+        LinearLayout rowLayout = new LinearLayout(this);
+        rowLayout.setOrientation(LinearLayout.HORIZONTAL);
+        rowLayout.setGravity(Gravity.CENTER_VERTICAL);
+        rowLayout.setBackgroundResource(R.drawable.bg_card);
+        rowLayout.setPadding(dp(12), dp(10), dp(12), dp(10));
+        LinearLayout.LayoutParams rowLp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        rowLp.topMargin = dp(8);
+        rowLayout.setLayoutParams(rowLp);
+
+        TextView tvRank = new TextView(this);
+        tvRank.setText("#" + rank);
+        tvRank.setTextColor(0xFFF5B81D);
+        tvRank.setTextSize(17);
+        tvRank.setTypeface(null, android.graphics.Typeface.BOLD);
+        tvRank.setMinWidth(dp(44));
+        rowLayout.addView(tvRank);
+
+        TextView tvText = new TextView(this);
+        tvText.setText(row.name + "\nBest Mock: " + row.score + "/" + row.total + " (" + row.pct + "%)");
+        tvText.setTextSize(15);
+        tvText.setTextColor(0xFFFFFFFF);
+        LinearLayout.LayoutParams tlp = new LinearLayout.LayoutParams(
+                0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
+        tlp.leftMargin = dp(10);
+        tvText.setLayoutParams(tlp);
+        rowLayout.addView(tvText);
+        return rowLayout;
     }
 
     private int dp(int value) {
