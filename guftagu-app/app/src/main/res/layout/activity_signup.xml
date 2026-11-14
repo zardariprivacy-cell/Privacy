@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical"
+    android:padding="28dp">
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="36dp" android:gravity="center"
+        android:text="Account Banao" android:textColor="#FFFFFF"
+        android:textSize="28sp" android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="6dp" android:gravity="center"
+        android:text="Tumhari encryption keys isi phone par banti hain 🔒"
+        android:textColor="#8696A0" android:textSize="13sp" />
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="36dp" android:background="@drawable/bg_input"
+        android:hint="Poora naam (jaise: Ahmed Khan)" android:inputType="textPersonName"
+        android:padding="16dp" android:textColor="#FFFFFF"
+        android:textColorHint="#8696A0" android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="12dp" android:background="@drawable/bg_input"
+        android:hint="Username (sirf letters, numbers, _ )" android:inputType="text"
+        android:padding="16dp" android:textColor="#FFFFFF"
+        android:textColorHint="#8696A0" android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="12dp" android:background="@drawable/bg_input"
+        android:hint="Password (kam az kam 6 characters)" android:inputType="textPassword"
+        android:padding="16dp" android:textColor="#FFFFFF"
+        android:textColorHint="#8696A0" android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnSignup"
+        android:layout_width="match_parent" android:layout_height="54dp"
+        android:layout_marginTop="20dp" android:background="@drawable/bg_btn_teal"
+        android:text="Sign Up" android:textColor="#FFFFFF"
+        android:textSize="16sp" android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvGoLogin"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" android:gravity="center"
+        android:text="Pehle se account hai? Login karo"
+        android:textColor="#00A884" android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvSignupStatus"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" android:gravity="center"
+        android:text="" android:textColor="#F5B81D" android:textSize="14sp" />
+</LinearLayout>

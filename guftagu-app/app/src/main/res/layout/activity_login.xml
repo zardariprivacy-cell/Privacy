@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical"
+    android:padding="28dp">
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="48dp" android:gravity="center"
+        android:text="💬 Guftagu" android:textColor="#FFFFFF"
+        android:textSize="34sp" android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="6dp" android:gravity="center"
+        android:text="Private chat — end-to-end encrypted 🔒"
+        android:textColor="#8696A0" android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="44dp" android:background="@drawable/bg_input"
+        android:hint="Username" android:inputType="text"
+        android:padding="16dp" android:textColor="#FFFFFF"
+        android:textColorHint="#8696A0" android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="12dp" android:background="@drawable/bg_input"
+        android:hint="Password" android:inputType="textPassword"
+        android:padding="16dp" android:textColor="#FFFFFF"
+        android:textColorHint="#8696A0" android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent" android:layout_height="54dp"
+        android:layout_marginTop="20dp" android:background="@drawable/bg_btn_teal"
+        android:text="Login" android:textColor="#FFFFFF"
+        android:textSize="16sp" android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvGoSignup"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="20dp" android:gravity="center"
+        android:text="Account nahi hai? Sign up karo"
+        android:textColor="#00A884" android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tvLoginStatus"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" android:gravity="center"
+        android:text="" android:textColor="#F5B81D" android:textSize="14sp" />
+</LinearLayout>

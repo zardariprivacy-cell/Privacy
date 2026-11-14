@@ -1,0 +1,9 @@
+android {
+    defaultConfig {
+        applicationId "com.nawazishali.guftagu"
+        versionCode 1
+        versionName "1.0"
+        minSdkVersion 26
+        targetSdkVersion 34
+    }
+}
