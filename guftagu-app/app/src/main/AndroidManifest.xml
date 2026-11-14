@@ -28,6 +28,7 @@
         <activity android:name=".ArchivedActivity" android:exported="false" />
         <activity android:name=".ChatActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
         <activity android:name=".GroupActivity" android:exported="false" android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".GroupsActivity" android:exported="false" />
         <activity android:name=".AdminActivity" android:exported="false" />
         <activity android:name=".SettingsActivity" android:exported="false" />
         <activity android:name=".StatusActivity" android:exported="false" />

@@ -43,6 +43,7 @@ public class HomeActivity extends BaseActivity {
 
     private int filterMode = 0;
     private JSONObject cachedUsers;
+    private final java.util.Map<String, String> myGroups = new java.util.LinkedHashMap<>();
     private JSONObject cachedStatus;
     private boolean banned = false;
 
@@ -86,7 +87,7 @@ public class HomeActivity extends BaseActivity {
             if (!banned) postStatusMenu();
         });
         findViewById(R.id.navGroup).setOnClickListener(v ->
-                startActivity(new Intent(this, GroupActivity.class)));
+                startActivity(new Intent(this, GroupsActivity.class)));
         findViewById(R.id.navSettings).setOnClickListener(v ->
                 startActivity(new Intent(this, SettingsActivity.class)));
         findViewById(R.id.fabNew).setOnClickListener(v -> newChatDialog());
@@ -141,6 +142,18 @@ public class HomeActivity extends BaseActivity {
             Api.dbGet(this, "/users", (users, e2) -> {
                 cachedUsers = users;
                 renderChats();
+                Api.dbGet(this, "/users/" + myUid + "/mygroups", (mg, e4) -> {
+                    myGroups.clear();
+                    if (mg != null) {
+                        Iterator<String> git = mg.keys();
+                        while (git.hasNext()) {
+                            String gid = git.next();
+                            JSONObject go = mg.optJSONObject(gid);
+                            myGroups.put(gid, go != null ? go.optString("name", "Group") : "Group");
+                        }
+                    }
+                    renderChats();
+                });
                 Api.dbGet(this, "/status", (st, e3) -> {
                     cachedStatus = st;
                     renderStatuses();
@@ -221,6 +234,14 @@ public class HomeActivity extends BaseActivity {
         if (filterMode != 1 && !AppPrefs.isArchived(this, "group")) {
             View g = groupRow();
             (AppPrefs.isPinned(this, "group") ? pinnedViews : normalViews).add(g);
+        }
+        if (filterMode != 1) {
+            for (java.util.Map.Entry<String, String> en : myGroups.entrySet()) {
+                String key = "grp_" + en.getKey();
+                if (AppPrefs.isArchived(this, key)) continue;
+                View row = customGroupRow(en.getKey(), en.getValue());
+                (AppPrefs.isPinned(this, key) ? pinnedViews : normalViews).add(row);
+            }
         }
         List<String[]> rows = new ArrayList<>();
         Iterator<String> it = cachedUsers.keys();
@@ -398,6 +419,28 @@ public class HomeActivity extends BaseActivity {
             tvTime.setTextSize(12);
             row.addView(tvTime);
         }
+        return row;
+    }
+
+    private View customGroupRow(final String gid, final String gname) {
+        LocalDb.Msg last = db.lastMessage("grp_" + gid);
+        String sub = "👥 Group • 🔒 encrypted";
+        String time = null;
+        if (last != null) {
+            sub = (last.sender.equals(myUid) ? "Tum: " : "") + MediaHelper.previewText(last.body);
+            time = timeLabel(last.ts);
+        }
+        LinearLayout row = rowBase(gname + (AppPrefs.isPinned(this, "grp_" + gid) ? " 📌" : ""), sub, time, false, "grp_" + gid, false, null);
+        row.setOnClickListener(v -> {
+            Intent i = new Intent(this, GroupActivity.class);
+            i.putExtra("gid", gid);
+            i.putExtra("gname", gname);
+            startActivity(i);
+        });
+        row.setOnLongClickListener(v -> {
+            chatMenu("grp_" + gid, gname);
+            return true;
+        });
         return row;
     }
 

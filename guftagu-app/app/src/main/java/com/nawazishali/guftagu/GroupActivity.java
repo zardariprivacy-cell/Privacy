@@ -38,7 +38,12 @@ import java.util.Map;
 
 public class GroupActivity extends BaseActivity {
 
-    private static final String ROOM = "group";
+    private String ROOM = "group";
+    private String gid;           // null = legacy "Sab ka Group"
+    private String msgPath = "/group/messages";
+    private String membersPath = "/group/members";
+    private String groupTitle = "Sab ka Group";
+    private String ownerUid;
     private static final int REQ_PHOTO = 51;
     private static final int REQ_FILE = 52;
     private static final int REQ_MIC = 53;
@@ -78,7 +83,17 @@ public class GroupActivity extends BaseActivity {
         myName = Session.name(this);
         if (myUid == null) { finish(); return; }
 
-        ((TextView) findViewById(R.id.tvChatTitle)).setText("Sab ka Group 👥");
+        gid = getIntent().getStringExtra("gid");
+        if (gid != null) {
+            ROOM = "grp_" + gid;
+            msgPath = "/groups/" + gid + "/messages";
+            membersPath = "/groups/" + gid + "/members";
+            String gn = getIntent().getStringExtra("gname");
+            if (gn != null && !gn.isEmpty()) groupTitle = gn;
+            ownerUid = getIntent().getStringExtra("gowner");
+        }
+
+        ((TextView) findViewById(R.id.tvChatTitle)).setText(gid == null ? "Sab ka Group 👥" : groupTitle);
         tvSub = findViewById(R.id.tvChatSub);
         tvSub.setText("🔒 Group encryption — naye members puranay messages nahi parh sakte");
         msgList = findViewById(R.id.msgList);
@@ -101,22 +116,40 @@ public class GroupActivity extends BaseActivity {
         recordBar = findViewById(R.id.recordBar);
         tvRecTime = findViewById(R.id.tvRecTime);
         findViewById(R.id.btnBack).setOnClickListener(v -> finish());
-        findViewById(R.id.btnSafety).setOnClickListener(v ->
-                new AlertDialog.Builder(this)
-                        .setTitle("🔒 Group Encryption")
-                        .setMessage("Har message ek nayi random key se lock hota hai, aur wo key har member ke liye alag se uski public key se band kar bheji jati hai. Server par sirf band (encrypted) text jata hai — server, admin, koi bhi message nahi parh sakta. Jo member baad mein join kare, wo puranay messages nahi parh sakta.")
-                        .setPositiveButton("Theek hai", null)
-                        .setNeutralButton("⏳ Gayab Msgs", (d, w) -> expDialog())
-                        .show());
+        findViewById(R.id.btnSafety).setOnClickListener(v -> {
+            if (gid == null) showGroupInfo(true);
+            else groupOptions();
+        });
 
         db = new LocalDb(this);
         Presence.beat(this);
 
-        try {
-            JSONObject me = new JSONObject();
-            me.put("name", myName == null ? "" : myName);
-            Api.dbPut(this, "/group/members/" + myUid, me, (ok, err) -> { });
-        } catch (Exception ignored) {
+        if (gid == null) {
+            try {
+                JSONObject me = new JSONObject();
+                me.put("name", myName == null ? "" : myName);
+                Api.dbPut(this, membersPath + "/" + myUid, me, (ok, err) -> { });
+            } catch (Exception ignored) {
+            }
+        } else {
+            Api.dbGet(this, "/groups/" + gid, (g, err) -> {
+                if (g == null) {
+                    Toast.makeText(this, "Group load nahi hua", Toast.LENGTH_LONG).show();
+                    finish();
+                    return;
+                }
+                ownerUid = g.optString("owner", "");
+                String gn = g.optString("name", "");
+                if (!gn.isEmpty()) {
+                    groupTitle = gn;
+                    ((TextView) findViewById(R.id.tvChatTitle)).setText(gn);
+                }
+                JSONObject members = g.optJSONObject("members");
+                if (members == null || !members.has(myUid)) {
+                    Toast.makeText(this, "Tum is group ke member nahi ho", Toast.LENGTH_LONG).show();
+                    finish();
+                }
+            });
         }
 
         btnMicSend.setOnClickListener(v -> {
@@ -160,6 +193,128 @@ public class GroupActivity extends BaseActivity {
 
     // ---------------- group send (text or media payload) ----------------
 
+    private void showGroupInfo(boolean withExp) {
+        AlertDialog.Builder b = new AlertDialog.Builder(this)
+                .setTitle("🔒 Group Encryption")
+                .setMessage("Har message ek nayi random key se lock hota hai, aur wo key har member ke liye alag se uski public key se band kar bheji jati hai. Server par sirf band (encrypted) text jata hai — server, admin, koi bhi message nahi parh sakta. Jo member baad mein join kare, wo puranay messages nahi parh sakta.")
+                .setPositiveButton("Theek hai", null);
+        if (withExp) b.setNeutralButton("⏳ Gayab Msgs", (d, w) -> expDialog());
+        b.show();
+    }
+
+    private void groupOptions() {
+        new AlertDialog.Builder(this)
+                .setTitle(groupTitle)
+                .setItems(new String[]{"🔒 Encryption info", "👥 Members", "⏳ Gayab Msgs (Disappearing)"}, (d, w) -> {
+                    if (w == 0) showGroupInfo(false);
+                    else if (w == 1) membersDialog();
+                    else expDialog();
+                })
+                .show();
+    }
+
+    private void membersDialog() {
+        Api.dbGet(this, membersPath, (members, err) -> {
+            if (members == null) {
+                Toast.makeText(this, "Members load nahi hue", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            final boolean iAmOwner = myUid.equals(ownerUid);
+            final java.util.List<String> labels = new java.util.ArrayList<>();
+            final java.util.List<String> uids = new java.util.ArrayList<>();
+            Iterator<String> it = members.keys();
+            while (it.hasNext()) {
+                String uid = it.next();
+                JSONObject mo = members.optJSONObject(uid);
+                String n = mo != null ? mo.optString("name", "") : "";
+                String tag = uid.equals(ownerUid) ? " 👑 Owner" : uid.equals(myUid) ? " (Tum)" : "";
+                labels.add((n.isEmpty() ? "User" : n) + tag);
+                uids.add(uid);
+            }
+            labels.add(iAmOwner ? "➕ Member add karo" : "🚪 Group chhoro (Leave)");
+            new AlertDialog.Builder(this)
+                    .setTitle("👥 Members (" + uids.size() + ")")
+                    .setItems(labels.toArray(new String[0]), (d, which) -> {
+                        if (which == labels.size() - 1) {
+                            if (iAmOwner) addMemberDialog(members);
+                            else leaveGroup();
+                        } else if (iAmOwner) {
+                            final String target = uids.get(which);
+                            if (!target.equals(myUid) && !target.equals(ownerUid)) {
+                                removeMember(target, labels.get(which));
+                            }
+                        }
+                    })
+                    .show();
+        });
+    }
+
+    private void addMemberDialog(final JSONObject currentMembers) {
+        Api.dbGet(this, "/users", (users, err) -> {
+            if (users == null) {
+                Toast.makeText(this, "Users load nahi hue", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            final java.util.List<String> labels = new java.util.ArrayList<>();
+            final java.util.List<String> uids = new java.util.ArrayList<>();
+            Iterator<String> it = users.keys();
+            while (it.hasNext()) {
+                String uid = it.next();
+                if (uid.equals(myUid) || currentMembers.has(uid)) continue;
+                JSONObject u = users.optJSONObject(uid);
+                if (u == null) continue;
+                labels.add(u.optString("name", "User"));
+                uids.add(uid);
+            }
+            if (labels.isEmpty()) {
+                Toast.makeText(this, "Add karne ke liye koi nahi bacha", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            new AlertDialog.Builder(this)
+                    .setTitle("Kisko add karun?")
+                    .setItems(labels.toArray(new String[0]), (d, which) -> {
+                        final String uid = uids.get(which);
+                        try {
+                            JSONObject mo = new JSONObject();
+                            mo.put("name", labels.get(which));
+                            Api.dbPut(this, membersPath + "/" + uid, mo, (ok, e2) -> { });
+                            JSONObject idx = new JSONObject();
+                            idx.put("name", groupTitle);
+                            Api.dbPut(this, "/users/" + uid + "/mygroups/" + gid, idx, (ok, e2) -> { });
+                            Toast.makeText(this, labels.get(which) + " add ho gaya ✅", Toast.LENGTH_SHORT).show();
+                            pollCycle();
+                        } catch (Exception ignored) {
+                        }
+                    })
+                    .show();
+        });
+    }
+
+    private void removeMember(final String uid, final String label) {
+        new AlertDialog.Builder(this)
+                .setTitle(label)
+                .setItems(new String[]{"🚫 Group se nikalo"}, (d, which) -> {
+                    Api.dbDelete(this, membersPath + "/" + uid, (ok, e) -> { });
+                    Api.dbDelete(this, "/users/" + uid + "/mygroups/" + gid, (ok, e) -> { });
+                    Toast.makeText(this, "Member nikal gaya", Toast.LENGTH_SHORT).show();
+                    pollCycle();
+                })
+                .show();
+    }
+
+    private void leaveGroup() {
+        new AlertDialog.Builder(this)
+                .setTitle("Group chhoro?")
+                .setMessage("Tum is group se nikal jaoge. Purani chat is phone par reh sakti hai, naye messages nahi ayenge.")
+                .setNegativeButton("Cancel", null)
+                .setPositiveButton("Chhoro", (d, w) -> {
+                    Api.dbDelete(this, membersPath + "/" + myUid, (ok, e) -> { });
+                    Api.dbDelete(this, "/users/" + myUid + "/mygroups/" + gid, (ok, e) -> { });
+                    finish();
+                })
+                .show();
+    }
+
     private void expDialog() {
         final String[] opts = {"Off", "24 ghante", "7 din"};
         final int[] hours = {0, 24, 168};
@@ -188,7 +343,7 @@ public class GroupActivity extends BaseActivity {
         long cutoff = System.currentTimeMillis() - h * 3600000L;
         for (LocalDb.Msg m : db.expired(ROOM, cutoff)) {
             if (m.sender.equals(myUid) && !m.msgid.startsWith("sys")) {
-                Api.dbDelete(this, "/group/messages/" + m.msgid, (ok, e) -> { });
+                Api.dbDelete(this, msgPath + "/" + m.msgid, (ok, e) -> { });
             }
             db.deleteMessage(ROOM, m.msgid);
         }
@@ -247,7 +402,7 @@ public class GroupActivity extends BaseActivity {
     }
 
     private void postGroup(final String plainBody, final Runnable onOk, final boolean storeLocal) {
-        Api.dbGet(this, "/group/members", (members, err) -> {
+        Api.dbGet(this, membersPath, (members, err) -> {
             if (members == null) {
                 Toast.makeText(this, "Members load nahi hue — internet check karo", Toast.LENGTH_SHORT).show();
                 return;
@@ -295,7 +450,7 @@ public class GroupActivity extends BaseActivity {
                     m.put("wraps", wraps);
                     long ts = System.currentTimeMillis();
                     m.put("ts", ts);
-                    Api.dbPost(this, "/group/messages", m, (pushId, e3) -> {
+                    Api.dbPost(this, msgPath, m, (pushId, e3) -> {
                         if (e3 != null) {
                             if (storeLocal) Toast.makeText(this, "Message nahi gaya — internet check karo", Toast.LENGTH_SHORT).show();
                             return;
@@ -542,7 +697,7 @@ public class GroupActivity extends BaseActivity {
                     if (u != null) directory.put(uid, u);
                 }
             }
-            Api.dbGet(this, "/group/members", (members, e2) -> {
+            Api.dbGet(this, membersPath, (members, e2) -> {
                 if (members != null) {
                     tvSub.setText(members.length() + " members • 🔒 group encryption");
                 }
@@ -552,7 +707,7 @@ public class GroupActivity extends BaseActivity {
     }
 
     private void fetchMessages() {
-        Api.dbGetQ(this, "/group/messages", "orderBy=%22ts%22&limitToLast=100", (msgs, err) -> {
+        Api.dbGetQ(this, msgPath, "orderBy=%22ts%22&limitToLast=100", (msgs, err) -> {
             if (msgs == null || err != null) return;
             List<String> ids = new ArrayList<>();
             Iterator<String> it = msgs.keys();
