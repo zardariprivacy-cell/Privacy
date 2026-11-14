@@ -290,6 +290,13 @@ public class Api {
         }, cb);
     }
 
+    public static void dbPutStr(Context ctx, final String path, final String value, final Cb<Boolean> cb) {
+        db(ctx, tok -> {
+            putJson(u(path, tok), JSONObject.quote(value));
+            return true;
+        }, cb);
+    }
+
     public static void dbPost(Context ctx, final String path, final JSONObject body, final Cb<String> cb) {
         db(ctx, tok -> postJson(u(path, tok), body.toString()), cb);
     }

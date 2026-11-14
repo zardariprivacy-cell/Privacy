@@ -94,6 +94,8 @@ public class GroupActivity extends BaseActivity {
         }
 
         ((TextView) findViewById(R.id.tvChatTitle)).setText(gid == null ? "Sab ka Group 👥" : groupTitle);
+        findViewById(R.id.btnCall).setVisibility(android.view.View.GONE);
+        findViewById(R.id.btnVideo).setVisibility(android.view.View.GONE);
         tvSub = findViewById(R.id.tvChatSub);
         tvSub.setText("🔒 Group encryption — naye members puranay messages nahi parh sakte");
         msgList = findViewById(R.id.msgList);

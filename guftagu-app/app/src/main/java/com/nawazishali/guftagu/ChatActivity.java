@@ -122,6 +122,8 @@ public class ChatActivity extends BaseActivity {
         tvRecTime = findViewById(R.id.tvRecTime);
         findViewById(R.id.btnBack).setOnClickListener(v -> finish());
         findViewById(R.id.btnSafety).setOnClickListener(v -> showSafety());
+        findViewById(R.id.btnCall).setOnClickListener(v -> startCall("audio"));
+        findViewById(R.id.btnVideo).setOnClickListener(v -> startCall("video"));
 
         db = new LocalDb(this);
         Presence.beat(this);
@@ -644,6 +646,22 @@ public class ChatActivity extends BaseActivity {
             }
             db.deleteMessage(roomId, m.msgid);
         }
+    }
+
+    private void startCall(String kind) {
+        if (blocked) {
+            Toast.makeText(this, "Tum blocked ho — call nahi kar sakte", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        if (peerPub == null || peerPub.isEmpty()) {
+            Toast.makeText(this, "Saathi ne abhi app nahi khola — call nahi lag sakti", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        Intent i = new Intent(this, CallActivity.class);
+        i.putExtra("peerUid", peerUid);
+        i.putExtra("peerName", peerName);
+        i.putExtra("kind", kind);
+        startActivity(i);
     }
 
     private void showSafety() {

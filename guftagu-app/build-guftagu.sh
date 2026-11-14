@@ -14,21 +14,27 @@ aapt2 compile --dir app/src/main/res -o build/compiled/res.zip
 echo "== aapt2 link =="
 aapt2 link -o build/stage/app.apk -I $AJAR --manifest app/src/main/AndroidManifest.xml \
   --java build/gen \
-  --min-sdk-version 26 --target-sdk-version 34 --version-code 8 --version-name 2.6 \
+  --min-sdk-version 26 --target-sdk-version 34 --version-code 9 --version-name 2.7 \
   build/compiled/res.zip
 
 echo "== javac =="
 find app/src/main/java build/gen -name "*.java" > build/sources.txt
-javac -encoding UTF-8 --release 8 -cp "$AJAR" -d build/classes @build/sources.txt
+javac -encoding UTF-8 --release 8 -cp "$AJAR:$PROJ/webrtc/classes.jar" -d build/classes @build/sources.txt
 
 echo "== jar + d8 =="
 (cd build/classes && jar cf ../classes.jar .)
-d8 --min-api 26 --lib $AJAR --output build/dex build/classes.jar
+d8 --min-api 26 --lib $AJAR --output build/dex build/classes.jar $PROJ/webrtc/classes.jar
 ls -la build/dex/
 
 echo "== package dex =="
 cp build/dex/classes*.dex build/stage/
 (cd build/stage && zip -q app.apk classes*.dex && rm classes*.dex)
+
+echo "== package native libs (WebRTC) =="
+mkdir -p build/stage/lib/arm64-v8a build/stage/lib/armeabi-v7a
+cp webrtc/lib/arm64-v8a/libjingle_peerconnection_so.so build/stage/lib/arm64-v8a/
+cp webrtc/lib/armeabi-v7a/libjingle_peerconnection_so.so build/stage/lib/armeabi-v7a/
+(cd build/stage && zip -q -0 -r app.apk lib && rm -rf lib)
 
 echo "== zipalign + sign =="
 zipalign -f -p 4 build/stage/app.apk build/app-aligned.apk

@@ -50,11 +50,11 @@ public class SettingsActivity extends BaseActivity {
         PrefRows.textRow(this, menu, "🔐 App Lock (PIN)",
                 AppPrefs.pinHash(this) != null ? "On hai — badalne/hatane ke liye tap karo" : "Off hai — PIN lagane ke liye tap karo",
                 v -> pinMenu());
-        PrefRows.textRow(this, menu, "❓ Help / About", "Guftagu 2.6 — encryption aur haddain",
+        PrefRows.textRow(this, menu, "❓ Help / About", "Guftagu 2.7 — encryption aur haddain",
                 v -> startActivity(new Intent(this, HelpActivity.class)));
 
         ((TextView) findViewById(R.id.tvVersion)).setText(
-                "Guftagu — Version 2.6 • End-to-end encrypted • Developed by Nawazish Ali");
+                "Guftagu — Version 2.7 • End-to-end encrypted • Developed by Nawazish Ali");
 
         refreshOwnerSection();
         ((Button) findViewById(R.id.btnOwner)).setOnClickListener(v -> {

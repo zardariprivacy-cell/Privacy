@@ -94,6 +94,7 @@ public class HomeActivity extends BaseActivity {
 
         Presence.beat(this);
         loadAll();
+        callHandler.postDelayed(callWatcher, 2500);
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -121,6 +122,34 @@ public class HomeActivity extends BaseActivity {
             renderStatuses();
         }
     }
+
+    private final android.os.Handler callHandler = new android.os.Handler(android.os.Looper.getMainLooper());
+    private final Runnable callWatcher = new Runnable() {
+        @Override
+        public void run() {
+            if (!alive) return;
+            Api.dbGet(HomeActivity.this, "/calls", (calls, e) -> {
+                if (calls == null || CallActivity.active) return;
+                Iterator<String> it = calls.keys();
+                while (it.hasNext()) {
+                    JSONObject c = calls.optJSONObject(it.next());
+                    if (c == null) continue;
+                    if (myUid.equals(c.optString("to")) && "ringing".equals(c.optString("state"))) {
+                        String from = c.optString("from");
+                        JSONObject prof = cachedUsers != null ? cachedUsers.optJSONObject(from) : null;
+                        Intent i = new Intent(HomeActivity.this, CallActivity.class);
+                        i.putExtra("peerUid", from);
+                        i.putExtra("peerName", prof != null ? prof.optString("name", "User") : "User");
+                        i.putExtra("kind", c.optString("kind", "audio"));
+                        i.putExtra("incoming", true);
+                        startActivity(i);
+                        break;
+                    }
+                }
+            });
+            callHandler.postDelayed(this, 4000);
+        }
+    };
 
     private void loadAll() {
         Api.dbGet(this, "/admin/broadcast", (b, err) -> {
