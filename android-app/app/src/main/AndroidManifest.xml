@@ -36,6 +36,7 @@
         <activity android:name=".ResultActivity" android:exported="false" />
         <activity android:name=".SettingsActivity" android:exported="false" />
         <activity android:name=".BooksActivity" android:exported="false" />
+        <activity android:name=".PastPapersActivity" android:exported="false" />
         <activity android:name=".PerformanceActivity" android:exported="false" />
         <activity android:name=".LeaderboardActivity" android:exported="false" />
         <activity android:name=".ProfileActivity" android:exported="false" />

@@ -161,6 +161,15 @@
                 android:textColor="#231A00" android:textSize="15sp"
                 android:textStyle="bold" />
 
+            <Button
+                android:id="@+id/btnPapers"
+                android:layout_width="match_parent" android:layout_height="54dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_btn_gold"
+                android:text="📝 ECAT Past Papers — Free PDFs"
+                android:textColor="#231A00" android:textSize="15sp"
+                android:textStyle="bold" />
+
             <TextView
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"

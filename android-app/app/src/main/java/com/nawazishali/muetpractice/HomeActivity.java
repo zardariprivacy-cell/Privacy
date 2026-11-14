@@ -48,6 +48,7 @@ public class HomeActivity extends Activity {
         });
         findViewById(R.id.btnSettings).setOnClickListener(v -> startActivity(new Intent(this, SettingsActivity.class)));
         findViewById(R.id.btnBooks).setOnClickListener(v -> startActivity(new Intent(this, BooksActivity.class)));
+        findViewById(R.id.btnPapers).setOnClickListener(v -> startActivity(new Intent(this, PastPapersActivity.class)));
         View.OnClickListener toPerformance = v -> startActivity(new Intent(this, PerformanceActivity.class));
         findViewById(R.id.btnPerformance).setOnClickListener(toPerformance);
         findViewById(R.id.navPerformance).setOnClickListener(toPerformance);

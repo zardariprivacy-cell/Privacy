@@ -94,7 +94,7 @@ public class SettingsActivity extends Activity {
                         .show());
 
         ((TextView) findViewById(R.id.setAbout)).setText(
-                "UniTest Prep — Version 3.6\n" +
+                "UniTest Prep — Version 3.8\n" +
                 "Total MCQs in this app: " + db.totalQuestions() + "\n" +
                 "Subjects: Mathematics • Physics • Chemistry • English\n" +
                 "For entry tests of all universities\n" +
