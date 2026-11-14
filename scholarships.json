@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -46,6 +46,22 @@
    "status": "Open now",
    "url": "https://beef.org.pk/",
    "added": "2026-11-13"
+  },
+  {
+   "name": "KPEF Merit-cum-Inaffordability Scholarship 2026-27",
+   "scope": "Pakistan",
+   "country": "Khyber Pakhtunkhwa, Pakistan",
+   "levels": [
+    "Bachelor",
+    "Master"
+   ],
+   "who": "KP domicile, first-year BS/MS students at KPEF-approved institutions, 70% marks ya 3.00 CGPA, family income Rs 160,000/month ya kam, koi aur scholarship nahi le rahe hon",
+   "coverage": "Tuition assistance (official page par amount nahi bataya gaya); renewal ke liye 3.00 CGPA zaroori",
+   "deadline": "31 December 2026",
+   "deadlineDate": "2026-12-31",
+   "status": "Open now",
+   "url": "https://ef.kp.gov.pk/scholarship/merit_cum_inaffordability",
+   "added": "2026-11-14"
   },
   {
    "name": "HEC BISP Undergraduate Scholarships (formerly Ehsaas)",
@@ -142,6 +158,51 @@
    "added": "2026-11-13"
   },
   {
+   "name": "France Excellence Pakistan – Climate Change Scholarship",
+   "scope": "International",
+   "country": "France",
+   "levels": [
+    "Master"
+   ],
+   "who": "Pakistani nationals, age 28 or under, 4-year Bachelor with CGPA 3.0/4.0 — sirf 5 listed Master programmes (IMT Atlantique, Grenoble INP Pagora, Avignon, ONIRIS, Lille)",
+   "coverage": "Full — tuition, monthly living allowance, return airfare, health cover (Études en France fee PKR 30,000)",
+   "deadline": "18 November 2026",
+   "deadlineDate": "2026-11-18",
+   "status": "Open now",
+   "url": "https://www.pakistan.campusfrance.org/2027-call-france-excellence-pakistan-climate-change",
+   "added": "2026-11-14"
+  },
+  {
+   "name": "ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP)",
+   "scope": "International",
+   "country": "Switzerland",
+   "levels": [
+    "Master"
+   ],
+   "who": "Top 10% of Bachelor cohort, starting an ETH Master in Autumn 2027; current ETH Master students aur Master degree holders eligible nahi",
+   "coverage": "CHF 13,500 per semester + full tuition waiver (3-4 semesters), mentorship",
+   "deadline": "30 November 2026 (11:59 AM CET — 3:59 PM PKT)",
+   "deadlineDate": "2026-11-30",
+   "status": "Open now",
+   "url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+   "added": "2026-11-14"
+  },
+  {
+   "name": "Hong Kong PhD Fellowship Scheme (HKPFS)",
+   "scope": "International",
+   "country": "Hong Kong",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Outstanding students from any country (including Pakistan) starting a full-time PhD at one of Hong Kong's 8 universities; pehle RGC ko initial application, phir university ko full application",
+   "coverage": "HK$344,400 per year stipend + HK$14,400 travel allowance, up to 3 years (400 fellowships)",
+   "deadline": "1 December 2026 (RGC initial application 12:00 noon HKT; university application same day 11:59 PM HKT)",
+   "deadlineDate": "2026-12-01",
+   "status": "Open now",
+   "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme",
+   "added": "2026-11-14"
+  },
+  {
    "name": "HEC US-Pakistan Knowledge Corridor PhD Scholarship",
    "scope": "International",
    "country": "United States",
@@ -150,7 +211,7 @@
    ],
    "who": "Pakistani/AJK citizens with confirmed admission at a Top-100 QS US university; GRE 300+ or HAT 60%+",
    "coverage": "Full (Top-50 universities) / partial (51-100) — tuition, stipend, insurance, airfare",
-   "deadline": "30 March 2027",
+   "deadline": "30 March 2027 (Fall 2027 round — Spring/Summer 2027 round band ho chuka hai)",
    "deadlineDate": "2027-03-30",
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/default.aspx",
@@ -167,8 +228,8 @@
    ],
    "who": "Pakistani/AJK citizens; apply on BOTH HEC and CSC portals (Type A, Agency No. 5861); entry test score 50+ required",
    "coverage": "Full — tuition, dormitory, monthly stipend and medical insurance (airfare not included)",
-   "deadline": "Applications open hain — HEC ki last date abhi announce nahi hui (ETC test registration 22 November 2026 tak)",
-   "deadlineDate": null,
+   "deadline": "5 January 2027 (4:00 PM PKT) — ETC test registration 22 November 2026 tak",
+   "deadlineDate": "2027-01-05",
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/How-to-Apply.aspx",
    "added": "2026-11-13"
@@ -334,6 +395,22 @@
    "status": "Closed",
    "url": "https://studyinsaudi.sa/en",
    "added": "2026-11-13"
+  },
+  {
+   "name": "HEC Overseas Scholarship for MS/MPhil leading to PhD (Phase-III)",
+   "scope": "International",
+   "country": "Several countries",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani/AJK nationals for MS/MPhil leading to PhD in selected fields at Top-200 QS/THE universities; HAT required",
+   "coverage": "Full — tuition, stipend, airfare, health insurance",
+   "deadline": "Batch IV band ho chuka hai (28 August 2026) — agli batch ka elaan nahi hua",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://scholarship.hec.gov.pk/",
+   "added": "2026-11-14"
   }
  ]
 }
