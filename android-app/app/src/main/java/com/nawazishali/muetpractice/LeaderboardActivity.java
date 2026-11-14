@@ -98,7 +98,7 @@ public class LeaderboardActivity extends Activity {
             }
 
             TextView tvText = new TextView(this);
-            tvText.setText(e.user.name + (e.user.admin ? " (Admin)" : "")
+            tvText.setText(e.user.name
                     + "\nBest Mock: " + e.best.score + "/" + e.best.total + " (" + e.best.percent() + "%)");
             tvText.setTextSize(15);
             tvText.setTextColor(0xFFFFFFFF);

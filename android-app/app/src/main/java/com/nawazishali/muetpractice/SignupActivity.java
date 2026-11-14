@@ -38,12 +38,7 @@ public class SignupActivity extends Activity {
                 return;
             }
             Session.set(this, id);
-            User u = db.getUser(id);
-            if (u != null && u.admin) {
-                Toast.makeText(this, "Account ban gaya — tum is app ke Admin ho!", Toast.LENGTH_LONG).show();
-            } else {
-                Toast.makeText(this, "Account ban gaya!", Toast.LENGTH_SHORT).show();
-            }
+            Toast.makeText(this, "Account ban gaya!", Toast.LENGTH_SHORT).show();
             Intent i = new Intent(this, HomeActivity.class);
             i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(i);

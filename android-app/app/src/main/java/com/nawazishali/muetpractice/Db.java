@@ -102,14 +102,14 @@ public class Db extends SQLiteOpenHelper {
         return n;
     }
 
-    /** Returns the new user id, or -1 if the username is taken. First user becomes Admin. */
+    /** Returns the new user id, or -1 if the username is taken. All accounts are students. */
     public long createUser(String name, String username, String password) {
         SQLiteDatabase db = getWritableDatabase();
         ContentValues v = new ContentValues();
         v.put("name", name);
         v.put("username", username);
         v.put("passhash", hash(password));
-        v.put("admin", userCount() == 0 ? 1 : 0);
+        v.put("admin", 0); // MCQ control is via Owner Code (OwnerMode), never via accounts
         return db.insertWithOnConflict("users", null, v, SQLiteDatabase.CONFLICT_NONE);
     }
 

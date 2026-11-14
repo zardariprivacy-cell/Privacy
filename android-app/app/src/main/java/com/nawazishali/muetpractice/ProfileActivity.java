@@ -50,8 +50,8 @@ public class ProfileActivity extends Activity {
         AvatarHelper.load(findViewById(R.id.imgPhoto), findViewById(R.id.tvAvatarInitials), user);
         ((TextView) findViewById(R.id.tvName)).setText(user.name);
         ((TextView) findViewById(R.id.tvUsername)).setText("Username: " + user.username);
-        ((TextView) findViewById(R.id.tvRole)).setText(user.admin
-                ? "Role: Admin — tum MCQs change kar sakte ho"
+        ((TextView) findViewById(R.id.tvRole)).setText(OwnerMode.isUnlocked(this)
+                ? "Role: Owner — tum MCQs change kar sakte ho"
                 : "Role: Student");
     }
 

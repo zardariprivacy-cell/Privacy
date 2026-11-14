@@ -39,7 +39,33 @@ public class SettingsActivity extends Activity {
 
         ((TextView) findViewById(R.id.setName)).setText(user.name);
         ((TextView) findViewById(R.id.setUsername)).setText("@" + user.username);
-        ((TextView) findViewById(R.id.setRole)).setText(user.admin ? "Admin account" : "Student account");
+        refreshOwnerSection();
+        ((Button) findViewById(R.id.btnOwner)).setOnClickListener(v -> {
+            if (OwnerMode.isUnlocked(this)) {
+                OwnerMode.lock(this);
+                refreshOwnerSection();
+                Toast.makeText(this, "Owner Mode band ho gaya — Manage MCQs chhup gaya", Toast.LENGTH_SHORT).show();
+            } else {
+                EditText etCode = new EditText(this);
+                etCode.setHint("Owner Code");
+                etCode.setSingleLine(true);
+                etCode.setInputType(android.text.InputType.TYPE_CLASS_TEXT | android.text.InputType.TYPE_TEXT_VARIATION_PASSWORD);
+                new AlertDialog.Builder(this)
+                        .setTitle("Owner Mode")
+                        .setMessage("Manage MCQs kholne ke liye Owner Code daalo. Ye code sirf app ke owner ke paas hota hai.")
+                        .setView(etCode)
+                        .setNegativeButton("Cancel", null)
+                        .setPositiveButton("Unlock", (d, w) -> {
+                            if (OwnerMode.tryUnlock(this, etCode.getText().toString())) {
+                                refreshOwnerSection();
+                                Toast.makeText(this, "Owner Mode ON — Home par Manage MCQs nazar ayega", Toast.LENGTH_LONG).show();
+                            } else {
+                                Toast.makeText(this, "Code ghalat hai", Toast.LENGTH_SHORT).show();
+                            }
+                        })
+                        .show();
+            }
+        });
 
         EditText etEmail = findViewById(R.id.etEmail);
         if (user.email != null) etEmail.setText(user.email);
@@ -94,7 +120,7 @@ public class SettingsActivity extends Activity {
                         .show());
 
         ((TextView) findViewById(R.id.setAbout)).setText(
-                "UniTest Prep — Version 3.8\n" +
+                "UniTest Prep — Version 3.9\n" +
                 "Total MCQs in this app: " + db.totalQuestions() + "\n" +
                 "Subjects: Mathematics • Physics • Chemistry • English\n" +
                 "For entry tests of all universities\n" +
@@ -110,5 +136,14 @@ public class SettingsActivity extends Activity {
                     "Download: https://drive.google.com/uc?id=1kF0AWDSx5WfLgStzgMFshvBc70C6l7I1&export=download");
             startActivity(Intent.createChooser(share, "Share UniTest Prep"));
         });
+    }
+
+    private void refreshOwnerSection() {
+        boolean on = OwnerMode.isUnlocked(this);
+        ((TextView) findViewById(R.id.setRole)).setText(on ? "Owner — Manage MCQs unlock hai" : "Student account");
+        ((TextView) findViewById(R.id.tvOwnerStatus)).setText(on
+                ? "Owner Mode: ON — tum is phone par MCQs manage kar sakte ho."
+                : "Owner Mode: OFF — MCQs manage karna sirf owner ke liye hai.");
+        ((Button) findViewById(R.id.btnOwner)).setText(on ? "Owner Mode Band Karo" : "Owner Code Daal Kar Unlock Karo");
     }
 }

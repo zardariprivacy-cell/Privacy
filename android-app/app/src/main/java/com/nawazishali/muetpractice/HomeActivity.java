@@ -59,11 +59,7 @@ public class HomeActivity extends Activity {
         findViewById(R.id.btnProfile).setOnClickListener(toProfile);
         findViewById(R.id.navProfile).setOnClickListener(toProfile);
 
-        TextView btnManage = findViewById(R.id.btnManage);
-        if (user.admin) {
-            btnManage.setVisibility(View.VISIBLE);
-            btnManage.setOnClickListener(v -> startActivity(new Intent(this, ManageActivity.class)));
-        }
+        refreshManageButton();
         findViewById(R.id.btnLogout).setOnClickListener(v -> {
             Session.clear(this);
             goLogin();
@@ -73,6 +69,16 @@ public class HomeActivity extends Activity {
         buildSubjects();
     }
 
+    private void refreshManageButton() {
+        TextView btnManage = findViewById(R.id.btnManage);
+        if (OwnerMode.isUnlocked(this)) {
+            btnManage.setVisibility(View.VISIBLE);
+            btnManage.setOnClickListener(v -> startActivity(new Intent(this, ManageActivity.class)));
+        } else {
+            btnManage.setVisibility(View.GONE);
+        }
+    }
+
     @Override
     protected void onResume() {
         super.onResume();
@@ -80,6 +86,7 @@ public class HomeActivity extends Activity {
             User fresh = db.getUser(user.id);
             if (fresh != null) user = fresh;
             refreshHeader();
+            refreshManageButton();
         }
     }
 
