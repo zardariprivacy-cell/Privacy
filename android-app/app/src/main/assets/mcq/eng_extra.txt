@@ -1,0 +1,100 @@
+English Grammar|Tenses Mastery|Present Tenses|Choose the correct verb: "She ___ to school by bus every day."|go|going|goes|gone|2|Every day shows a habit, and with she the present simple verb takes -es: goes.
+English Grammar|Tenses Mastery|Present Tenses|The sun ___ in the east.|rises|rise|rose|rising|0|Facts that are always true take the present simple tense.
+English Grammar|Tenses Mastery|Present Tenses|I ___ my homework now; please do not disturb me.|do|does|did|am doing|3|Now shows an action happening at this moment, so we use the present continuous.
+English Grammar|Tenses Mastery|Present Tenses|They ___ in this city since 2015.|live|have lived|lived|are live|1|Since 2015 shows an action that began in the past and continues now: present perfect.
+English Grammar|Tenses Mastery|Present Tenses|Look! The children ___ in the park.|plays|are playing|play|played|1|The word Look! signals an action happening now, so we use the present continuous.
+English Grammar|Tenses Mastery|Present Tenses|He ___ his lesson yet.|does not finishes|did not finished|not finish|has not finished|3|Yet is used with the present perfect tense for actions not completed up to now.
+English Grammar|Tenses Mastery|Present Tenses|Water ___ at 100 degrees Celsius.|boils|boil|boiled|is boil|0|Scientific facts and general truths take the present simple tense.
+English Grammar|Tenses Mastery|Present Tenses|My father ___ in a bank.|work|working|works|worked|2|With the singular subject father, the present simple verb takes -s: works.
+English Grammar|Tenses Mastery|Present Tenses|We ___ English for three years.|learn|learned|learns|have been learning|3|An action continuing over a period up to now takes the present perfect continuous.
+English Grammar|Tenses Mastery|Present Tenses|The train ___ at 6 o'clock every morning.|leave|leaves|left|leaving|1|A daily timetable habit with a singular subject takes leaves.
+English Grammar|Tenses Mastery|Present Tenses|She is busy; she ___ a letter.|write|writes|is writing|written|2|The action is in progress at the moment of speaking: present continuous.
+English Grammar|Tenses Mastery|Present Tenses|___ he play football on Fridays?|Does|Do|Is|Has|0|Questions about he or she in the present simple begin with Does.
+English Grammar|Tenses Mastery|Present Tenses|Cats ___ milk.|like|likes|liking|liked|0|With a plural subject like cats, the present simple verb stays in its base form.
+English Grammar|Tenses Mastery|Past Tenses|Yesterday, we ___ a football match on TV.|watch|watches|watched|watching|2|Yesterday clearly places the action in the past, so we use watched.
+English Grammar|Tenses Mastery|Past Tenses|She ___ her keys last night.|lose|lost|loses|losing|1|The past form of lose is lost.
+English Grammar|Tenses Mastery|Past Tenses|While I was walking home, it ___ to rain.|begin|begins|beginning|began|3|The short action that interrupted a longer one takes the past simple: began.
+English Grammar|Tenses Mastery|Past Tenses|They ___ in Karachi for ten years before moving to Lahore.|live|lives|had lived|living|2|The earlier of two past actions takes the past perfect tense: had lived.
+English Grammar|Tenses Mastery|Past Tenses|He ___ his work before the bell rang.|finish|finishes|finishing|had finished|3|His work was completed before another past action, so we use the past perfect.
+English Grammar|Tenses Mastery|Past Tenses|The teacher ___ the lesson to us yesterday.|explained|explain|explains|explaining|0|Yesterday requires the past simple form explained.
+English Grammar|Tenses Mastery|Past Tenses|I ___ TV when the phone rang.|watch|was watching|watches|am watching|1|An action in progress at a past moment takes the past continuous.
+English Grammar|Tenses Mastery|Past Tenses|We ___ to the zoo last Sunday.|go|goes|went|gone|2|The past form of go is went; gone is only the past participle.
+English Grammar|Tenses Mastery|Past Tenses|She had never ___ such a tall building before that day.|seen|saw|see|seeing|0|After had, we use the past participle form: seen.
+English Grammar|Tenses Mastery|Past Tenses|The students ___ noise when the principal entered the class.|make|makes|making|were making|3|The noise-making was going on when another past action happened: past continuous.
+English Grammar|Tenses Mastery|Past Tenses|Ali ___ a letter to his friend last week.|write|wrote|writes|written|1|The past form of write is wrote.
+English Grammar|Tenses Mastery|Past Tenses|The train had already left before we ___ the station.|reach|reached|reaches|reaching|1|The second past action in the sequence takes the past simple: reached.
+English Grammar|Tenses Mastery|Past Tenses|It ___ heavily during the whole night.|rain|rains|raining|was raining|3|A long action continuing through a past period takes the past continuous.
+English Grammar|Tenses Mastery|Future Tenses|I promise I ___ you tomorrow.|will help|help|helps|helped|0|A promise about the future is made with will.
+English Grammar|Tenses Mastery|Future Tenses|The sky is very dark; it ___ rain soon.|will rains|rain|is going to|rains|2|Dark clouds give present evidence for a prediction, so we use is going to.
+English Grammar|Tenses Mastery|Future Tenses|We have bought the tickets; we ___ our grandparents next week.|visit|visits|visited|are going to visit|3|A decided future plan is expressed with are going to.
+English Grammar|Tenses Mastery|Future Tenses|He ___ twenty years old on his next birthday.|is|will be|was|being|1|His next birthday is in the future, so we use will be.
+English Grammar|Tenses Mastery|Future Tenses|By this time tomorrow, we ___ to Lahore.|travel|travels|will be travelling|travelled|2|An action in progress at a set future time takes the future continuous.
+English Grammar|Tenses Mastery|Future Tenses|She ___ the whole book by Friday.|will have finished|finish|finished|finishes|0|By Friday shows completion before a future point: the future perfect tense.
+English Grammar|Tenses Mastery|Future Tenses|___ you come to my house this evening?|Will|Did|Does|Was|0|Requests and questions about this evening, a future time, begin with Will.
+English Grammar|Tenses Mastery|Future Tenses|They ___ a new school in our town next year.|build|builds|will build|built|2|Next year places the action in the future, so we use will build.
+English Grammar|Tenses Mastery|Future Tenses|Watch out! You ___ that glass.|drop|are going to drop|drops|dropped|1|A prediction based on what we can see now uses are going to.
+English Grammar|Tenses Mastery|Future Tenses|I think our team ___ the match.|win|wins|won|will win|3|An opinion or hope about the future is expressed with will.
+English Grammar|Tenses Mastery|Future Tenses|At 9 o'clock tonight, I ___ my homework.|do|does|will be doing|did|2|Doing homework will be in progress at that future time: future continuous.
+English Grammar|Tenses Mastery|Future Tenses|He ___ his studies by the year 2030.|complete|completes|completed|will have completed|3|By 2030 shows an action completed before that future time: future perfect.
+English Grammar|Tenses Mastery|Tense Agreement Practice|Neither the teacher nor the students ___ present in the hall.|were|was|is|be|0|With neither...nor, the verb agrees with the nearer subject, students, which is plural.
+English Grammar|Tenses Mastery|Tense Agreement Practice|Each boy ___ given a prize.|were|was|are|have|1|Each is singular, so the verb must be singular: was.
+English Grammar|Tenses Mastery|Tense Agreement Practice|The list of items ___ on the table.|are|were|is|be|2|The real subject is list, which is singular, so the verb is is.
+English Grammar|Tenses Mastery|Tense Agreement Practice|My mother and father ___ working in the garden.|are|is|was|be|0|Two subjects joined by and make a plural subject, so we use are.
+English Grammar|Tenses Mastery|Tense Agreement Practice|Either Ali or his friends ___ mistaken about the date.|is|was being|has|were|3|With either...or, the verb agrees with the nearer subject, friends, which is plural.
+English Grammar|Tenses Mastery|Tense Agreement Practice|The team ___ won the final match.|have|has|are|were|1|A team acting as one unit takes a singular verb: has.
+English Grammar|Tenses Mastery|Tense Agreement Practice|One of my friends ___ in Dubai.|live|lives|living|are living|1|The subject is one, which is singular, so the verb is lives.
+English Grammar|Tenses Mastery|Tense Agreement Practice|The news ___ very good today.|are|were|have|is|3|News looks plural but is uncountable and takes a singular verb.
+English Grammar|Tenses Mastery|Tense Agreement Practice|Ten kilometres ___ a long distance to walk.|is|are|were|be|0|A measured distance taken as one amount uses a singular verb.
+English Grammar|Tenses Mastery|Tense Agreement Practice|The boy with his parents ___ sitting here.|are|were|is|have|2|The subject is boy, singular; words after with do not change the subject.
+English Grammar|Tenses Mastery|Tense Agreement Practice|Bread and butter ___ his favourite breakfast.|are|were|have|is|3|Bread and butter is treated as one single dish, so it takes a singular verb.
+English Grammar|Tenses Mastery|Tense Agreement Practice|Everybody ___ happy at the party.|were|was|are|have|1|Everybody is an indefinite pronoun that always takes a singular verb.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "happy" is:|sad|angry|glad|tired|2|Glad means the same as happy; sad and angry are opposite feelings.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "begin" is:|start|stop|end|finish|0|Begin and start both mean to take the first step of something.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|"Rapid" means the same as:|slow|weak|lazy|fast|3|Rapid describes something that moves or happens quickly, like fast.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "difficult" is:|easy|hard|simple|soft|1|Difficult and hard both mean not easy to do or understand.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|"Wealthy" is a synonym of:|poor|rich|weak|sick|1|A wealthy person has a lot of money, so wealthy means rich.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "brave" is:|afraid|timid|cowardly|courageous|3|Courageous means showing courage, which is the same as brave.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|"Ancient" means the same as:|very old|brand new|modern|fresh|0|Ancient describes something that belongs to a very long time ago.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "correct" is:|wrong|false|right|bad|2|Correct and right both mean free from error.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|"Huge" is a synonym of:|tiny|small|narrow|enormous|3|Huge and enormous both mean extremely large in size.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "polite" is:|rude|courteous|proud|strict|1|A courteous person shows good manners, which means polite.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|"Select" means the same as:|reject|throw|choose|hide|2|To select something is to choose it carefully.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "famous" is:|well-known|unknown|ordinary|common|0|A famous person is known by many people, so famous means well-known.
+English Vocabulary|Synonyms and Antonyms|Common Synonyms|The synonym of "silent" is:|quiet|noisy|loud|busy|0|Silent and quiet both describe a place or person with little or no sound.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "hot" is:|warm|boiling|cold|dry|2|Cold is the direct opposite of hot on the temperature scale.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "always" is:|often|never|sometimes|usually|1|Always means at all times; its complete opposite is never.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|"Victory" is the opposite of:|success|win|prize|defeat|3|Victory means winning a contest; defeat means losing it.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "ancient" is:|old|antique|modern|early|2|Ancient means very old, while modern means belonging to the present time.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "generous" is:|kind|helpful|rich|selfish|3|A generous person shares freely; a selfish person thinks only of himself.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|"Expand" is the opposite of:|contract|grow|stretch|widen|0|Expand means to become larger; contract means to become smaller.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "permanent" is:|lasting|temporary|fixed|forever|1|Permanent lasts for all time; temporary lasts only for a short time.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "include" is:|add|contain|exclude|accept|2|To include is to put in; to exclude is to keep out.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "brave" is:|cowardly|bold|heroic|daring|0|A cowardly person runs away from danger, the opposite of brave.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "create" is:|build|make|invent|destroy|3|To create is to bring something into being; to destroy is to end it completely.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "maximum" is:|largest|minimum|most|highest|1|Maximum is the greatest amount; minimum is the smallest amount.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "arrive" is:|reach|depart|come|enter|1|To arrive is to reach a place; to depart is to leave it.
+English Vocabulary|Synonyms and Antonyms|Common Antonyms|The antonym of "transparent" is:|clear|glassy|thin|opaque|3|Light passes through a transparent object but not through an opaque one.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|The word "enormous" means:|very big|very small|very fast|very old|0|Enormous describes something much larger than usual.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|"To purchase" means:|to sell|to borrow|to buy|to steal|2|Purchase is a formal word for buying something.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|A "journey" is:|a book|a game|a meal|a trip|3|A journey is the act of travelling from one place to another.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|"Dangerous" means:|safe|not safe|easy|boring|1|Something dangerous can cause harm, so it is not safe.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|The word "sufficient" means:|too much|not any|enough|less|2|Sufficient means as much as is needed: enough.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|"To discover" means:|to find out|to hide|to lose|to forget|0|To discover is to find or learn something for the first time.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|A person who treats sick people is called a:|doctor|teacher|driver|farmer|0|A doctor examines and treats people who are ill.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|"Frequently" means:|never|rarely|often|once|2|Frequently describes something that happens many times: often.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|The word "vacant" means:|full|empty|busy|dirty|1|A vacant seat or room is empty and available for use.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|"To repair" means:|to break|to sell|to throw|to fix|3|To repair something is to mend it so that it works again.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|An "honest" person is one who:|tells lies|is lazy|tells the truth|is proud|2|An honest person always speaks the truth and does not cheat.
+English Vocabulary|Synonyms and Antonyms|Word Meanings|The word "victory" means:|a loss|a draw|a prize|success in a contest|3|Victory is the act of winning a fight, game or contest.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|Please ___ my apology.|accept|except|expects|access|0|Accept is a verb meaning to agree to receive something.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|Everyone came to the party ___ Bilal.|accept|except|accepts|expect|1|Except means leaving someone out; everyone came but Bilal did not.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|Cold weather can ___ your health.|effect|effects|affect|affection|2|Affect is a verb meaning to influence something.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|The medicine had a good ___ on him.|effect|affect|affects|affection|0|Effect is a noun meaning the result of something.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|The students left ___ bags in the classroom.|there|they're|theirs|their|3|Their is used before a noun to show that the bags belong to them.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|Please put the box over ___.|their|there|they're|theirs|1|There points to a place, just like here.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|He is taller ___ his brother.|then|than|them|that|1|Than is the word used when we compare two people or things.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|We ate dinner and ___ went home.|than|them|that|then|3|Then shows what happened next in time.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|Can you give me some ___?|advice|advise|advices|advises|0|Advice is a noun and it is uncountable, so we say some advice.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|The teacher will ___ you about the course.|advice|advices|advise|advisory|2|Advise is the verb form; advice with c is the noun.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|___ going to win the match!|Their|There|Theirs|They're|3|They're is the short form of they are.
+English Vocabulary|Synonyms and Antonyms|Confusing Word Pairs|Do not ___ your keys again.|loose|lose|loss|lost|1|Lose is the verb meaning to misplace something; loose means not tight.

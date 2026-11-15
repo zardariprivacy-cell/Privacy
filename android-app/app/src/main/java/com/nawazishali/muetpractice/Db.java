@@ -25,7 +25,7 @@ public class Db extends SQLiteOpenHelper {
     private final Context appCtx;
 
     public Db(Context context) {
-        super(context, "muet.db", null, 11);
+        super(context, "muet.db", null, 12);
         this.appCtx = context.getApplicationContext();
     }
 
@@ -102,6 +102,10 @@ public class Db extends SQLiteOpenHelper {
         }
         if (oldVersion < 11) {
             // v5.7: Matric (Class 9 & 10) + Entry Biology content packs from assets.
+            loadAssetData(db);
+        }
+        if (oldVersion < 12) {
+            // v5.8: batch-2 content packs (all sections) from assets.
             loadAssetData(db);
         }
     }
