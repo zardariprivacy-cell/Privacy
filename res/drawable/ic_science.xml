@@ -2,8 +2,9 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp" android:height="24dp"
     android:viewportWidth="48" android:viewportHeight="48">
-    <path android:fillColor="#FFFFFF"  android:pathData="M24,7 A11,11 0 1,1 23.9,7 Z"/>
-    <path android:fillColor="#FFFFFF"  android:pathData="M19,28.5 L29,28.5 L29,34 L19,34 Z"/>
-    <path android:fillColor="#FFFFFF"  android:pathData="M20.5,36 L27.5,36 L27.5,39 L20.5,39 Z"/>
-    <path android:fillColor="#FFFFFF"  android:pathData="M22,41 L26,41 L26,43.5 L22,43.5 Z"/>
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#FFB300" android:strokeWidth="2.6" android:strokeLineCap="round" android:pathData="M24,3.2 L24,6.2 M10.3,7.8 L12.1,10.6 M37.7,7.8 L35.9,10.6 M6.2,18.8 L9.2,19.6 M41.8,18.8 L38.8,19.6"/>
+    <path android:fillColor="#FFCA28"  android:pathData="M24,9.5 A10.5,10.5 0 1,1 23.9,9.5 Z"/>
+    <path android:fillColor="#FFCA28"  android:pathData="M19.5,28.5 L28.5,28.5 L28.5,33.5 L19.5,33.5 Z"/>
+    <path android:fillColor="#90A4AE"  android:pathData="M19.5,35 L28.5,35 L28.5,38 L19.5,38 Z M20.5,39.5 L27.5,39.5 L27.5,42.5 L20.5,42.5 Z"/>
+    <path android:fillColor="#37474F"  android:pathData="M22.5,44 L25.5,44 L25.5,46.2 L22.5,46.2 Z"/>
 </vector>

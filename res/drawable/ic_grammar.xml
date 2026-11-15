@@ -3,6 +3,11 @@
     android:width="24dp" android:height="24dp"
     android:viewportWidth="48" android:viewportHeight="48">
     <group android:pivotX="24" android:pivotY="24" android:rotation="45">
-    <path android:fillColor="#FFFFFF" android:fillType="evenOdd" android:pathData="M21,5 L27,5 L27,31 L21,31 Z M21,31 L27,31 L24,42 Z M21,5 L27,5 L27,9.5 L21,9.5 Z M22.9,36.8 L25.1,36.8 L24,42 Z"/>
+    <path android:fillColor="#F48FB1"  android:pathData="M21,4.5 L27,4.5 L27,9 L21,9 Z"/>
+    <path android:fillColor="#B0BEC5"  android:pathData="M21,9 L27,9 L27,12 L21,12 Z"/>
+    <path android:fillColor="#FFCA28"  android:pathData="M21,12 L27,12 L27,31 L21,31 Z"/>
+    <path android:fillColor="#FFB300"  android:pathData="M24,12 L27,12 L27,31 L24,31 Z"/>
+    <path android:fillColor="#FFE0B2"  android:pathData="M21,31 L27,31 L24,41.5 Z"/>
+    <path android:fillColor="#37474F"  android:pathData="M22.9,37.2 L25.1,37.2 L24,41.5 Z"/>
     </group>
 </vector>

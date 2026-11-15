@@ -120,7 +120,7 @@ public class SettingsActivity extends Activity {
                         .show());
 
         String aboutText =
-                "Ilmora — Version 5.5\n" +
+                "Ilmora — Version 5.6\n" +
                 "Total MCQs in this app: " + db.totalQuestions() + "\n" +
                 "Sections: Entry Test Preparation • Job Preparation • Past Papers • English Language Learning\n" +
                 "For entry tests, job tests and English learning\n" +
