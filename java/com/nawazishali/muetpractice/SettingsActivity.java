@@ -1,0 +1,152 @@
+package com.nawazishali.muetpractice;
+
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Switch;
+import android.widget.TextView;
+import android.widget.Toast;
+
+public class SettingsActivity extends Activity {
+
+    public static final String PREFS = "app_settings";
+    public static final String KEY_VIBRATE = "vibrate_on_answer";
+    public static final String KEY_EXPLAIN = "show_explanation";
+
+    private Db db;
+    private long userId;
+    private User user;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_settings);
+        db = new Db(this);
+        userId = Session.currentUserId(this);
+        if (userId <= 0) {
+            finish();
+            return;
+        }
+        user = db.getUser(userId);
+        if (user == null) {
+            finish();
+            return;
+        }
+
+        ((TextView) findViewById(R.id.setName)).setText(user.name);
+        ((TextView) findViewById(R.id.setUsername)).setText("@" + user.username);
+        refreshOwnerSection();
+        ((Button) findViewById(R.id.btnOwner)).setOnClickListener(v -> {
+            if (OwnerMode.isUnlocked(this)) {
+                OwnerMode.lock(this);
+                refreshOwnerSection();
+                Toast.makeText(this, "Owner Mode locked — Manage MCQs is now hidden", Toast.LENGTH_SHORT).show();
+            } else {
+                EditText etCode = new EditText(this);
+                etCode.setHint("Owner Code");
+                etCode.setSingleLine(true);
+                etCode.setInputType(android.text.InputType.TYPE_CLASS_TEXT | android.text.InputType.TYPE_TEXT_VARIATION_PASSWORD);
+                new AlertDialog.Builder(this)
+                        .setTitle("Owner Mode")
+                        .setMessage("Manage MCQs kholne ke liye Owner Code daalo. Ye code sirf app ke owner ke paas hota hai.")
+                        .setView(etCode)
+                        .setNegativeButton("Cancel", null)
+                        .setPositiveButton("Unlock", (d, w) -> {
+                            if (OwnerMode.tryUnlock(this, etCode.getText().toString())) {
+                                refreshOwnerSection();
+                                Toast.makeText(this, "Owner Mode ON — Manage MCQs is now visible on Home", Toast.LENGTH_LONG).show();
+                            } else {
+                                Toast.makeText(this, "Wrong code", Toast.LENGTH_SHORT).show();
+                            }
+                        })
+                        .show();
+            }
+        });
+
+        EditText etEmail = findViewById(R.id.etEmail);
+        if (user.email != null) etEmail.setText(user.email);
+        ((Button) findViewById(R.id.btnSaveEmail)).setOnClickListener(v -> {
+            String email = etEmail.getText().toString().trim();
+            if (!email.isEmpty() && !email.contains("@")) {
+                Toast.makeText(this, "Please enter a valid email (it must contain @)", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            db.updateEmail(userId, email.isEmpty() ? null : email);
+            Toast.makeText(this, "Email saved", Toast.LENGTH_SHORT).show();
+        });
+
+        SharedPreferences prefs = getSharedPreferences(PREFS, MODE_PRIVATE);
+        Switch swVibrate = findViewById(R.id.swVibrate);
+        Switch swExplain = findViewById(R.id.swExplain);
+        swVibrate.setChecked(prefs.getBoolean(KEY_VIBRATE, true));
+        swExplain.setChecked(prefs.getBoolean(KEY_EXPLAIN, true));
+        swVibrate.setOnCheckedChangeListener((b, on) ->
+                prefs.edit().putBoolean(KEY_VIBRATE, on).apply());
+        swExplain.setOnCheckedChangeListener((b, on) ->
+                prefs.edit().putBoolean(KEY_EXPLAIN, on).apply());
+
+        EditText etOld = findViewById(R.id.etOldPass);
+        EditText etNew = findViewById(R.id.etNewPass);
+        ((Button) findViewById(R.id.btnChangePass)).setOnClickListener(v -> {
+            String oldP = etOld.getText().toString();
+            String newP = etNew.getText().toString();
+            if (newP.length() < 4) {
+                Toast.makeText(this, "New password must be at least 4 characters", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            if (!db.checkPassword(userId, oldP)) {
+                Toast.makeText(this, "Current password is wrong", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            db.updatePassword(userId, newP);
+            etOld.setText("");
+            etNew.setText("");
+            Toast.makeText(this, "Password changed", Toast.LENGTH_SHORT).show();
+        });
+
+        ((Button) findViewById(R.id.btnResetProgress)).setOnClickListener(v ->
+                new AlertDialog.Builder(this)
+                        .setTitle("Reset My Progress")
+                        .setMessage("All your test results and performance will be deleted. This cannot be undone. Are you sure?")
+                        .setNegativeButton("Cancel", null)
+                        .setPositiveButton("Delete", (d, w) -> {
+                            db.deleteResultsForUser(userId);
+                            Toast.makeText(this, "Progress has been reset", Toast.LENGTH_SHORT).show();
+                        })
+                        .show());
+
+        String aboutText =
+                "Ilmora — Version 5.5\n" +
+                "Total MCQs in this app: " + db.totalQuestions() + "\n" +
+                "Sections: Entry Test Preparation • Job Preparation • Past Papers • English Language Learning\n" +
+                "For entry tests, job tests and English learning\n" +
+                "Developed by Nawazish Ali";
+        if (OwnerMode.isUnlocked(this)) {
+            aboutText += "\nAd status: " + Ads.bannerStatus + " (" + Ads.sdkStatus + ")";
+        }
+        ((TextView) findViewById(R.id.setAbout)).setText(aboutText);
+
+        ((Button) findViewById(R.id.btnShare)).setOnClickListener(v -> {
+            Intent share = new Intent(Intent.ACTION_SEND);
+            share.setType("text/plain");
+            share.putExtra(Intent.EXTRA_TEXT,
+                    "Ilmora — Complete preparation with " + db.totalQuestions() + " MCQs! Entry Tests (MUET/ECAT), Job Tests (NTS/PTS), " +
+                    "Past Papers, Books and English Learning — all in one app!\n" +
+                    "Download: https://drive.google.com/uc?id=1kF0AWDSx5WfLgStzgMFshvBc70C6l7I1&export=download");
+            startActivity(Intent.createChooser(share, "Share Ilmora"));
+        });
+    }
+
+    private void refreshOwnerSection() {
+        boolean on = OwnerMode.isUnlocked(this);
+        ((TextView) findViewById(R.id.setRole)).setText(on ? "Owner — Manage MCQs unlock hai" : "Student account");
+        ((TextView) findViewById(R.id.tvOwnerStatus)).setText(on
+                ? "Owner Mode: ON — you can manage MCQs on this phone."
+                : "Owner Mode: OFF — Managing MCQs is for the owner only.");
+        ((Button) findViewById(R.id.btnOwner)).setText(on ? "Owner Mode Band Karo" : "Owner Code Daal Kar Unlock Karo");
+    }
+}

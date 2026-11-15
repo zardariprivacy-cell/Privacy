@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg_app" android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="🤖 AI Study Assistant" android:textColor="#12264A"
+        android:textSize="20sp" android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:text="Ask anything — Math • Physics • Chemistry • English • GK"
+        android:textColor="#5A6B8C" android:textSize="12sp" />
+
+    <ScrollView
+        android:id="@+id/scrollChat"
+        android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_marginTop="12dp" android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/chatBox"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/etQuestion"
+            android:layout_width="0dp" android:layout_height="wrap_content"
+            android:layout_weight="1" android:background="@drawable/bg_input"
+            android:hint="Type your question..."
+            android:inputType="textMultiLine" android:maxLines="3"
+            android:minHeight="52dp"
+            android:paddingLeft="14dp" android:paddingRight="14dp"
+            android:paddingTop="10dp" android:paddingBottom="10dp"
+            android:textColor="#12264A" android:textColorHint="#8494B3"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/btnSend"
+            android:layout_width="86dp" android:layout_height="52dp"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/bg_btn_gold"
+            android:text="Send" android:textColor="#FFFFFF"
+            android:textSize="15sp" android:textStyle="bold" />
+    </LinearLayout>
+</LinearLayout>
