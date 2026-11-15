@@ -119,14 +119,34 @@ public class HomeActivity extends Activity {
     private void buildSections() {
         LinearLayout box = findViewById(R.id.layoutSubjects);
         box.removeAllViews();
-        addSectionHeader(box, "🎓 Entry Test Preparation", "University entry tests — MUET • ECAT • MDCAT style MCQs", true);
+        addSectionHeader(box, "Entry Test Preparation", "University entry tests — MUET • ECAT • MDCAT style MCQs", true);
         for (String subject : Db.SUBJECTS) addSubjectCard(box, subject);
+        addSubjectCard(box, "Biology");
         addFullMockCard(box);
-        addSectionHeader(box, "💼 Job Preparation", "NTS • PTS • OTS & government job test preparation", false);
+        addSectionHeader(box, "Job Preparation", "NTS • PTS • OTS & government job test preparation", false);
         for (String subject : Db.JOB_SUBJECTS) addSubjectCard(box, subject);
-        addSectionHeader(box, "📚 English Language Learning", "Grammar & vocabulary — easy lessons and practice", false);
+        addSectionHeader(box, "English Language Learning", "Grammar & vocabulary — easy lessons and practice", false);
         for (String subject : Db.ENG_SUBJECTS) addSubjectCard(box, subject);
         addLessonsCard(box);
+        addSectionHeader(box, "Matric \u2014 Class 9 & 10", "Sindh Board \u2022 chapter-wise MCQs, topic by topic", false);
+        addSubHeader(box, "Class 9");
+        for (String subject : Db.MATRIC9_SUBJECTS) addSubjectCard(box, subject);
+        addSubHeader(box, "Class 10");
+        for (String subject : Db.MATRIC10_SUBJECTS) addSubjectCard(box, subject);
+    }
+
+    private void addSubHeader(LinearLayout box, String title) {
+        TextView h = new TextView(this);
+        h.setText(title);
+        h.setTextColor(Color.rgb(21, 101, 192));
+        h.setTextSize(17);
+        h.setTypeface(Typeface.DEFAULT_BOLD);
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lp.topMargin = dp(18);
+        lp.leftMargin = dp(4);
+        h.setLayoutParams(lp);
+        box.addView(h);
     }
 
     private void addSectionHeader(LinearLayout box, String title, String sub, boolean first) {
@@ -163,8 +183,50 @@ public class HomeActivity extends Activity {
             case "Job English": return R.drawable.bg_sub_english;
             case "English Grammar": return R.drawable.bg_sub_grammar;
             case "English Vocabulary": return R.drawable.bg_sub_vocab;
-            default: return R.drawable.bg_sub_math;
+            case "Biology": return R.drawable.bg_sub_biology;
+            default:
+                if (subject.contains("Physics")) return R.drawable.bg_sub_physics;
+                if (subject.contains("Chemistry")) return R.drawable.bg_sub_chemistry;
+                if (subject.contains("Biology")) return R.drawable.bg_sub_biology;
+                if (subject.contains("English")) return R.drawable.bg_sub_english;
+                return R.drawable.bg_sub_math;
         }
+    }
+
+    private int iconFor(String subject) {
+        switch (subject) {
+            case "Mathematics": return R.drawable.ic_math;
+            case "Physics": return R.drawable.ic_physics;
+            case "Chemistry": return R.drawable.ic_chemistry;
+            case "English": return R.drawable.ic_english;
+            case "GK & Pakistan Studies": return R.drawable.ic_gk;
+            case "Islamic Studies": return R.drawable.ic_islamic;
+            case "Everyday Science": return R.drawable.ic_science;
+            case "Job Mathematics": return R.drawable.ic_jobmath;
+            case "Job English": return R.drawable.ic_jobeng;
+            case "Computer Basics": return R.drawable.ic_computer;
+            case "English Grammar": return R.drawable.ic_grammar;
+            case "English Vocabulary": return R.drawable.ic_vocab;
+            case "Biology": return R.drawable.ic_biology;
+            default:
+                if (subject.contains("Physics")) return R.drawable.ic_physics;
+                if (subject.contains("Chemistry")) return R.drawable.ic_chemistry;
+                if (subject.contains("Mathematics")) return R.drawable.ic_math;
+                if (subject.contains("Biology")) return R.drawable.ic_biology;
+                if (subject.contains("English")) return R.drawable.ic_english;
+                return R.drawable.ic_books;
+        }
+    }
+
+    private void addIconChip(LinearLayout card, int iconRes) {
+        ImageView icon = new ImageView(this);
+        icon.setImageResource(iconRes);
+        icon.setBackgroundResource(R.drawable.bg_icon_chip);
+        icon.setPadding(dp(11), dp(11), dp(11), dp(11));
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(dp(52), dp(52));
+        lp.rightMargin = dp(14);
+        icon.setLayoutParams(lp);
+        card.addView(icon);
     }
 
     private void addSubjectCard(LinearLayout box, String subject) {
@@ -179,6 +241,7 @@ public class HomeActivity extends Activity {
         lp.topMargin = dp(10);
         card.setLayoutParams(lp);
 
+        addIconChip(card, iconFor(subject));
         LinearLayout texts = new LinearLayout(this);
         texts.setOrientation(LinearLayout.VERTICAL);
         texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
@@ -221,6 +284,7 @@ public class HomeActivity extends Activity {
                 LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
         lp.topMargin = dp(10);
         card.setLayoutParams(lp);
+        addIconChip(card, R.drawable.ic_mock);
         LinearLayout texts = new LinearLayout(this);
         texts.setOrientation(LinearLayout.VERTICAL);
         texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
@@ -260,6 +324,7 @@ public class HomeActivity extends Activity {
                 LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
         lp.topMargin = dp(10);
         card.setLayoutParams(lp);
+        addIconChip(card, R.drawable.ic_lessons);
         LinearLayout texts = new LinearLayout(this);
         texts.setOrientation(LinearLayout.VERTICAL);
         texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));

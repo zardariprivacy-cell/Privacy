@@ -6,6 +6,9 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.util.ArrayList;
@@ -16,9 +19,14 @@ public class Db extends SQLiteOpenHelper {
     public static final String[] SUBJECTS = {"Mathematics", "Physics", "Chemistry", "English"};
     public static final String[] JOB_SUBJECTS = {"GK & Pakistan Studies", "Islamic Studies", "Everyday Science", "Job Mathematics", "Job English", "Computer Basics"};
     public static final String[] ENG_SUBJECTS = {"English Grammar", "English Vocabulary"};
+    public static final String[] MATRIC9_SUBJECTS = {"Class 9 Mathematics", "Class 9 Physics", "Class 9 Chemistry", "Class 9 Biology", "Class 9 English"};
+    public static final String[] MATRIC10_SUBJECTS = {"Class 10 Mathematics", "Class 10 Physics", "Class 10 Chemistry", "Class 10 Biology", "Class 10 English"};
+
+    private final Context appCtx;
 
     public Db(Context context) {
-        super(context, "muet.db", null, 10);
+        super(context, "muet.db", null, 11);
+        this.appCtx = context.getApplicationContext();
     }
 
     @Override
@@ -48,6 +56,7 @@ public class Db extends SQLiteOpenHelper {
                 "total INTEGER NOT NULL, " +
                 "date INTEGER NOT NULL)");
         seed(db);
+        loadAssetData(db);
     }
 
     @Override
@@ -90,6 +99,63 @@ public class Db extends SQLiteOpenHelper {
         if (oldVersion < 10) {
             // v5.2: Job + English expansion (batch 10).
             seedBatch10(db);
+        }
+        if (oldVersion < 11) {
+            // v5.7: Matric (Class 9 & 10) + Entry Biology content packs from assets.
+            loadAssetData(db);
+        }
+    }
+
+    /** Loads pipe-delimited MCQ packs from assets/mcq (v5.7+). Each file is
+     *  loaded exactly once; the datafiles table remembers what is already in.
+     *  Line format: subject|chapter|topic|question|opt0|opt1|opt2|opt3|correct|explanation */
+    private void loadAssetData(SQLiteDatabase db) {
+        try {
+            db.execSQL("CREATE TABLE IF NOT EXISTS datafiles (name TEXT PRIMARY KEY)");
+            String[] files = appCtx.getAssets().list("mcq");
+            if (files == null) return;
+            for (String name : files) {
+                if (!name.endsWith(".txt")) continue;
+                Cursor c = db.rawQuery("SELECT COUNT(*) FROM datafiles WHERE name = ?", new String[]{name});
+                boolean done = c.moveToFirst() && c.getInt(0) > 0;
+                c.close();
+                if (done) continue;
+                db.beginTransaction();
+                try {
+                    InputStream in = appCtx.getAssets().open("mcq/" + name);
+                    BufferedReader br = new BufferedReader(new InputStreamReader(in, StandardCharsets.UTF_8));
+                    String line;
+                    while ((line = br.readLine()) != null) {
+                        line = line.trim();
+                        if (line.isEmpty()) continue;
+                        String[] f = line.split("\\|", -1);
+                        if (f.length != 10) continue;
+                        int correct;
+                        try { correct = Integer.parseInt(f[8].trim()); } catch (Exception e) { continue; }
+                        ContentValues v = new ContentValues();
+                        v.put("subject", f[0].trim());
+                        v.put("chapter", f[1].trim());
+                        v.put("topic", f[2].trim());
+                        v.put("question", f[3].trim());
+                        v.put("opt0", f[4].trim());
+                        v.put("opt1", f[5].trim());
+                        v.put("opt2", f[6].trim());
+                        v.put("opt3", f[7].trim());
+                        v.put("correct", correct);
+                        v.put("explanation", f[9].trim());
+                        db.insert("questions", null, v);
+                    }
+                    br.close();
+                    ContentValues doneRow = new ContentValues();
+                    doneRow.put("name", name);
+                    db.insert("datafiles", null, doneRow);
+                    db.setTransactionSuccessful();
+                } finally {
+                    db.endTransaction();
+                }
+            }
+        } catch (Exception e) {
+            // Content packs are additive; a bad pack must never break the app.
         }
     }
 

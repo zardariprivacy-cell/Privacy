@@ -38,6 +38,8 @@
         <activity android:name=".BooksActivity" android:exported="false" />
         <activity android:name=".LessonsActivity" android:exported="false" />
         <activity android:name=".StudyAssistantActivity" android:exported="false" />
+        <activity android:name=".DiagramsActivity" android:exported="false" />
+        <activity android:name=".DiagramDetailActivity" android:exported="false" />
         <activity android:name=".PastPapersActivity" android:exported="false" />
         <activity android:name=".PerformanceActivity" android:exported="false" />
         <activity android:name=".LeaderboardActivity" android:exported="false" />

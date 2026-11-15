@@ -37,6 +37,12 @@ public class TopicListActivity extends Activity {
                 total + " questions • all chapters mixed", true,
                 v -> startQuiz(null, null)));
 
+        if (subject.contains("Biology")) {
+            box.addView(rowCard("Biology Diagrams",
+                    "Labelled diagrams with simple explanations", true,
+                    v -> startActivity(new Intent(this, DiagramsActivity.class))));
+        }
+
         String lastChapter = null;
         List<TopicInfo> topics = db.topicsFor(subject);
         for (TopicInfo t : topics) {
