@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -56,12 +56,62 @@
     "Master"
    ],
    "who": "KP domicile, first-year BS/MS students at KPEF-approved institutions, 70% marks ya 3.00 CGPA, family income Rs 160,000/month ya kam, koi aur scholarship nahi le rahe hon",
-   "coverage": "Tuition assistance (official page par amount nahi bataya gaya); renewal ke liye 3.00 CGPA zaroori",
+   "coverage": "80% tak tuition fees (foundation ki policy aur funds par munhasir); renewal ke liye 3.00 CGPA zaroori",
    "deadline": "31 December 2026",
    "deadlineDate": "2026-12-31",
    "status": "Open now",
    "url": "https://ef.kp.gov.pk/scholarship/merit_cum_inaffordability",
    "added": "2026-11-14"
+  },
+  {
+   "name": "Dalda Foundation Scholarship 2026-27",
+   "scope": "Pakistan",
+   "country": "All Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor"
+   ],
+   "who": "First-year Intermediate students (Matric 80% science / 70% other streams) aur vocational trainees; family income Rs 70,000/month ya kam",
+   "coverage": "Need-based financial support + mentoring (amount official notice mein nahi bataya gaya)",
+   "deadline": "13 November 2026 (band ho chuki hai — agli cycle October 2027 mein expected)",
+   "deadlineDate": "2026-11-13",
+   "status": "Closed",
+   "url": "https://www.daldafoundation.pk/",
+   "added": "2026-11-15"
+  },
+  {
+   "name": "KP Education Employees Foundation (EEF) Merit Scholarship 2026-27",
+   "scope": "Pakistan",
+   "country": "Khyber Pakhtunkhwa, Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor"
+   ],
+   "who": "KP Education Department ke employees (active/retired, 10+ saal service, valid EEF registration) ke bachay — SSC, HSSC ya Bachelor mein parh rahe hon",
+   "coverage": "Rs 8,000 per month stipend (1,000 scholarships)",
+   "deadline": "15 January 2027",
+   "deadlineDate": "2027-01-15",
+   "status": "Open now",
+   "url": "https://www.kpeefhed.gkp.pk",
+   "added": "2026-11-15"
+  },
+  {
+   "name": "KP Workers Welfare Fund Scholarship 2026-27",
+   "scope": "Pakistan",
+   "country": "Khyber Pakhtunkhwa, Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "KP Workers Welfare Board ke under registered industrial/mine workers (EOBI/ESSI, 3+ saal service) ke bachay — Intermediate se postgraduate tak",
+   "coverage": "Rs 3,500–5,500 per month stipend (category ke mutabiq)",
+   "deadline": "Category I: 31 January 2027; Category II & III: 30 April 2027 (Fall 2026 admission reference: 30 November 2026)",
+   "deadlineDate": "2027-01-31",
+   "status": "Open now",
+   "url": "https://labourhrmis.kp.gov.pk/scholarship",
+   "added": "2026-11-15"
   },
   {
    "name": "HEC BISP Undergraduate Scholarships (formerly Ehsaas)",
