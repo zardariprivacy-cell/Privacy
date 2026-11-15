@@ -5,15 +5,17 @@
     android:padding="20dp">
 
     <TextView
+        android:id="@+id/tvCrashTitle"
         android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:text="App band hua tha — ye wajah mili"
+        android:text="The app stopped unexpectedly"
         android:textColor="#FF8A8A" android:textSize="19sp"
         android:textStyle="bold" />
 
     <TextView
+        android:id="@+id/tvCrashSub"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="Is screen ki photo (screenshot) bana kar bhej do — main isi ko parh kar fix kar dunga."
+        android:text="Your account and progress are safe."
         android:textColor="#A9BADF" android:textSize="14sp" />
 
     <ScrollView
@@ -25,7 +27,7 @@
             android:id="@+id/tvCrash"
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:padding="12dp" android:textColor="#FFFFFF"
-            android:textIsSelectable="true" android:textSize="11sp" />
+            android:textIsSelectable="true" android:textSize="12sp" />
     </ScrollView>
 
     <Button
@@ -33,7 +35,7 @@
         android:layout_width="match_parent" android:layout_height="54dp"
         android:layout_marginTop="14dp"
         android:background="@drawable/bg_btn_gold"
-        android:text="Continue — App Kholo"
+        android:text="Continue — Reopen App"
         android:textColor="#231A00" android:textSize="16sp"
         android:textStyle="bold" />
 </LinearLayout>

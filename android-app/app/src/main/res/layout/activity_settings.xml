@@ -163,7 +163,7 @@
                     android:id="@+id/tvOwnerStatus"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Owner Mode: OFF — MCQs manage karna sirf owner ke liye hai."
+                    android:text="Owner Mode: OFF — Managing MCQs is for the owner only."
                     android:textColor="#FFFFFF" android:textSize="14sp" />
 
                 <Button

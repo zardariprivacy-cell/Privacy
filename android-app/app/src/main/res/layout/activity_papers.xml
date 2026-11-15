@@ -19,7 +19,7 @@
             <TextView
                 android:id="@+id/tvPapersStatus"
                 android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:text="Papers load ho rahe hain..."
+                android:text="Loading papers..."
                 android:textColor="#A9BADF" android:textSize="13sp" />
 
             <LinearLayout

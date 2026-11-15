@@ -59,7 +59,7 @@ public class PastPapersActivity extends Activity {
             conn = (HttpURLConnection) new URL(urlStr).openConnection();
             conn.setConnectTimeout(8000);
             conn.setReadTimeout(8000);
-            conn.setRequestProperty("User-Agent", "UniTestPrep-App");
+            conn.setRequestProperty("User-Agent", "Ilmora-App");
             if (conn.getResponseCode() != 200) return null;
             BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream(), "UTF-8"));
             StringBuilder sb = new StringBuilder();
@@ -80,11 +80,11 @@ public class PastPapersActivity extends Activity {
             JSONArray arr = new JSONArray(json);
             container.removeAllViews();
             if (arr.length() == 0) {
-                tvStatus.setText("Papers jald arahe hain — thoda intezaar karo.");
+                tvStatus.setText("Papers are coming soon — please wait a little.");
                 return;
             }
-            tvStatus.setText("UET ECAT ke asal past papers. Paper kholo, download karo " +
-                    "aur asal exam pattern ki practice karo — har paper mein 100 MCQs hain.");
+            tvStatus.setText("Real UET ECAT past papers. Open a paper, download it " +
+                    "and practice the real exam pattern — every paper has 100 MCQs.");
             for (int i = 0; i < arr.length(); i++) {
                 JSONObject p = arr.getJSONObject(i);
                 container.addView(paperCard(
@@ -93,7 +93,7 @@ public class PastPapersActivity extends Activity {
                         p.optString("url")));
             }
         } catch (Throwable t) {
-            tvStatus.setText("Papers list load nahi ho saki — internet check karke dobara kholo.");
+            tvStatus.setText("The papers list could not be loaded — check your internet and reopen.");
         }
     }
 

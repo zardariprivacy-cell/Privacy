@@ -98,10 +98,10 @@ public class ProfileActivity extends Activity {
             }
             tmp.delete();
             db.updatePhoto(user.id, out.getAbsolutePath());
-            Toast.makeText(this, "Profile picture lag gayi!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Profile picture updated!", Toast.LENGTH_SHORT).show();
             onResume();
         } catch (Exception e) {
-            Toast.makeText(this, "Photo nahi lagi — dobara try karo", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Photo could not be set — please try again", Toast.LENGTH_LONG).show();
         }
     }
 }

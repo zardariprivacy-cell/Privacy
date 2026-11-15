@@ -60,7 +60,7 @@
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
                     android:text="Correct" android:textColor="#A9BADF"
-                    android:textSize="11sp" />
+                    android:textSize="12sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -79,7 +79,7 @@
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
                     android:text="Wrong" android:textColor="#A9BADF"
-                    android:textSize="11sp" />
+                    android:textSize="12sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -97,7 +97,7 @@
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
                     android:text="Score" android:textColor="#A9BADF"
-                    android:textSize="11sp" />
+                    android:textSize="12sp" />
             </LinearLayout>
         </LinearLayout>
 

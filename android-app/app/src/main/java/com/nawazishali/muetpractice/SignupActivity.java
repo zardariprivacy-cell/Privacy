@@ -25,20 +25,20 @@ public class SignupActivity extends Activity {
             String username = etUsername.getText().toString().trim();
             String password = etPassword.getText().toString();
             if (name.isEmpty() || username.isEmpty() || password.isEmpty()) {
-                Toast.makeText(this, "Saari fields bharo", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Please fill all fields", Toast.LENGTH_SHORT).show();
                 return;
             }
             if (password.length() < 4) {
-                Toast.makeText(this, "Password kam az kam 4 characters ka ho", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Password must be at least 4 characters", Toast.LENGTH_SHORT).show();
                 return;
             }
             long id = db.createUser(name, username, password);
             if (id < 0) {
-                Toast.makeText(this, "Ye username pehle se hai — koi aur choose karo", Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "This username is already taken — please choose another", Toast.LENGTH_LONG).show();
                 return;
             }
             Session.set(this, id);
-            Toast.makeText(this, "Account ban gaya!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Account created successfully!", Toast.LENGTH_SHORT).show();
             Intent i = new Intent(this, HomeActivity.class);
             i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(i);

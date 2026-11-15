@@ -15,7 +15,7 @@ import com.google.android.gms.ads.interstitial.InterstitialAd;
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 
 /**
- * AdMob ads for UniTest Prep.
+ * AdMob ads for Ilmora.
  *
  * LIVE STATE (Nov 13, 2026): ALL AdMob IDs are the owner's real ones —
  * App ID in AndroidManifest.xml, BANNER_ID and INTERSTITIAL_ID below.

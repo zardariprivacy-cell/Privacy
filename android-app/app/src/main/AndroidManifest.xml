@@ -10,7 +10,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:label="UniTest Prep"
+        android:label="Ilmora"
         android:theme="@style/AppTheme">
 
         <!-- AdMob App ID (owner's real AdMob account, added Nov 13, 2026). -->
@@ -36,6 +36,7 @@
         <activity android:name=".ResultActivity" android:exported="false" />
         <activity android:name=".SettingsActivity" android:exported="false" />
         <activity android:name=".BooksActivity" android:exported="false" />
+        <activity android:name=".LessonsActivity" android:exported="false" />
         <activity android:name=".PastPapersActivity" android:exported="false" />
         <activity android:name=".PerformanceActivity" android:exported="false" />
         <activity android:name=".LeaderboardActivity" android:exported="false" />

@@ -27,7 +27,7 @@ public class ManageActivity extends Activity {
 
         User user = db.getUser(Session.currentUserId(this));
         if (user == null || !OwnerMode.isUnlocked(this)) {
-            Toast.makeText(this, "Ye page sirf Owner ke liye hai — pehle Settings mein Owner Code daal kar unlock karo", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "This page is for the Owner only — unlock it first with the Owner Code in Settings", Toast.LENGTH_LONG).show();
             finish();
             return;
         }

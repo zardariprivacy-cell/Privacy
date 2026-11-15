@@ -89,10 +89,10 @@ public class EditQuestionActivity extends Activity {
             btnDelete.setVisibility(View.VISIBLE);
             btnDelete.setOnClickListener(v -> new AlertDialog.Builder(this)
                     .setTitle("Delete question?")
-                    .setMessage("Ye sawal hamesha ke liye delete ho jayega.")
+                    .setMessage("This question will be deleted permanently.")
                     .setPositiveButton("Delete", (d, w) -> {
                         db.deleteQuestion(qid);
-                        Toast.makeText(this, "Question delete ho gaya", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "Question deleted", Toast.LENGTH_SHORT).show();
                         finish();
                     })
                     .setNegativeButton("Cancel", null)
@@ -124,15 +124,15 @@ public class EditQuestionActivity extends Activity {
         if (q.question.isEmpty() || q.explanation.isEmpty()
                 || q.options[0].isEmpty() || q.options[1].isEmpty()
                 || q.options[2].isEmpty() || q.options[3].isEmpty()) {
-            Toast.makeText(this, "Saari fields bharo — sawal, 4 options aur explanation", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Please fill all fields — question, 4 options and explanation", Toast.LENGTH_LONG).show();
             return;
         }
         if (qid > 0) {
             db.updateQuestion(q);
-            Toast.makeText(this, "Question update ho gaya", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Question updated", Toast.LENGTH_SHORT).show();
         } else {
             db.addQuestion(q);
-            Toast.makeText(this, "Naya question add ho gaya", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "New question added", Toast.LENGTH_SHORT).show();
         }
         finish();
     }

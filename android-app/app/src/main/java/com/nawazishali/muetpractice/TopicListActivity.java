@@ -28,13 +28,13 @@ public class TopicListActivity extends Activity {
         if (subject == null) subject = "Mathematics";
 
         ((TextView) findViewById(R.id.tvSubjectTitle)).setText(subject);
-        ((TextView) findViewById(R.id.tvSubjectSub)).setText("Chapter chuno, phir topic — sirf usi topic ke MCQs aayenge");
+        ((TextView) findViewById(R.id.tvSubjectSub)).setText("Choose a chapter, then a topic — only that topic's MCQs will be shown");
 
         LinearLayout box = findViewById(R.id.layoutTopics);
 
         int total = db.questionsFor(subject).size();
         box.addView(rowCard("Poora Subject — Mixed Practice",
-                total + " sawal • saare chapters mile hue", true,
+                total + " questions • all chapters mixed", true,
                 v -> startQuiz(null, null)));
 
         String lastChapter = null;

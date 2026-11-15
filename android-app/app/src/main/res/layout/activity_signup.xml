@@ -11,7 +11,9 @@
             android:layout_width="100dp" android:layout_height="100dp"
             android:layout_gravity="center_horizontal"
             android:contentDescription="App logo"
-            android:src="@drawable/emblem" />
+            android:background="@drawable/bg_logo_card"
+            android:padding="8dp"
+            android:src="@drawable/logo_full" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"

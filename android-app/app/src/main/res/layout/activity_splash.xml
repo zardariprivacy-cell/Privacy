@@ -6,20 +6,22 @@
 
     <ImageView
         android:id="@+id/ivLogo"
-        android:layout_width="190dp" android:layout_height="190dp"
+        android:layout_width="215dp" android:layout_height="215dp"
+        android:background="@drawable/bg_logo_card"
         android:contentDescription="App logo"
-        android:src="@drawable/emblem" />
+        android:padding="12dp"
+        android:src="@drawable/logo_full" />
 
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="UniTest" android:textColor="#FFFFFF"
+        android:text="Ilmora" android:textColor="#FFFFFF"
         android:textSize="42sp" android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:text="ENTRY TEST" android:textColor="#F5B81D"
-        android:textSize="30sp" android:textStyle="bold" />
+        android:text="STUDY • JOBS • ENGLISH" android:textColor="#F5B81D"
+        android:textSize="19sp" android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
@@ -33,7 +35,7 @@
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_marginTop="18dp"
-        android:text="Your Gateway to University Admission"
+        android:text="Entry Tests • Job Tests • Past Papers • English Learning"
         android:textColor="#A9BADF" android:textSize="14sp" android:textStyle="italic" />
 
     <TextView

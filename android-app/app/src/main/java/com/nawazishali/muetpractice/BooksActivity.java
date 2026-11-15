@@ -59,7 +59,7 @@ public class BooksActivity extends Activity {
             conn = (HttpURLConnection) new URL(urlStr).openConnection();
             conn.setConnectTimeout(8000);
             conn.setReadTimeout(8000);
-            conn.setRequestProperty("User-Agent", "UniTestPrep-App");
+            conn.setRequestProperty("User-Agent", "Ilmora-App");
             if (conn.getResponseCode() != 200) return null;
             BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream(), "UTF-8"));
             StringBuilder sb = new StringBuilder();
@@ -80,12 +80,12 @@ public class BooksActivity extends Activity {
             JSONArray arr = new JSONArray(json);
             container.removeAllViews();
             if (arr.length() == 0) {
-                tvStatus.setText("Books jald arahi hain — thoda intezaar karo.");
+                tvStatus.setText("Books are coming soon — please wait a little.");
                 return;
             }
-            tvStatus.setText("Official Sindh Textbook Board (STBB) ki free kitabein. " +
-                    "Download karke offline parho. Note: ye kitabein bari files hain " +
-                    "(kuch 200 MB se bhi zyada) — WiFi par download karna behtar hai.");
+            tvStatus.setText("Free books from the official Sindh Textbook Board (STBB). " +
+                    "Download them and read offline. Note: these are large files " +
+                    "(some are over 200 MB) — downloading on WiFi is recommended.");
             String lastClass = "";
             for (int i = 0; i < arr.length(); i++) {
                 JSONObject b = arr.getJSONObject(i);
@@ -110,7 +110,7 @@ public class BooksActivity extends Activity {
                 container.addView(bookCard(title, subject, url));
             }
         } catch (Throwable t) {
-            tvStatus.setText("Books list load nahi ho saki — internet check karke dobara kholo.");
+            tvStatus.setText("The books list could not be loaded — check your internet and reopen.");
         }
     }
 

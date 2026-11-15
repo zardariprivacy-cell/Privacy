@@ -35,6 +35,26 @@ public class QuizActivity extends Activity {
     private boolean answered = false;
     private final List<String> reviewItems = new ArrayList<>();
     private CountDownTimer timer;
+    private boolean fullMock;
+    private long timerLeftMs = -1;
+    private int savedSelected = -1;
+    private boolean savedAnswered = false;
+    private final List<Integer> perms = new ArrayList<>();
+    private static final List<List<Integer>> PERMS = buildPerms();
+
+    private static List<List<Integer>> buildPerms() {
+        List<List<Integer>> all = new ArrayList<>();
+        for (int a = 0; a < 4; a++) for (int b = 0; b < 4; b++) {
+            if (b == a) continue;
+            for (int c = 0; c < 4; c++) {
+                if (c == a || c == b) continue;
+                List<Integer> p = new ArrayList<>();
+                p.add(a); p.add(b); p.add(c); p.add(6 - a - b - c);
+                all.add(p);
+            }
+        }
+        return all;
+    }
     private boolean prefVibrate = true;
     private boolean prefExplain = true;
 
@@ -68,18 +88,24 @@ public class QuizActivity extends Activity {
         layoutOptions = findViewById(R.id.layoutOptions);
         btnNext = findViewById(R.id.btnNext);
 
-        mock = "mock".equals(getIntent().getStringExtra("mode"));
+        boolean restored = savedInstanceState != null && savedInstanceState.containsKey("q_ids")
+                && restoreState(savedInstanceState);
         List<Question> raw = new ArrayList<>();
-        if (mock) {
-            subjectLabel = "Mock Test";
+        if (!restored) {
+            mock = "mock".equals(getIntent().getStringExtra("mode"));
+            fullMock = getIntent().getBooleanExtra("full", false);
+        }
+        if (!restored && mock) {
+            subjectLabel = fullMock ? "Full Mock Test" : "Mock Test";
+            int perSubject = fullMock ? 25 : 5;
             for (String s : Db.SUBJECTS) {
                 List<Question> pool = new ArrayList<>(db.questionsFor(s));
                 Collections.shuffle(pool);
-                raw.addAll(pool.subList(0, Math.min(5, pool.size())));
+                raw.addAll(pool.subList(0, Math.min(perSubject, pool.size())));
             }
             Collections.shuffle(raw);
-            tvTitle.setText("Mock Test");
-        } else {
+            tvTitle.setText(subjectLabel);
+        } else if (!restored) {
             subjectLabel = getIntent().getStringExtra("subject");
             if (subjectLabel == null) subjectLabel = "Mathematics";
             String chapter = getIntent().getStringExtra("chapter");
@@ -94,11 +120,13 @@ public class QuizActivity extends Activity {
             tvTitle.setText(displayTitle);
         }
         // Shuffle the options of every question once, keeping track of the answer.
-        for (Question q : raw) {
-            questions.add(shuffled(q));
+        if (!restored) {
+            for (Question q : raw) {
+                questions.add(shuffled(q));
+            }
         }
         if (questions.isEmpty()) {
-            Toast.makeText(this, "Is subject mein abhi sawal nahi hain", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "No questions are available in this subject yet", Toast.LENGTH_LONG).show();
             finish();
             return;
         }
@@ -107,15 +135,103 @@ public class QuizActivity extends Activity {
         if (mock) {
             tvTimer.setVisibility(View.VISIBLE);
             btnNext.setVisibility(View.VISIBLE);
-            startTimer();
+            startTimer(timerLeftMs > 0 ? timerLeftMs : (fullMock ? 100L : 20L) * 60L * 1000L);
         }
         showQuestion();
+        if (restored) repaintRestored();
+    }
+
+    // ---- State save/restore: rotation or process death never loses an attempt ----
+    @Override
+    protected void onSaveInstanceState(Bundle out) {
+        super.onSaveInstanceState(out);
+        if (questions.isEmpty()) return;
+        out.putBoolean("mock", mock);
+        out.putBoolean("full", fullMock);
+        out.putString("subjectLabel", subjectLabel);
+        out.putString("displayTitle", displayTitle);
+        long[] ids = new long[questions.size()];
+        int[] pm = new int[questions.size()];
+        for (int i = 0; i < questions.size(); i++) {
+            ids[i] = questions.get(i).id;
+            pm[i] = perms.get(i);
+        }
+        out.putLongArray("q_ids", ids);
+        out.putIntArray("q_perms", pm);
+        out.putInt("index", index);
+        out.putInt("score", score);
+        out.putStringArrayList("review", new ArrayList<>(reviewItems));
+        out.putInt("curSelected", selected);
+        out.putBoolean("curAnswered", answered);
+        out.putLong("timerLeft", timerLeftMs);
+    }
+
+    private boolean restoreState(Bundle b) {
+        long[] ids = b.getLongArray("q_ids");
+        int[] pm = b.getIntArray("q_perms");
+        if (ids == null || pm == null || ids.length == 0 || ids.length != pm.length) return false;
+        mock = b.getBoolean("mock");
+        fullMock = b.getBoolean("full");
+        subjectLabel = b.getString("subjectLabel");
+        displayTitle = b.getString("displayTitle");
+        for (int i = 0; i < ids.length; i++) {
+            Question base = db.questionById(ids[i]);
+            if (base == null) return false;
+            questions.add(withOrder(base, PERMS.get(pm[i])));
+            perms.add(pm[i]);
+        }
+        index = b.getInt("index");
+        score = b.getInt("score");
+        ArrayList<String> rv = b.getStringArrayList("review");
+        if (rv != null) reviewItems.addAll(rv);
+        savedSelected = b.getInt("curSelected", -1);
+        savedAnswered = b.getBoolean("curAnswered", false);
+        timerLeftMs = b.getLong("timerLeft", -1);
+        tvTitle.setText(mock ? subjectLabel : displayTitle);
+        return true;
+    }
+
+    private void repaintRestored() {
+        if (mock) {
+            if (savedSelected >= 0) {
+                selected = savedSelected;
+                for (int i = 0; i < optionButtons.size(); i++) {
+                    optionButtons.get(i).setBackgroundResource(
+                            i == selected ? R.drawable.bg_opt_selected : R.drawable.bg_opt);
+                }
+            }
+        } else if (savedAnswered && savedSelected >= 0) {
+            selected = savedSelected;
+            answered = true;
+            Question q = questions.get(index);
+            for (int i = 0; i < optionButtons.size(); i++) {
+                Button btn = optionButtons.get(i);
+                btn.setEnabled(false);
+                if (i == q.correctIndex) {
+                    btn.setBackgroundResource(R.drawable.bg_correct);
+                    btn.setText(optionText(i, q.options[i], "   \u2713"));
+                } else if (i == savedSelected) {
+                    btn.setBackgroundResource(R.drawable.bg_wrong);
+                    btn.setText(optionText(i, q.options[i], "   \u2717"));
+                }
+            }
+            if (prefExplain && q.explanation != null && !q.explanation.trim().isEmpty()) {
+                tvExplanation.setText("\uD83D\uDCA1 " + q.explanation);
+                tvExplanation.setVisibility(View.VISIBLE);
+            }
+            btnNext.setVisibility(View.VISIBLE);
+        }
     }
 
     private Question shuffled(Question q) {
         List<Integer> order = new ArrayList<>();
         for (int i = 0; i < q.options.length; i++) order.add(i);
         Collections.shuffle(order);
+        perms.add(PERMS.indexOf(order));
+        return withOrder(q, order);
+    }
+
+    private Question withOrder(Question q, List<Integer> order) {
         Question c = new Question();
         c.id = q.id;
         c.subject = q.subject;
@@ -129,17 +245,18 @@ public class QuizActivity extends Activity {
         return c;
     }
 
-    private void startTimer() {
-        timer = new CountDownTimer(20 * 60 * 1000L, 1000) {
+    private void startTimer(long durationMs) {
+        timer = new CountDownTimer(durationMs, 1000) {
             @Override
             public void onTick(long ms) {
+                timerLeftMs = ms;
                 long s = ms / 1000;
                 tvTimer.setText(String.format(Locale.US, "⏱ %02d:%02d", s / 60, s % 60));
             }
 
             @Override
             public void onFinish() {
-                Toast.makeText(QuizActivity.this, "Time khatam!", Toast.LENGTH_LONG).show();
+                Toast.makeText(QuizActivity.this, "Time is up!", Toast.LENGTH_LONG).show();
                 recordCurrent(false);
                 finishQuiz();
             }
@@ -278,7 +395,7 @@ public class QuizActivity extends Activity {
         Intent i = new Intent(this, ResultActivity.class);
         i.putExtra("score", score);
         i.putExtra("total", questions.size());
-        i.putExtra("title", mock ? "Mock Test Result" : displayTitle + " Result");
+        i.putExtra("title", (mock ? subjectLabel : displayTitle) + " Result");
         StringBuilder sb = new StringBuilder();
         for (int k = 0; k < reviewItems.size(); k++) {
             if (k > 0) sb.append("\n\n");

@@ -51,7 +51,7 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="Uni\nPrep" android:textColor="#F5B81D"
+                    android:text="Ilmora" android:textColor="#F5B81D"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <TextView
@@ -99,7 +99,7 @@
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="6dp"
                     android:text="Practice accuracy — attempt questions to grow it"
-                    android:textColor="#66779F" android:textSize="11sp" />
+                    android:textColor="#66779F" android:textSize="12sp" />
             </LinearLayout>
 
             <LinearLayout
@@ -116,6 +116,7 @@
 
                 <Button
                     android:id="@+id/btnPerformance"
+                    android:visibility="gone"
                     android:layout_width="0dp" android:layout_height="86dp"
                     android:layout_marginLeft="6dp" android:layout_weight="1"
                     android:background="@drawable/bg_tile_orange"
@@ -125,7 +126,8 @@
 
             <LinearLayout
                 android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:layout_marginTop="12dp" android:orientation="horizontal">
+                android:layout_marginTop="12dp" android:orientation="horizontal"
+                android:visibility="gone">
 
                 <Button
                     android:id="@+id/btnLeaderboard"
@@ -173,13 +175,13 @@
             <TextView
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Subjects" android:textColor="#FFFFFF"
+                android:text="Sections" android:textColor="#FFFFFF"
                 android:textSize="18sp" android:textStyle="bold" />
 
             <TextView
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:layout_marginTop="2dp"
-                android:text="Ek subject chuno aur practice shuru karo"
+                android:text="Choose your section and start preparing"
                 android:textColor="#A9BADF" android:textSize="12sp" />
 
             <LinearLayout
@@ -245,8 +247,9 @@
 
     <TextView
         android:id="@+id/tvAdStatus"
+        android:visibility="gone"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:gravity="center" android:padding="3dp"
         android:text="Ad status: ..." android:textColor="#66779F"
-        android:textSize="10sp" />
+        android:textSize="12sp" />
 </LinearLayout>

@@ -25,15 +25,21 @@ public class HomeActivity extends Activity {
         setContentView(R.layout.activity_home);
         Ads.attachBanner(this, findViewById(R.id.adContainer));
         final android.widget.TextView tvAdStatus = findViewById(R.id.tvAdStatus);
-        final android.os.Handler adHandler = new android.os.Handler();
-        final int[] adTicks = {0};
-        adHandler.post(new Runnable() {
-            @Override
-            public void run() {
-                tvAdStatus.setText("Ad status: " + Ads.sdkStatus + "  •  Banner: " + Ads.bannerStatus);
-                if (++adTicks[0] < 20) adHandler.postDelayed(this, 1000);
-            }
-        });
+        // Ad diagnostics are owner-only: students never see technical status text.
+        if (OwnerMode.isUnlocked(this)) {
+            tvAdStatus.setVisibility(View.VISIBLE);
+            final android.os.Handler adHandler = new android.os.Handler();
+            final int[] adTicks = {0};
+            adHandler.post(new Runnable() {
+                @Override
+                public void run() {
+                    tvAdStatus.setText("Ad status: " + Ads.sdkStatus + "  •  Banner: " + Ads.bannerStatus);
+                    if (++adTicks[0] < 20) adHandler.postDelayed(this, 1000);
+                }
+            });
+        } else {
+            tvAdStatus.setVisibility(View.GONE);
+        }
         db = new Db(this);
         user = db.getUser(Session.currentUserId(this));
         if (user == null) {
@@ -66,7 +72,7 @@ public class HomeActivity extends Activity {
         });
 
         refreshHeader();
-        buildSubjects();
+        buildSections();
     }
 
     private void refreshManageButton() {
@@ -109,60 +115,172 @@ public class HomeActivity extends Activity {
         }
     }
 
-    private void buildSubjects() {
+    private void buildSections() {
         LinearLayout box = findViewById(R.id.layoutSubjects);
         box.removeAllViews();
-        for (String subject : Db.SUBJECTS) {
-            int count = db.questionsFor(subject).size();
-            int bg;
-            switch (subject) {
-                case "Physics": bg = R.drawable.bg_sub_physics; break;
-                case "Chemistry": bg = R.drawable.bg_sub_chemistry; break;
-                case "English": bg = R.drawable.bg_sub_english; break;
-                default: bg = R.drawable.bg_sub_math; break;
-            }
+        addSectionHeader(box, "🎓 Entry Test Preparation", "University entry tests — MUET • ECAT • MDCAT style MCQs", true);
+        for (String subject : Db.SUBJECTS) addSubjectCard(box, subject);
+        addFullMockCard(box);
+        addSectionHeader(box, "💼 Job Preparation", "NTS • PTS • OTS & government job test preparation", false);
+        for (String subject : Db.JOB_SUBJECTS) addSubjectCard(box, subject);
+        addSectionHeader(box, "📚 English Language Learning", "Grammar & vocabulary — easy lessons and practice", false);
+        for (String subject : Db.ENG_SUBJECTS) addSubjectCard(box, subject);
+        addLessonsCard(box);
+    }
 
-            LinearLayout card = new LinearLayout(this);
-            card.setOrientation(LinearLayout.HORIZONTAL);
-            card.setGravity(Gravity.CENTER_VERTICAL);
-            card.setPadding(dp(18), dp(16), dp(14), dp(16));
-            card.setBackgroundResource(bg);
-            LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-            lp.topMargin = dp(10);
-            card.setLayoutParams(lp);
+    private void addSectionHeader(LinearLayout box, String title, String sub, boolean first) {
+        LinearLayout wrap = new LinearLayout(this);
+        wrap.setOrientation(LinearLayout.VERTICAL);
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lp.topMargin = dp(first ? 4 : 22);
+        wrap.setLayoutParams(lp);
+        TextView t = new TextView(this);
+        t.setText(title);
+        t.setTextColor(Color.WHITE);
+        t.setTextSize(18);
+        t.setTypeface(Typeface.DEFAULT_BOLD);
+        wrap.addView(t);
+        TextView st = new TextView(this);
+        st.setText(sub);
+        st.setTextColor(Color.rgb(169, 186, 223));
+        st.setTextSize(12);
+        wrap.addView(st);
+        box.addView(wrap);
+    }
 
-            LinearLayout texts = new LinearLayout(this);
-            texts.setOrientation(LinearLayout.VERTICAL);
-            texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
-
-            TextView name = new TextView(this);
-            name.setText(subject);
-            name.setTextColor(Color.WHITE);
-            name.setTextSize(17);
-            name.setTypeface(Typeface.DEFAULT_BOLD);
-            texts.addView(name);
-
-            TextView sub = new TextView(this);
-            sub.setText("Concepts • MCQs • Practice — " + count + " sawal");
-            sub.setTextColor(Color.rgb(215, 227, 255));
-            sub.setTextSize(12);
-            texts.addView(sub);
-            card.addView(texts);
-
-            TextView arrow = new TextView(this);
-            arrow.setText("›");
-            arrow.setTextColor(Color.WHITE);
-            arrow.setTextSize(28);
-            card.addView(arrow);
-
-            card.setOnClickListener(v -> {
-                Intent i = new Intent(this, TopicListActivity.class);
-                i.putExtra("subject", subject);
-                startActivity(i);
-            });
-            box.addView(card);
+    private int subjectBg(String subject) {
+        switch (subject) {
+            case "Physics": return R.drawable.bg_sub_physics;
+            case "Chemistry": return R.drawable.bg_sub_chemistry;
+            case "English": return R.drawable.bg_sub_english;
+            case "GK & Pakistan Studies": return R.drawable.bg_sub_gk;
+            case "Islamic Studies": return R.drawable.bg_sub_islam;
+            case "Everyday Science": return R.drawable.bg_sub_science;
+            case "Job Mathematics": return R.drawable.bg_sub_math;
+            case "Computer Basics": return R.drawable.bg_sub_comp;
+            case "Job English": return R.drawable.bg_sub_english;
+            case "English Grammar": return R.drawable.bg_sub_grammar;
+            case "English Vocabulary": return R.drawable.bg_sub_vocab;
+            default: return R.drawable.bg_sub_math;
         }
+    }
+
+    private void addSubjectCard(LinearLayout box, String subject) {
+        int count = db.questionsFor(subject).size();
+        LinearLayout card = new LinearLayout(this);
+        card.setOrientation(LinearLayout.HORIZONTAL);
+        card.setGravity(Gravity.CENTER_VERTICAL);
+        card.setPadding(dp(18), dp(16), dp(14), dp(16));
+        card.setBackgroundResource(subjectBg(subject));
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lp.topMargin = dp(10);
+        card.setLayoutParams(lp);
+
+        LinearLayout texts = new LinearLayout(this);
+        texts.setOrientation(LinearLayout.VERTICAL);
+        texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
+
+        TextView name = new TextView(this);
+        name.setText(subject);
+        name.setTextColor(Color.WHITE);
+        name.setTextSize(17);
+        name.setTypeface(Typeface.DEFAULT_BOLD);
+        texts.addView(name);
+
+        TextView sub = new TextView(this);
+        sub.setText("Concepts • MCQs • Practice — " + count + " questions");
+        sub.setTextColor(Color.rgb(215, 227, 255));
+        sub.setTextSize(12);
+        texts.addView(sub);
+        card.addView(texts);
+
+        TextView arrow = new TextView(this);
+        arrow.setText("›");
+        arrow.setTextColor(Color.WHITE);
+        arrow.setTextSize(28);
+        card.addView(arrow);
+
+        card.setOnClickListener(v -> {
+            Intent i = new Intent(this, TopicListActivity.class);
+            i.putExtra("subject", subject);
+            startActivity(i);
+        });
+        box.addView(card);
+    }
+
+    private void addFullMockCard(LinearLayout box) {
+        LinearLayout card = new LinearLayout(this);
+        card.setOrientation(LinearLayout.HORIZONTAL);
+        card.setGravity(Gravity.CENTER_VERTICAL);
+        card.setPadding(dp(18), dp(16), dp(14), dp(16));
+        card.setBackgroundResource(R.drawable.bg_sub_physics);
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lp.topMargin = dp(10);
+        card.setLayoutParams(lp);
+        LinearLayout texts = new LinearLayout(this);
+        texts.setOrientation(LinearLayout.VERTICAL);
+        texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
+        TextView name = new TextView(this);
+        name.setText("Full Mock Test");
+        name.setTextColor(Color.WHITE);
+        name.setTextSize(17);
+        name.setTypeface(Typeface.DEFAULT_BOLD);
+        texts.addView(name);
+        TextView sub = new TextView(this);
+        sub.setText("100 MCQs \u2022 100 Minutes \u2022 Real Exam Style");
+        sub.setTextColor(Color.rgb(215, 227, 255));
+        sub.setTextSize(12);
+        texts.addView(sub);
+        card.addView(texts);
+        TextView arrow = new TextView(this);
+        arrow.setText("\u203A");
+        arrow.setTextColor(Color.WHITE);
+        arrow.setTextSize(28);
+        card.addView(arrow);
+        card.setOnClickListener(v -> {
+            Intent i = new Intent(this, QuizActivity.class);
+            i.putExtra("mode", "mock");
+            i.putExtra("full", true);
+            startActivity(i);
+        });
+        box.addView(card);
+    }
+
+    private void addLessonsCard(LinearLayout box) {
+        LinearLayout card = new LinearLayout(this);
+        card.setOrientation(LinearLayout.HORIZONTAL);
+        card.setGravity(Gravity.CENTER_VERTICAL);
+        card.setPadding(dp(18), dp(16), dp(14), dp(16));
+        card.setBackgroundResource(R.drawable.bg_sub_grammar);
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        lp.topMargin = dp(10);
+        card.setLayoutParams(lp);
+        LinearLayout texts = new LinearLayout(this);
+        texts.setOrientation(LinearLayout.VERTICAL);
+        texts.setLayoutParams(new LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
+        TextView name = new TextView(this);
+        name.setText("English Lessons");
+        name.setTextColor(Color.WHITE);
+        name.setTextSize(17);
+        name.setTypeface(Typeface.DEFAULT_BOLD);
+        texts.addView(name);
+        TextView sub = new TextView(this);
+        sub.setText("Tenses • Articles • Prepositions • 50 Common Words");
+        sub.setTextColor(Color.rgb(215, 227, 255));
+        sub.setTextSize(12);
+        texts.addView(sub);
+        card.addView(texts);
+        TextView arrow = new TextView(this);
+        arrow.setText("›");
+        arrow.setTextColor(Color.WHITE);
+        arrow.setTextSize(28);
+        card.addView(arrow);
+        card.setOnClickListener(v -> startActivity(new Intent(this, LessonsActivity.class)));
+        box.addView(card);
     }
 
     private int dp(int v) {

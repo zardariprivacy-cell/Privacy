@@ -44,7 +44,7 @@ public class SettingsActivity extends Activity {
             if (OwnerMode.isUnlocked(this)) {
                 OwnerMode.lock(this);
                 refreshOwnerSection();
-                Toast.makeText(this, "Owner Mode band ho gaya — Manage MCQs chhup gaya", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Owner Mode locked — Manage MCQs is now hidden", Toast.LENGTH_SHORT).show();
             } else {
                 EditText etCode = new EditText(this);
                 etCode.setHint("Owner Code");
@@ -58,9 +58,9 @@ public class SettingsActivity extends Activity {
                         .setPositiveButton("Unlock", (d, w) -> {
                             if (OwnerMode.tryUnlock(this, etCode.getText().toString())) {
                                 refreshOwnerSection();
-                                Toast.makeText(this, "Owner Mode ON — Home par Manage MCQs nazar ayega", Toast.LENGTH_LONG).show();
+                                Toast.makeText(this, "Owner Mode ON — Manage MCQs is now visible on Home", Toast.LENGTH_LONG).show();
                             } else {
-                                Toast.makeText(this, "Code ghalat hai", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(this, "Wrong code", Toast.LENGTH_SHORT).show();
                             }
                         })
                         .show();
@@ -72,11 +72,11 @@ public class SettingsActivity extends Activity {
         ((Button) findViewById(R.id.btnSaveEmail)).setOnClickListener(v -> {
             String email = etEmail.getText().toString().trim();
             if (!email.isEmpty() && !email.contains("@")) {
-                Toast.makeText(this, "Email sahi likho (isme @ hona chahiye)", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Please enter a valid email (it must contain @)", Toast.LENGTH_SHORT).show();
                 return;
             }
             db.updateEmail(userId, email.isEmpty() ? null : email);
-            Toast.makeText(this, "Email save ho gaya", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Email saved", Toast.LENGTH_SHORT).show();
         });
 
         SharedPreferences prefs = getSharedPreferences(PREFS, MODE_PRIVATE);
@@ -95,46 +95,49 @@ public class SettingsActivity extends Activity {
             String oldP = etOld.getText().toString();
             String newP = etNew.getText().toString();
             if (newP.length() < 4) {
-                Toast.makeText(this, "Naya password kam az kam 4 characters ka ho", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "New password must be at least 4 characters", Toast.LENGTH_SHORT).show();
                 return;
             }
             if (!db.checkPassword(userId, oldP)) {
-                Toast.makeText(this, "Purana password ghalat hai", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Current password is wrong", Toast.LENGTH_SHORT).show();
                 return;
             }
             db.updatePassword(userId, newP);
             etOld.setText("");
             etNew.setText("");
-            Toast.makeText(this, "Password change ho gaya", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Password changed", Toast.LENGTH_SHORT).show();
         });
 
         ((Button) findViewById(R.id.btnResetProgress)).setOnClickListener(v ->
                 new AlertDialog.Builder(this)
                         .setTitle("Reset My Progress")
-                        .setMessage("Tumhare saare test results aur performance delete ho jayenge. Ye wapas nahi aayega. Pakka?")
+                        .setMessage("All your test results and performance will be deleted. This cannot be undone. Are you sure?")
                         .setNegativeButton("Cancel", null)
                         .setPositiveButton("Delete", (d, w) -> {
                             db.deleteResultsForUser(userId);
-                            Toast.makeText(this, "Progress reset ho gaya", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(this, "Progress has been reset", Toast.LENGTH_SHORT).show();
                         })
                         .show());
 
-        ((TextView) findViewById(R.id.setAbout)).setText(
-                "UniTest Prep — Version 4.0\n" +
+        String aboutText =
+                "Ilmora — Version 5.2\n" +
                 "Total MCQs in this app: " + db.totalQuestions() + "\n" +
-                "Subjects: Mathematics • Physics • Chemistry • English\n" +
-                "For entry tests of all universities\n" +
-                "Developed by Nawazish Ali\n" +
-                "Ad status: " + Ads.bannerStatus + " (" + Ads.sdkStatus + ")");
+                "Sections: Entry Test Preparation • Job Preparation • Past Papers • English Language Learning\n" +
+                "For entry tests, job tests and English learning\n" +
+                "Developed by Nawazish Ali";
+        if (OwnerMode.isUnlocked(this)) {
+            aboutText += "\nAd status: " + Ads.bannerStatus + " (" + Ads.sdkStatus + ")";
+        }
+        ((TextView) findViewById(R.id.setAbout)).setText(aboutText);
 
         ((Button) findViewById(R.id.btnShare)).setOnClickListener(v -> {
             Intent share = new Intent(Intent.ACTION_SEND);
             share.setType("text/plain");
             share.putExtra(Intent.EXTRA_TEXT,
-                    "UniTest Prep — 4,480 Entry Test MCQs! Har topic mein 50 sawal, " +
-                    "Mathematics, Physics, Chemistry aur English. Saari universities ke entry test ki tayyari ke liye best app!\n" +
+                    "Ilmora — Complete preparation with " + db.totalQuestions() + " MCQs! Entry Tests (MUET/ECAT), Job Tests (NTS/PTS), " +
+                    "Past Papers, Books and English Learning — all in one app!\n" +
                     "Download: https://drive.google.com/uc?id=1kF0AWDSx5WfLgStzgMFshvBc70C6l7I1&export=download");
-            startActivity(Intent.createChooser(share, "Share UniTest Prep"));
+            startActivity(Intent.createChooser(share, "Share Ilmora"));
         });
     }
 
@@ -142,8 +145,8 @@ public class SettingsActivity extends Activity {
         boolean on = OwnerMode.isUnlocked(this);
         ((TextView) findViewById(R.id.setRole)).setText(on ? "Owner — Manage MCQs unlock hai" : "Student account");
         ((TextView) findViewById(R.id.tvOwnerStatus)).setText(on
-                ? "Owner Mode: ON — tum is phone par MCQs manage kar sakte ho."
-                : "Owner Mode: OFF — MCQs manage karna sirf owner ke liye hai.");
+                ? "Owner Mode: ON — you can manage MCQs on this phone."
+                : "Owner Mode: OFF — Managing MCQs is for the owner only.");
         ((Button) findViewById(R.id.btnOwner)).setText(on ? "Owner Mode Band Karo" : "Owner Code Daal Kar Unlock Karo");
     }
 }

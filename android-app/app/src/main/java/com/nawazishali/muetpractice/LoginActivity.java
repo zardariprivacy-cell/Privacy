@@ -43,7 +43,7 @@ public class LoginActivity extends Activity {
         String username = etUsername.getText().toString().trim();
         String password = etPassword.getText().toString();
         if (username.isEmpty() || password.isEmpty()) {
-            Toast.makeText(this, "Username and password likho", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please enter your username and password", Toast.LENGTH_SHORT).show();
             return;
         }
         User u = db.login(username, password);
@@ -63,7 +63,7 @@ public class LoginActivity extends Activity {
         root.setPadding(pad, pad, pad, pad);
 
         TextView title = new TextView(this);
-        title.setText("UniTest Prep — Login");
+        title.setText("Ilmora — Login");
         title.setTextSize(20);
         title.setTextColor(0xFF0D1B3E);
         root.addView(title);
