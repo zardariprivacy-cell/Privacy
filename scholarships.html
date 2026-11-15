@@ -124,6 +124,22 @@
     .hero-visual .fcs { display:flex; flex-direction:column; }
     .feat { width:31%; }
     .plane { display:none; }
+    .hero > * { min-width:0; }
+    .searchbar { min-width:0; max-width:100%; }
+    .feats { min-width:0; }
+    .fc { min-width:0; }
+    .fc > span { min-width:0; }
+    .fc b, .fc small { overflow-wrap:break-word; }
+    body { overflow-x:hidden; }
+  }
+  @media (max-width:480px) {
+    .nav-in { gap:10px; padding:10px 12px; }
+    .logo b { font-size:18px; }
+    .logo .ic { width:38px; height:38px; }
+    .dash { padding:8px 13px; font-size:13px; }
+    .hero { padding:26px 14px 8px; }
+    .hero h1 { font-size:32px; }
+    .searchbar button { padding:12px 18px; }
   }
 </style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2227339288696877" crossorigin="anonymous"></script>
