@@ -390,18 +390,18 @@ func build_overlays() -> void:
 	b4.add_child(make_label("Your game continues in...", 13, Color("#9aa5c7"), true))
 	lbl_ad_count = make_label("5", 40, Color.WHITE, true)
 	b4.add_child(lbl_ad_count)
-	b4.add_child(make_label("Reward milega ad khatam hone par", 12, Color("#9aa5c7"), true))
+	b4.add_child(make_label("Your reward arrives when the ad ends", 12, Color("#9aa5c7"), true))
 
 	# ---- how to ----
 	var o5 := make_overlay()
 	ov_how = o5["root"]
 	var b5: VBoxContainer = o5["box"]
 	b5.add_child(make_label("How to Play", 22, Color.WHITE, true))
-	var how_text := "Neeche diye gaye 3 blocks ko drag karke grid par rakho.\n\nJo row ya column poori bhar jaye, wo clear ho jati hai - score + coins milte hain.\n\nLagatar clears par combo - zyada score!\n\nHar 300 points par Level barhta hai - blocks mushkil hote jate hain.\n\nJab koi block fit na ho to game over - lekin ad dekh kar ya 100 coins se continue kar sakte ho (neeche ki 4 rows saaf ho jayengi)."
+	var how_text := "Drag the 3 blocks below onto the grid.\n\nWhen a row or column is completely filled, it clears - you earn score + coins.\n\nClear lines back-to-back for a combo - more score!\n\nEvery 300 points you go up a Level - the blocks get harder.\n\nWhen no block fits, it is game over - but you can continue by watching an ad or paying 100 coins (the bottom 4 rows will be cleared)."
 	var p5 := make_label(how_text, 13, Color("#c6cdea"))
 	p5.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	b5.add_child(p5)
-	var b_close5 := make_button("Samajh gaya!", Color("#ffc93c"))
+	var b_close5 := make_button("Got it!", Color("#ffc93c"))
 	b_close5.pressed.connect(func() -> void: ov_how.visible = false)
 	b5.add_child(b_close5)
 
@@ -546,8 +546,8 @@ func game_over() -> void:
 	game_active = false
 	sfx_over()
 	lbl_final.text = str(score)
-	lbl_over_msg.text = "New BEST score!" if score >= best and score > 0 else "Best: " + str(best) + "  -  Level " + str(level) + " tak pohanchay"
-	btn_coin_cont.text = str(COIN_CONTINUE) + " Coins (tumhare: " + str(coins) + ")"
+	lbl_over_msg.text = "New BEST score!" if score >= best and score > 0 else "Best: " + str(best) + "  -  You reached Level " + str(level)
+	btn_coin_cont.text = str(COIN_CONTINUE) + " Coins (yours: " + str(coins) + ")"
 	ov_over.visible = true
 
 func rescue() -> void:
@@ -559,7 +559,7 @@ func rescue() -> void:
 	continued += 1
 	ov_over.visible = false
 	refresh()
-	float_text("Continue! Neeche saaf ho gaya")
+	float_text("Continue! Bottom rows cleared")
 	check_end()
 
 # ================= RENDER =================
@@ -697,7 +697,7 @@ func _on_coin_continue() -> void:
 		save_data()
 		rescue()
 	else:
-		lbl_over_msg.text = "Coins kam hain (" + str(coins) + "/" + str(COIN_CONTINUE) + ") - upar wale +FREE button se ad dekh kar coins lo, ya Watch Ad se FREE continue karo!"
+		lbl_over_msg.text = "Not enough coins (" + str(coins) + "/" + str(COIN_CONTINUE) + ") - tap +FREE above to watch an ad for coins, or use Watch Ad to continue FREE!"
 		sfx_over()
 
 func _on_end_game() -> void:
@@ -707,7 +707,7 @@ func _on_end_game() -> void:
 func _on_free_coins() -> void:
 	var wait := 60 - int(Time.get_unix_time_from_system() - last_free)
 	if wait > 0:
-		float_text(str(wait) + "s baad phir FREE coins")
+		float_text("FREE coins again in " + str(wait) + "s")
 		return
 	show_ad(func() -> void:
 		coins += FREE_COINS
