@@ -16,6 +16,39 @@ import java.util.List;
 
 public class HomeActivity extends Activity {
 
+    private static final String[] QUOTES = {
+            "Dream Big, Prepare Better!",
+            "Small steps every day beat big plans someday.",
+            "Your future is created by what you do today.",
+            "Success loves preparation.",
+            "Hard work beats talent when talent sleeps.",
+            "Every expert was once a beginner.",
+            "Discipline today, pride tomorrow.",
+            "Study now, shine later.",
+            "Believe you can, and you are halfway there.",
+            "One MCQ at a time - keep going!",
+            "Winners practice until they cannot get it wrong.",
+            "Your only limit is your effort.",
+            "Make your parents proud.",
+            "Knowledge is the best investment.",
+            "Slow progress is still progress.",
+            "Focus on the goal, not the fear.",
+            "Today's practice is tomorrow's rank.",
+            "Great marks start with a single page.",
+            "Stay curious, keep learning.",
+            "Effort never goes to waste.",
+            "You are stronger than your excuses.",
+            "Dream it. Learn it. Achieve it.",
+            "Consistency is the secret of toppers.",
+            "Every day is a new chance to improve.",
+            "Push yourself - no one else will.",
+            "Learning never exhausts the mind.",
+            "Success is a journey of daily practice.",
+            "Be patient: results take time.",
+            "Your dreams need your hard work.",
+            "Start where you are, use what you have."
+    };
+
     private Db db;
     private User user;
 
@@ -74,6 +107,11 @@ public class HomeActivity extends Activity {
 
         refreshHeader();
         buildSections();
+
+        // Quote of the day: a fresh motivational quote every day, never the same two days in a row.
+        TextView tvQuote = findViewById(R.id.tvQuote);
+        int day = java.util.Calendar.getInstance().get(java.util.Calendar.DAY_OF_YEAR);
+        tvQuote.setText("\u201C" + QUOTES[day % QUOTES.length] + "\u201D");
     }
 
     private void refreshManageButton() {
