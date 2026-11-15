@@ -25,7 +25,7 @@ public class Db extends SQLiteOpenHelper {
     private final Context appCtx;
 
     public Db(Context context) {
-        super(context, "muet.db", null, 12);
+        super(context, "muet.db", null, 13);
         this.appCtx = context.getApplicationContext();
     }
 
@@ -106,6 +106,10 @@ public class Db extends SQLiteOpenHelper {
         }
         if (oldVersion < 12) {
             // v5.8: batch-2 content packs (all sections) from assets.
+            loadAssetData(db);
+        }
+        if (oldVersion < 13) {
+            // v5.9: PakMCQs Job Preparation packs (6,000 MCQs) from assets.
             loadAssetData(db);
         }
     }
