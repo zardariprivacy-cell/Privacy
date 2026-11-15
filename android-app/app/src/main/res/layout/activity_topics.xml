@@ -11,14 +11,14 @@
         <TextView
             android:id="@+id/tvSubjectTitle"
             android:layout_width="match_parent" android:layout_height="wrap_content"
-            android:text="Subject" android:textColor="#FFFFFF"
+            android:text="Subject" android:textColor="#12264A"
             android:textSize="21sp" android:textStyle="bold" />
 
         <TextView
             android:id="@+id/tvSubjectSub"
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="3dp"
-            android:text="Chapters and topics" android:textColor="#A9BADF"
+            android:text="Chapters and topics" android:textColor="#5A6B8C"
             android:textSize="13sp" />
     </LinearLayout>
 

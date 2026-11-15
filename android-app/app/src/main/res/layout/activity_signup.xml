@@ -18,20 +18,20 @@
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="10dp" android:gravity="center"
-            android:text="Create Account" android:textColor="#FFFFFF"
+            android:text="Create Account" android:textColor="#12264A"
             android:textSize="24sp" android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="4dp" android:gravity="center"
             android:text="Pehla account Admin banega"
-            android:textColor="#A9BADF" android:textSize="13sp" />
+            android:textColor="#5A6B8C" android:textSize="13sp" />
 
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:text="Your Name" android:textColor="#FFFFFF"
+            android:text="Your Name" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <EditText
@@ -40,13 +40,13 @@
             android:layout_marginTop="6dp"
             android:background="@drawable/bg_input"
             android:hint="e.g. Nawazish Ali"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F"
+            android:textColor="#12264A" android:textColorHint="#8494B3"
             android:textSize="16sp" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="Username" android:textColor="#FFFFFF"
+            android:text="Username" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <EditText
@@ -55,13 +55,13 @@
             android:layout_marginTop="6dp"
             android:background="@drawable/bg_input"
             android:hint="Kam az kam 3 characters"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F"
+            android:textColor="#12264A" android:textColorHint="#8494B3"
             android:textSize="16sp" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="Password" android:textColor="#FFFFFF"
+            android:text="Password" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <EditText
@@ -71,7 +71,7 @@
             android:background="@drawable/bg_input"
             android:hint="Kam az kam 4 characters"
             android:inputType="textPassword"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F"
+            android:textColor="#12264A" android:textColorHint="#8494B3"
             android:textSize="16sp" />
 
         <Button
@@ -79,7 +79,7 @@
             android:layout_width="match_parent" android:layout_height="54dp"
             android:layout_marginTop="26dp"
             android:background="@drawable/bg_btn_gold"
-            android:text="Create Account" android:textColor="#231A00"
+            android:text="Create Account" android:textColor="#12264A"
             android:textSize="16sp" android:textStyle="bold" />
 
         <TextView
@@ -88,6 +88,6 @@
             android:layout_marginTop="18dp" android:gravity="center"
             android:padding="8dp"
             android:text="Already have an account? Login"
-            android:textColor="#F5B81D" android:textSize="14sp" />
+            android:textColor="#1565C0" android:textSize="14sp" />
     </LinearLayout>
 </ScrollView>

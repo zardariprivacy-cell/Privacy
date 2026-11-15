@@ -32,14 +32,14 @@ public class LeaderboardActivity extends Activity {
         // ---- Online board (saare students) ----
         TextView tvOnlineHead = new TextView(this);
         tvOnlineHead.setText("🌐 ONLINE — SAARE STUDENTS");
-        tvOnlineHead.setTextColor(0xFFF5B81D);
+        tvOnlineHead.setTextColor(0xFF1565C0);
         tvOnlineHead.setTextSize(14);
         tvOnlineHead.setTypeface(null, android.graphics.Typeface.BOLD);
         container.addView(tvOnlineHead);
 
         final TextView tvOnlineStatus = new TextView(this);
         tvOnlineStatus.setText("Online board load ho raha hai...");
-        tvOnlineStatus.setTextColor(0xFFA9BADF);
+        tvOnlineStatus.setTextColor(0xFF5A6B8C);
         tvOnlineStatus.setTextSize(14);
         LinearLayout.LayoutParams osLp = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
@@ -73,7 +73,7 @@ public class LeaderboardActivity extends Activity {
 
         TextView tvLocalHead = new TextView(this);
         tvLocalHead.setText("📱 IS PHONE PAR");
-        tvLocalHead.setTextColor(0xFFF5B81D);
+        tvLocalHead.setTextColor(0xFF1565C0);
         tvLocalHead.setTextSize(14);
         tvLocalHead.setTypeface(null, android.graphics.Typeface.BOLD);
         LinearLayout.LayoutParams lhLp = new LinearLayout.LayoutParams(
@@ -101,7 +101,7 @@ public class LeaderboardActivity extends Activity {
         if (entries.isEmpty()) {
             TextView empty = new TextView(this);
             empty.setText("Abhi tak kisi ne Mock Test nahi diya. Pehle tum top par aao!");
-            empty.setTextColor(0xFFA9BADF);
+            empty.setTextColor(0xFF5A6B8C);
             empty.setTextSize(15);
             container.addView(empty);
             return;
@@ -121,7 +121,7 @@ public class LeaderboardActivity extends Activity {
 
             TextView tvRank = new TextView(this);
             tvRank.setText("#" + rank);
-            tvRank.setTextColor(0xFFF5B81D);
+            tvRank.setTextColor(0xFF1565C0);
             tvRank.setTextSize(17);
             tvRank.setTypeface(null, android.graphics.Typeface.BOLD);
             tvRank.setMinWidth(dp(44));
@@ -154,7 +154,7 @@ public class LeaderboardActivity extends Activity {
             tvText.setText(e.user.name
                     + "\nBest Mock: " + e.best.score + "/" + e.best.total + " (" + e.best.percent() + "%)");
             tvText.setTextSize(15);
-            tvText.setTextColor(0xFFFFFFFF);
+            tvText.setTextColor(0xFF12264A);
             LinearLayout.LayoutParams tlp = new LinearLayout.LayoutParams(
                     0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
             tlp.leftMargin = dp(10);
@@ -179,7 +179,7 @@ public class LeaderboardActivity extends Activity {
 
         TextView tvRank = new TextView(this);
         tvRank.setText("#" + rank);
-        tvRank.setTextColor(0xFFF5B81D);
+        tvRank.setTextColor(0xFF1565C0);
         tvRank.setTextSize(17);
         tvRank.setTypeface(null, android.graphics.Typeface.BOLD);
         tvRank.setMinWidth(dp(44));
@@ -188,7 +188,7 @@ public class LeaderboardActivity extends Activity {
         TextView tvText = new TextView(this);
         tvText.setText(row.name + "\nBest Mock: " + row.score + "/" + row.total + " (" + row.pct + "%)");
         tvText.setTextSize(15);
-        tvText.setTextColor(0xFFFFFFFF);
+        tvText.setTextColor(0xFF12264A);
         LinearLayout.LayoutParams tlp = new LinearLayout.LayoutParams(
                 0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
         tlp.leftMargin = dp(10);

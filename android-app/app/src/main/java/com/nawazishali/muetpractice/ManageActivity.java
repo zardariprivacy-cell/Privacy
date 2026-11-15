@@ -40,15 +40,15 @@ public class ManageActivity extends Activity {
             @Override
             public android.view.View getView(int position, android.view.View convertView, android.view.ViewGroup parent) {
                 android.view.View v = super.getView(position, convertView, parent);
-                ((TextView) v).setTextColor(0xFFFFFFFF);
+                ((TextView) v).setTextColor(0xFF12264A);
                 return v;
             }
 
             @Override
             public android.view.View getDropDownView(int position, android.view.View convertView, android.view.ViewGroup parent) {
                 android.view.View v = super.getDropDownView(position, convertView, parent);
-                ((TextView) v).setTextColor(0xFFFFFFFF);
-                v.setBackgroundColor(0xFF152849);
+                ((TextView) v).setTextColor(0xFF12264A);
+                v.setBackgroundColor(0xFFFFFFFF);
                 return v;
             }
         });
@@ -83,7 +83,7 @@ public class ManageActivity extends Activity {
             TextView row = new TextView(this);
             row.setText(q.subject + " • " + q.topic + "\n" + q.question);
             row.setTextSize(15);
-            row.setTextColor(0xFFFFFFFF);
+            row.setTextColor(0xFF12264A);
             row.setBackgroundResource(R.drawable.bg_card);
             row.setPadding(dp(12), dp(10), dp(12), dp(10));
             LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(

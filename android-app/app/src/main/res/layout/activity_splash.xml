@@ -15,12 +15,12 @@
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Ilmora" android:textColor="#FFFFFF"
+        android:text="Ilmora" android:textColor="#12264A"
         android:textSize="42sp" android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:text="STUDY • JOBS • ENGLISH" android:textColor="#F5B81D"
+        android:text="STUDY • JOBS • ENGLISH" android:textColor="#1565C0"
         android:textSize="19sp" android:textStyle="bold" />
 
     <TextView
@@ -36,15 +36,15 @@
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_marginTop="18dp"
         android:text="Entry Tests • Job Tests • Past Papers • English Learning"
-        android:textColor="#A9BADF" android:textSize="14sp" android:textStyle="italic" />
+        android:textColor="#5A6B8C" android:textSize="14sp" android:textStyle="italic" />
 
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
-        android:text="Loading..." android:textColor="#66779F" android:textSize="13sp" />
+        android:text="Loading..." android:textColor="#5A6B8C" android:textSize="13sp" />
 
     <TextView
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_marginTop="6dp"
-        android:text="Developed by Nawazish Ali" android:textColor="#66779F" android:textSize="12sp" />
+        android:text="Developed by Nawazish Ali" android:textColor="#5A6B8C" android:textSize="12sp" />
 </LinearLayout>

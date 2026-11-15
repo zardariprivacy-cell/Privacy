@@ -209,9 +209,11 @@ public class QuizActivity extends Activity {
                 btn.setEnabled(false);
                 if (i == q.correctIndex) {
                     btn.setBackgroundResource(R.drawable.bg_correct);
+                    btn.setTextColor(Color.WHITE);
                     btn.setText(optionText(i, q.options[i], "   \u2713"));
                 } else if (i == savedSelected) {
                     btn.setBackgroundResource(R.drawable.bg_wrong);
+                    btn.setTextColor(Color.WHITE);
                     btn.setText(optionText(i, q.options[i], "   \u2717"));
                 }
             }
@@ -270,7 +272,7 @@ public class QuizActivity extends Activity {
     private SpannableString optionText(int i, String text, String suffix) {
         String full = LETTERS[i] + "    " + text + suffix;
         SpannableString ss = new SpannableString(full);
-        ss.setSpan(new ForegroundColorSpan(Color.rgb(245, 184, 29)), 0, 1, 0);
+        ss.setSpan(new ForegroundColorSpan(Color.rgb(21, 101, 192)), 0, 1, 0);
         ss.setSpan(new android.text.style.StyleSpan(Typeface.BOLD), 0, 1, 0);
         return ss;
     }
@@ -294,7 +296,7 @@ public class QuizActivity extends Activity {
             final int oi = i;
             Button b = new Button(this);
             b.setText(optionText(i, q.options[i]));
-            b.setTextColor(Color.WHITE);
+            b.setTextColor(Color.rgb(18, 38, 74));
             b.setTextSize(15);
             b.setAllCaps(false);
             b.setGravity(android.view.Gravity.START | android.view.Gravity.CENTER_VERTICAL);
@@ -336,9 +338,11 @@ public class QuizActivity extends Activity {
             b.setEnabled(false);
             if (i == q.correctIndex) {
                 b.setBackgroundResource(R.drawable.bg_correct);
+                b.setTextColor(Color.WHITE);
                 b.setText(optionText(i, q.options[i], "   ✓"));
             } else if (i == oi) {
                 b.setBackgroundResource(R.drawable.bg_wrong);
+                b.setTextColor(Color.WHITE);
                 b.setText(optionText(i, q.options[i], "   ✗"));
             }
         }

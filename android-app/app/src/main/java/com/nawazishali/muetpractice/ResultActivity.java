@@ -35,7 +35,7 @@ public class ResultActivity extends Activity {
             for (String item : review.split("\n\n")) {
                 TextView tv = new TextView(this);
                 tv.setText(item);
-                tv.setTextColor(Color.WHITE);
+                tv.setTextColor(Color.rgb(18, 38, 74));
                 tv.setTextSize(13);
                 tv.setBackgroundResource(R.drawable.bg_card);
                 tv.setPadding(dp(14), dp(12), dp(14), dp(12));

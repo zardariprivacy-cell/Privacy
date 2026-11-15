@@ -7,7 +7,7 @@
         android:id="@+id/tvTitle"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:background="@drawable/bg_header" android:padding="18dp"
-        android:text="Title" android:textColor="#FFFFFF"
+        android:text="Title" android:textColor="#12264A"
         android:textSize="20sp" android:textStyle="bold" />
 
     <ScrollView
@@ -21,7 +21,7 @@
                 android:id="@+id/tvSummary"
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:background="@drawable/bg_card" android:padding="16dp"
-                android:textColor="#FFFFFF" android:textSize="15sp" />
+                android:textColor="#12264A" android:textSize="15sp" />
 
             <LinearLayout
                 android:id="@+id/listContainer"

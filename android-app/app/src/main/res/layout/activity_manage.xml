@@ -11,7 +11,7 @@
         <TextView
             android:layout_width="0dp" android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Manage MCQs" android:textColor="#FFFFFF"
+            android:text="Manage MCQs" android:textColor="#12264A"
             android:textSize="20sp" android:textStyle="bold" />
 
         <Button
@@ -19,7 +19,7 @@
             android:layout_width="wrap_content" android:layout_height="44dp"
             android:background="@drawable/bg_btn_gold"
             android:paddingLeft="16dp" android:paddingRight="16dp"
-            android:text="＋ Add" android:textColor="#231A00"
+            android:text="＋ Add" android:textColor="#12264A"
             android:textStyle="bold" />
     </LinearLayout>
 

@@ -97,7 +97,7 @@ public class BooksActivity extends Activity {
                     lastClass = cls;
                     TextView h = new TextView(this);
                     h.setText(cls);
-                    h.setTextColor(0xFFF5B81D);
+                    h.setTextColor(0xFF1565C0);
                     h.setTextSize(17);
                     h.setTypeface(Typeface.DEFAULT_BOLD);
                     LinearLayout.LayoutParams hp = new LinearLayout.LayoutParams(
@@ -127,14 +127,14 @@ public class BooksActivity extends Activity {
 
         TextView t = new TextView(this);
         t.setText("📖  " + title);
-        t.setTextColor(0xFFFFFFFF);
+        t.setTextColor(0xFF12264A);
         t.setTextSize(16);
         t.setTypeface(Typeface.DEFAULT_BOLD);
         card.addView(t);
 
         TextView s = new TextView(this);
         s.setText(subject + "  •  STBB  •  English Medium  •  Free PDF");
-        s.setTextColor(0xFFA9BADF);
+        s.setTextColor(0xFF5A6B8C);
         s.setTextSize(12.5f);
         LinearLayout.LayoutParams sp = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.MATCH_PARENT,
@@ -144,7 +144,7 @@ public class BooksActivity extends Activity {
 
         Button btn = new Button(this);
         btn.setText("⬇  Download PDF");
-        btn.setTextColor(0xFF231A00);
+        btn.setTextColor(0xFFFFFFFF);
         btn.setTextSize(15);
         btn.setTypeface(Typeface.DEFAULT_BOLD);
         btn.setBackgroundResource(R.drawable.bg_btn_gold);

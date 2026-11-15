@@ -37,6 +37,7 @@
         <activity android:name=".SettingsActivity" android:exported="false" />
         <activity android:name=".BooksActivity" android:exported="false" />
         <activity android:name=".LessonsActivity" android:exported="false" />
+        <activity android:name=".StudyAssistantActivity" android:exported="false" />
         <activity android:name=".PastPapersActivity" android:exported="false" />
         <activity android:name=".PerformanceActivity" android:exported="false" />
         <activity android:name=".LeaderboardActivity" android:exported="false" />

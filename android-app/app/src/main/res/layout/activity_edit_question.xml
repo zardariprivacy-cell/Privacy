@@ -10,13 +10,13 @@
         <TextView
             android:id="@+id/tvTitle"
             android:layout_width="match_parent" android:layout_height="wrap_content"
-            android:text="Add Question" android:textColor="#FFFFFF"
+            android:text="Add Question" android:textColor="#12264A"
             android:textSize="21sp" android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="18dp"
-            android:text="Subject" android:textColor="#FFFFFF"
+            android:text="Subject" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <Spinner
@@ -28,7 +28,7 @@
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
-            android:text="Question" android:textColor="#FFFFFF"
+            android:text="Question" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <EditText
@@ -37,12 +37,12 @@
             android:layout_marginTop="6dp"
             android:background="@drawable/bg_input"
             android:hint="Sawal likho"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F" />
+            android:textColor="#12264A" android:textColorHint="#8494B3" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
-            android:text="Options (4)" android:textColor="#FFFFFF"
+            android:text="Options (4)" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <EditText
@@ -50,33 +50,33 @@
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
             android:background="@drawable/bg_input" android:hint="Option 1"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F" />
+            android:textColor="#12264A" android:textColorHint="#8494B3" />
 
         <EditText
             android:id="@+id/etOpt1"
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:background="@drawable/bg_input" android:hint="Option 2"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F" />
+            android:textColor="#12264A" android:textColorHint="#8494B3" />
 
         <EditText
             android:id="@+id/etOpt2"
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:background="@drawable/bg_input" android:hint="Option 3"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F" />
+            android:textColor="#12264A" android:textColorHint="#8494B3" />
 
         <EditText
             android:id="@+id/etOpt3"
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:background="@drawable/bg_input" android:hint="Option 4"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F" />
+            android:textColor="#12264A" android:textColorHint="#8494B3" />
 
         <TextView
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
-            android:text="Correct option" android:textColor="#FFFFFF"
+            android:text="Correct option" android:textColor="#12264A"
             android:textSize="13sp" android:textStyle="bold" />
 
         <Spinner
@@ -89,7 +89,7 @@
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginTop="14dp"
             android:text="Explanation (simple words, optional)"
-            android:textColor="#FFFFFF" android:textSize="13sp"
+            android:textColor="#12264A" android:textSize="13sp"
             android:textStyle="bold" />
 
         <EditText
@@ -98,14 +98,14 @@
             android:layout_marginTop="6dp"
             android:background="@drawable/bg_input"
             android:hint="Chhoti si wajah"
-            android:textColor="#FFFFFF" android:textColorHint="#66779F" />
+            android:textColor="#12264A" android:textColorHint="#8494B3" />
 
         <Button
             android:id="@+id/btnSave"
             android:layout_width="match_parent" android:layout_height="54dp"
             android:layout_marginTop="22dp"
             android:background="@drawable/bg_btn_gold"
-            android:text="Save" android:textColor="#231A00"
+            android:text="Save" android:textColor="#12264A"
             android:textSize="16sp" android:textStyle="bold" />
 
         <Button
@@ -113,7 +113,7 @@
             android:layout_width="match_parent" android:layout_height="52dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/bg_btn_danger"
-            android:text="Delete Question" android:textColor="#FFB4B4"
+            android:text="Delete Question" android:textColor="#C62828"
             android:textSize="15sp" android:textStyle="bold"
             android:visibility="gone" />
 
@@ -122,7 +122,7 @@
             android:layout_width="match_parent" android:layout_height="52dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/bg_btn_ghost"
-            android:text="Cancel" android:textColor="#F5B81D"
+            android:text="Cancel" android:textColor="#1565C0"
             android:textSize="15sp" android:textStyle="bold" />
     </LinearLayout>
 </ScrollView>

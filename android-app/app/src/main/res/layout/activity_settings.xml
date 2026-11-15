@@ -6,7 +6,7 @@
     <TextView
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:background="@drawable/bg_header" android:padding="18dp"
-        android:text="⚙ Settings" android:textColor="#FFFFFF"
+        android:text="⚙ Settings" android:textColor="#12264A"
         android:textSize="20sp" android:textStyle="bold" />
 
     <ScrollView
@@ -24,45 +24,45 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="MY ACCOUNT" android:textColor="#F5B81D"
+                    android:text="MY ACCOUNT" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/setName"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:text="Name"
-                    android:textColor="#FFFFFF" android:textSize="18sp" android:textStyle="bold" />
+                    android:textColor="#12264A" android:textSize="18sp" android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/setUsername"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="2dp" android:text="@username"
-                    android:textColor="#A9BADF" android:textSize="14sp" />
+                    android:textColor="#5A6B8C" android:textSize="14sp" />
 
                 <TextView
                     android:id="@+id/setRole"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="2dp" android:text="Student account"
-                    android:textColor="#A9BADF" android:textSize="14sp" />
+                    android:textColor="#5A6B8C" android:textSize="14sp" />
 
                 <TextView
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="14dp" android:text="Email (optional)"
-                    android:textColor="#FFFFFF" android:textSize="14sp" />
+                    android:textColor="#12264A" android:textSize="14sp" />
 
                 <EditText
                     android:id="@+id/etEmail"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="6dp" android:background="@drawable/bg_input"
                     android:hint="your@email.com" android:inputType="textEmailAddress"
-                    android:padding="12dp" android:textColor="#FFFFFF"
-                    android:textColorHint="#66779F" android:textSize="15sp" />
+                    android:padding="12dp" android:textColor="#12264A"
+                    android:textColorHint="#8494B3" android:textSize="15sp" />
 
                 <Button
                     android:id="@+id/btnSaveEmail"
                     android:layout_width="match_parent" android:layout_height="48dp"
                     android:layout_marginTop="10dp" android:background="@drawable/bg_btn_gold"
-                    android:text="Save Email" android:textColor="#231A00"
+                    android:text="Save Email" android:textColor="#12264A"
                     android:textSize="15sp" android:textStyle="bold" />
             </LinearLayout>
 
@@ -74,19 +74,19 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="APPEARANCE" android:textColor="#F5B81D"
+                    android:text="APPEARANCE" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:text="🌙 Dark Theme — Active"
-                    android:textColor="#FFFFFF" android:textSize="16sp" />
+                    android:textColor="#12264A" android:textSize="16sp" />
 
                 <TextView
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="4dp"
                     android:text="Premium Navy + Gold dark theme is on. A full Light theme is being designed and will arrive in a future update."
-                    android:textColor="#A9BADF" android:textSize="13sp" />
+                    android:textColor="#5A6B8C" android:textSize="13sp" />
             </LinearLayout>
 
             <!-- Quiz preferences -->
@@ -97,20 +97,20 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="QUIZ PREFERENCES" android:textColor="#F5B81D"
+                    android:text="QUIZ PREFERENCES" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <Switch
                     android:id="@+id/swVibrate"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:text="Vibration on answer"
-                    android:textColor="#FFFFFF" android:textSize="15sp" />
+                    android:textColor="#12264A" android:textSize="15sp" />
 
                 <Switch
                     android:id="@+id/swExplain"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="8dp" android:text="Show explanation in Practice"
-                    android:textColor="#FFFFFF" android:textSize="15sp" />
+                    android:textColor="#12264A" android:textSize="15sp" />
             </LinearLayout>
 
             <!-- Security -->
@@ -121,7 +121,7 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="CHANGE PASSWORD" android:textColor="#F5B81D"
+                    android:text="CHANGE PASSWORD" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <EditText
@@ -129,22 +129,22 @@
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:background="@drawable/bg_input"
                     android:hint="Current password" android:inputType="textPassword"
-                    android:padding="12dp" android:textColor="#FFFFFF"
-                    android:textColorHint="#66779F" android:textSize="15sp" />
+                    android:padding="12dp" android:textColor="#12264A"
+                    android:textColorHint="#8494B3" android:textSize="15sp" />
 
                 <EditText
                     android:id="@+id/etNewPass"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="8dp" android:background="@drawable/bg_input"
                     android:hint="New password" android:inputType="textPassword"
-                    android:padding="12dp" android:textColor="#FFFFFF"
-                    android:textColorHint="#66779F" android:textSize="15sp" />
+                    android:padding="12dp" android:textColor="#12264A"
+                    android:textColorHint="#8494B3" android:textSize="15sp" />
 
                 <Button
                     android:id="@+id/btnChangePass"
                     android:layout_width="match_parent" android:layout_height="48dp"
                     android:layout_marginTop="10dp" android:background="@drawable/bg_btn_gold"
-                    android:text="Change Password" android:textColor="#231A00"
+                    android:text="Change Password" android:textColor="#12264A"
                     android:textSize="15sp" android:textStyle="bold" />
             </LinearLayout>
 
@@ -156,7 +156,7 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="OWNER — MANAGE MCQS" android:textColor="#F5B81D"
+                    android:text="OWNER — MANAGE MCQS" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <TextView
@@ -164,13 +164,13 @@
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="Owner Mode: OFF — Managing MCQs is for the owner only."
-                    android:textColor="#FFFFFF" android:textSize="14sp" />
+                    android:textColor="#12264A" android:textSize="14sp" />
 
                 <Button
                     android:id="@+id/btnOwner"
                     android:layout_width="match_parent" android:layout_height="48dp"
                     android:layout_marginTop="10dp" android:background="@drawable/bg_btn_gold"
-                    android:text="Owner Code Daal Kar Unlock Karo" android:textColor="#231A00"
+                    android:text="Owner Code Daal Kar Unlock Karo" android:textColor="#12264A"
                     android:textSize="15sp" android:textStyle="bold" />
             </LinearLayout>
 
@@ -182,14 +182,14 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="MY DATA" android:textColor="#F5B81D"
+                    android:text="MY DATA" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <Button
                     android:id="@+id/btnResetProgress"
                     android:layout_width="match_parent" android:layout_height="48dp"
                     android:layout_marginTop="10dp" android:background="@drawable/bg_btn_danger"
-                    android:text="Reset My Progress" android:textColor="#FFFFFF"
+                    android:text="Reset My Progress" android:textColor="#C62828"
                     android:textSize="15sp" android:textStyle="bold" />
             </LinearLayout>
 
@@ -201,20 +201,20 @@
 
                 <TextView
                     android:layout_width="wrap_content" android:layout_height="wrap_content"
-                    android:text="ABOUT" android:textColor="#F5B81D"
+                    android:text="ABOUT" android:textColor="#1565C0"
                     android:textSize="13sp" android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/setAbout"
                     android:layout_width="match_parent" android:layout_height="wrap_content"
                     android:layout_marginTop="10dp" android:text="About"
-                    android:textColor="#FFFFFF" android:textSize="14sp" />
+                    android:textColor="#12264A" android:textSize="14sp" />
 
                 <Button
                     android:id="@+id/btnShare"
                     android:layout_width="match_parent" android:layout_height="48dp"
                     android:layout_marginTop="12dp" android:background="@drawable/bg_btn_ghost"
-                    android:text="Share App with Friends" android:textColor="#FFFFFF"
+                    android:text="Share App with Friends" android:textColor="#12264A"
                     android:textSize="15sp" android:textStyle="bold" />
             </LinearLayout>
 

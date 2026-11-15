@@ -6,7 +6,7 @@
     <TextView
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:background="@drawable/bg_header" android:padding="18dp"
-        android:text="📚 Books Library" android:textColor="#FFFFFF"
+        android:text="📚 Books Library" android:textColor="#12264A"
         android:textSize="20sp" android:textStyle="bold" />
 
     <ScrollView
@@ -20,7 +20,7 @@
                 android:id="@+id/tvBooksStatus"
                 android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:text="Loading books..."
-                android:textColor="#A9BADF" android:textSize="13sp" />
+                android:textColor="#5A6B8C" android:textSize="13sp" />
 
             <LinearLayout
                 android:id="@+id/booksContainer"

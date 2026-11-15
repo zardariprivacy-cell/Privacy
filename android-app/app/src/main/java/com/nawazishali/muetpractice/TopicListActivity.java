@@ -44,7 +44,7 @@ public class TopicListActivity extends Activity {
                 lastChapter = t.chapter;
                 TextView header = new TextView(this);
                 header.setText(t.chapter);
-                header.setTextColor(Color.rgb(245, 184, 29));
+                header.setTextColor(Color.rgb(21, 101, 192));
                 header.setTextSize(16);
                 header.setTypeface(Typeface.DEFAULT_BOLD);
                 LinearLayout.LayoutParams hlp = new LinearLayout.LayoutParams(
@@ -78,21 +78,21 @@ public class TopicListActivity extends Activity {
 
         TextView name = new TextView(this);
         name.setText(title);
-        name.setTextColor(Color.WHITE);
+        name.setTextColor(Color.rgb(18, 38, 74));
         name.setTextSize(15);
         name.setTypeface(Typeface.DEFAULT_BOLD);
         texts.addView(name);
 
         TextView s = new TextView(this);
         s.setText(sub);
-        s.setTextColor(Color.rgb(169, 186, 223));
+        s.setTextColor(Color.rgb(90, 107, 140));
         s.setTextSize(12);
         texts.addView(s);
         card.addView(texts);
 
         TextView arrow = new TextView(this);
         arrow.setText("›");
-        arrow.setTextColor(Color.WHITE);
+        arrow.setTextColor(Color.rgb(18, 38, 74));
         arrow.setTextSize(24);
         card.addView(arrow);
 

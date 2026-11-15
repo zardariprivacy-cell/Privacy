@@ -55,6 +55,7 @@ public class HomeActivity extends Activity {
         findViewById(R.id.btnSettings).setOnClickListener(v -> startActivity(new Intent(this, SettingsActivity.class)));
         findViewById(R.id.btnBooks).setOnClickListener(v -> startActivity(new Intent(this, BooksActivity.class)));
         findViewById(R.id.btnPapers).setOnClickListener(v -> startActivity(new Intent(this, PastPapersActivity.class)));
+        findViewById(R.id.btnAssistant).setOnClickListener(v -> startActivity(new Intent(this, StudyAssistantActivity.class)));
         View.OnClickListener toPerformance = v -> startActivity(new Intent(this, PerformanceActivity.class));
         findViewById(R.id.btnPerformance).setOnClickListener(toPerformance);
         findViewById(R.id.navPerformance).setOnClickListener(toPerformance);
@@ -137,13 +138,13 @@ public class HomeActivity extends Activity {
         wrap.setLayoutParams(lp);
         TextView t = new TextView(this);
         t.setText(title);
-        t.setTextColor(Color.WHITE);
+        t.setTextColor(Color.rgb(18, 38, 74));
         t.setTextSize(18);
         t.setTypeface(Typeface.DEFAULT_BOLD);
         wrap.addView(t);
         TextView st = new TextView(this);
         st.setText(sub);
-        st.setTextColor(Color.rgb(169, 186, 223));
+        st.setTextColor(Color.rgb(90, 107, 140));
         st.setTextSize(12);
         wrap.addView(st);
         box.addView(wrap);

@@ -26,14 +26,14 @@ public class LessonsActivity extends Activity {
 
         TextView title = new TextView(this);
         title.setText("📚 English Lessons");
-        title.setTextColor(Color.WHITE);
+        title.setTextColor(Color.rgb(18, 38, 74));
         title.setTextSize(24);
         title.setTypeface(Typeface.DEFAULT_BOLD);
         root.addView(title);
 
         TextView sub = new TextView(this);
         sub.setText("Short, simple lessons — read them, then practice in the Grammar and Vocabulary topics.");
-        sub.setTextColor(Color.rgb(169, 186, 223));
+        sub.setTextColor(Color.rgb(90, 107, 140));
         sub.setTextSize(13);
         sub.setPadding(0, dp(4), 0, dp(8));
         root.addView(sub);
@@ -122,7 +122,7 @@ public class LessonsActivity extends Activity {
 
         TextView back = new TextView(this);
         back.setText("‹  Back");
-        back.setTextColor(Color.rgb(245, 184, 29));
+        back.setTextColor(Color.rgb(21, 101, 192));
         back.setTextSize(16);
         back.setPadding(0, dp(14), 0, 0);
         back.setOnClickListener(v -> finish());
@@ -141,14 +141,14 @@ public class LessonsActivity extends Activity {
 
         TextView h = new TextView(this);
         h.setText(heading);
-        h.setTextColor(Color.rgb(245, 184, 29));
+        h.setTextColor(Color.rgb(21, 101, 192));
         h.setTextSize(16);
         h.setTypeface(Typeface.DEFAULT_BOLD);
         card.addView(h);
 
         TextView b = new TextView(this);
         b.setText(body);
-        b.setTextColor(Color.rgb(230, 236, 255));
+        b.setTextColor(Color.rgb(51, 65, 92));
         b.setTextSize(13.5f);
         b.setPadding(0, dp(6), 0, 0);
         b.setLineSpacing(0, 1.25f);

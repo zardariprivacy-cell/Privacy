@@ -55,7 +55,7 @@ public class PerformanceActivity extends Activity {
             row.setText(what + "\n" + r.score + "/" + r.total + " (" + r.percent() + "%)  •  "
                     + fmt.format(new Date(r.dateMillis)));
             row.setTextSize(15);
-            row.setTextColor(0xFFFFFFFF);
+            row.setTextColor(0xFF12264A);
             row.setBackgroundResource(R.drawable.bg_card);
             row.setPadding(dp(12), dp(10), dp(12), dp(10));
             LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(

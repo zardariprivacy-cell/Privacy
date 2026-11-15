@@ -110,14 +110,14 @@ public class PastPapersActivity extends Activity {
 
         TextView t = new TextView(this);
         t.setText("📄  " + title);
-        t.setTextColor(0xFFFFFFFF);
+        t.setTextColor(0xFF12264A);
         t.setTextSize(16);
         t.setTypeface(Typeface.DEFAULT_BOLD);
         card.addView(t);
 
         TextView s = new TextView(this);
         s.setText(meta + "  •  Free PDF");
-        s.setTextColor(0xFFA9BADF);
+        s.setTextColor(0xFF5A6B8C);
         s.setTextSize(12.5f);
         LinearLayout.LayoutParams sp = new LinearLayout.LayoutParams(
                 LinearLayout.LayoutParams.MATCH_PARENT,
@@ -127,7 +127,7 @@ public class PastPapersActivity extends Activity {
 
         Button btn = new Button(this);
         btn.setText("📄  Open / Download Paper");
-        btn.setTextColor(0xFF231A00);
+        btn.setTextColor(0xFFFFFFFF);
         btn.setTextSize(15);
         btn.setTypeface(Typeface.DEFAULT_BOLD);
         btn.setBackgroundResource(R.drawable.bg_btn_gold);
