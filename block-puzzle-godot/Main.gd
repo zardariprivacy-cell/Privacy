@@ -359,7 +359,7 @@ func build_overlays() -> void:
 	ov_over = o3["root"]
 	var b3: VBoxContainer = o3["box"]
 	b3.add_child(make_label("Game Over!", 24, Color.WHITE, true))
-	b3.add_child(make_label("Koi block fit nahi ho raha. Tumhara score:", 13, Color("#9aa5c7"), true))
+	b3.add_child(make_label("No block fits anymore. Your score:", 13, Color("#9aa5c7"), true))
 	lbl_final = make_label("0", 38, Color("#ffc93c"), true)
 	b3.add_child(lbl_final)
 	lbl_over_msg = make_label("", 13, Color("#9aa5c7"), true)
