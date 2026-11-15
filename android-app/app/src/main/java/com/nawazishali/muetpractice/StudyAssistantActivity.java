@@ -32,11 +32,14 @@ import java.util.List;
  */
 public class StudyAssistantActivity extends Activity {
 
-    private static final String KEY_P1 = "";
-    private static final String KEY_P2 = "";
-    private static final String MODEL = "gemini-2.5-flash";
-    private static final String ENDPOINT =
-            "https://generativelanguage.googleapis.com/v1beta/models/" + MODEL + ":generateContent";
+    private static final String KEY_P1 = "AQ.Ab8RN6Ihu9GP0LZmNpZHXS";
+    private static final String KEY_P2 = "QotmfnxEzpkRXzsh596H0Z20xWjw";
+    private static final String MODEL = "gemini-3.5-flash";
+    private static final String MODEL_FALLBACK = "gemini-3.5-flash-lite";
+
+    private static String endpointFor(String model) {
+        return "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent";
+    }
 
     private static final String SYSTEM_PROMPT =
             "You are the Ilmora Study Assistant for Pakistani students preparing for entry tests " +
@@ -96,7 +99,11 @@ public class StudyAssistantActivity extends Activity {
         new Thread(() -> {
             String reply;
             try {
-                reply = callGemini();
+                reply = callGeminiModel(MODEL);
+                if (reply == null || "__BUSY__".equals(reply)) {
+                    String fb = callGeminiModel(MODEL_FALLBACK);
+                    if (fb != null) reply = fb;
+                }
             } catch (Exception e) {
                 reply = null;
             }
@@ -131,7 +138,7 @@ public class StudyAssistantActivity extends Activity {
         while (!history.isEmpty() && "model".equals(history.get(0)[0])) history.remove(0);
     }
 
-    private String callGemini() throws Exception {
+    private String callGeminiModel(String model) throws Exception {
         JSONObject body = new JSONObject();
         JSONObject sys = new JSONObject();
         JSONArray sysParts = new JSONArray();
@@ -155,7 +162,7 @@ public class StudyAssistantActivity extends Activity {
         gen.put("temperature", 0.4);
         body.put("generationConfig", gen);
 
-        HttpURLConnection conn = (HttpURLConnection) new URL(ENDPOINT).openConnection();
+        HttpURLConnection conn = (HttpURLConnection) new URL(endpointFor(model)).openConnection();
         conn.setRequestMethod("POST");
         conn.setRequestProperty("Content-Type", "application/json");
         conn.setRequestProperty("x-goog-api-key", apiKey());
@@ -212,7 +219,8 @@ public class StudyAssistantActivity extends Activity {
 
     /** Gemini replies in markdown; plain TextView cannot render it, so tidy it up. */
     private String clean(String t) {
-        String out = t.replace("**", "").replace("__", "");
+        String out = t.replace("**", "").replace("__", "").replace("$$", "").replace("$", "");
+        out = out.replaceAll("(?m)^---+\\s*$", "");
         out = out.replaceAll("(?m)^#{1,6}\\s*", "");
         out = out.replaceAll("(?m)^\\*\\s+", "• ");
         out = out.replaceAll("(?m)^-\\s+", "• ");
