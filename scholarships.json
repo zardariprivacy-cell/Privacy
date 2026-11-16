@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -461,6 +461,100 @@
    "status": "Closed",
    "url": "https://scholarship.hec.gov.pk/",
    "added": "2026-11-14"
+  },
+  {
+   "name": "HEC Undergraduate Scholarships — Balochistan & Erstwhile FATA (Phase-III, Batch-V)",
+   "scope": "Pakistan",
+   "country": "Balochistan & erstwhile FATA, Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "Balochistan ya erstwhile FATA domicile, age 22 saal ya kam, FA/FSc/ICS/ICOM/DAE mein 60%+ marks; jo pehle se koi scholarship le rahe hon woh eligible nahi",
+   "coverage": "HEC funding — tuition fee + stipend aur books allowance (admission khud secure karna hota hai)",
+   "deadline": "14 December 2026",
+   "deadlineDate": "2026-12-14",
+   "status": "Open now",
+   "url": "https://www.hec.gov.pk/english/scholarshipsgrants/BF-III/Pages/default.aspx",
+   "added": "2026-11-16"
+  },
+  {
+   "name": "Commonwealth Scholarship Programme (Master's & PhD) 2027-28 via HEC",
+   "scope": "International",
+   "country": "United Kingdom",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani/AJK nationals; HEC aur CSC dono portals par apply zaroori; HAT mein 60/100; Master ke liye 26 aur PhD ke liye 30 HEC nominations",
+   "coverage": "Full — tuition, airfare aur monthly stipend",
+   "deadline": "20 October 2026 (band ho chuki hai — agli cycle September 2027 mein expected)",
+   "deadlineDate": "2026-10-20",
+   "status": "Closed",
+   "url": "https://www.hec.gov.pk/english/HECAnnouncements/Pages/CW-Scholarship.aspx",
+   "added": "2026-11-16"
+  },
+  {
+   "name": "Russian Government Scholarship (Education in Russia Quota) 2027-28",
+   "scope": "International",
+   "country": "Russia",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani citizens (non-CIS); official portal par aik application, 6 universities tak choose kar sakte hain; documents ka Russian translation aur notarization zaroori",
+   "coverage": "Full tuition (state quota) + monthly stipend aur dormitory (university par munhasir); airfare, visa aur khana shamil nahi",
+   "deadline": "15 January 2027 (non-CIS countries)",
+   "deadlineDate": "2027-01-15",
+   "status": "Open now",
+   "url": "https://education-in-russia.com",
+   "added": "2026-11-16"
+  },
+  {
+   "name": "HEC IRSIP Batch 60 (Research Fellowship Abroad)",
+   "scope": "International",
+   "country": "Several countries",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Pakistan mein full-time PhD mein enrolled scholars (Spring 2023 – Spring 2025 enrolment); 6 mahine ki research kisi foreign university mein",
+   "coverage": "6 mahine ki research fellowship abroad (stipend + travel support — HEC portal par detail dekhein)",
+   "deadline": "30 October 2026 (band ho chuki hai — agli batch ka elaan nahi hua)",
+   "deadlineDate": "2026-10-30",
+   "status": "Closed",
+   "url": "https://scholarship.hec.gov.pk/",
+   "added": "2026-11-16"
+  },
+  {
+   "name": "Alfalah Scholarship Scheme 2026-27",
+   "scope": "Pakistan",
+   "country": "District Gujrat, Punjab, Pakistan",
+   "levels": [
+    "Intermediate"
+   ],
+   "who": "District Gujrat ke mustahiq students — Intermediate mein parh rahe hon, Matric mein 70%+ (minority 60%+); koi aur scholarship nahi le rahe hon",
+   "coverage": "Monthly financial assistance (need-based)",
+   "deadline": "31 October 2026 (band ho chuki hai — agli window August 2027 mein expected)",
+   "deadlineDate": "2026-10-31",
+   "status": "Closed",
+   "url": "https://alfalahss.org",
+   "added": "2026-11-16"
+  },
+  {
+   "name": "Alkhidmat Academic Scholarship 2026",
+   "scope": "Pakistan",
+   "country": "All Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor"
+   ],
+   "who": "Mustahiq students — Matric mein 70%+ (minority 65%+), Intermediate mein 75%+; sirf public-sector institutions ke students",
+   "coverage": "Rs 9,000 per month (Rs 108,000 per year)",
+   "deadline": "31 October 2026 (band ho chuki hai — agli window August 2027 mein expected)",
+   "deadlineDate": "2026-10-31",
+   "status": "Closed",
+   "url": "https://scholarships.alkhidmat.org",
+   "added": "2026-11-16"
   }
  ]
 }
