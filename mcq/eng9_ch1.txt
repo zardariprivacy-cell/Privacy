@@ -1,0 +1,100 @@
+Class 9 English|Parts of Speech|Nouns|Which word is a proper noun?|city|river|Karachi|teacher|2|Proper nouns name a particular person, place or thing and begin with a capital letter.
+Class 9 English|Parts of Speech|Nouns|The word "honesty" is an example of a/an:|abstract noun|collective noun|material noun|proper noun|0|Honesty names a quality that cannot be touched, so it is an abstract noun.
+Class 9 English|Parts of Speech|Nouns|In the sentence "The jury announced its decision", the collective noun is:|decision|announced|its|jury|3|Jury names a group of people as a single unit, so it is a collective noun.
+Class 9 English|Parts of Speech|Nouns|Which of the following is an uncountable noun?|pen|information|chair|apple|1|Information cannot be counted in units and has no plural form.
+Class 9 English|Parts of Speech|Nouns|In "The necklace is made of gold", the word "gold" is a:|proper noun|material noun|abstract noun|common noun|1|Gold is a substance that things are made of, so it is a material noun.
+Class 9 English|Parts of Speech|Nouns|Which set contains only common nouns?|Karachi, Pakistan, Urdu|team, flock, herd|gold, silver, iron|boy, city, book|3|Boy, city and book are general names for a person, a place and a thing, so they are common nouns.
+Class 9 English|Parts of Speech|Nouns|A noun that names a group of people or things as one unit is called a:|collective noun|abstract noun|material noun|proper noun|0|A collective noun names a whole group as a single unit, like team or class.
+Class 9 English|Parts of Speech|Nouns|Which of the following is a countable noun?|water|milk|bottle|advice|2|A bottle can be counted (one bottle, two bottles); water, milk and advice are uncountable.
+Class 9 English|Parts of Speech|Nouns|In "Bravery is respected everywhere", the abstract noun is:|respected|everywhere|is|bravery|3|Bravery names a quality, which is an idea and not a physical thing.
+Class 9 English|Parts of Speech|Nouns|The plural of "child" is:|childs|children|childes|childrens|1|Child has an irregular plural: children.
+Class 9 English|Parts of Speech|Nouns|Which word is a material noun?|table|chair|wood|carpenter|2|Wood is the material from which tables and chairs are made.
+Class 9 English|Parts of Speech|Nouns|"Pakistan" is a proper noun because it:|names a particular country|names any country in general|names a quality|names a group of countries|0|A proper noun gives the special name of one particular person, place or thing.
+Class 9 English|Parts of Speech|Nouns|In the sentence "She bought three pens", the noun is:|pens|bought|three|she|0|Pens names things, so it is a common noun. Bought is a verb and she is a pronoun.
+Class 9 English|Parts of Speech|Nouns|Which of these nouns has no plural form?|box|watch|furniture|glass|2|Furniture is an uncountable noun and always stays singular.
+Class 9 English|Parts of Speech|Nouns|The word "army" is a collective noun because it refers to:|one soldier|a group of soldiers|a quality of soldiers|a place for soldiers|1|Army names many soldiers together as one body.
+Class 9 English|Parts of Speech|Nouns|Identify the abstract noun in "Childhood is the happiest time of life."|time|life|happiest|childhood|3|Childhood names a stage or state of life, which cannot be seen or touched.
+Class 9 English|Parts of Speech|Nouns|Which is the correct plural of "tomato"?|tomatos|tomato|tomatoes|tomatoies|2|Nouns ending in -o after a consonant usually add -es: tomatoes.
+Class 9 English|Parts of Speech|Nouns|A common noun is:|a particular name of a person|a name that is always capitalized|a name of a quality|a general name for a person, place or thing|3|Common nouns name a whole class, like boy, city or book, not one special member.
+Class 9 English|Parts of Speech|Nouns|In "The teacher praised the class", how many nouns are there?|two|one|three|four|0|Teacher and class are both nouns, so there are two nouns in the sentence.
+Class 9 English|Parts of Speech|Nouns|Which word names an idea rather than something you can touch?|stone|freedom|river|mountain|1|Freedom is an idea, so it is an abstract noun.
+Class 9 English|Parts of Speech|Pronouns|Which of the following is a personal pronoun?|who|this|they|myself|2|They is a personal pronoun; who is interrogative, this is demonstrative and myself is reflexive.
+Class 9 English|Parts of Speech|Pronouns|In "This pen is mine", the word "mine" is a:|possessive pronoun|reflexive pronoun|demonstrative pronoun|personal pronoun|0|Mine shows possession and stands alone in place of a noun phrase like my pen.
+Class 9 English|Parts of Speech|Pronouns|Choose the correct pronoun: "Ali and ___ went to school together."|me|mine|us|I|3|The subject position needs the subject pronoun I: Ali and I.
+Class 9 English|Parts of Speech|Pronouns|In "He hurt himself while playing", the word "himself" is a:|possessive pronoun|reflexive pronoun|demonstrative pronoun|interrogative pronoun|1|Himself points back to the subject he, so it is a reflexive pronoun.
+Class 9 English|Parts of Speech|Pronouns|Which pronoun is used to ask a question?|that|who|she|ours|1|Who is an interrogative pronoun used for asking questions about people.
+Class 9 English|Parts of Speech|Pronouns|Choose the sentence with the correct subject pronoun:|Me is going home.|Us are good friends.|Him is my brother.|She is my sister.|3|She is the correct subject pronoun; me, us and him are object forms and cannot be subjects.
+Class 9 English|Parts of Speech|Pronouns|In "These are my books", the word "These" is a:|demonstrative pronoun|personal pronoun|reflexive pronoun|possessive pronoun|0|These points out particular things, so it is a demonstrative pronoun.
+Class 9 English|Parts of Speech|Pronouns|The teacher gave the prize to ___.|we|I|me|she|2|After the preposition to, we use the object pronoun me.
+Class 9 English|Parts of Speech|Pronouns|Which pair shows possessive pronouns?|he, she|this, that|who, whom|mine, yours|3|Mine and yours show possession and can stand alone without a noun.
+Class 9 English|Parts of Speech|Pronouns|The students did the work by ___.|them|themselves|their|they|1|The phrase by themselves needs a reflexive pronoun.
+Class 9 English|Parts of Speech|Pronouns|Choose the correct pronoun: "___ is knocking at the door?"|Whose|Their|Who|Them|2|Who asks about the subject of the sentence.
+Class 9 English|Parts of Speech|Pronouns|The word "it" in "It is very hot today" is a:|personal pronoun|demonstrative pronoun|interrogative pronoun|reflexive pronoun|0|It is a personal pronoun, here used as the subject of the sentence.
+Class 9 English|Parts of Speech|Pronouns|Which sentence uses a reflexive pronoun correctly?|He taught himself to swim.|He taught hisself to swim.|He taught himselfs to swim.|He taught theirself to swim.|0|Himself is the correct reflexive form for he; hisself and himselfs are not words.
+Class 9 English|Parts of Speech|Pronouns|Complete the sentence: "This is the boy ___ won the race."|which|whom|who|whose|2|Who refers to a person and works as the subject of the clause.
+Class 9 English|Parts of Speech|Pronouns|Choose the correct form: "The red car is ___."|their|theirs|there|them|1|Theirs is a possessive pronoun that can stand alone at the end of a sentence.
+Class 9 English|Parts of Speech|Pronouns|In "She herself solved the sum", the word "herself" is a:|demonstrative pronoun|possessive pronoun|interrogative pronoun|reflexive pronoun|3|Herself is a reflexive pronoun, here used to emphasize the subject she.
+Class 9 English|Parts of Speech|Pronouns|Which of the following is a demonstrative pronoun?|he|ours|that|myself|2|That points out a particular thing, so it is a demonstrative pronoun.
+Class 9 English|Parts of Speech|Pronouns|Choose the correct pronoun: "Between you and ___, this plan will fail."|I|she|we|me|3|After the preposition between, the object pronoun me is correct.
+Class 9 English|Parts of Speech|Pronouns|In "Nobody answered the question", the word "Nobody" is a:|indefinite pronoun|personal pronoun|possessive pronoun|reflexive pronoun|0|Nobody refers to no particular person, so it is an indefinite pronoun.
+Class 9 English|Parts of Speech|Pronouns|Which pronoun shows ownership?|he|hers|it|who|1|Hers shows that something belongs to her.
+Class 9 English|Parts of Speech|Verbs|Which word is an action verb?|is|seem|run|was|2|Run shows an action; is, seem and was are linking or state verbs.
+Class 9 English|Parts of Speech|Verbs|In "The soup tastes delicious", the verb "tastes" is a:|linking verb|helping verb|transitive verb|modal verb|0|Tastes links the subject soup with its description delicious.
+Class 9 English|Parts of Speech|Verbs|Choose the helping verb in "She ___ finished her work."|quick|finish|finisheds|has|3|Has is the helping verb; with finished it makes the present perfect tense.
+Class 9 English|Parts of Speech|Verbs|In "He kicked the ball", the verb "kicked" is:|intransitive|transitive|linking|helping|1|Kicked has an object, the ball, so it is a transitive verb.
+Class 9 English|Parts of Speech|Verbs|Which sentence has an intransitive verb?|She wrote a letter.|The baby cried loudly.|He ate an apple.|They built a house.|1|Cried has no object after it, so it is intransitive. The other verbs take objects.
+Class 9 English|Parts of Speech|Verbs|The main verb in "They are playing cricket" is:|are|they|cricket|playing|3|Playing is the main verb; are is only its helping verb.
+Class 9 English|Parts of Speech|Verbs|Which of the following is a linking verb?|feels|jumps|writes|throws|0|Feels can link the subject to a description, as in "She feels happy."
+Class 9 English|Parts of Speech|Verbs|In "I shall help you", the helping verb is:|help|you|shall|I|2|Shall helps the main verb help to show future time.
+Class 9 English|Parts of Speech|Verbs|A verb that needs an object to complete its meaning is called a:|linking verb|helping verb|intransitive verb|transitive verb|3|A transitive verb passes its action to an object, like "She reads a book."
+Class 9 English|Parts of Speech|Verbs|Choose the correct verb form: "Yesterday, the dog ___ at the stranger."|barks|barked|bark|barking|1|Yesterday shows past time, so the past form barked is correct.
+Class 9 English|Parts of Speech|Verbs|In "She is a doctor", the verb "is" is a:|action verb|transitive verb|linking verb|helping verb|2|Is links the subject she with the noun doctor and shows her state.
+Class 9 English|Parts of Speech|Verbs|Which group contains only helping verbs?|am, is, are, was, were|run, jump, swim, play|quick, slow, happy, sad|book, pen, table, chair|0|Am, is, are, was and were help main verbs to form tenses.
+Class 9 English|Parts of Speech|Verbs|In "He reads a story every night", the verb is:|reads|story|night|every|0|Reads tells what the subject does, so it is the verb.
+Class 9 English|Parts of Speech|Verbs|In "The birds are flying in the sky", the verb phrase is:|in the sky|the birds|are flying|flying in|2|A verb phrase joins a helping verb (are) with a main verb (flying).
+Class 9 English|Parts of Speech|Verbs|Which sentence uses a helping verb?|He runs fast.|She can swim well.|They eat lunch daily.|We play in the park.|1|Can is a helping (modal) verb used with the main verb swim.
+Class 9 English|Parts of Speech|Verbs|The verb in "Please close the door" is:|please|door|the|close|3|Close is the action word of this command sentence.
+Class 9 English|Parts of Speech|Verbs|In "The milk turned sour", the word "turned" is a:|transitive verb|helping verb|linking verb|modal verb|2|Turned links the subject milk with the adjective sour.
+Class 9 English|Parts of Speech|Verbs|Choose the sentence with a transitive verb:|The sun rises in the east.|He sleeps early.|Birds fly south.|She reads a book.|3|Reads is transitive because it has the object "a book."
+Class 9 English|Parts of Speech|Verbs|Choose the correct verb form: "He ___ to school daily."|goes|go|going|gone|0|With the singular subject he, the present simple verb takes -es: goes.
+Class 9 English|Parts of Speech|Verbs|A helping verb is also called a/an:|main verb|auxiliary verb|action verb|linking verb|1|Helping verbs are called auxiliary verbs because they assist the main verb.
+Class 9 English|Parts of Speech|Adjectives|Which word is an adjective in "The tall boy is my friend"?|boy|is|tall|friend|2|Tall describes the noun boy, so it is an adjective.
+Class 9 English|Parts of Speech|Adjectives|In "I drank some water", the word "some" is an adjective of:|quantity|quality|demonstration|possession|0|Some tells how much water, so it is an adjective of quantity.
+Class 9 English|Parts of Speech|Adjectives|The superlative degree of "good" is:|gooder|goodest|more good|best|3|Good has irregular degrees: good, better, best.
+Class 9 English|Parts of Speech|Adjectives|Choose the correct comparative: "This box is ___ than that one."|heavy|heavier|heaviest|most heavy|1|Comparisons with than use the comparative form heavier.
+Class 9 English|Parts of Speech|Adjectives|In "This book is mine", the word "This" is a:|possessive adjective|demonstrative adjective|adjective of quality|adjective of quantity|1|This points out which book, so it is a demonstrative adjective.
+Class 9 English|Parts of Speech|Adjectives|The comparative degree of "bad" is:|badder|more bad|baddest|worse|3|Bad has irregular degrees: bad, worse, worst.
+Class 9 English|Parts of Speech|Adjectives|An adjective that answers the question "What kind?" is an adjective of:|quality|quantity|number|demonstration|0|Adjectives of quality describe the kind or quality of a noun, like honest or brave.
+Class 9 English|Parts of Speech|Adjectives|Choose the correct sentence:|She is the more intelligent girl in class.|She is most intelligent girl in the class.|She is the most intelligent girl in the class.|She is the intelligentest girl in the class.|2|The superlative degree uses the most with the article the.
+Class 9 English|Parts of Speech|Adjectives|In "Five fingers are on my hand", the word "Five" is an adjective of:|quality|quantity|demonstration|number|3|Five tells the exact number, so it is an adjective of number.
+Class 9 English|Parts of Speech|Adjectives|The positive degree of "least" is:|less|little|small|few|1|Little, less and least are the three degrees of the same adjective.
+Class 9 English|Parts of Speech|Adjectives|Which adjective shows possession in "That is my pen"?|that|is|my|pen|2|My shows whose pen it is, so it is a possessive adjective.
+Class 9 English|Parts of Speech|Adjectives|Choose the correct form: "Mount Everest is the ___ mountain in the world."|highest|higher|high|most high|0|Comparing one with all others needs the superlative form highest with the.
+Class 9 English|Parts of Speech|Adjectives|An adjective usually describes a:|noun or pronoun|verb|adverb|preposition|0|Adjectives add information about nouns and pronouns.
+Class 9 English|Parts of Speech|Adjectives|The comparative degree of "beautiful" is:|beautifuller|beautifulest|more beautiful|most beautiful|2|Long adjectives form degrees with more and most, not with -er and -est.
+Class 9 English|Parts of Speech|Adjectives|In "The thirsty crow drank some water", the adjective is:|crow|thirsty|drank|water|1|Thirsty describes the noun crow.
+Class 9 English|Parts of Speech|Adjectives|Which degree of comparison is used for comparing two things?|positive degree|superlative degree|no degree|comparative degree|3|The comparative degree compares two persons or things.
+Class 9 English|Parts of Speech|Adjectives|Choose the sentence with the correct comparative form:|This road is wide than that one.|This road is widest than that one.|This road is wider than that one.|This road is more wider than that one.|2|A comparison between two roads needs the comparative form wider with than.
+Class 9 English|Parts of Speech|Adjectives|In "There is little milk in the jug", the word "little" is an adjective of:|number|quality|demonstration|quantity|3|Little tells the amount of milk, which is an uncountable noun.
+Class 9 English|Parts of Speech|Adjectives|The superlative degree of "many" is:|most|more|maniest|manyest|0|Many has irregular degrees: many, more, most.
+Class 9 English|Parts of Speech|Adjectives|Which word is NOT an adjective?|honest|quickly|brave|gentle|1|Quickly describes a verb, so it is an adverb, not an adjective.
+Class 9 English|Parts of Speech|Adverbs|Which word is an adverb in "She sings sweetly"?|she|sings|sweetly|song|2|Sweetly tells how she sings, so it is an adverb of manner.
+Class 9 English|Parts of Speech|Adverbs|An adverb that answers the question "How?" is an adverb of:|manner|place|time|frequency|0|Adverbs of manner tell how an action is done, like slowly or carefully.
+Class 9 English|Parts of Speech|Adverbs|In "He will come tomorrow", the adverb "tomorrow" shows:|manner|place|frequency|time|3|Tomorrow tells when he will come, so it is an adverb of time.
+Class 9 English|Parts of Speech|Adverbs|Choose the adverb of frequency:|here|always|very|slowly|1|Always tells how often something happens.
+Class 9 English|Parts of Speech|Adverbs|In "The train arrived late", the adverb is:|The|late|train|arrived|1|Late modifies the verb arrived and tells when it arrived.
+Class 9 English|Parts of Speech|Adverbs|An adverb of place answers the question:|How?|When?|How often?|Where?|3|Adverbs of place tell where an action happens, like here or outside.
+Class 9 English|Parts of Speech|Adverbs|In "She speaks very loudly", the word "very" is an adverb of:|degree|manner|place|time|0|Very shows the degree or extent of loudly.
+Class 9 English|Parts of Speech|Adverbs|Which sentence has an adverb of manner?|He came yesterday.|She lives here.|He works carefully.|They often visit us.|2|Carefully tells how he works, so it is an adverb of manner.
+Class 9 English|Parts of Speech|Adverbs|The word "never" is an adverb of:|place|manner|degree|frequency|3|Never tells how often something happens: not at any time.
+Class 9 English|Parts of Speech|Adverbs|Choose the correct adverb: "He ran ___ and won the race."|quick|fast|quicker|fastly|1|Fast works as an adverb; fastly is not a correct English word.
+Class 9 English|Parts of Speech|Adverbs|In "The children are playing outside", the adverb is:|children|playing|outside|are|2|Outside tells where the children are playing.
+Class 9 English|Parts of Speech|Adverbs|Most adverbs of manner are formed by adding:|-ly to an adjective|-er to an adjective|-est to a verb|-s to a noun|0|For example, slow becomes slowly and careful becomes carefully.
+Class 9 English|Parts of Speech|Adverbs|Which word is an adverb of degree?|almost|here|now|daily|0|Almost shows degree or extent, as in "almost ready."
+Class 9 English|Parts of Speech|Adverbs|In "He is quite happy", the word "quite" modifies:|a verb|a noun|an adjective|a pronoun|2|Quite modifies the adjective happy, so it is an adverb of degree.
+Class 9 English|Parts of Speech|Adverbs|Choose the sentence where "early" works as an adverb:|It is an early train.|He woke up early.|We took an early bus.|The early bird sings sweetly.|1|Here early modifies the verb woke; in the other sentences it describes a noun.
+Class 9 English|Parts of Speech|Adverbs|An adverb can modify:|only a noun|only a pronoun|a verb, an adjective, or another adverb|only a verb|3|Adverbs modify verbs, adjectives and other adverbs, but never nouns.
+Class 9 English|Parts of Speech|Adverbs|In "She rarely makes mistakes", the adverb "rarely" shows:|place|manner|frequency|degree|2|Rarely tells how often she makes mistakes.
+Class 9 English|Parts of Speech|Adverbs|Choose the correct word: "He ___ completed his work before time."|success|successful|has|successfully|3|Successfully is the adverb form that modifies the verb completed.
+Class 9 English|Parts of Speech|Adverbs|The adverb in "Drive carefully on this road" is:|carefully|Drive|you|road|0|Carefully tells how to drive, so it is an adverb of manner.
+Class 9 English|Parts of Speech|Adverbs|Which of these is an adverb of time?|bravely|yesterday|everywhere|enough|1|Yesterday tells when something happened.

@@ -1,0 +1,800 @@
+Biology|Biology|Set 01|The science of crop production and soil management.|Soil Science|Agronomy|Metrology|Ecology|1|
+Biology|Biology|Set 01|Mitochondria second name is ______?|Chondriosomes|Condriome|Energysome|Mitosome|0|
+Biology|Biology|Set 01|The appendix is situated in the ______?|Left Lower Quadrant|Right Upper Quadrant|Right lower Quadrant|Left Upper Quadrant|2|
+Biology|Biology|Set 01|The study of interaction of antigen and antibodies in blood is ______?|etiology|serology|ecology|histology|1|
+Biology|Biology|Set 01|The branch of science dealing with the classification of life forms is called: ______?|Genetics|Taxonomy|Archeology|Paleontology|1|
+Biology|Biology|Set 01|Rabies is caused by: ______?|Paramyxovirus|Rhinovirus|Arbovirus|Rhabdovirus|3|
+Biology|Biology|Set 01|Numerous opportunistic diseases might attack a person suffering from which of the following diseases:|Measles|Influenza|Hepatitis A|AIDS|3|
+Biology|Biology|Set 01|Genome of viruses is composed of: ______?|DNA|RNA|Protein|Both A & B|3|
+Biology|Biology|Set 01|Viruses resemble living things because they: ______?|Circulate|Move|Reproduce|Are crystalline|2|
+Biology|Biology|Set 01|A Bacteriophage consists solely of: ______?|DNA and Protein|RNA and Protein|RNA only|Protein Only|0|
+Biology|Biology|Set 01|The Viruses are: ______?|Cellular|Prokaryotes|Non-cellular|Eukaryotes|2|
+Biology|Biology|Set 01|The Nucleic acid of nearly all bacteriophage is: ______?|RNA|Protein|DNA|None of these|2|
+Biology|Biology|Set 01|Which type of respiration is the most effective in frogs?|Coetaneous|Lung|Pulmo-cuntaneous|Through gills|1|
+Biology|Biology|Set 01|Which one of the following plants store water in their parenchymatous cells?|Succulent plants|Angiosperms Plants|Gymnosperms Plants|Xerophytes plants in it., me|0|
+Biology|Biology|Set 01|From right ventricle blood is pushed into?|pulmonary trunk|brain|aorta|body|0|
+Biology|Biology|Set 01|The number of species of organisms currently known to science is?|3500000|35000|2500000|25000000|2|
+Biology|Biology|Set 01|The heart is enclosed in a membrane called______?|pleura|pericardium|peritoneum|epithelium|1|
+Biology|Biology|Set 01|Communities are ______ collection of organisms?|Static|Dynamic|May be static or dynamic|None of these|1|
+Biology|Biology|Set 01|The arrangement of ______ speaks of the division of labour within cell?|Molecule|Subatomic particles|Atoms|Organelles|3|
+Biology|Biology|Set 01|In which animal respiratory surface are found in more than one organ?|birds|human|fish|frog|3|
+Biology|Biology|Set 01|Operculum is present in______?|bony fish|sea fish|cartilaginous fish|none of these|0|
+Biology|Biology|Set 01|Biological organization is______?|simple|advance|complex|highly complex|3|
+Biology|Biology|Set 01|In human body 99% of total mass is formed of______?|16 Bio-elements|12 Bio-elements|10 Bio-elements|6 Bio-elements|3|
+Biology|Biology|Set 01|Nitrogen is present in______?|carbohydrates|proteins|lipids|carbonates|1|
+Biology|Biology|Set 01|Enzyme present in the saliva is______?|lipase|trypsin|ptyalin|invertase|2|
+Biology|Biology|Set 01|Which of the following is not a viral disease?|Cowpox|Mumps|Tetanus|Small pox|2|
+Biology|Biology|Set 01|The mechanism for ATP synthesis is______?|Chemosynthesis|Photosynthesis|Phosphorylation|Chemiosmosis|3|
+Biology|Biology|Set 01|Removal or degradation of environmental pollutants or toxic materials by living organisms is called______?|Integrated disease management|Hydroponic culture technique|Pasteurization|Bioremediation|3|
+Biology|Biology|Set 01|True roots absent in______?|ferns|bryophytes|gymnosperms|angiosperms|1|
+Biology|Biology|Set 01|Which statement is incorrect for cloning?|The nucleus of a fertilized egg is replaced by the nucleus from the cell of a fully developed individual|Division of a single egg into one or more separate embryos.|The individual is the mirror image of the parent organism|It involve methods of sexual reproduction|3|
+Biology|Biology|Set 01|Which treatment is instituted in a cancerous patient?|Antibiotic therapy|Radiotherapy|Gene therapy|None of these|1|
+Biology|Biology|Set 01|Which is a parasitic plant?|cuscuta|rose|ferns|mosses|0|
+Biology|Biology|Set 01|Fungi resemble plants because they lack______?|Cell wall|Cytoplasm|Centriole|Nucleus|2|
+Biology|Biology|Set 01|Which of the following statement is incorrect about antibiotics?|They are used against microorganisms|They are always effective against bacteria|They are used in diseases like tuberculosis and pneumonia|They are derived from bacteria only|3|
+Biology|Biology|Set 01|Nutrition in fungi is______?|Photosynthetic|Chemosynthetic|Completely parasitic|Absorptive heterotrophs|3|
+Biology|Biology|Set 01|Which disease has been totally eradicated from the world because of effective vaccination?|Measles|Polio|Small pox|Hepatitis|2|
+Biology|Biology|Set 01|Pigment present in red algae is______?|fucoxanthin|phycocyanin|phycoerythrin|bilirubin|2|
+Biology|Biology|Set 01|Vaccine was first developed by______?|Louis Pasture|Edward Jenner|Jaber Ibn Hayan|Aristotle|1|
+Biology|Biology|Set 01|The major cell infected by the HIV is lymphocyte ?|helper-T|B|both T and B|none of these|0|
+Biology|Biology|Set 01|Which disease can be controlled by vaccination?|Measles|Cancer|Diabetes|Heart attack|0|
+Biology|Biology|Set 01|Smallest disease causing agents in plants are ?|virion|mycoplasma|viroids|prions|2|
+Biology|Biology|Set 01|What is the mode of transmission of Hepatitis virus?|Aerosol|Parentral (via blood)|Skin penetration|Unknown|1|
+Biology|Biology|Set 01|Protein factory is______?|nucleus|ribosome|golgi complex|centriole|1|
+Biology|Biology|Set 01|Which statement is incorrect for pasteurization?|It is used to preserve yogurt and milk|It was developed by Louis Pasteur.|It involves heating the substance at high temperature for just few sec.|It can be used to preserve vegetables and meat.|3|
+Biology|Biology|Set 01|Number of chromosomes in E.coli ?|1|2|4|6|0|
+Biology|Biology|Set 01|Astronauts may use which technique to grow fruits and vegetables ?|Tissue culture techniques|Cloning|Pasterisation|Hydroponic culture technique|3|
+Biology|Biology|Set 01|Messenger RNA is formed in______?|nucleus|chloroplast|mitochondria|none of these|0|
+Biology|Biology|Set 01|Co-enzyme is often formed from ?|lipid|protein|inorganic ion|vitamin|3|
+Biology|Biology|Set 01|Breeders have developed new and better varieties of food items by using which technique?|Pasteurization|Hydroponic culture technique|Genetic engineering|Biological control techniques|2|
+Biology|Biology|Set 01|Starch is converted into maltose by?|diastase|invertase|maltase|amylase|0|
+Biology|Biology|Set 02|Conclusion of Mendels work latter became a______?|Scientific hypothesis|Theory|Scientific law|Productive theory|2|
+Biology|Biology|Set 02|Which one is not correct for a productive theory?|It is predictive|It has explanatory power|It discourages suggestion of different hypotheses|None of these|2|
+Biology|Biology|Set 02|Which are the four most abundant elements in living cells ?|carbon, oxygen, nitrogen, sulfur|carbon, oxygen, hydrogen, nitrogen|carbon, oxygen, sulfur, phosphorus|carbon, sulfur, hydrogen, magnesium|1|
+Biology|Biology|Set 02|A series of hypothesis supported by the results of many tests is called ?|Scientific law|Theory|Data|Deduction|1|
+Biology|Biology|Set 02|Which is an organic compound found in most cells ?|Water|Glucose|Oxygen|Sodium chloride|1|
+Biology|Biology|Set 02|Biological sciences have a set methodology and it is based on ?|Experimental inquiry|Esthetic preference|Philosophical ideas|Imaginations|0|
+Biology|Biology|Set 02|Proteins are made from amino acids by the process of ______?|Hydrolysis|Pinocytosis|Dehydration synthesis|Active transport|2|
+Biology|Biology|Set 02|An unbroken series of species arranged in ancestors to descendent sequence with each later species having evolved from one that immediately preceded it is called?|Biome|Phyletic lineage|Community|Population|1|
+Biology|Biology|Set 02|Sodium ions are "pumped" from a region of lower concentration to a region of higher concentration in the nerve cells of humans. This process is an example of|Diffusion|Passive transport|Osmosis|Active transport|3|
+Biology|Biology|Set 02|It is possible to date the rocks by comparing the amount of specific radioactive isotopes they contain. Which of the statement is correct in this respect?|Older sediment layers have equal amount of these radioactive isotopes as that of the young ones|Older sediment layers have less amount of these radioactive isotopes as that of the young ones.|Older sediment layers have greater amount of these radioactive isotopes as that of the young ones.|Older sediment layers did not have these radioactive isotopes|1|
+Biology|Biology|Set 02|Normally, in the process of osmosis, the net flow of water molecules into or out of the cell depends upon differences in the ?|Concentration of water molecules inside and outside the cell|Concentration of enzymes on either side of the cell membrane|Rate of molecular motion on either side of the cell membrane|None of these|0|
+Biology|Biology|Set 02|The concept that various organisms dominated this planet during various geological time period and thus placing organisms in a time squence came from the studies by ?|Environmental biologist|Paleontologist|Marine biologist|Social biologist|1|
+Biology|Biology|Set 02|Most cell membranes are composed principally of ?|DNA ad protein|Protein and Lipids|Protein and Chitin|Protein and RNA|1|
+Biology|Biology|Set 02|A large regional community primarily determined by climate is called ?|Population|Community|Biome|Habitat|2|
+Biology|Biology|Set 02|Which of the following pathogen type cause disease that can be treated with antibiotics ?|bacteria|fungi|virus|none of these|0|
+Biology|Biology|Set 02|Different species of plants and animals living in the same habitat is called?|Population|Community|Biome|Habitat|1|
+Biology|Biology|Set 02|The evaporative cooling in the respiratory tract of dogs is called?|Vasodilation|Vasoconstriction|Panting|All of these|2|
+Biology|Biology|Set 02|Group of living organisms of the same species living in the same place at the same time is called ?|Community|Population|Ecosystem|Biome|1|
+Biology|Biology|Set 02|Production of sweat and sebum is related with ?|Skin|Liver|Lungs|GIT|0|
+Biology|Biology|Set 02|In animals coordination is achieved by means of?|Nervous system|Endocrine system|Respiratory system|Both A and B|3|
+Biology|Biology|Set 02|Haemodialysis means cleaning of______?|Urine|Blood|Glomerular filterate|Coelomic fluid|1|
+Biology|Biology|Set 02|A structure formed by groups of similar cells organized into loose sheets or bundles performing similar functions is called as:|An organ|An organism|A Tissue|A Cell|2|
+Biology|Biology|Set 02|Which one of them is a micro-molecule?|Polysaccharide|Protein|Hemoglobin|ATP|3|
+Biology|Biology|Set 02|The atoms of different elements combine with each other through ionic or covalent bonding to produce compounds this stable form is called:|An organ|A molecule|Tissue|Both a and c|1|
+Biology|Biology|Set 02|Oxygen accounts for ______ % of totals human body mass?|65%|18%|10%|3%|0|
+Biology|Biology|Set 02|______ are needed as a source of energy for the vital activities of the body?|Calcium|Iron|Water|Carbohydrates|3|
+Biology|Biology|Set 02|Out of 92 naturally occurring chemical elements how many are considered as bio-elements?|6|16|26|15|1|
+Biology|Biology|Set 02|______ is essential for the formation of hemoglobin.|Calcium|Iron|Water|Carbohydrates|1|
+Biology|Biology|Set 02|The branch of biology which deals with the study of social behavior and communal life of human beings living in any environment is called ?|Environmental biology|Social biology|Human biology|Both b and c|1|
+Biology|Biology|Set 02|Blood is carried towards the heart by ______?|Arteries|Capillaries|Veins|none of these|2|
+Biology|Biology|Set 02|Sythetic insulin from pork was formed by which technique?|Biotechnology|Social biological techniques|Parasitology|Both a and c|0|
+Biology|Biology|Set 02|On wound ______ fight foreign particles, like bacteria?|White Blood cells|Red Blood Cells|Platelets|Plasma|0|
+Biology|Biology|Set 02|The experiments on DNA molecules in chromosomes for knowing the basis of inherited diseases are conducted by ?|Molecular biologists|Microbiologists|Freshwater biologists|Social biologist|0|
+Biology|Biology|Set 02|About ______ of the body weight of a mammal is water ?|60%|65%|70%|75%|2|
+Biology|Biology|Set 02|The study of fossils is called?|Environmental Biology|Historical biology|Palaeontology|Social biology|2|
+Biology|Biology|Set 02|The average internal temperature of human body is ______?|35 oC|36 oC|37 oC|38 oC|2|
+Biology|Biology|Set 02|Which Vitamin is needed for the formation of a light-sensitive pigment in the retina.|Vitamin A|Vitamin C|Vitamin D|B complex|0|
+Biology|Biology|Set 02|Which character differentiates living things from non-living organisms?|They live in the same ecosystem.|They are highly organized and complex made of one or more cells and contain genetic material|They are acted upon by the same environment|Both a and b|1|
+Biology|Biology|Set 02|Crop rotation helps in______?|Growth of pathogens|Soil Infertility|Slowing of crops growth|Eradication of disease|3|
+Biology|Biology|Set 02|Dolly, the sheep was a highly successful clone from a somatic cell, reported back in______?|1993|1994|1995|1996|3|
+Biology|Biology|Set 02|An educated guess is called:|Accumulated Data|Observation|Hypothesis|Conclusion|2|
+Biology|Biology|Set 02|The Science of growing terrestrial plants in an aerated solution is______?|Hydrodynamics|Hydroponics|Hydrotonics|None of them|1|
+Biology|Biology|Set 02|Biologist 'Grass' discovered the life cycle of plasmodium in______?|1896|1897|1898|1899|2|
+Biology|Biology|Set 02|Malaria is associated with______?|Culex Mosquito|Culiesta Mosquito|Anopheles Mosquito|Culex & Anopheles Mosquito|2|
+Biology|Biology|Set 02|Robert Hooke discovered______?|Nucleus|Mitochondria|Cell|DNA|2|
+Biology|Biology|Set 02|Members of one species inhabiting the same are form______?|Species|Community|Ecosystem|Population|3|
+Biology|Biology|Set 02|A group of very similar inter breeding organisms constitutes?|Biosphere|Ecosystem|Population|Species|3|
+Biology|Biology|Set 02|A group of similar cells that perform a specific function is:|Organ|Tissues|Organelle|Organ System|1|
+Biology|Biology|Set 02|Which of the following is an example of "molecule"?|Chloroplast|A Nerve Cell|DNA|Hydrogen|2|
+Biology|Biology|Set 02|Various tissue types combine to make up______?|Cells|Organs|Organ System|Organelles|1|
+Biology|Biology|Set 03|Functional unit of DNA Is______?|Nucleus|Genes|Chromosomes|Nucleolus|1|
+Biology|Biology|Set 03|Organelles are______?|Unicellular structures|Multi-cellular structures|Sub-cellular structures|Non-cellular structures|2|
+Biology|Biology|Set 03|With different chemical arrangements and formation Of complex molecules, the life emerges on the level of the ?|Cells|Tissues|Organs|Organ System|0|
+Biology|Biology|Set 03|Human blood is an example of______?|Organelle|Tissues|Organic compound|Inorganic compounds|1|
+Biology|Biology|Set 03|The molecules of living matter that provide building blocks are mostly based on:|Carbon|Nitrogen|Hydrogen|Ammonia|0|
+Biology|Biology|Set 03|The branch in which organism's life cycle, mode of transmission and interaction with their hosts are studied is:|Anatomy|Physiology|Parasitology|Social Biology|2|
+Biology|Biology|Set 03|The branch of Biology which deals with the use of data and techniques of engineering & technology concerning living organisms is:|Human Biology|Environmental Biology|Genetics|Bio-technology|3|
+Biology|Biology|Set 03|The Study of organisms inhabiting the sea and Ocean and the physical and chemical characteristics of their environment is:|Social Biology|Marine Biology|Environmental Biology|Fresh Water Biology|1|
+Biology|Biology|Set 03|Earthworm is included in______?|Kingdom Plantae|Kingdom Protoctista|Kingdom Monera|Kingdom Animalia|3|
+Biology|Biology|Set 03|Kingdom Fungi includes______?|A cellular, eukaryotic organisms|Non-chlorophylls, multicellular eukaiyotlc organisms|Non-chlorophylls, multicellular,thailophytic organisms|both B and C|3|
+Biology|Biology|Set 03|Kingdom Protoctista includes______?|Fungi|Prokaryotes|protists|Piantae|2|
+Biology|Biology|Set 03|The word "BIOLOGY" has been derived from______ word?|Latin|English|Greek|French|2|
+Biology|Biology|Set 03|The scientific study of livings is called?|Anatomy|Biology|Geology|Zoology|1|
+Biology|Biology|Set 03|Which of the following is correct for a virus?|It is a non-cellular entity|Obligate parasite|Ultramicroscopic in size|All of these|3|
+Biology|Biology|Set 03|Carcinogens is ______ types of chemicals.|Cancer causing|Pneumonia causing|Emphysema|Asthma|0|
+Biology|Biology|Set 03|What is Aquaculture?|culture of finfish|culture of shellfish|culture of aquatic organisms|culture of shrimp and Tilapia|2|
+Biology|Biology|Set 03|Chromic catgut is made up of ______?|Sheep gut|Cat gut|Kangaroo gut|dog gut|0|
+Biology|Biology|Set 03|Protein factory of cell is ______?|Lysosome|Mitochondria|Ribosomes|Golgi apparatus|2|
+Biology|Biology|Set 03|Which system links brain to every part of body?|Nervous system|Brain|Spinal cord|All of above|0|
+Biology|Biology|Set 03|Hyaline cartilage does not posses?|Fibers|Cells|Laucane|Blood capillaries|3|
+Biology|Biology|Set 03|Glycolysis process occur in?|cytosol|Mitochondria|Matrix|Endoplasmic reticulum|0|
+Biology|Biology|Set 03|What is the heaviest organ in human body?|Liver|Skin|Intestine|Brain|1|
+Biology|Biology|Set 03|What is the number of 'True Ribs' in human body?|12|14|16|18|1|
+Biology|Biology|Set 03|Spongocoel is present in ______?|Cnidaria|Porifera|Mollusca|Nematodes|1|
+Biology|Biology|Set 03|enzymes are actually composed of ______?|Carbohydrates|Proteins|Nucleic Acid|Fats|1|
+Biology|Biology|Set 03|What are our nose and ears made of______?|Cartilage|Charades|Charcoal|Chitin|0|
+Biology|Biology|Set 03|Bifacial Leaves :|Leaves of maze plant|Leaves of mango plant|Leaves of water lily|None of these|1|
+Biology|Biology|Set 03|Molish test is used for ______?|Protein|carbohydrates|Flavoprotein|lipid|1|
+Biology|Biology|Set 03|Ginger is a______?|Leave|Root|Stem|None of These|2|
+Biology|Biology|Set 03|What is scientific name of mosquito?|Blattodea|Anisoptera|Culicidae|Rhopalocera|2|
+Biology|Biology|Set 03|Largest invertebrates is ______ ?|Earthworm|Euglena|Squids|Star fish|2|
+Biology|Biology|Set 03|Feathered shank is only seen in the class of ______?|Asian class|English class|American class|None|0|
+Biology|Biology|Set 03|The hormone that causes the decrease in blood sugar level is called:______?|Glucagon|Insulin|Gastrin|TSH (Thyroid Stimulation Hormone)|1|
+Biology|Biology|Set 03|The respiratory surface of unicellular organisms is______?|Specific organ|Cell membrane|Cell wall|Nuclear membrane|1|
+Biology|Biology|Set 03|The study of bone is called as ______?|Chondrology|Osteology|Mycology|Histology|1|
+Biology|Biology|Set 03|Functional units of lungs are called______?|Alveoli|Air sacs|Parabronchi|None of these|0|
+Biology|Biology|Set 03|Kind of cellular respiration which occurs in presence of oxygen is ______ ?|Anaerobic respiration|Aerobic respiration|Nitrogenous respiration|Acidic respiration|1|
+Biology|Biology|Set 03|Acromegaly is caused due to oversecretion of______?|STH|TSH|ACTH|Thyroxin|0|
+Biology|Biology|Set 03|Who Invented antibiotic Medicine?|Alexander Fleming|Louis Pasteur|Michal Faraday|John Loannids|0|
+Biology|Biology|Set 03|Sensory Nerve carry message from body to ______?|Brain|Body|Liver|None of these|0|
+Biology|Biology|Set 03|Secretin is secreted when ______ touches alimentary canal.|Acidic|Basic|Neutral|All of these|0|
+Biology|Biology|Set 03|Sex chromosomes present in female are ______?|XY|XX|XXY|XXX|1|
+Biology|Biology|Set 03|which bonds are broken during oxidation reduction reaction.|C-H|C-N|C-O|C-S|3|
+Biology|Biology|Set 03|Which is not a category of classification in biology.|ecotype|Species|Genus|Order|0|
+Biology|Biology|Set 03|The number of naturally accusing chemical elements involved in bio chemical reaction is|126|86|92|206|2|
+Biology|Biology|Set 03|Medulla oblangata and pons are collectively called ______?|Brain stem|Brain base|Brain root|None of These|0|
+Biology|Biology|Set 03|Nuclein is in its nature?|Basic|Acidic|Both|None of these|1|
+Biology|Biology|Set 03|Gonorrhoea is caused by ______?|Gram + bacteria|Gram - bacteria|Chalko Virus|Treponema palladium|1|
+Biology|Biology|Set 03|Endocrine system consists of some/how ______ Endocrine glands /tissues.|59|29|78|20|3|
+Biology|Biology|Set 03|Which is important for screening the input information, before they reach the higher brain centers?|Pons|Cranium|Reticular formation|Amygdala|2|
+Biology|Biology|Set 04|Which is not recycled in the ecosystem?|Wind|Carbon|Oxygen|Energy|3|
+Biology|Biology|Set 04|The interphase of meiosis lacks the stage?|G1|S|G2|All of these|2|
+Biology|Biology|Set 04|How many of the bio elements constituent 99% of the total human body?|8|4|6|None of These|2|
+Biology|Biology|Set 04|Study of impact of extra-terrestrial environments on organisms belonging to earth is component of|Ecology|Cosmology|Exobiology|None of These|2|
+Biology|Biology|Set 04|Average of heart beat of Adult Human?|60 to 100|70 to 100|50 to 100|80 to 100|0|
+Biology|Biology|Set 04|Path of Blood present in vessels called ______?|Capillaries|Lumen|Platelates|Plasma|1|
+Biology|Biology|Set 04|The scientific name of cat is ______?|Felis|Ficus|Homo|Tigris|0|
+Biology|Biology|Set 04|In humans no of tetrads formed during mitosis is ______?|23|46|0|None of These|2|
+Biology|Biology|Set 04|Which structure gives ability to the bacterial cell to form biofilm?|Slime|Mesosomes|Capsule|Flagella|2|
+Biology|Biology|Set 04|The human sperm was first discovered by ______?|Anton van Leeuwenhoek|Von Baer|Robert Hook|None of These|0|
+Biology|Biology|Set 04|All Of the follwing Can Treat kidney Stone Except?|Medicine|Surgery|Lithotripsy|Dialysis|3|
+Biology|Biology|Set 04|heart beats 72 times in a male and ______Times in female in one minute.?|60 Times|70 Times|80 Times|85 Times|2|
+Biology|Biology|Set 04|Stoma, found in the epidermis of leaves closes when guard cells|Gain Water|Lose Water|Exchange gas|None of These|1|
+Biology|Biology|Set 04|Study of liver is called ______?|hepatology|hematology|mycology|None of These|0|
+Biology|Biology|Set 04|Which of the following plant group first formed true leaves?|Psilopsida|Lycopsida|Sphenopsida|Pteropsida|1|
+Biology|Biology|Set 04|Tibia bone is in the body ______?|Leg|Ear|Hand|Nose|0|
+Biology|Biology|Set 04|In fermentation ............. ATP produce per glucose molecule :|2|4|6|36|0|
+Biology|Biology|Set 04|During anaerobic respiration the final electron acceptor in electron transport chain is:|Molecular oxygen|NADP+|water|Sulfate|3|
+Biology|Biology|Set 04|The expression of a transgene in the target tissue is identified by a ______?|Transgene|Promoter|Enhancer|Reporter|3|
+Biology|Biology|Set 04|Bacteria protect themselves from viruses by fragmenting viral DNA with ______?|Ligase|Endonuclease|Exonuclease|Gyrase|1|
+Biology|Biology|Set 04|ELISA is ______?|Using radiolabelled second antibody|Usage of RBCs|Using complement-mediated cell lysis|Addition of substrate that is converted into a coloured end product|3|
+Biology|Biology|Set 04|The DNA fragments have sticky ends due to______?|Endonuclease|Unpaired bases|Calcium ions|Free methylation|1|
+Biology|Biology|Set 04|Which of the following is the quality of improved transgenic basmati rice?|Gives high yield but no characteristic aroma|Gives high yield and is rich in vitamin A|Does not require chemical fertilizers and growth hormones|Resistant to insects and diseases|1|
+Biology|Biology|Set 04|The first transgenic plant to be produced is______?|Brinjal|Tobacco|Rice|Cotton|1|
+Biology|Biology|Set 04|RNA interference helps in______?|Cell proliferation|Micropropagation|Cell defence|Cell differentiation|2|
+Biology|Biology|Set 04|The first clinical application of gene therapy over a 4 year old girl was for______?|Adenosine deaminase deficiency|Adenosine deficiency|Growth deficiency|Adenine deficiency|0|
+Biology|Biology|Set 04|Plasmids are used as cloning vectors for which of the following reasons?|Can be multiplied in culture|Self-replication in bacterial cells|Can be multiplied in laboratories with the help of enzymes|Replicate freely outside bacterial cells|1|
+Biology|Biology|Set 04|The vaccines prepared through recombinant DNA technology are______?|Third generation vaccines|First-generation vaccines|Second-generation vaccines|None of these|0|
+Biology|Biology|Set 04|Which is a genetically modified crop?|Bt-cotton|Bt-brinjal|Golden rice|All|3|
+Biology|Biology|Set 04|PCR technique was invented by______?|Karry Mullis|Boyer|Sanger|Cohn|0|
+Biology|Biology|Set 04|--- is used as a vector for cloning into higher organisms.|Retrovirus|Baculovirus|Salmonella typhimurium|Rhizopus nigricans|0|
+Biology|Biology|Set 04|Which bacterium is used in the production of insulin by genetic engineering?|saccharomyces|Rhizobium|Escherichia|Mycobacterium|2|
+Biology|Biology|Set 04|cataracts is a disease which is due to______?|Opacity of Cornea|Opacity of lens|None|None of these|0|
+Biology|Biology|Set 04|Lungs are situated in the ______?|Abdominal cavity|Pericardial cavity|Buccal cavity|Thoracic cavity|3|
+Biology|Biology|Set 04|Bean shaped cells in plants are: ______?|Mesophyll cells|Xylem Cells|Phloem Cells|Guard Cells|3|
+Biology|Biology|Set 04|Variation in the size of red blood cells is called ______?|hypochromia|Anisocytosis|Poikilocytosis|Polychromatophilia|1|
+Biology|Biology|Set 04|What is the nickname of glucose?|Dextrose|Sugar|Glycogen|Starch|0|
+Biology|Biology|Set 04|Who discovered glucose?|Emil Fischer|Emil Fischeraf|Anselme Payen|Mandel|0|
+Biology|Biology|Set 04|Who is the father of carbohydrate ?|Claude Silbert Hudson|Anselme Payen|Jons jacob Berzeliis|Justus von Liebig|0|
+Biology|Biology|Set 04|protein discovered by: ______?|Jons Jacob Berzelius|Anselme Payen|Walter Bradford Cannon|None of these|0|
+Biology|Biology|Set 04|Enzyme discovered by: ______?|Jons Jacob Berzelius|Anselme Payen|Walter Bradford Cannon|None of these|1|
+Biology|Biology|Set 04|homeostasis discovered by ______?|Walter Bradford Cannon|Anselme Payen|Jons jacob Berzeliis|None of these|0|
+Biology|Biology|Set 04|The Process of egg formation in the female is called ______?|oocyte|oogenesis|Oviduct|None of these|1|
+Biology|Biology|Set 04|What is the Pathogen that causes Acne?|staphylococcus|Mycobacterium|Streptococcus|Propionibacterium|3|
+Biology|Biology|Set 04|A line on map connecting places that receives equal solar radiation is called:______?|Isobar|Isohel|Isochore|None of these|1|
+Biology|Biology|Set 04|Epiphytes are plants which depend on other plants for______?|food|mechanical support|shade|None of these|1|
+Biology|Biology|Set 04|"Athlete's Foot" is a disease caused by______?|Bacteria|Fungus|Protozoan|Nematode|1|
+Biology|Biology|Set 04|2. Which one of the following organisms can serve as a biofertilizer for rice crop?|Blue-green algae|Rhizobium sp.|Mycorrhizal fungi|None of these|0|
+Biology|Biology|Set 04|Which of the following diseases induce immunity?|Smallpox|Jaundice|Diabetes|None of these|0|
+Biology|Biology|Set 04|Organ rejection is caused by______?|B-Lymphocytes|T-lymphocytes|Both B and T lymphocytes|RBCs|1|
+Biology|Biology|Set 05|Heart beats about ______ times in one's life.|2.8 Billion|3.7 Billion|4.2 Billion|Infinite|0|
+Biology|Biology|Set 05|A single heart beat involves ______ stages.|1|2|3|4|2|
+Biology|Biology|Set 05|There are about ______ muscles in human beings.|206|300|650|703|2|
+Biology|Biology|Set 05|Most abundant muscles in human beings?|Skeletal Muscles|Smooth Muscles|Cardiac Muscles|All of these|0|
+Biology|Biology|Set 05|Link between living and non-living organisms?|Bacteria|Virus|Cyanobacteria|Plants|1|
+Biology|Biology|Set 05|Father of genetics?|Morgan|Darwin|Aristotle|Mendal|3|
+Biology|Biology|Set 05|Morgan studied how many traits of Drosophila?|7|67|85|All|2|
+Biology|Biology|Set 05|Human skin colour is ______?|Multifactorial|Pleiotropic|Polygenic|Epistatic|2|
+Biology|Biology|Set 05|Mendal studied ______ traits of pisum sativum?|Six|Seven|Eight|Nine|1|
+Biology|Biology|Set 05|AIDS is caused by ______ virus?|HAV|HIV|Rabies|Pigs|1|
+Biology|Biology|Set 05|HIV is a ______ virus?|SsRNA|DsRNA|SsDNA|DsDNA|0|
+Biology|Biology|Set 05|PH of fresh Saliva?|6|7|8|0|2|
+Biology|Biology|Set 05|Terrestrial plants carry out ______ of total photosynthesis on the earth?|10%|20%|50%|None of these|0|
+Biology|Biology|Set 05|______ stimulates the production of gastric juice in the stomach:|Gastrin|Enterokinase|Rennin|None of these|0|
+Biology|Biology|Set 05|One of the reasons why some people cough while eating a meal may be due to the improper movement of ______ :|Larynx|Diaphram|Epiglottis|None of these|2|
+Biology|Biology|Set 05|The small intestine has three parts. The first part is called______?|Duodenum|Oesophagus|Larynx|None of these|0|
+Biology|Biology|Set 05|Which of the following cell organelles does not contain DNA?|Nucleus|Lysosomes|Chloroplast|None of these|1|
+Biology|Biology|Set 05|Which of the following cell organelles is absent in animal cells and present in a plant cell?|Cell wall|Cytoplasm|Vacuoles|Mitochondria|0|
+Biology|Biology|Set 05|Prokaryotes don't have:______?|Cell membrane|Nucleus|Cytoplasm|None of these|1|
+Biology|Biology|Set 05|Blood vessels which carry deoxygenated blood are called______?|Arteries|Veins|Capillaries|None of these|1|
+Biology|Biology|Set 05|Amylase becomes denatured at an alkaline pH of:______?|6|7|8|9|3|
+Biology|Biology|Set 05|how many kingdoms of life exist?|1|5|6|None of these|1|
+Biology|Biology|Set 05|What content does only a plant cell has______?|Cell Membrane|Cell wall|Cytoplasm|Chromatin|1|
+Biology|Biology|Set 05|Which of the following allows precise muscular movements?|Cerebrum|Cerebellum|Thalamus|Hypothalamus|1|
+Biology|Biology|Set 05|The process in which a sperm joins with an egg is______?|Pollination|Respiration|Fertilization|Asexual reproduction|2|
+Biology|Biology|Set 05|from right ventricle the blood is pushed into______?|pulmonary trunk|brain|aorta|None of these|0|
+Biology|Biology|Set 05|the food ground in cockroach in______?|mesentron|crop|gizzard|intestine|2|
+Biology|Biology|Set 05|What does lalopathy mean?|A disorder of speech|A disorder of hearing|A disorder of learning|None of the above|0|
+Biology|Biology|Set 05|______ is a condition characterized by an abnormal inability to see in dim light or at night.|Nyctalopia|Myopia|Hyperopia|All of the above|0|
+Biology|Biology|Set 05|Carotid artery location in human body?|Neck|Wrist|Elbow|Brain|0|
+Biology|Biology|Set 05|Which area of the brain does mathematical process occur?|The left parietal lobe|cerebrum|The right parietal lobe|Mid brain|0|
+Biology|Biology|Set 05|Pus is formed by the dead ______cells.|RBCs|Platelets|White Blood Cells|Hemoglobin|2|
+Biology|Biology|Set 05|BCG immunisation is for:______?|Leprosy|Tuberculosis|Cancer|None of the above|1|
+Biology|Biology|Set 05|Febries are what kind of cells ?|Parenchymatous|Sclerenchymatous|Chloroplast|None of the above|1|
+Biology|Biology|Set 05|Which pollutant may lead to 'Black foot disease' ?|Cd|As|Hg|Cu|1|
+Biology|Biology|Set 05|Oncogene is responsible for:______?|Cancer|Malaria|Typhoid|Lung Disease|0|
+Biology|Biology|Set 05|MDT is used for disease :______?|Tuberculosis|Polio|Leprosy|None of these|2|
+Biology|Biology|Set 05|Fermentation takes place in which componenet of a cell ?|Cytoplasm|Nucleus|Mitochondria|None of the above|0|
+Biology|Biology|Set 05|Which tissue of plants conducts food to its body?|Phloem|Parenchyma|Xylem|None of the above|0|
+Biology|Biology|Set 05|Leprosy bacillus was invented by :______?|Koch|Harvey|Hansen|Fleming|2|
+Biology|Biology|Set 05|Which fungus is known as 'Green Mold' ?|Aspergillus|Penicillium|Mucus|None of the above|1|
+Biology|Biology|Set 05|Fresh Yeast cells are good source of :______?|Vitamin-B|Nicotine|Morphine|None of the above|0|
+Biology|Biology|Set 05|Typhoid is caused by______?|Salmonella typhi|Hepatatis|Bacillus|None of the above|0|
+Biology|Biology|Set 05|Dysentery is a disease that can lead to severe diarrhea with mucus or blood in the feces caused by inflammation in?|Stomach|Small intestine|Colon|Liver|2|
+Biology|Biology|Set 05|Which of the following animals do not have jaws?|Mammals|Protochordates|Reptiles|Birds|1|
+Biology|Biology|Set 05|How many bones does a baby have______?|212|206|300|None of these|2|
+Biology|Biology|Set 05|Cell use ______ to make proteins?|DNA|RNA|Ribosomes|Cytoplasm|1|
+Biology|Biology|Set 05|Pancreas is/are______?|Endocrine Gland|Exocrine Gland|Digestive Gland|All of the above|3|
+Biology|Biology|Set 05|Carrot is a source of______?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|0|
+Biology|Biology|Set 05|The pelvic girdle connect the leg with______?|Vertebral column|Rib cage|Skull|Shoulder|0|
+Biology|Biology|Set 06|The doctor who helps in the delivery of babies is an ______?|Obstetrician|Gynecologist|Pediatrician|Podiatrist|0|
+Biology|Biology|Set 06|Where is the thyroid gland located______ ?|In the thighs|In the brain|Near the liver|At the back of neck|3|
+Biology|Biology|Set 06|The enzyme which is secreted by salivary gland is?|Pepsin|Ptyalin|Lactalase|Bile|1|
+Biology|Biology|Set 06|Life span of Red Blood Cells______?|150 Days|120 Days|80 Days|100 Days|1|
+Biology|Biology|Set 06|The gal bladder releases ______ enzyme to digest the food ?|Pepsin|Hcl|Both|None|2|
+Biology|Biology|Set 06|Typical example of water born disease______?|Malaria|Cholera|Typhoid|Influenza|2|
+Biology|Biology|Set 06|How many hearts does an Octopus have?|1|2|3|4|2|
+Biology|Biology|Set 06|If the radius of blood vessels of a person decreases his/her blood pressure will______?|Decrease|Increase|Remain Same|Becomes zero|1|
+Biology|Biology|Set 06|Acid present in gastric juice is______?|Hydrochloric Acid|Citric Acid|Sulphuric Acid|Acetic Acid|0|
+Biology|Biology|Set 06|The elimination of toxic nitrogenous waste and excess water in man is by______?|Excretion|Circulation|Reproduction|Pollution|0|
+Biology|Biology|Set 06|Tjio and Levan's contribution is very significant because they ______ ?|Identified barr bodies|Detected sex linkage|Pointed out mutational changes|Gave the number of human chromosomes|3|
+Biology|Biology|Set 06|A cistron is ______?|Structural of gene|Functional unit of RNA|Functional unit gene|Replication unit of gene|2|
+Biology|Biology|Set 06|If the number of chromosomes in most body cells of a mammal is 40, the cells in the seminiferous tubule will have______?|40 chromosomes|20 chromosomes|10 chromosomes|While some other will have 20|3|
+Biology|Biology|Set 06|How many nucleosomes are found in helical coil of 30 nm chromatin fibre ______?|10|12|06|09|2|
+Biology|Biology|Set 06|The frequency of a character is found to be increasing when ______?|It is dominant|It is recessive|It is adaptable|It is inheritable|3|
+Biology|Biology|Set 06|The character which appears physically in an animal is ______?|Genotype|Phenotype|Heterotype|Morphozygous|1|
+Biology|Biology|Set 06|The haploid condition is found in ______?|Amoeba|Bacteria|Ovum|Zygote|3|
+Biology|Biology|Set 06|The food conducting tissue of a plant is ______ ?|Phloem|Xylem|Parenchyma|Collenchyma|0|
+Biology|Biology|Set 06|When the Left Ventricle in the human heart contracts, the blood moves to the______ ?|Brain|Pulmonary Artery|Aorta|Lungs|2|
+Biology|Biology|Set 06|Which part of the nervous system controls the activities of internal organs______?|Spinal cord|Cerebrum|Cerebellum|Medulla Oblongata|3|
+Biology|Biology|Set 06|Which of the following cells secrete insulin?|Alpha cells|Delta cells|Nerve cells|Beta cells|3|
+Biology|Biology|Set 06|In the human body, fats are stored in the______?|Epidermis|Adipose tissue|Liver|Epithelium|1|
+Biology|Biology|Set 06|Blood does not clot in the blood vessels due to the presence of ______?|Thrombin|Fibrinogen|Heparin|Prothrombin|0|
+Biology|Biology|Set 06|If two opposite alleles come together, one finding morphological expression masking the other, the fact is described as law of ______ ?|Inheritance|Dominance|Limiting factor|Segregation|1|
+Biology|Biology|Set 06|The sum of genes in a population is called ______?|Genotype|Karyotype|Gene pool|Lethal gene|2|
+Biology|Biology|Set 06|Laws of segregation and dominance were given by ______?|Darwin|Morgan|Mendel|De Vries|2|
+Biology|Biology|Set 06|A gene is said to be dominant, if ______?|It is never expressed in any condition|It is expressed only in heterozygous|It expresses its effect only in heterozygous state|It is expressed both in heterozygous and heterozygous condition|3|
+Biology|Biology|Set 06|Chromatid is ______ ?|One half of chromosome|Haploid chromosome|Complete chromosome|Duplicate chromosome|0|
+Biology|Biology|Set 06|A giant chromosome with a number of chromonemeta is ______ ?|Lampbrush chromosome|Hetero chromosome|Supernumerary chromosome|Polytene chromosome|3|
+Biology|Biology|Set 06|Y-chromosome is ______?|Acrocentric|Telocentric|Submetacentric|Acentric|0|
+Biology|Biology|Set 06|X-chrosome is ______?|Telocentric|Submetacentric|Acrocentric|Acentric|1|
+Biology|Biology|Set 06|A chromosome with centromere near the middle is called ______ ?|Metacentric|Submetacentric|Acrocentric|Telocentric|1|
+Biology|Biology|Set 06|Homologous chrosomes which are present in male and female both are known a ______?|Heterosomes|Replosomes|Androsomes|Autosomes|3|
+Biology|Biology|Set 06|The part the body may be repaired, replaced or removed ______?|Pharmacology|Medicine|Physiology|Surgery|3|
+Biology|Biology|Set 06|Metabolism of photosynthesis and respiration involves the knowledge of______?|Genetic engineering|Biotechnology|Biochemistry|Chemistry|2|
+Biology|Biology|Set 06|Transport of oxygen by blood takes place with the help of______?|Erythrocytes|Thrombocytes|Lymphocytes|Leucocytes|0|
+Biology|Biology|Set 06|Which of the following CANNOT be transmitted via infectious droplets?|Rubella|Common cold|Influenza|None of the above|3|
+Biology|Biology|Set 06|The blood vessel carrying blood from the lungs to the heart is______?|Hepatic artery|Pulmonary artery|Pulmonary vein|Renal artery|2|
+Biology|Biology|Set 06|An adult human normally has______?|6 molar teeth|8 molar teeth|10 molar teeth|12 molar teeth|3|
+Biology|Biology|Set 06|The form of carbohydrate which is synthesised in a plants is______?|Starch|Glucose|Fructose|Cellulose|1|
+Biology|Biology|Set 06|The membrane covering the lungs is a______?|Pleura|Pericardium|Peritoneum|Mesothelium|0|
+Biology|Biology|Set 06|Entamoeba histolytica is a parasite found in man's______?|Liver|Intestines|Lungs|Kidneys|1|
+Biology|Biology|Set 06|In onion food is stored in______?|Aerial stem|Root|Scale leaves|Bud|2|
+Biology|Biology|Set 06|Nobel prize to Komberg and Ochoa was given for ______?|Artificial synthesis of genes|Chemistry of DNA and RNA|One gene one enzyme hypothesis|Artificial sysnthesis of DNA|3|
+Biology|Biology|Set 06|The term 'gene' refers to ______?|A portion of RNA|A linkage group|A portions of DNA|A sequence of Amino|2|
+Biology|Biology|Set 06|In chrosomes, the material controlling heredity is ______ ?|DNA|Histones|Chromocentres|RNA|0|
+Biology|Biology|Set 06|The function of chrosomes of carrying genetic information from cell generation to another is performed by ______?|RNA|DNA|Histones|Calcium|1|
+Biology|Biology|Set 06|Genes are made up of ______ ?|Histones|Lipoproteins|Polynucleotides|Hydrocarbons|2|
+Biology|Biology|Set 06|The chromosomes as thread like structures in nucleus was first described by ______?|Mendel|Strasburger|Darwin|Levitzky|1|
+Biology|Biology|Set 06|Lampbrush chromosomes are found inside ______?|Salvary glands of Drosophila|Salvary gland of silk moth|Oocytes of frog|Nucleus of man|2|
+Biology|Biology|Set 07|A normal metaphase chromosome with a midial centromere is ______?|Metacentric|Sub-metacentric|Acrocentric|Telocentric|0|
+Biology|Biology|Set 07|The term 'gene' was first used by ______?|Johannsen|Mendel|Lemark|Cuvier|0|
+Biology|Biology|Set 07|Wilkins X-ray diffraction showed the diameter of the DNA helix as ______?|10A|20A|30A|40A|1|
+Biology|Biology|Set 07|Term allele was coined by?|Negalli|Bitson|Dixon|Robert Brown|1|
+Biology|Biology|Set 07|First time crossing over was observed in ______?|1811|1927|1911|1990|2|
+Biology|Biology|Set 07|programmed death of cells is called ______?|Necrosis|Apoptosis|Blood cancer|All of these|1|
+Biology|Biology|Set 07|Which Of The Following Produces Harmful Gases______?|Plants|Motor Vehicles|Bacteria|None of these|1|
+Biology|Biology|Set 07|Smallest bone of human body is?|vomer|stapes|navicular|occipital|1|
+Biology|Biology|Set 07|The skull contains?|18 bones|20 bones|22 bones|28 bones|2|
+Biology|Biology|Set 07|Who introduced Homeopathy in 1796?|Samuel Hahnemann|Franz Anton Mesmer|Edward Jenner|Hakim Ajmal Khan|0|
+Biology|Biology|Set 07|'Mastectomy' is mainly associated with which of these diseases?|AIDS|Breast Cancer|Tuberculosis|Blood Cancer|1|
+Biology|Biology|Set 07|Banana belongs to which category?|herb|tree|grass|None of these|0|
+Biology|Biology|Set 07|In which organ RBC are selectively destroyed/ recycled by macrophages?|Spleen|Kidney|Liver|Pancreas|0|
+Biology|Biology|Set 07|Steroids, a biologically active organic compound, are derived from ______?|Hormones|Chemicals|Cholesterol|Carbohydrates|2|
+Biology|Biology|Set 07|Nutritionally Viruses are______?|Obligate parasite|Autotrophs|Heterotrophs|Absorptive heterotrophs|0|
+Biology|Biology|Set 07|Chlorophyll is a naturally occurring chelate compound in which central metal is|copper|magnesium|iron|None of these|1|
+Biology|Biology|Set 07|The structure of DNA was proposed by______?|Louis Pasture|William Harvey|Charles Darwin|Watson and Crick|3|
+Biology|Biology|Set 07|Apiculture means:______?|Chicken farming|Horse forming|Silkworm farming|Honey bee farming|3|
+Biology|Biology|Set 07|The place of centromere where spindle fibres get attached is______?|Kinetochore|Kinochore|Centromere region|all of these|0|
+Biology|Biology|Set 07|A species inhabiting different geographical areas is known as______ ?|Hetropatric Specie|Allopatric Specie|Homopatric Specie|Astroparic specie|1|
+Biology|Biology|Set 07|Who is commonly known as "the Father of Microbiology"?|Charles Darwin|Robert Hook|Antonie van Leeuwenhoek|None of these|2|
+Biology|Biology|Set 07|Which of following is a tiny gland?|Thyroid|Pancrease|Pineal|Pituitary|2|
+Biology|Biology|Set 07|Pineal gland situated in______?|Brain|Neck|Stomach|Above kideys|0|
+Biology|Biology|Set 07|Cotton, wool, silk are examples of ______ ?|Plant Fibres|Animal Fibres|Natural Fibres|Synthetic Fibres|2|
+Biology|Biology|Set 07|All cell of an organism are similar in______?|Shape|Size|Structure|Fundamental organization|3|
+Biology|Biology|Set 07|DNA of mitochondria is______?|circular|spring|straight|All of these|0|
+Biology|Biology|Set 07|Which organelles contain its own DNA?|nucleus|mitochondria|chloroplast|All of these|3|
+Biology|Biology|Set 07|A decrease in the rate of beating of heart is called______?|Bradycardia|Tachycardia|Braditachycardia|Non of these|0|
+Biology|Biology|Set 07|An increase in the heart rate is termed as:______?|Bradycardia|Tachycardia|Trachybradycardia|Non of these|1|
+Biology|Biology|Set 07|Muscle fatigue occurs due to accumulation of______?|Acidic acid|Butyric acid|Citric acid|Lactic acid|3|
+Biology|Biology|Set 07|Serum differs from blood in______?|Lacking globulins|Lacking albumins|Lacking clotting factors|Lacking antibodies|2|
+Biology|Biology|Set 07|Which one of the following animal has two separate circulatory pathways?|Shark|Whale|Frog|Lizard|1|
+Biology|Biology|Set 07|The hepatic portal vein drains blood to liver from______?|Intestine|Stomach|Kidney|Heart|0|
+Biology|Biology|Set 07|Which one of the following remove nucleotides from the ends of DNA or RNA?|Endonuclease|Exonuclease|S 1 nuclease|Deoxyribonuclease|1|
+Biology|Biology|Set 07|How many types of genomic mapping are there?|2|4|5|None of these|0|
+Biology|Biology|Set 07|Keratin is a type of Protein Found in ______?|Skin Fiber|Nails|Blood Cells|Muscle Cells|1|
+Biology|Biology|Set 07|Who is the father of biology?|Albert Einstein|Aristotle|Ronald Fisher|None of above|1|
+Biology|Biology|Set 07|Which of the following is incorrect:|Sales is a sum of cost of goods sold and gross profit.|Gross profit is a sum of net profit and operating expenses.|Operating expenses means a difference between gross profit and net profit.|None of these|3|
+Biology|Biology|Set 07|Bio means: ______?|Life|Community|Cycle|None of These|0|
+Biology|Biology|Set 07|In the human body Gall bladder is the part of the ______ system?|Nervous|Reproductive|Digestive|Respiratory|2|
+Biology|Biology|Set 07|How many liters of saliva inhale by a Human?|2 Liter|1 Liter|Half Liter|3 Liter|2|
+Biology|Biology|Set 07|How many milky teeth or primary teeth does a human have?|33|20|15|32|1|
+Biology|Biology|Set 07|At level above ______ , sound turns into harmful noise pollution?|80db|30db|100db|120db|0|
+Biology|Biology|Set 07|Kranz anatomy is a characteristic feature of______?|C4 plants|C3 plants|C2 plants|CAM plants|0|
+Biology|Biology|Set 07|Smooth muscles, cardiac muscles and glands are regulated by:|Central nervous system|Parasympathetic nervous system|Sympathetic nervous syetem|Autonomous nervous system|3|
+Biology|Biology|Set 07|The number of alveoli in human lungs is estimated to be around:______?|150 millions|500 millions|800 millions|1 billion|1|
+Biology|Biology|Set 07|New alleles can be introduced into a population's gene pool by:______?|Mutation|Natural selection|Gene flow|Both A & C|3|
+Biology|Biology|Set 07|Among the following which one is a diploblastic organism?|Hydra|Crabs|Squids|Earthworm|0|
+Biology|Biology|Set 07|Which one of the following toxic metals is extensively present in newspaper?|Mg|Cd|Pb|Hg|2|
+Biology|Biology|Set 07|Which of the following viruses has caused thousands of deaths globally as an 'emergent' virus?|MERS|SARS-CoV-2|OC43|HKUt|1|
+Biology|Biology|Set 08|Non flowering plants are also called plant______?|coniferous|Abortic|Green|None of these|0|
+Biology|Biology|Set 08|what is the scientific name of onion?|Rana tigrina|Allium cepa|Aspergillus|None of these|1|
+Biology|Biology|Set 08|Highly intelligent Mammals are______?|rat|dolphin|bat|Elephant|1|
+Biology|Biology|Set 08|______ is a mammal who fly?|Ostrich|Bat|Peacock|None of these|1|
+Biology|Biology|Set 08|Linnaeus published the list of names of plants in______?|1752|1753|1754|1755|1|
+Biology|Biology|Set 08|Which of the following are the properties of Anti inflammatory medicines?|Anti inflammation|Immuno suprent|Anti pyratic|All|3|
+Biology|Biology|Set 08|Stress indicating hormones are______?|Cortisol|Adrenaline|ACTH|All of these|3|
+Biology|Biology|Set 08|Which of the following are insulin dependent Glut receptors?|Glut 1&3|Glut 2|Glut 1|Glut 4|3|
+Biology|Biology|Set 08|Cats mostly show which type of Diabetes Mellitus?|Type 1 diabetes|Type 2 diabetes|Both A. & B|None of these|1|
+Biology|Biology|Set 08|Dogs mostly show which type of Diabetes Mellitus:|Type 1 diabetes|Type 2 diabetes|Both a& b|None of these|0|
+Biology|Biology|Set 08|Stimulus for CCK hormone is______?|Fat, Protein|Acid|Base|Both A & B|0|
+Biology|Biology|Set 08|Which tube joins kidneys and bladder?|Urethra|Uretar|Inferno Verna Cava|Suprapubic Tube|1|
+Biology|Biology|Set 08|What is the percentage of water present in our brain?|85%|95%|97%|73%|3|
+Biology|Biology|Set 08|There are cells in human body called Faggot cells which cause______?|AIDS|Tuberculosis|Smallpox|Leukaemia|3|
+Biology|Biology|Set 08|Human blood is a viscous fluid due to______?|Platelets in plasma|Proteins in blood|RBC and WBC in blood|Sodium in serum|1|
+Biology|Biology|Set 08|What is called movement of cell against concentration gradient ?|Passive Transport|Osmosis|Active Transport|Diffusion|2|
+Biology|Biology|Set 08|Which of the following secrete hydrochloric acid in stomach?|Mucosa|Goblet|Epithelial|Oxyntic|3|
+Biology|Biology|Set 08|Which of the following is a disease caused by deficiency of protein in children?|Pellagra|Marasmus|Beri-Beri|Rickets|1|
+Biology|Biology|Set 08|Which of the following gases readily combines with the haemoglobin of the blood?|Carbon monoxide|Methene|Oxygen|Nitrogen dioxide|0|
+Biology|Biology|Set 08|Like enzymes , co enzyme can be used ?|only once|only few times|again and again|non of above|2|
+Biology|Biology|Set 08|Haemoglobin is dissolved in the blood of:______?|Earthworm|Cockroach|Hydra|Sponges|0|
+Biology|Biology|Set 08|Coelom is divided into septa in case of:______?|Molluscs|Annelids|Sponges|Cniderians|1|
+Biology|Biology|Set 08|Deficiency of vitamin C will cause:______?|Beri-Beri|Architis|Scurvy|Night-blindness|2|
+Biology|Biology|Set 08|Which of the following proteins have role in heredity?|Chromo-proteins|Lipo-proteins|Phospho-proteins|Nucleo-proteins|3|
+Biology|Biology|Set 08|Which is NOT an example of a microbial symbiosis?|bacteria in the human colon|tapeworm in the cow intestine|bacteria passing through the placenta|protozoans found within termites|2|
+Biology|Biology|Set 08|Ultra Microscopic viruses are the main cause of______?|Malaria|Measles|Mumps|Cholera|2|
+Biology|Biology|Set 08|The cardio respiratory capacity is related to______?|Strength|Flexibility|Normal physical endurance|Agility|2|
+Biology|Biology|Set 08|The method of reproduction of new plants by cells instead of seed is known is:______?|Tissue culture|Mutation|Antibiosis|Recombination|0|
+Biology|Biology|Set 08|Oxygen is the production of______?|Mitochonderia|Chloroplast|Peroxisomes|Both A & B|1|
+Biology|Biology|Set 08|The number carpels in our feet is______?|7|14|16|0|3|
+Biology|Biology|Set 08|Genetic information carriers is/are______?|DNA|Chromosomes|Gene|Nucleus|1|
+Biology|Biology|Set 08|The first cloned animal was______?|Goat|Cow|Rat|Sheep|3|
+Biology|Biology|Set 08|Insects responsible for transmitting diseases are called______?|Drones|Vectors|Hybirds|None of these|1|
+Biology|Biology|Set 08|Term the time during which an orgnism is present in the body before causing disease ?|Rest period|Incubation period|Sleeping period|Inclubation time|1|
+Biology|Biology|Set 08|Virus is______?|unicellular|multicellular|acellular|none of these|2|
+Biology|Biology|Set 08|______is a condition in which there is an absence of oxygen supply to an organ's tissues?|Anoxia|Anorexia|Hypoxia|Enuresis|0|
+Biology|Biology|Set 08|Study of interaction of living organisms with other organisms and their environment relates with ______ ?|Botany|Ecology|Social biology|Pharmacology|1|
+Biology|Biology|Set 08|Dorsal root of spinal nerves contain only ______ ?|Effectors neurons|Receptor neurons|Stimulators|Detector neurons|1|
+Biology|Biology|Set 08|The higher animals have special organs for exchange of gases as their skin is ______ ?|Thin|Thick|Soft|Hard|1|
+Biology|Biology|Set 08|Circular disc shaped structure with a round hole is ______ ?|Iris|Pupil|Horoid coat|Ciliary body|0|
+Biology|Biology|Set 08|The first ever vascular plants are______?|Cooksonia|Selaginella|Adiantum|Dryopteris|0|
+Biology|Biology|Set 08|Which one of the following is referred as the species occupation?|Autecology|Niche|Ecosystem|Biome|1|
+Biology|Biology|Set 08|Membrane that separates 'cytoplasm' and 'nucleus' is called ______ ?|Cell wall|Cell membrane|Boundary|Nuclear envelop|3|
+Biology|Biology|Set 08|Division of nucleus is termed as______ ?|Karyokinesis|Cytokinesis|Anaphase|Meiosis|0|
+Biology|Biology|Set 08|Length of membranous urethra is about ______ ?|1 cm|2 cm|5 cm|9 cm|0|
+Biology|Biology|Set 08|Joints between flat bones of skull are termed as ______ ?|Suture|Sutural joints|Syndesmosis|Both A and B|3|
+Biology|Biology|Set 08|Another name for liver is called ______ ?|Hepar|Hepta|Heptum|Hilum|0|
+Biology|Biology|Set 08|Outer surface of bones is covered by a dense layer of connective tissue, called as ______ ?|Periosteum|Woven bone|Epithelium lining|Connective lining|0|
+Biology|Biology|Set 08|Crysanthemum is propagated by______?|Suckers|corms|corals|None|0|
+Biology|Biology|Set 08|Biebs that are broke off from cell are called ______?|Apoptotic bodies|Necrosis bodies|Tuberculosis bodies|Cytokinetic bodies|0|
+Biology|Biology|Set 09|Number of cells that are destroyed in adults by apoptosis are ______ ?|20 to 35 billion cells|50 to 70 billion cells|10 to 20 billion cells|15 to 25 billion cells|1|
+Biology|Biology|Set 09|Special enzymes are released during necrosis from ______ ?|lysosomes|Vacuoles|Cytoplasm|Golgi bodies|0|
+Biology|Biology|Set 09|Fuel used by cells in cellular respiration to get energy is ______ ?|polysaccharides|Polypeptides|Glucose|Sugar|2|
+Biology|Biology|Set 09|Zygote with three copies chromosome 21, is known to cause ______?|Hay fever|Scurvy|Parkinson Disease|Downs syndrome|3|
+Biology|Biology|Set 09|Special kind of protein containing iron is called as ______ ?|Hormones|Hemoglobin|Red blood cell|White blood cell|1|
+Biology|Biology|Set 09|Guard cells of stoma are ______ ?|Irregular in shape|Convex in shape|Long and cylindrical in shape|Kidney-shaped|3|
+Biology|Biology|Set 09|Stamens are not usually pendulous in plants pollinated by ______ ?|Wind|Insects|Water|Rain|1|
+Biology|Biology|Set 09|Sessile flowers have ______ ?|No scent|Irregular shape|No pedicles|No petals|2|
+Biology|Biology|Set 09|More water is reabsorbed in blood due to ______ ?|More anti-diuretic hormone|Lesser anti-diuretic hormone|Active functioning of pancreas|Inactivity of pituitary gland|0|
+Biology|Biology|Set 09|All are functions of hypothalamus, but, ______ ?|Regulation of body temperature|Regulation of anti-diuretic hormones|Regulation of sleep and emotions|Regulation of blood osmotic pressure|1|
+Biology|Biology|Set 09|Examples of Epigeal germination include ______ ?|Maize|Sword bean seed|Broad bean seed|Corn|1|
+Biology|Biology|Set 09|"lub" sound is produced after ______ ?|The ventricles are fully contracted|The ventricles start to relax|The bicuspid and tricuspid valves suddenly close|The semilunar valves are closed|2|
+Biology|Biology|Set 09|Self pollination is not possible in ______ ?|Dioecious plants|Pawpaw|Flowers|both A and B|3|
+Biology|Biology|Set 09|BOD refers to the ______?|Bidding of Dermatology|Binding of Dirt|Biochemical occupied Date|Biochemical Oxygen demand|3|
+Biology|Biology|Set 09|Enzyme activity can also be charted through the ______ ?|Rate of digestion|Rate of reaction|Level of pH|Number of active sites|1|
+Biology|Biology|Set 09|What is hibernation and aestivation______?|Thermal adaptation shown by animals|wind adaptation shown by animals|adaptation of animals to escape from predators|none of the above|0|
+Biology|Biology|Set 09|Acetabularia mediterranea has a cap of ______ ?|Regular shape|Circular shape|Triangular shape|Cone shape|0|
+Biology|Biology|Set 09|Acetabularia is a kind of ______ ?|Fungi|Protist|Multicellular alga|Unicellular alga|3|
+Biology|Biology|Set 09|The expected number of RBCs in a single drop, or microliter, of blood is ______ million in Men.|4.5 to 6.2 million|3.4 to 6.8 million|3.2 to 7.2 million|4.0 to 5.2 million|0|
+Biology|Biology|Set 09|The normal range of the number of white blood cells in a microliter of blood is between ______ ?|2,500 and 09,300|4,500 and 10,000|4,900 and 12,000|None of these|1|
+Biology|Biology|Set 09|The expected number of RBCs in a single drop, or microliter, of blood is ______ million in Women.|4.5 to 6.2 million|3.4 to 6.8 million|3.2 to 7.2 million|4.0 to 5.2 million|3|
+Biology|Biology|Set 09|Ingestion of bacteria by certain type of cells is termed as ______ ?|Acclimatization|Agglutination|Paralysis|Phagocytosis|3|
+Biology|Biology|Set 09|Human body makes about 20 million erythrocytes in______?|One Second|Two Seconds|Three Seconds|Four Seconds|0|
+Biology|Biology|Set 09|Which of the following vitamins is useful in ostcoimalacia?|Vitamin D|Vitamin E|Vitamin C|Vitamin A|0|
+Biology|Biology|Set 09|Which one of the following vitamin is known as the "anti- Sterile" factor?|Ascorbic acid|Retinol|Riboflavin|a-tocopherols|0|
+Biology|Biology|Set 09|Protein which acts as hormone is______?|Casein|Trypsin|Oxytocin|Keratin|2|
+Biology|Biology|Set 09|Sweat glands occur in greatest number in the skin of the______?|Forehead|Back|Armpits|Palm of hand|2|
+Biology|Biology|Set 09|Accurate name given to blood is ______ ?|Red fluid|Hemoglobin|Fluid tissue|Plasma|2|
+Biology|Biology|Set 09|Blood does not coagulate inside the body due to the presence of______?|Haemoglobin|Fibrin|Heparin|Plasma|2|
+Biology|Biology|Set 09|Mild tertian malaria is caused by ______ ?|Plasmodium vivax|Plasmodium falciparum|Plasmodium ovale|Plasmodium malariae|0|
+Biology|Biology|Set 09|Under unfavourable conditions, the Amoeba reproduces by ______ ?|Binary fission|Conjugation|Encystment|Endomixis|2|
+Biology|Biology|Set 09|Sporogony of malaria parasite occurs in ______ ?|Liver of man|RBC of man|Stomach wall of mosquito|Salivary glands of mosquito|2|
+Biology|Biology|Set 09|Corolla and calyx collectively termed as______?|Prienth|Hermaphrodite|Complete flower|Se*ual whorls|1|
+Biology|Biology|Set 09|The number of daughter paramecia produced following conjugation is ______ ?|8 from one conjugant|8 from two conjugants|16 from two conjugants|8-16 from two conjugants|1|
+Biology|Biology|Set 09|Amoeba secretes digestive enzymes to hydrolyse ______ ?|Starch|Sugar|Proteins|All of these and fats|3|
+Biology|Biology|Set 09|Ingestion of some water with food in Amoeba takes place by the process of ______ ?|Endosmosis|Pinocytosis|Phagocytosis|None of these|2|
+Biology|Biology|Set 09|Trisomy 21 is most common in mothers of the ______ age group.|15 to 19|20 to 34|35 to 39|40 to 45|3|
+Biology|Biology|Set 09|The plant dye Henna imparts orangered colour to skin and hairs due to its reaction with which of the following?|Lipids|Carbohydrates|Amino acids|Protein and amino acids|3|
+Biology|Biology|Set 09|The hormone that helps in Parthenocarpy?|Abscisic acid|Cytokinin|Ethylene|Gibberellin|3|
+Biology|Biology|Set 09|Which of the following " Tikka disease" is related with the crop?|Musturd|Paddy|Ground nut|None of these|2|
+Biology|Biology|Set 09|Which among the following is an Autotroph ______ ?|Butterfly|Mushroom|Fish|Algae|3|
+Biology|Biology|Set 09|The biggest group of invertebrates is______?|Worms|Insects|Jelly fish|None of these|1|
+Biology|Biology|Set 09|The body of ______ is not made of cell.|Bacteria|Fungi|Viruses|Algae|0|
+Biology|Biology|Set 09|Insulin is a human______?|Gene|Protein|Glucose|Diabetes|1|
+Biology|Biology|Set 09|A condition in which there is a decrease of oxygen to the tissue despite adequate blood flow to the tissue is______?|Aphasia|Dysphasia|Hypoxia|None|2|
+Biology|Biology|Set 09|Which branch of science is short in laws ?|Biology|Physics|Chemistry|All of these|0|
+Biology|Biology|Set 09|which of the following hepatitis is more contagious ?|HAV|HBV|HCV|HDV|2|
+Biology|Biology|Set 09|Which of the following is the less important organ in human body?|Hair|Appendix|Hip bone|Navel|1|
+Biology|Biology|Set 09|Which is not a vertebrate ?|Reptiles|Fish|Insect|None of these|2|
+Biology|Biology|Set 09|Many bacteria in our digestive system synthesize vitamins for example vitamin______?|B1|B2|B12|B6|2|
+Biology|Biology|Set 10|It is very serious disease of brain which is caused by fungi______?|ring worm|meningitis|hepatitis|none of these|1|
+Biology|Biology|Set 10|They are widespread as protective coatings on fruits and leaves?|cholesterol|waxes|chitin|all of these|1|
+Biology|Biology|Set 10|They are present in the underground parts of the plants and stored food?|leucoplast|chromoplast|chloroplast|stem|0|
+Biology|Biology|Set 10|The simplest amino acid is______?|alanine|glycine|valine|phenylalanine|1|
+Biology|Biology|Set 10|Accumulation of lipid molecules in brain cells lead to______?|paralysis|oedema|mental retardation|all of these|2|
+Biology|Biology|Set 10|The life and activities of a cell is controlled by______?|cytoplasm|nucleus|vacuole|mitochondria|1|
+Biology|Biology|Set 10|Flagella are composed of______?|micro tubules|micro filaments|intermediate filaments|glycoproteins|0|
+Biology|Biology|Set 10|Tobacco mosaic virus was crystallized by______?|Pasteur|Chamberland|Stanely|Ivanowski|2|
+Biology|Biology|Set 10|The vascular plants are termed as______?|tracheophytes|bryophytes|pteridophytes|all of these|0|
+Biology|Biology|Set 10|Outside the thallus of Marchantia there are special structures called______?|stem tuber|rhizoids|sporangium|none of these|1|
+Biology|Biology|Set 10|The terms procariotique and eucariotique were proposed by______?|Whittaker|Chatton|Haeckel|Margulis and Schwartz|1|
+Biology|Biology|Set 10|Malarial parasite is injected into man as______?|sporozoites|merozoites|zygote|none of these|0|
+Biology|Biology|Set 10|Gram +ve bacteria on treatment with crystal violet dye give ______colour?|red|green|purple|pink|2|
+Biology|Biology|Set 10|Non-enveloped naked viruses are known as______?|prions|bacteriophages|oncoviruses|virions|3|
+Biology|Biology|Set 10|In human beings influenza is caused by______?|bacteria|protist|virus|fungi|2|
+Biology|Biology|Set 10|In many which phylum the body of an organisms is usually divided in there regions called head, thorax and abdomen?|echinodermata|mollusca|nematoda|arthropoda|3|
+Biology|Biology|Set 10|Snails belong to______?|gastropods|bivalves|arthropods|platyhelminthes|0|
+Biology|Biology|Set 10|Amoeba moves in water with the help of locomotory organs called______?|tube feet|cilia|pseudopodia|flagella|2|
+Biology|Biology|Set 10|Liver fluke is parasite in the liver of______?|cattle|sheep|goat|all of these|3|
+Biology|Biology|Set 10|In all coelentrates endoderm give rise to______?|nervous system|digestive system|reproductive system|circulatory system|1|
+Biology|Biology|Set 10|Higher vascular plants are also called______?|flowering plants|seed plants|ferns|none of these|1|
+Biology|Biology|Set 10|The plants which produce embryo but lack vascular tissues and seeds are placed in______?|bryophytes|pteridophytes|tracheophytes|all of these|0|
+Biology|Biology|Set 10|Which bone is called beauty bone in women?|sternum|clavicle|maxilla|radius|1|
+Biology|Biology|Set 10|Detachment of myosin head and actin in rigor mortis occurs due to______?|stored ATP in body|hypercalcemia|autolysis in body|hyperactivity of mitochondria|3|
+Biology|Biology|Set 10|Release of the ovum from ovary is called______?|fertilization|ovulation|implantation|none of these|1|
+Biology|Biology|Set 10|The foetus is protected from the mechanical damage by the______?|cervix|vagina|uterus|amniotic fluid|3|
+Biology|Biology|Set 10|Rich source of energy in seimen is______?|glucose|fructose|lactose|sacrose|0|
+Biology|Biology|Set 10|Sickle cell anemia was discovered by______?|Vernon Ingram|Sanger|Miescher|none of these|0|
+Biology|Biology|Set 10|Earthworm lives in______?|sea water|moist soil|fresh water|none of these|1|
+Biology|Biology|Set 10|Kangaroo has an abdominal pouch known as______?|placenta|guttural pouch|marsupial|all of these|2|
+Biology|Biology|Set 10|The utilization of the products of digestion is called______?|ingestion|absorption|assimilation|both a and b|2|
+Biology|Biology|Set 10|Parabronchi are present in______?|cockroach|frog|fish|birds|3|
+Biology|Biology|Set 10|The respiratory problem most common in smokers is______?|tuberculosis|emphysema|asthma|cancer|1|
+Biology|Biology|Set 10|Water potential of pure water is______?|zero|one|negative|two|0|
+Biology|Biology|Set 10|Villi and microvilli increase______?|digestion|assimilation|absorption|ingestion|2|
+Biology|Biology|Set 10|The normal pH of human blood is______?|6.4|7.0|7.4|7.5|2|
+Biology|Biology|Set 10|Shrinkage of protoplast due to exosmosis of water is______?|imbibition|plasmolysis|deplasmolysis|adhesion|1|
+Biology|Biology|Set 10|Artherosclerosis is a major condition leading to______?|heart attack|hypertension|stroke|tumor|0|
+Biology|Biology|Set 10|Splitting of glucose relates to______?|respiration|photorespiration|glycolysis|pyruvic acid|2|
+Biology|Biology|Set 10|In HomoSapiens (Human) the fertilization occurs in the______?|Uterus|Ovaries|Oviduct|Cervix|2|
+Biology|Biology|Set 10|Who discovered the peptic ulcer causing bacteria H.PYLORI?|Robert Hook|James parkinson|Dr Barry Marshall and dr Robin Warren|None of these|2|
+Biology|Biology|Set 10|Animals living in the Tree trunks are known as______?|Arboreal|Volant|Amphibious|Aquaticx|0|
+Biology|Biology|Set 10|If a man having blood group AB marries a woman who is heterozygous for blood group, what is the probability of their first child having blood group B?|40%|45%|50%|71%|2|
+Biology|Biology|Set 10|Which type of motions are present in solid?|translational|rotational|vibrational|all of these|2|
+Biology|Biology|Set 10|Which Part of the Brain Regulates Body Temperature?|cerebellum|cerebrum|hypothalamus|medulla|2|
+Biology|Biology|Set 10|branches of biology and medicine concerned with the structure and function of plant and animal cells is called______?|Nephrology|Semiology|Orology|Cytology|3|
+Biology|Biology|Set 10|Humans can hear in the range of ______ to ______Hertz (Hz).?|10 Hz to 10,000 Hz.|20 Hz to 20,000 Hz.|30 Hz to 30,000 Hz.|40 Hz to 40,000 Hz.|1|
+Biology|Biology|Set 10|Adult human brain is about______% of the total body weight.|2%|3%|7%|8%|0|
+Biology|Biology|Set 10|Which one of these structures involved in replication of bacterial dna?|chromosomes|pilli|plasmid|mesosome|3|
+Biology|Biology|Set 10|Which of the following are connective tissues?|cartilage|bone|blood|all the above|3|
+Biology|Biology|Set 11|Human brain contains______neurons.|10,000,00|100,000,000|100,000,000,000|1000|2|
+Biology|Biology|Set 11|Xylem and phloem are conducting tissues found in ..........?|animals|plants|micro orgamnisms|all the above|1|
+Biology|Biology|Set 11|Simple tissues and complex tissues are two groups of______tissues.|Meristematic|Permanent|Epidermal|Supporting|1|
+Biology|Biology|Set 11|which of the following gas discovered by Scheele?|chlorine|hydrogen|oxygen|carbon dioxide|0|
+Biology|Biology|Set 11|Which of the following endoplasmic reticulum has no ribosome on its surface?|smooth|rough|both|all of above|0|
+Biology|Biology|Set 11|Which of the following is a selectively permeable membrane?|cell wall|cytoplasm|cell membrane|none of these|2|
+Biology|Biology|Set 11|The light microscope can make the object______times bigger?|10 times|100 times|1000 times|10000 times|2|
+Biology|Biology|Set 11|Cell wall is the non living , outermost boundary of______cell?|plant|bacterial|fungal|all the above|3|
+Biology|Biology|Set 11|which of the following is called protein synthesizing machine?|mitochondria|nucleus|chromosomes|ribosomes|3|
+Biology|Biology|Set 11|Which of the following manufactures carbohydrates by the process of photosynthesis?|chloroplast|chromoplast|leucoplast|All of these|0|
+Biology|Biology|Set 11|During the process of cell division which of the following divides first?|cytodplasm|vacuoles|mitochondria|nucleus|3|
+Biology|Biology|Set 11|Vacuoles are fluid filled sacs surrounded by a membrane called______?|tonoplast|nuclear membrane|cell membrane|cell wall|0|
+Biology|Biology|Set 11|In which phase of cell cycle cell organelles are formed?|S Phase|G1 Phase|G2 Phase|G0 Phase|2|
+Biology|Biology|Set 11|The part of the brain that connects the two hemispheres of the brain is called______?|Corpus callosum|Medulla oblongata|Cerebral cortex|Cerebellum|0|
+Biology|Biology|Set 11|Which of the following organ is responsible for body metabolism?|Kidney|Liver|Lungs|Heart|1|
+Biology|Biology|Set 11|Which of the following organ is responsible for blood filtration:|Liver|Kidney|Lungs|Heart|1|
+Biology|Biology|Set 11|Which one of these is a set of useful insects?|Sandfly , butterfly, hoeybee|Sikmoth, honeybee, locust|Honeybee, silkmoth, tsetse fly|Honeybee , lac insect, cochineal insect|3|
+Biology|Biology|Set 11|A moth is closely related to______?|Wasp|Beetle|Cricket|Butterfly|3|
+Biology|Biology|Set 11|Which one of these is an insect?|Mite|Spider|Moth|Scorpion|2|
+Biology|Biology|Set 11|Which of the following is not nocturnal?|Bedbug|Mosquito|Butterfly|Cockroach|2|
+Biology|Biology|Set 11|Golden brown colour of diatoms is due to presence of______?|Mycoxanthin, mucoxanthin and myxoxanthophylls|Alpha and beta carotenes and myxoxanthin|Fucoxanthin, diatoxanthin, diadinoxanthin|None of the above|2|
+Biology|Biology|Set 11|Locomotion in diatoms is carried out with the help of______?|Valve|Raphe|Pseudopodium|Cilia or flagella|1|
+Biology|Biology|Set 11|Diatomaceous earth is used for making ______?|Fertilizers|Weedicides|Insecticides|Fire proof bricks|3|
+Biology|Biology|Set 11|Diatoms stay afloat due to______?|Flagella|Stored lpids|Pseudopodia|All of these|1|
+Biology|Biology|Set 11|Oil body is found in the cells of______?|Diatoms|Slime moulds|Chlorophycean forms|None of the these|0|
+Biology|Biology|Set 11|The chloroplasts of diatoms and chrysophycean algae do not possess______?|Chloryphyllpigments|Enzymes for photolysis|Defined grana and stroma|Carotenes with chlorophylls|2|
+Biology|Biology|Set 11|Diatom frustule/ shell is made of______?|Silica|Calcium carbonate|Manesium carbonate|Both B. and C.|0|
+Biology|Biology|Set 11|Empty diatom cells are called______?|Raphe|Valves|Frustule|Girdles|2|
+Biology|Biology|Set 11|Cell wall is extremely well preserved in fossil specimens in______?|Diatoms|Dinoflagellates|Slime moulds|None of these|0|
+Biology|Biology|Set 11|Unlike other algae, diatoms do not readily decay due to______?|Nonliving cells|Siliceous wall|Mucilaginous wall|Water proof cell|1|
+Biology|Biology|Set 11|The cell wall is usually composed of two overlapping halves called epitheca and hypotheca in______?|Diatoms|Desmids|Pyrrophyta|Chlorophyta|0|
+Biology|Biology|Set 11|Cell wall is richly impregnated with silica in______?|Rhodophyta|Phaeophyta|Baciliariophyta|Euglenophyta|2|
+Biology|Biology|Set 11|Microfossile often present in petroleum producing formationsare those of______?|Diatioms|Heliozoans|Radiolarians|Foraminiferans|0|
+Biology|Biology|Set 11|Centric discoid form of diatoms is______?|Diplaneis|Coscinodiscus|Camphyloneiscus|Stephanodis|1|
+Biology|Biology|Set 11|Diatoms are found in______?|Phytoplanktonic population|Freshwater lakes and ponds|Marine environment|All of the above|3|
+Biology|Biology|Set 11|Which one of the following is representing the group of diatoms?|Pinnularia, Navicula, Cymbella, Melosira|Euglenamorpha, Hedneria , Heteronema, Colacium|Nostoc, Anabaena, Aulosira, Cylindrospermum|Cochlodinium, Gymnodinium, Lenodinium, Peridinium|0|
+Biology|Biology|Set 11|Diatoms belong to______?|Chrysophyta|Bacillariophyceae|Xanthophyceae|Both A. and B.|3|
+Biology|Biology|Set 11|Which organisms are sometimes called the " pastures of the sea"?|Diatoms|Radiolarians|Dinoflagellates|Foraminiferans|0|
+Biology|Biology|Set 11|The wax present on the body of cockroach is secreted:|Mucocytes|Leucocytes|Oenocytes|Granulocytes|2|
+Biology|Biology|Set 11|The bristles on the body of the cockroach arise from______?|Epidermis|Trichogen cell|Basement membrane|Malpighian cell|1|
+Biology|Biology|Set 11|Melanin pigment in cockroach is found in______?|Epicuticle|Exocuticle|Endocuticle|All of these|1|
+Biology|Biology|Set 11|Chitin in cockroach is absent in______?|Epicuticle|Exocuticle|Endocuticle|All of these|0|
+Biology|Biology|Set 11|In man which organisms cause abscesses on the skin of arms or legs?|Ascaris|Bacteria|Ring worm|Suinea worm|3|
+Biology|Biology|Set 11|In all arthropods,the body is covered with a chittinous cuticle which is secreted by the______?|Endodermis|Mesophyll|Chitin|Epidermis|3|
+Biology|Biology|Set 11|All insects have how many parts of legs?|4|2|3|6|2|
+Biology|Biology|Set 11|In mouth cavity of many molluscs there is a rasping tongue like structure______provided with many horny teeth.|Ligule|Radula|Mantle|Muscle|1|
+Biology|Biology|Set 11|It is stiff rod of special cells surrounded by connecive tissue present in the mid -dorsal region and appears in the embryos of all chordates|Placenta|Notochord|Cranianta|Ligule|1|
+Biology|Biology|Set 11|The phylum chrordata comprise about how many species?|25,000|50,000|100,000|10,00,000|1|
+Biology|Biology|Set 11|Sub- phylum vertebrate is also known as______?|Pisces|Craniata|Aves|Amphibia|1|
+Biology|Biology|Set 11|They are considered to be the most primitive and are surely the first of the vertebrates?|Frogs|Reptiles|Amphibinas|Jawless fishes|3|
+Biology|Biology|Set 12|Scolidon or dog fish belong to the group of fishes called______?|Cartilaginous fishes|Bony fishes|Running fishes|Jawless fishes|0|
+Biology|Biology|Set 12|Nephrostome in earthworm opens in______?|External space|Internal Body cavity|In gut|In Bladder|1|
+Biology|Biology|Set 12|The nephridia of earthworm open into the coelom by______?|Nephrostome|Nephridiopore|Flame cell|Anus|0|
+Biology|Biology|Set 12|Mammalian kidney, under restricted water supply can conserve water by over ______ % reabsorption of glomerular filtrate|80.50%|90.50%|95.50%|99.50%|3|
+Biology|Biology|Set 12|Which of the following filtrate contains excessive amount of amino acids, glucose, and salts?|Glomerular filtrate|Filtrate passing through ascending limb|Filtrate passing through distal conveluted tubule|Filtrate passing through collecting tubules|0|
+Biology|Biology|Set 12|Malphighian tubules absorb waste materials and salts from______?|Blood|Lymph|Gut|Hemolymph|3|
+Biology|Biology|Set 12|Which of the following openings have cilia?|Nephrostome|Nephridiopore|Both of these|None of these|0|
+Biology|Biology|Set 12|Which of the following animal excrete nitrogenous waste mainly as uric acid?|Hydra|Planaria.|Humans|Birds.|3|
+Biology|Biology|Set 12|Thick, waxy & leathery cuticle around leaves is present in______?|Hydrophytes|Mesophytes|Xerophytes|Halophytes|2|
+Biology|Biology|Set 12|Bats & humming birds belong to______?|Endotherms|Ectotherms|Heterotherms|Homeotherms|2|
+Biology|Biology|Set 12|A stone measuring 0.4 cm, blocking the outlet of renal pelvis resulting in mild to moderate tract obstruction. Which of the following technique will be opted to remove this stone?|Kidney surgery|Burring a hole and removing the stone manually (nephrolithotomy)|Extracorporeal Shock wave lithotripsy|None of these|2|
+Biology|Biology|Set 12|Which of the vascular channels are related to Juxtramedullary nephrous only?|Afferent and efferent arterioles|Peritubualr capillaries|Vasa nervosa|Vasa recta|3|
+Biology|Biology|Set 12|In Urea cycle ______ ammonia molecules combine with 1 CO2 molecule to form 1 molecule of urea.|1|2|3|4|1|
+Biology|Biology|Set 12|Which of the following is most toxic?|Ammonia|Urea|Uric acid|Trimethylamine oxide|0|
+Biology|Biology|Set 12|In osmosis water molecules move from area of ______ through semipermeable memberane?|Higher solute concentration to lower solute concentration|Lower solute concentration to higher solute concentration|Lower solvent concentration to higher solvent concentration|All of these|1|
+Biology|Biology|Set 12|Normal body temperature in mamals like human beings is______?|26 - 28 deg C|36 - 38 deg C|46 - 48 deg C|56 - 58 deg C|1|
+Biology|Biology|Set 12|Which of the following fish drink large amount of sea water and excrete concentrated urine resulting in maximum salt excretion and minimal water loss?|Hagfish|Fresh water fishes|Bony fishes|None of these|2|
+Biology|Biology|Set 12|Which adaptation is acquired by plants of cooler areas to prevent lipid crystal formation in cell membrane?|Change in membrane protein composition.|Change in the solute composition of the cell membrane which prevents crystallization.|Increase in proportion of unsaturated fatty acids.|Development of heat shock proteins.|2|
+Biology|Biology|Set 12|Which of the following mechanism explains development of anemia in Renal failure?|Failure of bone marrow is accompanied with renal failure.|Destruction of RBC results from accumulated urea in the blood.|Chronicity of the disease is respobsible for anemia|Failure of proper RBC synthesis, due to lack of chemical stimulation.|3|
+Biology|Biology|Set 12|Which of the following constituent is/are maximum in the filtrate that leaves proximal convoluted tubules?|Glucose|Amino acids|Nitrogenous waste|All of these|2|
+Biology|Biology|Set 12|Protonephridia are present in______?|Round worms|Flateworm|Tape worms|Segmented worms|1|
+Biology|Biology|Set 12|Aquatic animals excrete nitrogenous waste commonly in the form of______?|Ammonia|Urea|Uric acid|Trimethylamine oxide|0|
+Biology|Biology|Set 12|Terrestrial animals like kangaroo rat survive even without drinking water since______?|They don't require water for their metabolic process|They can retain excessive water in their body during raining season.|They feed on carbohydrate rich seeds which can provide them with metabolic water|They are anhydrobiotic organisms|3|
+Biology|Biology|Set 12|In a hot summer after noon, if your body's Homeostatic machinery keep your internal temperature quite lower than that of external than this is an example of______?|Positive feed back|Negative feed back|Feed back|Osmoregulation|1|
+Biology|Biology|Set 12|Rose is an example of______?|Hydrophytes|Mesophytes|Xerophytes|Halophytes|1|
+Biology|Biology|Set 12|Which of the following fishes excrete large volume of diluted urine?|Bony Marine fishes|Fresh water fishes|Both depending upon the surrounding water|None of these|1|
+Biology|Biology|Set 12|The characteristic which enable animals to tolerate dehydration is called______?|Osmoconformation|Osmoregulaton|Anhydrobiosis|Anhydrosis|2|
+Biology|Biology|Set 12|Which of the following structure in plant's body is called excretophores?|Stem|Leaves|Flowers|Roots|1|
+Biology|Biology|Set 12|Thermostat of human body is present in______?|Fore brain|Hind Brain|Thalamus|Hypothalamus|3|
+Biology|Biology|Set 12|Production of pyrogens is a ______ phenomenon?|Protective|Destructive|Constructive|Aggressive|0|
+Biology|Biology|Set 12|Blubber a thick layer of fat is present in______?|Fresh water mammals|Terrestrial mammals|Marine Mammals|Flying mammals|2|
+Biology|Biology|Set 12|Animals that produce metabolic heat at low level and also absorb heat from the surroundings are called______?|Endotherms|Ectotherms|Heterotherms|Homeotherms|2|
+Biology|Biology|Set 12|On which of the following site the posterior pituitary hormone acts predominantly?|Proximal convoluted tubule|Descending limb of loop of Henle|Ascending limb of loop of Henle|Collecting tubules|3|
+Biology|Biology|Set 12|Each human kidney receives ______% of total cardiac out put?|10%|20%|30%|40%|1|
+Biology|Biology|Set 12|Excessive lactic acid is converted into ______ by liver?|Glucose|Fructose|Sucrose|Glycogen|3|
+Biology|Biology|Set 12|Which of the following is a sentimentally arranged excretory system?|Protonephridium|Metanephridium|Malpighian tubules|Nephrons|1|
+Biology|Biology|Set 12|The distal blind end of the malpighian tubules bathes freely in______?|Digestive tract|Intestines|Haemocoel|Coelom|2|
+Biology|Biology|Set 12|Hydra has no specialized excretory system because:|It does not produce waste material|Due to absence of mesoderm|The whole body cells are in contact with water|It has pseudocoelom.|2|
+Biology|Biology|Set 12|In animals excess of nitrogen is excreted primarily in form of______?|Creatinine|Trimethyamine oxide|Pyrimidine|Ammonia|3|
+Biology|Biology|Set 12|In plants, which of the following is a waste product produced both during photosynthesis and respiration?|CO2|H2O|O2|Both A and B|1|
+Biology|Biology|Set 12|Which of the following treatment will be administered first in a newly diagnosed renal failure patient?|Renal transplant|Peritoneal Dialysis|Lithotripsy|Hemodialysis|3|
+Biology|Biology|Set 12|Which of the following kidney stones are most common?|Calcium oxalate|Calcium phosphate|Uric acid|All of these|0|
+Biology|Biology|Set 12|Which of the following nephrons play important role in production of concentrated urine?|Crotical|Medullary|Juxtramedullary|None of these|2|
+Biology|Biology|Set 12|Which of the following excretory structure is associated with gut of the organism?|Protonephridium|Metanephridium|Malpighian tubules|Nephrons|2|
+Biology|Biology|Set 12|The main nitrogenous waste formed in the body of earthworm is/are______?|Ammonia|Urea|Uric acid|Trimethylamine oxide|1|
+Biology|Biology|Set 12|Each ach nephridium of earthworm opens to the exterior by______?|Nephrostome|Nephridiopore|Flame cell|Anus|1|
+Biology|Biology|Set 12|Amount of water required to excrete 1gN of Urea is______?|1 ml|50 ml|100 ml|150 ml|1|
+Biology|Biology|Set 12|Purine and pyrimidine metabolism results in production of______?|Creatinine|Trimethyamine oxide|Xanthine|None of these|2|
+Biology|Biology|Set 12|Which excretory product in produced in plants during autotrophic mode of life?|CO2|H2O|O2|Both A and B|2|
+Biology|Biology|Set 12|Which of the following marine fishes are considered direct descendents of fresh water ancestors?|Hagfish|Jelly Fish|Star Fish|Bony fishes|3|
+Biology|Biology|Set 13|Most of the marine invertebrates are______?|Osmoconformers|Osmoregulators|Both depend upon the concentration of sea water|None of these|0|
+Biology|Biology|Set 13|Which of the following represents osmoregulatory steps taken by hydrophytes?|Increases transpiration by increasing the surface area of the leave.|Small and thick leaves to decrease the surface area proportional to the volume of the leave.|Stomata closing in sufficient supply, and opening in restricted supply of water.|None of these|0|
+Biology|Biology|Set 13|The mechanism of regulation, generally between organism and its environment, of solutes and the gain and the loss of water is called______?|Homeostasis|Hemostasis|Osmoregualtion|Thermoregulation|2|
+Biology|Biology|Set 13|Fishes, most of the invertebrates and amphibians are examples of ______ animals?|Endotherms|Ectotherms|Heterotherms|Homeotherms|1|
+Biology|Biology|Set 13|Formation of heat shock proteins in plants results in______?|Elevation of temperature in cold conditions.|Embracing the enzymes and other proteins and prevent their denaturation.|Change the chemical nature of other proteins thus making them heat resistant.|Help in evaporative cooling.|1|
+Biology|Biology|Set 13|Panting is a representative of which mechanism?|Pigmentation.|Respiration.|Evaporative cooling.|Excretion.|2|
+Biology|Biology|Set 13|Brown fat present in certain mammals is specialized in______?|Providing insulation in cold environment.|Providing insulation in hot environment|Rapid heat production.|Controlling heat production.|2|
+Biology|Biology|Set 13|It has been estimated that in a normal person plasma constitutes about ______ by volume of blood.|35%|45%|55%|75%|2|
+Biology|Biology|Set 13|Which of the following is true about hearts of earthworm?|There are 5-7 pairs of heart.|They are present between 1-7th segments.|They are present lateral to the oesophagus.|They pump blood from ventral to dorsal vessel.|2|
+Biology|Biology|Set 13|Stomata open due to ______ of K+ into the guard cells from the surrounding epidermis|Diffusion|Active transport|Osmosis|All of these|1|
+Biology|Biology|Set 13|Single circuit heart is found in______?|Fishes|Amphibians|Reptiles|Mammals|0|
+Biology|Biology|Set 13|Addition of salts and other solutes from other cells into xylem sap, ______ the water potential of the xylem sap|Increases.|Lowers.|Doesn't effect.|Maintains.|1|
+Biology|Biology|Set 13|Symbionts which help plants in uptake of phosphorous and trace metals such as zinc and copper.|Bacteria|Viruses|Fungi|Cyanobacteria|2|
+Biology|Biology|Set 13|Low level of CO2 favours ______ of the stomata.|Opening|Closure|Both of these|None of these|0|
+Biology|Biology|Set 13|There are ______ hypothesis which may explain opening and closing of stomata?|One|Two|Three|Four|1|
+Biology|Biology|Set 13|The opening and closing of stomata is directly controlled by the______?|Temperature|pH|Light|None of these|2|
+Biology|Biology|Set 13|Pressure flow theory was proposed by______?|H-Van Mohl|Dixon|Vander wall.|Earnst Munch|3|
+Biology|Biology|Set 13|Open circulatory system can contain______?|Red Blood Cells|White Blood Cells|Haemoglobin|All of these|1|
+Biology|Biology|Set 13|95% of the cytoplasm of red blood cells is the______?|Antibodies|Hemoglobin|Enzymes|Proteins|1|
+Biology|Biology|Set 13|______ give rise to macrophages, which destroy larger particles by phagocytosis.|Nautrophils|Basophila|Monocyte|Lymphocyte|2|
+Biology|Biology|Set 13|______ function as multisensory hydraulic valve?|Lenticels|Guard cells|Hydathods|All of these|1|
+Biology|Biology|Set 13|Stomatal transpiration is ______ of total transpiration|90%|91%|93%|95%|0|
+Biology|Biology|Set 13|A pressure created by active secretion of salts and other solutes from other cells into xylem sap is called______?|Transpiration pull|Root pressure|Osmotic pressure.|None of these|1|
+Biology|Biology|Set 13|Pulling upward of water and dissolved minerals towards the leaves through the xylem tissue is called______?|Transpiration pull|Root pressure|Ascent of sap.|All of these|0|
+Biology|Biology|Set 13|Transport of minerals from soil to epidermal cells of roots via carrier protein molcules along their concentration gradient is called______?|Diffusion.|Facilitated diffusion.|Passive transport.|Active transport.|1|
+Biology|Biology|Set 13|Lenticels look like______?|A big pore|Stoma|Sponge|Cars or small protusions|3|
+Biology|Biology|Set 13|Aerating openings formed in the bark through which exchange of gases takes place and water is lost in the form of vapours are______?|Hydathods|Stomata|Lenticels|None of these|2|
+Biology|Biology|Set 13|Which of the following are proteins in nature?|Antibodies.|Interferons|Antitoxins|All of these|3|
+Biology|Biology|Set 13|Cooley's anemia is another name used for______?|Leucemia|Thalassaemia|Sickle cell anemia|None of these|1|
+Biology|Biology|Set 13|Tricuspid valve is present______?|Between right atrium and right ventricle|Between left atrium and left ventricle|At base of pulmonary artery|At base of aorta|0|
+Biology|Biology|Set 13|QRS complex represents______?|Atrial systole|Ventricular systole|Atrial diastole|Ventricular diastole|1|
+Biology|Biology|Set 13|Which of the following have thickest walls?|Arteries|Veins|Capillaries|None of these|0|
+Biology|Biology|Set 13|It is the measure of force with which blood pushes up against the walls of blood vessels.|Stroke volume|Cardiac output|Blood pressure|Blood flow|2|
+Biology|Biology|Set 13|All of the follwing are blood clots except:______?|Thrombus|Embolus|Atheroma|Hematoma|2|
+Biology|Biology|Set 13|It is the discharge of blood from blood vessels?|Myocardial infarction|Cerebral infarction|Cerebral Hemorrhage|Thromboembolism|2|
+Biology|Biology|Set 13|The flow of lymph is maintained by______?|Movement of viscera|Breathing movements|Valves|All of these|3|
+Biology|Biology|Set 13|Introduction of vaccine within the body to produce immunity is an example of______?|Artificially induced active immunity|Naturally induced active immunity|Artificially induced passive immunity|Naturally induced passive immunity|0|
+Biology|Biology|Set 13|Lenticular transpiration is ______ of total transpiration?|2-3%|1-3%|1-4%|1-2%|3|
+Biology|Biology|Set 13|All plants do not possess______?|Lenticels|Cuticle|Stomata|All of these|0|
+Biology|Biology|Set 13|Cuticular transpiration is ______ of total transpiration?|6-8%|5-7%|7-9%|4-6%|1|
+Biology|Biology|Set 13|Exceptionally the positive hydrostatic pressure generated by root pressure is about______?|600 Kpa|800 Kpa|1000 Kpa|900 Kpa|1|
+Biology|Biology|Set 13|Commonly in other plants than tall ones the speed of upward movement of water is______?|8mh-1|1 mh-1|7 mh-1|4 mh-1|1|
+Biology|Biology|Set 13|______ component of cell wall has grreat affinity with water?|Lignin|Cellulose|Pectin|All of these|3|
+Biology|Biology|Set 13|______ potential is the measure of the change in water potential of a system due to the presence of solute molecules?|Osmotic|Pressure|Both of these|None of these|0|
+Biology|Biology|Set 13|The movement of water molecules from a region of higher water potential to a region of lower water potential (through membrane)|Deffusion|Osmosis|Active transport|None of these|1|
+Biology|Biology|Set 13|The pressure generated when water enters & inflates plant cells is called ______ potential?|Water|Osmotic|Pressure|Solute|2|
+Biology|Biology|Set 13|In plants, water potential is determined by major factors?|Three|Four|Two|Five|2|
+Biology|Biology|Set 13|Cytoplasmic strands that extend through pores in adjacent cell walls are known as______?|Pseudopods|Symplasts|Plasmodesmata|Pili|2|
+Biology|Biology|Set 13|In the root cells ______ pathway becomes discontinuous in the endodermis due to the presence of casparian strip.|Tonoplast|Apoplast|Symplast|Vacuolar.|1|
+Biology|Biology|Set 13|In plants, the neighbouring cells are connected with one another by______?|Plasmodesmata|Cell walls|Vacuoles|Both 'A' & 'B'|3|
+Biology|Biology|Set 14|Active transport is dependent on______?|Photosynthesis|Respiration|Photophosporylation|None of these|1|
+Biology|Biology|Set 14|The diffusion of ions along with water also takes place by mass flow system along the ______ path?|Tonoplast|Apoplast|Symplast|Vacuolar|1|
+Biology|Biology|Set 14|The membrane of vacuoles is known as______?|Vacuoloplast|Tonoplast|Tanoplast|All of these|1|
+Biology|Biology|Set 14|The uptake of water in plants involves______?|Active transport|Passive transport|Both of these|None of these|1|
+Biology|Biology|Set 14|The site/s where most of the uptake of water and minerals take place is/are______?|Root hairs|Root cells|Underground stem|All of these|0|
+Biology|Biology|Set 14|There are ______ types of nutrients needed by plants besides light to carry out photosynthesis|Two|Three|Four|Five|1|
+Biology|Biology|Set 14|Which of the following bones are present in pectoral girdle?|Clavicle|Scapula|Both of these|None of these|2|
+Biology|Biology|Set 14|How many vertebrae are present in lumbar region?|7|12|5|4|2|
+Biology|Biology|Set 14|S-band locomotion is characteristically seen in______?|Bony fish|Cartilaginous fish.|Fish like mammals.|All fishes.|1|
+Biology|Biology|Set 14|Which of the following is the swiftest form of the locomotion?|Plantigrade|Digitigrade|Unguligrade|Hopping|2|
+Biology|Biology|Set 14|How many vertebrae are in sacrum?|7|12|5|4|2|
+Biology|Biology|Set 14|Among the following organisms which shows the best adaptations for locomotion?|Amoeba.|Earthworm.|Reptiles|Amphibians.|2|
+Biology|Biology|Set 14|How many vertebrae are present in thoracic region?|7|12|5|4|1|
+Biology|Biology|Set 14|Which of the following pairs of fins in a fish body are paired?|Dorsal and ventral.|Pectoral and Pelvic.|Tail and anal|All of these|1|
+Biology|Biology|Set 14|How many vertebrae are present in coccyx?|7|12|9|4|0|
+Biology|Biology|Set 14|Which of the following vertebrates have a fish-like body?|Reptiles|Aves|Amphibians|Mammals.|2|
+Biology|Biology|Set 14|How many vertebrae are present in vertebral column of man?|33 vertebrae|33 pairs of vertebrae|25 vertebrae|31 vertebrae|0|
+Biology|Biology|Set 14|Which of the following animal uses Setae and Muscles for their Iocomotion?|Cockroach|Snail|Earthworm|Star fish|2|
+Biology|Biology|Set 14|Which of the following bones bones are present in the plam of hand?|Carpals|Metacarpals|Phalanges|Metatarsals|1|
+Biology|Biology|Set 14|Which of the following statement is incorrect regarding the locomotion in Euglena?|Move with the help of flagellum, attached to the anterior pole of the body.|Flagellum whipping backwards moving the organism forward, and when moves forward the organism moves backward.|Myonemes can change the direction of the body by making it to shorten from anterior to the posterior pole.|None of these|1|
+Biology|Biology|Set 14|How many bones are present in the wrist?|4 bones|6 bones|8 bones|14 bones|2|
+Biology|Biology|Set 14|Insertion of Biceps is on______?|Ulna|Radius|Olecronon process of ulna.|Scapula|1|
+Biology|Biology|Set 14|Which of the following bone is not present in the hind-limb?|Femur|Tibia|Radius|Fibula|2|
+Biology|Biology|Set 14|Which of the following muscle is an antagonistic member of Biceps brachii?|Bracheoradialis|Brachialis.|Intercostals|Triceps|3|
+Biology|Biology|Set 14|Which one of the following is avascular structure?|A compact bone.|A spongy bone.|Cartilage|All of these|2|
+Biology|Biology|Set 14|Which one of the following is an example of a non-elastic connective tissue?|Ligaments.|Tendon|Muscles.|None of these|1|
+Biology|Biology|Set 14|Collagen fibers of bone are hardened by deposition of______?|Ca & PO4|CaCO3|CaSO4|SiO2|0|
+Biology|Biology|Set 14|Tetany is caused by______?|Hypocalcemia|Hypercalcemia|Clostridum tetani.|Low O2 level|0|
+Biology|Biology|Set 14|Which of the following statement about fatigue is correct?|The major event in it is accumulation of lactic acid.|Lactic acid accumulation turns pH in acidic range leading to muscle ache.|Ionic imbalance may also cause it.|All of these|3|
+Biology|Biology|Set 14|Endoskeleton is secreted by?|Ectoderm.|Endoderm.|Mesoderm.|All of these|2|
+Biology|Biology|Set 14|Ecdysone is______?|An enzyme that digest endocuticle during an arthropodal ecdysis|A newly formed exoskeleton in authropods|A hormone that regulates moulting in arthropods|A process that involves moulting|2|
+Biology|Biology|Set 14|Which of the following statement about an arthropod exoskeleton is incorrect?|It permits gaseous exchange|It contains joints, for the same purpose as present in human skeletal system|It provides muscle attachment|Like all the other types of exoskeleton, they lack sensation|1|
+Biology|Biology|Set 14|Rigor mortis i.e, stiffening of body after death results from______?|Accunulation of rigid proteins molecules in sarcoplam.|Unavailability of ATP, which is necessary to break the link between actin and myosin.|Decrease in body temperature after death.|Death of tissue due to unavailability of O2.|1|
+Biology|Biology|Set 14|Exoskeleton of a marine snail is composed of______?|CaPO4|CaCO3|CaSO4|SiO2|1|
+Biology|Biology|Set 14|Which of the following step occurs immediately after binding of Ca2+ with troponin molecule during muscle contraction.|Binding sites of actin get attached to the myosin head.|Troponin uncovers the actin binding sites.|Tropomyosin gets removed from the binding sites of actin filaments.|Ca2+ goes back inside sarcoplasmic reticulum.|2|
+Biology|Biology|Set 14|What happens during muscle contraction to the length of each myosin and action filament?|Z- lines get closer|A band becomes short|1 band elongates|There is no change in sarcomere|0|
+Biology|Biology|Set 14|Which one of the following forms the blk of exoskeleton of an arthropod?|Epicuticle|Procuticle|Ectocuticle|None of these|1|
+Biology|Biology|Set 14|If a cross section of a sarcomere is seen, each myosin is surrounded by how many actin molecules:|9|5|6|7|2|
+Biology|Biology|Set 14|Which of the following statement is incorrect about Molluscans?|They are surrounded by single or double pieces of hard skeleton.|Their shell grows as the animal grows.|They have hydrostatic skeleton.|They move by tube feet|3|
+Biology|Biology|Set 14|The most important function of troponin is______?|To bind with actin|To bind with tropomyosin.|To bind with Ca2+ ions.|All of these|3|
+Biology|Biology|Set 14|In an annelids, the contraction of circular muscle results in______?|Lengthening of the body.|Shortening of the body.|Widening of body|Thinning of body|3|
+Biology|Biology|Set 14|Diameter of thick filament is______?|7 nm.|8 nm|16nm|10-100 ?m.|2|
+Biology|Biology|Set 14|Which of the following animal has a hydrostatic skeleton?|Earthworm|Round worm|Tape worm|Pin worm|0|
+Biology|Biology|Set 14|A smallest contractile unit of muscle contraction called sarcomere is the area between two:|H- zone|M- Line|Z- Line|A band|2|
+Biology|Biology|Set 14|Gibberellins is an example of______?|Growth inhibitor|Growth stimulator|Growth hormone|None of these|1|
+Biology|Biology|Set 14|Which of the following statements is incorrect about skeletal muscle fibers?|They are multinucleated.|They are 10 - 100 ?m in diameter & surrounded by sarcolemma|They contain O2 storing molecules called hemoglobin.|Their cytoplasm contains high concentration of carbohydrates|2|
+Biology|Biology|Set 14|Epinasty is controlled by______?|Gibberellins|Abscisins|Auxins|Cytokinins|2|
+Biology|Biology|Set 14|Why skeletal muscles are called striated muscles?|They appear darker than smooth muscles by naked eye.|Alternating dark and light bands appear on their surface when visualized by naked eye.|Alternating dark and light bands appear on their surface when visualized via a microscope.|All of these|2|
+Biology|Biology|Set 14|Roots of a plant show______?|Positive phototropism and negative geotropism|Negative phototropism and positive geotropism|Negative tactic movement and positive tropic movement|Positive geotropism of stem and roots|1|
+Biology|Biology|Set 14|The contraction of which of the following muscle fibers, is controlled by hormones?|A smooth muscle|A cardiac muscle|A skeletal muscle.|All of these|0|
+Biology|Biology|Set 15|Rapid movement of leaves of mimosa on touching is an example of ______?|Turgor movement|Nastic movement|Tropic movements.|Growth movement|0|
+Biology|Biology|Set 15|Which of the following is a uni-nucleated cell?|A smooth muscle cell.|A cardiac muscle cell.|A skeletal muscle cell.|All of these|0|
+Biology|Biology|Set 15|The place of attachment of leaf with the shoot is called______?|Pith.|Pit.|Petiole|Ecdysone|2|
+Biology|Biology|Set 15|Bony callus formation completes in______?|2-3 weeks|3-4 weeks.|2-3 months.|3-4 months.|2|
+Biology|Biology|Set 15|Which of the following cells are involved in soft callus formation?|Fibroblast and osteoblast.|Osteoblast and osteoclast.|Osteoclast and osteocyte|Onteocyte and osteoblast|0|
+Biology|Biology|Set 15|Sperms of liverworts, mosses, ferns move towards archegonia, in response to uncleic acid released by the ovum. This is an example of ______?|Chemotropic movement|Chemotactic movement|Chemosastic movement|Haptonastic movement|1|
+Biology|Biology|Set 15|A fracture hematoma has______?|Healing properties.|Destructive properties.|Neutralizing properties.|Dead cells|3|
+Biology|Biology|Set 15|Vascular Cambium initially appears as actively dividing cells between______?|Primary Xylem and secondary xylem.|Primary xylem and secondary phloem.|Primary xylem and primary phloem|Secondary xylem and secondary phloem.|2|
+Biology|Biology|Set 15|If two ends of fractured bone are opened and kept united via screws and wires drilled in bone substance. This step in fracture repair is called______?|Open reduction.|Closed Fixation.|Open fixation.|Immobilization|0|
+Biology|Biology|Set 15|Which of the following statements about fractures in old age is incorrect?|They are more common than in adult age.|Occur as a result of bone being thin and weak.|Due to good blood supply it results in quick healing.|It involves osteoblasts and osteocytes.|2|
+Biology|Biology|Set 15|An increrase in plant girth due to activity of ______ is called secondary growth?|Cork cambium|Pith.|Vascular cambium.|Both a and c|3|
+Biology|Biology|Set 15|Which of the following statement about osteoporosis is incorrect.|It results from estrogen deficiency.|Bone eating process takes over bone formation process.|There is reduction of bone mass and change in chemical composition of the matrix|It is common in old age.|2|
+Biology|Biology|Set 15|Among the followings which is the most longest supportive cell?|Tracheids|Sclereids|Trachea|Collenchyma cells|0|
+Biology|Biology|Set 15|Which of the follwing is a childhood disease resulting from nutritive Ca2+ deficiency?|Hypocalcaemia Tatanic spasms.|Osteomalacis.|Rickets.|Tetany|2|
+Biology|Biology|Set 15|Secondary cell wall of sclerenchyma cells is impregnated with______?|Cellulose.|Peptidoglycan and murein.|Lignin.|Pectin.|2|
+Biology|Biology|Set 15|Which of the following hormone is predominantly responsible for bone weakening in older women?|Progesterone.|Oestrogen.|Parathyroid hormone.|Calcitonin.|1|
+Biology|Biology|Set 15|In which of the following joint muscles are arranged in the same plane as that of joint?|Between radius and ulna.|Between ulna and scapula|Between humerus and scapula|Between femur and tibia.|3|
+Biology|Biology|Set 15|Higher turgor pressure in a plant cell is maintained by______?|Large number of vacoules in a plant cell.|Higher ionic concentration inside vacuoles resulting from active pumping of ions at their tonoplastic membrane|Higher osmotic pressure of the cell vacuole|both b and c|3|
+Biology|Biology|Set 15|Fibrous capsule surrounding synovial joints may be thickened at some places to form:|Synovial membrane.|Ligaments.|Muscles.|Tendon|1|
+Biology|Biology|Set 15|Joint between two parietal bones, which is infact immovable one is an example of______?|Fibrous joints.|Cartilaginous joints.|Synovial joints.|None of these|0|
+Biology|Biology|Set 15|Which of the following plays the major role in providing support to young herbaceous parts of the plant?|Living cells of epidermis with higher turgor pressure.|Living cells of cortex and pith with higher turgor pressure.|Collenchyma cells|All of these|3|
+Biology|Biology|Set 15|A joint formed between humerus, radius and ulna is an example of______?|Immovable joint.|Slightly movable joint.|Freely movable joint.|Fibrous joint|2|
+Biology|Biology|Set 15|Vocal cords are stretched across______?|Larynx|Pharynx|Golttis|None of these|2|
+Biology|Biology|Set 15|In most birds air sacs are ______ in number?|10|3|4|9|3|
+Biology|Biology|Set 15|Parabronchi are open at ______ end/s?|Single|Both|Do not have opening|None of these|1|
+Biology|Biology|Set 15|Respiratory distress syndrome is common especially for infants with a______?|Less than 7 month|Less than 8 month|Less than 9 month|More than 9 month|0|
+Biology|Biology|Set 15|Gaseous exchange through the skin is known as ______ respiration?|Cuticular|Cutaneous|Skin|Pulmonary|1|
+Biology|Biology|Set 15|All of the following contain cartilage except:______?|Larynx|Trachea|Bronchi|Bronchioles|3|
+Biology|Biology|Set 15|Voice box is another name used for______?|Buccal cavity|Pharynx|Larynx|Chest Cavity|2|
+Biology|Biology|Set 15|The blood enters the ______ side of heart ?|Posterior|Anterior|Lateral|All possible|0|
+Biology|Biology|Set 15|Which of the following animals has a respiratory system with one way flow of the air through the lungs, and the air is renewed after inspiration?|Cockroach|Earthworm|Aves|Frogs|2|
+Biology|Biology|Set 15|When abdomen expands, the number of spiracles open is______?|2|3|6|8|3|
+Biology|Biology|Set 15|Which of the following promotes growth in plants?|Photorespiration|Calvin cycle|Both of these|None of these|1|
+Biology|Biology|Set 15|Number of spiracles present in the thorax of cockroach is______?|2|3|5|4|3|
+Biology|Biology|Set 15|Of the following, which one is a contagious disease?|Tuberculosis|Lungs cancer|Asthma|Emphysema|0|
+Biology|Biology|Set 15|Number of spiracles present in cockroach is______?|15|10|20|30|2|
+Biology|Biology|Set 15|A disease of longs in which inside of the lungs is damaged resulting in cough and fever?|Lung cancer|Asthma|Emphysema|Pulmonary tuberculosis|2|
+Biology|Biology|Set 15|More than ______ compounds of tar of tobacco smoke are involved to cause cancer?|5|90|15|10|3|
+Biology|Biology|Set 15|Active site of Rubisco is evolved to bind?|CO2|O2|H2O|All of these|3|
+Biology|Biology|Set 15|Arterial blood contains ______ of CO2 per 100 ml of blood|54 ml|60 ml|64 ml|50 ml|3|
+Biology|Biology|Set 15|Percentage of CO2 carried as carboxyhaemoglobin is______?|5%|70%|20%|10%|2|
+Biology|Biology|Set 15|The increase in pH of blood has ______ effect on the oxygen carrying capacity of haemogolobin?|plus ve|- ve|No|All of these|0|
+Biology|Biology|Set 15|The glycolate produced diffuses into the membrane bounded organelles called______?|Glyoxisomes|Peroxisomes|Lysosomes|Mitochondria|1|
+Biology|Biology|Set 15|The air spaces may comprise upto ______ of total volume of leaf surface?|30%|20%|40%|50%|2|
+Biology|Biology|Set 15|There are ______ stomata per square cm of leaf surface in Tobacco plants?|1200|12000|100,000|1000|2|
+Biology|Biology|Set 15|Important factors which affect the capacity of haemoglobin to combine with oxygen is|Temperature|Carbon dioxide|pH|All of these|3|
+Biology|Biology|Set 15|Water is ______ times viscous than air?|50|1000|5000|8000|0|
+Biology|Biology|Set 15|Haemoglobin can be almost completely oxygenated by an oxygen pressure of ______ of mercury.|10 mm|60 mm|10 cm|100 mm|3|
+Biology|Biology|Set 15|Oxygen contents per liter of air is______?|10 ml|100 ml|200 ml|100ml|2|
+Biology|Biology|Set 15|The maximum amount of oxygen which normal human blood absorbs and carries at sea level is ______ per 100 ml of blood.|10 ml|20 ml|30 ml|40 ml|1|
+Biology|Biology|Set 16|Of the following, which one is better respiratory medium______?|Air|Water|Soil|None of these|0|
+Biology|Biology|Set 16|During rest the breathing occurs rhythmically at the frequency of ______ times per minute in human?|16-30|15-20|5?10|6?12|1|
+Biology|Biology|Set 16|______ respiration is the process by which cell utilized oxygen and produces CO2 ?|Cellular|Organismic|Both of these|None of these|0|
+Biology|Biology|Set 16|Lungs are covered with double layered thin membranous sac called______?|Disphragm|Pleura|Pericardium|Rib cage|1|
+Biology|Biology|Set 16|______ respiration is directly involved in the production of energy, necessary for all living activities?|Organismic|Cellular|Both of these|None of these|1|
+Biology|Biology|Set 16|Lungs are spongy due to the presence of million of______?|Air sacs|Alveoli|Bronchioles|Parabronchi|1|
+Biology|Biology|Set 16|Breaking of terminal phosphate of ATP releases about ______ Kcal of energy?|6.1|6.3|7.1|7.3|3|
+Biology|Biology|Set 16|ATP are consumed during______?|Glycolysis|Kreb's cycle|Light dependent phase|none of these|0|
+Biology|Biology|Set 16|Cellular respiration is essentially a/an ______ process?|Oxidation.|Reduction.|Redox.|None of the above.|0|
+Biology|Biology|Set 16|From one pyruvate passing through Kreb's cycle, how many NADH are formed?|1|2|3|4|2|
+Biology|Biology|Set 16|In Anaerobic respiration only ______ % of the energy present within the chemical bond of glucose is converted into ATP?|1%|2%|3%|4%|1|
+Biology|Biology|Set 16|Final acceptor of electrons in respiratory chain is______?|NADH|Cytochrome a3|Water|Oxygen|3|
+Biology|Biology|Set 16|In which of the following component of the body, lactic acid fermentation takes place?|Brain|Heart|Liver|Muscles|3|
+Biology|Biology|Set 16|The most important photosynthetic pigment is ______?|Chlorophyll a|Chlorophyll b|Xanthophyll|Carotenes|0|
+Biology|Biology|Set 16|The chlorophyll molecule is embedded in the core of thylakoid membrane which acts as______?|Hydrophilic|Hydrophobic|Both of these|None of these|1|
+Biology|Biology|Set 16|In alcoholic fermentation Pyruvic acid is broken down into?|Acetaldehyde|Methyl alcohol|Ethyl alcohol|Lactic acid|2|
+Biology|Biology|Set 16|Deficiency of ______ causes yellowing in plants?|Magnesium|Iron|Chlorine|Oxygen|0|
+Biology|Biology|Set 16|Chlorophylls mainly absorb ______ wavelengths?|Orange - blue|Violet - red|Yellow - orange|Orange - red.|3|
+Biology|Biology|Set 16|Complete breakdown of glucose molecule takes place in which of the following?|Alcoholic fermentation|Lactic acid fermentation|Aerobic respiration|All of these|2|
+Biology|Biology|Set 16|Xanthophylls are ______ pigments|Yellow|Red|Orange|Green|0|
+Biology|Biology|Set 16|Chlorophylls are found embedded in the ______ membranes?|Stroma|Grana|Thylakoid|Intergrana|2|
+Biology|Biology|Set 16|The dense fluid filled region in the chloroplast is______?|Grana|Stroma|Thylakoid|None of these|1|
+Biology|Biology|Set 16|Photosystem II has molecules which absorbs maximum light of______?|680 nm|100 m|700 nm|670 nm|0|
+Biology|Biology|Set 16|In all plants the major sites of phosynthesis are______?|Leaves respire and utilize O2 and release CO2.|Stems|Roots|Branches|0|
+Biology|Biology|Set 16|Of the following, which one light - gathering?|Antenna complex|Reaction centre|Photosystem|None of these|0|
+Biology|Biology|Set 16|Thylakoids in chloroplasts are stacked into______?|Grana|Stroma|Nucleus|None of these|0|
+Biology|Biology|Set 16|NADPH2 provides______?|assimilatory power|chemical energy|energized electrons|All of these|3|
+Biology|Biology|Set 16|Light reaction takes place on/in______?|Thylakoid|Storma|Chloroplast|Grana|3|
+Biology|Biology|Set 16|Reduction in photosynthesis is of______?|O2|CO2|H2O|light energy|1|
+Biology|Biology|Set 16|Which of the following pigment is Blue- green in colour?|Chlorophyll a|Chlorophyll b.|Chlorophyll c|Chlorophyll d.|0|
+Biology|Biology|Set 16|Stomata cover only ______ of leaf surface?|0.03 - 0.04%|10%|1-2 %|50%|2|
+Biology|Biology|Set 16|Molecular formula of chlorophyll 'a' molecule is______?|C55H72O5N4Mg|C55H70O6N4Mg|C50H72O6N4Mg|C55H70O5N4Mg|0|
+Biology|Biology|Set 16|Photosynthesis carried out by terrestrial plants is ______ of total photosynthesis?|1-2%|5%|10%|20%|2|
+Biology|Biology|Set 16|Which of the following statement about the head of a chlorophyll molecule is incorrect?|It is a porphyrin ring or tetrapyrrole ring structure|It is flat, square and light absorbing|Composed of carbon and nitrogen atoms with Magnesium as central metal ion, which is coordinated with nitrogen.|It is hydrophobic|3|
+Biology|Biology|Set 16|Of the following, which one causes higher production of food in green plants?|Blue|Orange|Red|Violet|2|
+Biology|Biology|Set 16|Chlorophyll is insoluble in______?|Carbon tetrachloride|Alcohol|Organic solvents|Water|3|
+Biology|Biology|Set 16|First Actions spectrum was obtained by using______?|Algae|Fungi|Bacteria|Spirogyra|3|
+Biology|Biology|Set 16|Which of the light is mainly absorbed by the plants?|Orange|Red|Green|Both A and B|3|
+Biology|Biology|Set 16|The first action spectrum was obtained by______?|T.W.Englemam|Malleus|T.W.Inws|W.Stapes|0|
+Biology|Biology|Set 16|Which of the following light is least absorbed by the plants?|Orange|Red|Blue|Green|3|
+Biology|Biology|Set 16|The percentage of light absorbed by the leaf is ______?|20%|15%|10%|1%|3|
+Biology|Biology|Set 16|Visible light used in photosynthesis ranges from:______?|300 - 700 nm in wavelength|350 - 750 nm in wavelength|380 - 750 nm in wavelength|390 - 790 nm in wavelength.|2|
+Biology|Biology|Set 16|PS I has chlorophyll a molecule which absorbs maximum light of ______ nm ?|600|650|680|700|3|
+Biology|Biology|Set 16|Van neil hypothesis about the production of oxygen during phosynthesis was based on the study and investigations on______?|Bacteria|Algae|Protenema|Cyanobacteria|0|
+Biology|Biology|Set 16|Air contains ______ % of CO2 ?|0.02-0.03|0.03-0.04|0.04-0.05|0.05-0.06|1|
+Biology|Biology|Set 16|The point at which there is no net exchange of gases between leaves and atmosphere is known as______?|Neutral point|Compensation point|Parallel point|Competitive point|1|
+Biology|Biology|Set 16|Net yield of H2O in Photosynthesis is______?|1 molecule|6 molecules|3 molecules|0 molecule|3|
+Biology|Biology|Set 16|About ______ % of photosynthesis is carried by terrestrial plants, while rest occurs in ocean, lakes, and ponds?|10%|20%|30%|40%|0|
+Biology|Biology|Set 16|Of the following which one is not an energy releasing process?|Glycolysis|Respiration|Photosynthesis|Kreb's cycle|2|
+Biology|Biology|Set 16|Carotenoids perform protective function in______?|Animals|Plants|Both of these|None of these|2|

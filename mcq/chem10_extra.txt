@@ -1,0 +1,606 @@
+Class 10 Chemistry|Chemistry|Set 01|Identify among the following elements that does NOT belong to VIIA group|Cl|F|N|Br|2|
+Class 10 Chemistry|Chemistry|Set 01|4moles of Carbon dioxide(CO2) have ______molecules.|6.02 x 1023|12.04 x 1025|18.06 x 1023|24.08 x 1023|3|
+Class 10 Chemistry|Chemistry|Set 01|In acidic medium, ______ is used to balance oxygen atoms in an ionic equation.|H+|OH-|H2O|O|2|
+Class 10 Chemistry|Chemistry|Set 01|What is the chemical symbol of "Potassium"?|P|K|Po|Pt|1|
+Class 10 Chemistry|Chemistry|Set 01|If heat is to be supplied continuously to a liquid at its boiling point, the temperature remains constant because:|Extra heat is spread in the air|High energy molecules continuously leaving the surface of liquid|The forces of attractions become stronger|The vapour pressure of the boiling liquid becomes greater than the external pressure|1|
+Class 10 Chemistry|Chemistry|Set 01|The strongest hydrogen bonding is present in: ______?|Ammonia gas|Ice|Ethanol|Acetone and chloroform|1|
+Class 10 Chemistry|Chemistry|Set 01|Ionic solids do not conduct the electrical current because:|Ions don't have translatory motion|The coordination number of ion is very high|Free electrons are less|Strong covalent bonds are present in their structure|0|
+Class 10 Chemistry|Chemistry|Set 01|Evaporation is______?|Endothermic Reaction|Surface Process|Continuous Process|All of these.|3|
+Class 10 Chemistry|Chemistry|Set 01|The acetylene molecule contains:______?|5 sigma bonds|4 sigma and 1 pi bonds|3 sigma and 2 pi bonds|2 sigma and 3 pi bonds|2|
+Class 10 Chemistry|Chemistry|Set 01|Identify the unsaturated compound that does not give red ppts when treated with______Ammonical cuprous chloride|CH3-CH2-CCH (1-Butyne)|CH3-CCH(1-Propyne)|CH3-CH2-CH2CCH(1-Pentyne)|CH2=CH2|3|
+Class 10 Chemistry|Chemistry|Set 01|An organic compound has a triple bond and not double bond. It can be tested by ______?|Bromine water|Bayer's reagent|Fehling solution|Ammonical silver nitrate|3|
+Class 10 Chemistry|Chemistry|Set 01|Which of the following has acidic hydrogen?|Ethyne|Ethene|Ethane|Benzene|0|
+Class 10 Chemistry|Chemistry|Set 01|Ozonolysis of acetylene gives:|Glycol|Glyoxal then formic acid|Formaldehyde|None|1|
+Class 10 Chemistry|Chemistry|Set 01|Product formed when 2-pentyne reacts with ozone in the absence of Zinc is ______?|CH3CH2CHO + CH3CHO|CH3CH2CHO + CH3COOH|CH3CH2COOH + CH3COOH|CH3COOH + CO2|2|
+Class 10 Chemistry|Chemistry|Set 01|O3 reacts with C2H4 to form ozonide, while on further hydrolysis it forms ______?|Ethylene oxide|HCHO|Ethylene glycol|Ethyl alcohol|1|
+Class 10 Chemistry|Chemistry|Set 01|Position of double bond in an organic compound is determined by ______?|Ozonolysis|Oxidation|Reduction|Hydrogenation|0|
+Class 10 Chemistry|Chemistry|Set 01|At higher temperature, Ethyne on reaction with water in the presence of HgSO4 and H2SO4 gives:|Acetone|Acetaldehyde|Acetic acid|Ethyl alcohol|1|
+Class 10 Chemistry|Chemistry|Set 01|Which of the following gases is used for welding?|Methane|Ethane|Acetylene|Ethene|2|
+Class 10 Chemistry|Chemistry|Set 01|The compound C3H4 has a triple bond, which is indicated by its reaction with______?|Bromine water|Bayer's reagent|Fehling solution|Ammonical silver nitrate|3|
+Class 10 Chemistry|Chemistry|Set 01|Acetylene gives:|White precipitate with AgNO3 and red precipitate with Cu2Cl2|White precipitate with Cu2Cl2 and red precipitate with AgNO3|White precipitate with both the reagents|Red precipitate with both the reagents|0|
+Class 10 Chemistry|Chemistry|Set 01|Coinage metals are actually______?|Alkali metals|Halogens|Alkaline earth metals|Transition metals|3|
+Class 10 Chemistry|Chemistry|Set 01|The marsh gas is ______?|Ethane|Methane|Propane|Butane|1|
+Class 10 Chemistry|Chemistry|Set 01|All members of homologous series have different ______?|chemical properties|functional group|physical properties|all of them|2|
+Class 10 Chemistry|Chemistry|Set 01|The valency of Carbon is ______?|2(Divalent)|3(Trivalent)|4(Tetravalent)|1(univalent)|2|
+Class 10 Chemistry|Chemistry|Set 01|In homologous series there is the difference of mass between adjacent members.|14amu|12amu|18amu|22amu|0|
+Class 10 Chemistry|Chemistry|Set 01|Those aliphatic hydrocarbons which contain carbon to carbon single covalent bond in the chain are called ______?|Alkanes|Alkynes|Alkenes|a & c|0|
+Class 10 Chemistry|Chemistry|Set 01|Identify among the following which is not the unsaturated hydrocarbon.|C4H6|C5H12|C3H4|C6H10|1|
+Class 10 Chemistry|Chemistry|Set 01|Polyvinyl acetate is the Polymer of ______?|Vinyl Chloride|Vinyl acetate|Formaldehyde|Methyl methacrylate|1|
+Class 10 Chemistry|Chemistry|Set 01|The general formula for alkenes is:______?|CnH2n+1|CnH2n+2|CnH2n|CnH2n-2|2|
+Class 10 Chemistry|Chemistry|Set 01|The subatomic particle that has negative charge is______?|Electron|Proton|Neutron|None of These|0|
+Class 10 Chemistry|Chemistry|Set 01|The Maximum mass of an atom is present in ______?|Shell|Nucleus|Energy levels|Orbit|1|
+Class 10 Chemistry|Chemistry|Set 01|The rays that have negative charge are ______?|Anode Rays|Cathode Rays|Canal Rays|Gamma Rays|1|
+Class 10 Chemistry|Chemistry|Set 01|The heaviest subatomic particle among the following is______?|Electron|Proton|Neutron|All have mass|2|
+Class 10 Chemistry|Chemistry|Set 01|The salt that gives the aqueous solution with pH less than 7, is called as______?|Basic salt|Acidic salt|Neutral salt|Amphoteric salt|1|
+Class 10 Chemistry|Chemistry|Set 01|Octane number is 0 value for ______?|iso-octane|n-hexane|n-heptane|iso-heptane|2|
+Class 10 Chemistry|Chemistry|Set 01|The organic compound used as antiknock agent in petroleum is______?|(C2H5 )4Pb|TNT|CH MgBr3|C2H5 )2Hg|0|
+Class 10 Chemistry|Chemistry|Set 01|The petrol having octane number 80 has ______?|20% n- heptane + 80% iso-octane|80% n- heptane + 20% iso-octane|20% n- heptane + 80% n-octane|80% n-heptane + 20% n- octane|0|
+Class 10 Chemistry|Chemistry|Set 01|Ethene is the first member of ______?|Alkenes Family|Saturated hydrocarbon|Aromatic hydrocarbon|None of These|0|
+Class 10 Chemistry|Chemistry|Set 01|Identify the Molecular mass for Glucose (C6H12O6) among the following.|190amu|188amu|180amu|98amu|2|
+Class 10 Chemistry|Chemistry|Set 01|The molecular formula of Sucrose(Sugar) is______?|NH3|C12H22O11|C6H12O6|C6H6|1|
+Class 10 Chemistry|Chemistry|Set 01|The molecular formula of Methane gas is______?|NH3|CH4|CO2|C6H6|1|
+Class 10 Chemistry|Chemistry|Set 01|The oxidation of secondary alcohol gives ?|alkane|carboxylic acid|Acetylene|ketone|3|
+Class 10 Chemistry|Chemistry|Set 01|If speed of gas molecules increases by twice on heating. What will be their kinetic energy?|increases by two times|increases by four times|decreases by two times|decrease by four times|1|
+Class 10 Chemistry|Chemistry|Set 01|LiAlH4 converts Acetaldehyde into ______?|Acetic acid|Methane|Ethyl alcohol|Methyl alcohol|2|
+Class 10 Chemistry|Chemistry|Set 01|On oxidation, an alcohol gives an aldehyde having same number of carbon atoms as in alcohol, the alcohol is______|Primary Alcohol|Secondary Alcohol|Tertiary alcohol|None of These|0|
+Class 10 Chemistry|Chemistry|Set 01|An alcohol produced during the formation of a soap process.|Butanol|Ethylene glycol|Ethanol|Glycerol|3|
+Class 10 Chemistry|Chemistry|Set 01|On reduction with LiAlH4 ,Ketone gives______?|Primary Alcohol|Secondary Alcohol|Tertiary alcohol|None of These|1|
+Class 10 Chemistry|Chemistry|Set 01|Alcohols of lower Molecular weight are ______?|More Soluble in water|Insoluble in water|Soluble in water on heating|Insoluble in all solvents|0|
+Class 10 Chemistry|Chemistry|Set 01|Identify the Lucas reagent among the following|Conc. HCl & Anhydrous ZnCl2|Dil. HCl & hydrated ZnCl2|Conc. HNO3 & Anhydrous ZnCl2|Conc. HNO3 & Anhydrous MgCl2|0|
+Class 10 Chemistry|Chemistry|Set 01|Methyl alcohol on oxidation with acidified K2Cr2O7 gives______?|CH3COOH|CH3CHO|HCOOH|CH3COCH3|2|
+Class 10 Chemistry|Chemistry|Set 02|The reaction of C2H5OH with conc. H2SO4 does not give______?|Ethene|Diethyl ether|Acetylene|Ethyl hydrogen sulphate|2|
+Class 10 Chemistry|Chemistry|Set 02|In Periods from Left to right Electronegativity will: ______?|increase|decrease|constant|none of these|0|
+Class 10 Chemistry|Chemistry|Set 02|The number of moles are present in 9.5g of CS2?|1.5|0.25|0.125|None of These|2|
+Class 10 Chemistry|Chemistry|Set 02|The one mole of ______molecule has the highest number of atoms?|H2SO4|HClO4|O3|H2C2O4|3|
+Class 10 Chemistry|Chemistry|Set 02|The theoretical yield is, when % yield and actual yied are 55% and 24g respectively:|40g|43.6g|45g|41.4g|1|
+Class 10 Chemistry|Chemistry|Set 02|The maximum amount of product obtained by balanced chemical equation is called as ______?|Practical yield|Theoretical yield|Actual yield|NOT|1|
+Class 10 Chemistry|Chemistry|Set 02|The maximum mass is present in 1dm3 for the following gas at STP.|C3H8|CO2|CO|CS2|3|
+Class 10 Chemistry|Chemistry|Set 02|24g of an unknown gas occupied 8.4dm3at STP, Identify the gas among the following|SO3|SO2|C6H6|C3H8|1|
+Class 10 Chemistry|Chemistry|Set 02|The process by which a substance absorbs moisture upon exposure to atmosphere is called?|Efflorescence|Dehydrogenation|Desalination|Deliquescence|3|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following gases when passed through warm dilute solution of H2SO4 in presence of HgSO4 gives acetaldehyde|CH4|C2H6|C2H4|C2H2|3|
+Class 10 Chemistry|Chemistry|Set 02|In Aldehydes and Ketones, carbon of carbonyl group is ______?|sp3 hybridised|sp2 hybridised|sp hybridised|Unhybridised|1|
+Class 10 Chemistry|Chemistry|Set 02|Fehling solution react with HCHO to form precipitate of ______?|White colour|Yellow colour|Red colour|Blue colour|2|
+Class 10 Chemistry|Chemistry|Set 02|The typical reactions of aldehyde is ______?|Electrophilic addition|Nucleophilic substitution|Nucleophilic addition|Nucleophilic elimination|2|
+Class 10 Chemistry|Chemistry|Set 02|Silver mirror is a test for ______?|Aldehydes|Thio alcohols|Amines|Ethers|0|
+Class 10 Chemistry|Chemistry|Set 02|Dimethyl ketones are usually characterized through______?|Tollen's reagent|Iodoform test|Schiff's test|Benedict's reagent|1|
+Class 10 Chemistry|Chemistry|Set 02|The Clemmenson reduction of acetone yields|Ethanol|Ethanal|Propane|Propanol|2|
+Class 10 Chemistry|Chemistry|Set 02|Acetaldehyde cannot show|Iodoform test|Lucas test|Benedict's test|Tollen's test|1|
+Class 10 Chemistry|Chemistry|Set 02|Hydrogen bonding is present in ______?|Water|Ethyl Alcohol|Phenol|All of these|3|
+Class 10 Chemistry|Chemistry|Set 02|Surface Tension ______with increasing the surface area of liquid?|Decreases|Increases|Remains Same|None|0|
+Class 10 Chemistry|Chemistry|Set 02|Which instrument is used to measure the viscosity.?|Hygrometer|Hydrometer|Anemometer|Viscometer|3|
+Class 10 Chemistry|Chemistry|Set 02|Viscosity of a liquid______by increasing temperature?|Remains same|Increases|Decreases|None|2|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following is unit of Viscosity?|Decibell|Torr|Poise|Hertz|2|
+Class 10 Chemistry|Chemistry|Set 02|Real gases show ideal behavior at______?|Low Temp & High Pressure|High Temp & Low Pressure|High Temp & High pressure|Low Temp & Low Pressure|1|
+Class 10 Chemistry|Chemistry|Set 02|Charle's Law was given by Jacques Charles in______?|1785|1787|1880|1885|1|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following is known as absolute zero?|0C deg|273K|273.16C deg|-273.16C deg|3|
+Class 10 Chemistry|Chemistry|Set 02|Boyle's Law was given by the Robert Boyle in______?|1660|1661|1662|1663|2|
+Class 10 Chemistry|Chemistry|Set 02|Barometer was invented by ______?|Pascal|Torricelli|Newton|Huygen|1|
+Class 10 Chemistry|Chemistry|Set 02|Value of normal atmospheric pressure at sea level at 0 deg C is______?|1 atm|760 Torr|76cm of Hg|All of these|3|
+Class 10 Chemistry|Chemistry|Set 02|According to Kinetic Molecular Theory gas molecules move in______path?|Straight|Parabolic|Zig-zag|Hyperbolic|0|
+Class 10 Chemistry|Chemistry|Set 02|The theory which explains the behavior of particles of matter in motion is called ______?|Bohr's Theory|Dalton's Theory|Kinetic Molecular Theory|None|2|
+Class 10 Chemistry|Chemistry|Set 02|Who is often referred to as the "father of Chemistry"?|Isaac Newton|Antoine Lavoisier|Dmitri Mendeleev|Albert Einstein|1|
+Class 10 Chemistry|Chemistry|Set 02|Quality of petrol is measured by______?|octane number|Heptane number|Reforming|Refining|0|
+Class 10 Chemistry|Chemistry|Set 02|The Substance which resist in change in PH is called?|Neutralization|Osmosis|Buffer|Active transport|2|
+Class 10 Chemistry|Chemistry|Set 02|Alkaline PH scale starts from?|8 to 14|6 to 10|7 to 11|0 to 14|0|
+Class 10 Chemistry|Chemistry|Set 02|The range of acid PH on PH scale is______?|9 to 8|6 to 7|1 to 6|1 to 10|2|
+Class 10 Chemistry|Chemistry|Set 02|At what digit of PH scale PH is neutral?|5|3|7|10|2|
+Class 10 Chemistry|Chemistry|Set 02|A gas was found to have a density of 0.0847g/L at 17 deg C and a pressure of 760 torr. The gas must be?|CH4|He|N2|None of These|1|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following is used with milk of lime to kill fungus and molds?|Chlorine|Silver nitrate|Copper Sulfate|Nitric acid|2|
+Class 10 Chemistry|Chemistry|Set 02|What is the color of precipitates of AgBr?|Light brown|Light green|Light Blue|Light yellow|3|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following is the use of Silver nitrate?|used as mordant in dyeing|used in photography and medicines|used in making green pigments|All of these|1|
+Class 10 Chemistry|Chemistry|Set 02|What is the color of copper sulfate crystalline?|White|Brown|Blue|Green|2|
+Class 10 Chemistry|Chemistry|Set 02|What is the color of precipitates of AgI?|Yellow|Light Yellow|Brown|Blue|0|
+Class 10 Chemistry|Chemistry|Set 02|What is the color of precipitates of AgCl?|Yellow|Green|Blue|White|3|
+Class 10 Chemistry|Chemistry|Set 02|Silver nitrate is used in laboratory as a reagent for the detection and determination of______?|Alkali metals|Aldehydes|Halides|Ketones|2|
+Class 10 Chemistry|Chemistry|Set 02|Which of following is known as Blue Vitriol or Blue Stone?|AgNO3|CuSO4.5H2O|K2Cr2O7|K2CrO4|1|
+Class 10 Chemistry|Chemistry|Set 02|What is the formula of Copper Sulfate?|CuSO3.4H2O|CuSO4.4H2O|CuSO3.5H2O|CuSO4.5H2O|3|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following produces black spots when it comes in contact with organic substances such as skin and cellulose?|CuSO4|AgNO3|K2MnO4|CH3COOH|1|
+Class 10 Chemistry|Chemistry|Set 02|Silver nitrate is also known as______?|Blue Stone|Blue Vitriol|Lunar Caustic|Both A & B|2|
+Class 10 Chemistry|Chemistry|Set 02|What is the formula of Silver nitrate?|AgNO|AgNO2|AgNO3|AgNO4|2|
+Class 10 Chemistry|Chemistry|Set 02|Which of the following has lowest lattice energy?|LiF|NaCl|KBr|CsI|3|
+Class 10 Chemistry|Chemistry|Set 03|Which of the following is used in photography?|NaHSO3|Na2S2O3|Na2S|Na2SO3|1|
+Class 10 Chemistry|Chemistry|Set 03|Lead battery is secondary battery the paste used in it is______?|Magnese dioxide|Zinc chloride|Ammonium chloride|AOT|3|
+Class 10 Chemistry|Chemistry|Set 03|Solvent used in separation of biomolecules is ______?|Acetone|Trichloroacetic acid|Ether|Alcohol|1|
+Class 10 Chemistry|Chemistry|Set 03|Strong Nucleophile in polar aprotic solvent?|Flouride ion|Bromide ion|Chloride ion|Iodide ion|0|
+Class 10 Chemistry|Chemistry|Set 03|Product of Nucleophilic Substitution Uni Molecular reaction is in case of chiral substrate?|Inversion|Retention|Recemic Mixture|Stereospecific|2|
+Class 10 Chemistry|Chemistry|Set 03|What will be the PH of 0.01M ammonium chloride solution containing 10 mol per liter of ammonium chloride (pkb=4.76)?|5.24|6.24|7.24|8.24|3|
+Class 10 Chemistry|Chemistry|Set 03|Alum is used by dyers of cloth:|As water purifier|As mordant|fire proofing fabrics|Softening of hard water|1|
+Class 10 Chemistry|Chemistry|Set 03|The most useful dye for those fabric which can form hydrogen bonds is:______?|Mordent dye|Vat dye|Acid dye|Direct dye|3|
+Class 10 Chemistry|Chemistry|Set 03|The phosphate present in sewage water which cause eutrophication Can be removed by adding:|Alum|Chlorine|Lime|permangnate|2|
+Class 10 Chemistry|Chemistry|Set 03|which of the following pair is not distinguished by passing H2S?|Hg, Pb|Zn, Mn|As, CD|Cd , Pb|0|
+Class 10 Chemistry|Chemistry|Set 03|Ozone is formed in the upper layer of the atmosphere from oxygen by action of:______?|Free radicals|Cosmic rays|Nitrogen oxides|UV -rays|3|
+Class 10 Chemistry|Chemistry|Set 03|Surface water contains:______?|only salt|Organic matter|Salt & Organic matter|Suspended impurity|2|
+Class 10 Chemistry|Chemistry|Set 03|Biodegradable pollutant is:______?|DDT|mercury salt|Domestic waste|Aluminum foil|2|
+Class 10 Chemistry|Chemistry|Set 03|Cyclone collector is used for minimizing:______-?|Water pollution|Sound pollution|Soil pollution|Air pollution|3|
+Class 10 Chemistry|Chemistry|Set 03|The medium which interact with long lived pollutant is:______?|Source|Receptor|Sink|All of them|2|
+Class 10 Chemistry|Chemistry|Set 03|Which one of the following gives the measure of Organic pollution in water?|COD|DO|PH|Salinity|0|
+Class 10 Chemistry|Chemistry|Set 03|The distribution coefficient is related to:______?|Separating factors|decreasing factors|Colouring factors|retardation factors|0|
+Class 10 Chemistry|Chemistry|Set 03|The second nuclear weapons used in warfare over Nagasaki, Japan, contain energy equal about of TNT?|1.5 kilotons|20 kilotons|25 kilotons|30 kilotons|1|
+Class 10 Chemistry|Chemistry|Set 03|The usual property of ionic crystal are:______?|Stable|gaseous form|Unstable|Compound forming|3|
+Class 10 Chemistry|Chemistry|Set 03|The main contributor to toxicity of detergent:|Na-Silicate solution|Na-sulphate solution|Na-Chloride solution|K-Chloride solution|0|
+Class 10 Chemistry|Chemistry|Set 03|The fundamental way to transfer energy are:______?|pressure and temperature|pressure and volume|heat and volume|heat and work|3|
+Class 10 Chemistry|Chemistry|Set 03|Formaldehyde on condensation in the presence of calcium hydroxide: ______?|Formose|Fructose|Maltose|Xylose|0|
+Class 10 Chemistry|Chemistry|Set 03|Lactic acid on oxidation by alkaline potassium permanganate gives:______?|Propionic acid|Cinnamic acid|Pyruvic acid|Tartaric acid|2|
+Class 10 Chemistry|Chemistry|Set 03|Shiff's reagent gives pink color with ______?|Acetone|Acetaldehyde|Acetic acid|Methyl acetate|1|
+Class 10 Chemistry|Chemistry|Set 03|Numbers of subatomic particles?|2|3|1|more than 3|3|
+Class 10 Chemistry|Chemistry|Set 03|Neoprene is ______?|Natural rubber|Vulcanized rubber|synthetic rubber|All of the above|2|
+Class 10 Chemistry|Chemistry|Set 03|Example of cross linked polymer is ______?|Nylon|Polyester|bakelite|PVC|2|
+Class 10 Chemistry|Chemistry|Set 03|Example of linear polymer is ______?|High density polythene|Low density polythene|PVC|both A and C|3|
+Class 10 Chemistry|Chemistry|Set 03|Vulcanized rubber is an example of ______?|Natural polymers|semisynthetic polymers|Synthetic polymers|None of These|1|
+Class 10 Chemistry|Chemistry|Set 03|Hexamethylene diamine and adipic acid combine to form ______?|Natural rubber|Synthetic rubber|nylon 6-6|Polystyrene|2|
+Class 10 Chemistry|Chemistry|Set 03|Example of copolymers is ______?|Polyethylene|PVC|Orlon|nylon 6-6|3|
+Class 10 Chemistry|Chemistry|Set 03|Nylon-2-nylon-6 is a______polymer?|biodegradable polymer|Synthetic polymer|Natural polymer|Branched polymer|0|
+Class 10 Chemistry|Chemistry|Set 03|Methyl radical is ______?|Sp3 hybrid having 8 electrons|Sp2 hybrid having 6 electron|sp2 hybrid having 7 electron|Sp hybrid having linear geometry|2|
+Class 10 Chemistry|Chemistry|Set 03|Electromeric effect is ______?|Permanent effect|Operate due to electronegativity difference|temporary effect|None of the above|2|
+Class 10 Chemistry|Chemistry|Set 03|Hyperconjugation is also known as ______?|Reasonable|no bond reasonable|Inductive effect|Electromeric effect|1|
+Class 10 Chemistry|Chemistry|Set 03|Greater the heat of neutralization the acid will be______?|more stronger|More weaker|Not related to acid strength|None of the above|0|
+Class 10 Chemistry|Chemistry|Set 03|In isothermal process?|No heat enter or leave the system|Pressure of the system remains constant|temperature of the system remains constant|Volume of the system remains unchanged|2|
+Class 10 Chemistry|Chemistry|Set 03|The system which exchange only energy with its surroundings is called______?|Open system|closed system|Isolated system|All of the above|1|
+Class 10 Chemistry|Chemistry|Set 03|The properties which do not depend on mass of the substance are ______?|Extensive properties|Colligative properties|intensive properties|None of These|2|
+Class 10 Chemistry|Chemistry|Set 03|When limestone reacts with water, which gas is released?|Hydrogen|Oxygen|Nitrogen|Carbon Dioxide|3|
+Class 10 Chemistry|Chemistry|Set 03|Oobleck is the mixture of ______?|Gram Flour and Water|Baking Soda and Vinegar|Cement and Water|Cornstarch and Water|3|
+Class 10 Chemistry|Chemistry|Set 03|The oxidation state of cu which are expected to be diamagnetic|Cu+2|Cu+4|Cu+1|Cu+3|2|
+Class 10 Chemistry|Chemistry|Set 03|Antiseptic Urotropine formed by ______?|Carboxylic acid|Acetaldehyde|Formaldehyde|Ketone|2|
+Class 10 Chemistry|Chemistry|Set 03|Size of colloidal particles|greater than true solution|greater than suspension|In b/w true solution & suspension|None of These|2|
+Class 10 Chemistry|Chemistry|Set 03|Ketones and aldehydes can be distinguished using ______?|Bendict solution|Fehling solution|Tollens reagent|None of These|2|
+Class 10 Chemistry|Chemistry|Set 03|Mass spectroscopy mainly tells about ______?|Mass|e/m ratio|Isotopes|None of These|1|
+Class 10 Chemistry|Chemistry|Set 03|Actinides are the elements with atomic numbers from ______?|97 to 104|101 to 115|89 to 103|36 to 43|2|
+Class 10 Chemistry|Chemistry|Set 04|Ketones and Aldehydes are differentiate by using ______?|Fehling solution|Bendict solution|Silver Mirror test|Nitroprusside test|3|
+Class 10 Chemistry|Chemistry|Set 04|which of the following is a non-crystalline solid pair?|diamond, wood|glass, table salt|wood, glass|sucrose. glass|2|
+Class 10 Chemistry|Chemistry|Set 04|Transition temperature for tin grey & tin white is : ______?|128.15 deg C|18 deg C|246.12 deg C|96 deg C|1|
+Class 10 Chemistry|Chemistry|Set 04|Species are formed in one step of reaction mechanism and used up in another step are called:|Catalyst|Intermediate|inhibitor|activated complex|1|
+Class 10 Chemistry|Chemistry|Set 04|The best indicator for titrating HCl with NH4OH is: ______?|methyl Orange|litmus|phenol red|phenopthalein|0|
+Class 10 Chemistry|Chemistry|Set 04|Ostwald's dilution law applicable to:|All electrolytes|Strong electrolytes|Non electrolytes|Weak electrolytes|3|
+Class 10 Chemistry|Chemistry|Set 04|The phenomenon of negative catalysis is also known as:|auto catalysis|Self catalysis|inhibition|Enzyme catalysis|2|
+Class 10 Chemistry|Chemistry|Set 04|The decomposition of nitroglycerine is an example of:|Self catalytic reaction|Enzyme catalytic reaction|Autocatalytic reaction|induced catalysis|2|
+Class 10 Chemistry|Chemistry|Set 04|Law of mass action was proposed by Goldberg and Peter Waage in ______?|1864|1866|1888|None of These|0|
+Class 10 Chemistry|Chemistry|Set 04|Z number for chlorine is ______?|35.5|17|15|21|1|
+Class 10 Chemistry|Chemistry|Set 04|The chemical symbol for silver is ______?|Au|Ag|Sv|At|1|
+Class 10 Chemistry|Chemistry|Set 04|In water molecule, Hydrogen & water are held together by ______ bond.|Ionic|Covalent|Hydrogen|Dating|1|
+Class 10 Chemistry|Chemistry|Set 04|One Water molecule can form maximum ______hydrogen bonds.|2|3|4|None|2|
+Class 10 Chemistry|Chemistry|Set 04|Cations possess ______ charge?|+ve|-ve|Neutral|None|0|
+Class 10 Chemistry|Chemistry|Set 04|Atomic mass of an atom is present in the ______?|Shell|Orbit|Nucleus|Orbital|2|
+Class 10 Chemistry|Chemistry|Set 04|Positron has ______charge.|+ve|-ve|Neutral|None of them|0|
+Class 10 Chemistry|Chemistry|Set 04|Compound containing two halogen atoms on two adjacent carbon atoms are called as ______?|Glycols|Vicinal dihalides|Geminal dihalides|Diols|1|
+Class 10 Chemistry|Chemistry|Set 04|Out of Alkane, Alkene & Alkyne, which one is more acidic?|Alkane|Alkene|Alkyne|All have same|2|
+Class 10 Chemistry|Chemistry|Set 04|Cathode is a metalic plate where______ takes place.|Oxidation|Reduction|Redox|Substitution|1|
+Class 10 Chemistry|Chemistry|Set 04|Cyclopentene is a ______?|Aromatic|Alicyclic|Aliphatic|None of These|1|
+Class 10 Chemistry|Chemistry|Set 04|The quantity of petrol can be increased by ______?|Reforming|Induction fueling|Cracking|Refining|2|
+Class 10 Chemistry|Chemistry|Set 04|Which one is a pure carbon?|Coal Tar|Coal gas|Coke|None of These|2|
+Class 10 Chemistry|Chemistry|Set 04|Octane rating of Gasoline can be increased by ______?|Refining|Cracking|Reforming|None of These|2|
+Class 10 Chemistry|Chemistry|Set 04|A process in which large molecules are broken up into into smaller molecules is called as______.|Reforming|Cracking|Refining|Isomerization|1|
+Class 10 Chemistry|Chemistry|Set 04|The quality of petrol is improved by ______?|Cracking|Reforming|Refining|Hydration|1|
+Class 10 Chemistry|Chemistry|Set 04|Aldehydes and ketones both, show the type of Isomerism is ______?|chain Isomerism|Functional Group Isomerism|Metamerism|Position Isomerism|1|
+Class 10 Chemistry|Chemistry|Set 04|diamond got brilliance due to following reason?|reflection|refraction|dispersion|all of the above|3|
+Class 10 Chemistry|Chemistry|Set 04|Universe is almost 70% made up of ______?|Helium|Hydrogen|Chlorine|Carbon|1|
+Class 10 Chemistry|Chemistry|Set 04|Which of the following is more Basic in nature?|Ammonia|1 deg Alkyl ammine|2 deg Alkyl ammine|3 deg Alkyl ammine|3|
+Class 10 Chemistry|Chemistry|Set 04|Which of the following is more acidic in nature?|Benzene|Phenol|p-nitrobenzene|Cresol|2|
+Class 10 Chemistry|Chemistry|Set 04|The following alcohol does not undergo oxidation is ______?|1 deg alcohol|2 deg alcohol|3 deg alcohol|0 deg alcohol|2|
+Class 10 Chemistry|Chemistry|Set 04|In water, Hydrogen is present ______by mass.|22%|11.11%|31.13%|15.15%|1|
+Class 10 Chemistry|Chemistry|Set 04|The product On the oxidation of 2 deg Alcohol is ______?|Aldehyde|Ketone|Carboxylic acid|Ester|1|
+Class 10 Chemistry|Chemistry|Set 04|Ammonium cynanate was 1st Inorganic compound that was converted into an Organic compound (in Lab) through boiling water. The organic compound was______.|Methane|Ethanol|Acetic acid|Urea|3|
+Class 10 Chemistry|Chemistry|Set 04|Coal gas is made up of mostly ______ & ______?|Hydrogen & Water|Hydrogen & Carbon dioxide|Hydrogen & Methane|Carbonmonoxdide & water|2|
+Class 10 Chemistry|Chemistry|Set 04|Oxalate ion behaves as a ______ ligand.|Unidentate|Bidentate|Tridentate|Hexadentate|1|
+Class 10 Chemistry|Chemistry|Set 04|Which of the following is a soft Coal?|Peat|Lignite|Bituminous|Anthracite|2|
+Class 10 Chemistry|Chemistry|Set 04|The amount of Benzene is obtained from Coal Tar on its Fractional Distillation?|1-2Kg|1-3Kg|1-4Kg|1-5Kg|0|
+Class 10 Chemistry|Chemistry|Set 04|d-block elements are also called as ______?|Inner Transition|Outer Transition|Alkali Metals|Both B & C|1|
+Class 10 Chemistry|Chemistry|Set 04|The shielding Effect across the period ______?|Increases|Decreases|Remains Same|None of them|2|
+Class 10 Chemistry|Chemistry|Set 04|Which of the following is the Radioactive isotope of Hydrogen?|Protium|Deuterium|Tritium|Nichromium|2|
+Class 10 Chemistry|Chemistry|Set 04|Marsh gas is ______?|Methane|Ethane|Hydrogen|Nitrogen|0|
+Class 10 Chemistry|Chemistry|Set 04|The equation that represents the relationship of Faraday's first law of electrolysis is ______?|Z=At|w=ZAt|w=Z/At|Z= At/M|1|
+Class 10 Chemistry|Chemistry|Set 04|In electrolysis of NaCl the product obtained at cathode is______.|Sodium ions|Chloride ions|Both|Remain at the bottom of the cell|0|
+Class 10 Chemistry|Chemistry|Set 04|Which of the following is non spontaneous cell?|Electrolytic cell|Galvanic cell|Daniel cell|Not|0|
+Class 10 Chemistry|Chemistry|Set 04|The bond energy of Hydrogen molecule is______?|110Kcal/mol|106Kcal/mol|104Kcal/mol|150KJcal/mol|2|
+Class 10 Chemistry|Chemistry|Set 04|The Ionization energy of Hydrogen is ______?|10.54ev|12.54ev|13.6ev|17.56ev|2|
+Class 10 Chemistry|Chemistry|Set 04|The Electronegativity of Hydrogen is ______.|2.8|2.2|3.1|1.8|1|
+Class 10 Chemistry|Chemistry|Set 04|The whole universe is made up of almost ______of Hydrogen?|50%|60%|70%|80%|2|
+Class 10 Chemistry|Chemistry|Set 05|During Electrolysis of Water the product @cathode obtained is ______?|Hydrogen Gas & Water|Oxygen Gas & Water|CO & Water|Hydrogen & Carbon monoxide|0|
+Class 10 Chemistry|Chemistry|Set 05|The method in which more steam is passed through the water Gas to oxidize CO to Carbon Dioxide which is then more soluble in water than Hydrogen gas and gets separated is called______.|liquification process|Bosch Process|Fragmentation|Thermal decomposition|1|
+Class 10 Chemistry|Chemistry|Set 05|Water Gas is a mixture of two gases Hydrogen & Carbon monoxide, while separating Hydrogen gas by liquification process which one is liquefied first__?|Hydrogen Gas|Carbon Monoxide Gas|Both at same time|None of them|3|
+Class 10 Chemistry|Chemistry|Set 05|Bosch Process involves ______?|Reduction|Oxidation|Isomerization|Crackling|1|
+Class 10 Chemistry|Chemistry|Set 05|Which of the following method is used to separate Hydrogen gas from water Gas?|Bosch Process|Cyber Twinkling process|Palladium process|Steam process|0|
+Class 10 Chemistry|Chemistry|Set 05|Black foot disease is caused by the pollution of groundwater as a consequence of increased seepage of:______?|Nitrates|Fluorides|Arsenic|Mercury|2|
+Class 10 Chemistry|Chemistry|Set 05|Optic fibres are used in :|CAT scans|X-ray photos|Ultrasound scans|Endoscopy|3|
+Class 10 Chemistry|Chemistry|Set 05|The radio-active element used in heart pacemakers is ______?|Uranium|Deuterium|Plutonium|Radium|2|
+Class 10 Chemistry|Chemistry|Set 05|Where does the oxygen that keeps us alive come from?|Carbon dioxide|Carbonates absorbed from soil|Oxides of minerals|Water|3|
+Class 10 Chemistry|Chemistry|Set 05|Who discovered carbohydrates fats and proteins?|William Prout|Jons Jacob Berzelius|Anselme Payen|Walter Bradford Cannon|0|
+Class 10 Chemistry|Chemistry|Set 05|Hookworm is a parasitic worm that infects ______?|large intestine|liver|lungs|small intestine|3|
+Class 10 Chemistry|Chemistry|Set 05|Nitrate (NO3) ions are obtained by the process of ______?|Nitrification|Fermentation|Denitrification|None of these|0|
+Class 10 Chemistry|Chemistry|Set 05|Which one of the following results in the discovery of proton.|Cathode rays|Canal rays|X-rays|Alpha rays|1|
+Class 10 Chemistry|Chemistry|Set 05|The radiations with negative charge are______.|Alpha radiations|Gamma radiations|Beta radiations|positron|2|
+Class 10 Chemistry|Chemistry|Set 05|The radiations with highest speed are ______.|Alpha radiations|Gamma radiations|Beta radiations|AOT|1|
+Class 10 Chemistry|Chemistry|Set 05|Petra means ______ ?|Petrol|Sediment|Rock|Fuel|2|
+Class 10 Chemistry|Chemistry|Set 05|When the radiation of light is passed through a prism, it undergoes ______?|reflection|interference|diffraction|refraction|3|
+Class 10 Chemistry|Chemistry|Set 05|______ is one of the allotropic modifications of carbon.|Silicon|Diamond|Iodine|Graphite|1|
+Class 10 Chemistry|Chemistry|Set 05|An acid-Base Reaction is always a/an ______?|Endothermic|Exothermic|Fission|Fusion|1|
+Class 10 Chemistry|Chemistry|Set 05|Chemistry is given from ......language ?|Latin|Greek|Arabic|None of these|1|
+Class 10 Chemistry|Chemistry|Set 05|Atoms of all the elements always contain in nucleus:|Proton and neutron|Neutron and electron|Proton|Neutron|2|
+Class 10 Chemistry|Chemistry|Set 05|What is the mass of one mole of Iodine?|74g|254g|127g|53g|1|
+Class 10 Chemistry|Chemistry|Set 05|The earth absorb radiation in Visible range but emit radiation at the same rate in the:|Ultra voilet|Gamma rays|Infrared|All of these|2|
+Class 10 Chemistry|Chemistry|Set 05|Traffic policemen on duty at busy street crossings during heavy traffic rush hours are advised to use:______?|Hydrogen tank|Nitrogen tank|Oxygen tank|None of these|2|
+Class 10 Chemistry|Chemistry|Set 05|The rate of formation of ozone depends on the flux of:|visible radiation|Ultra violet radiation|Infrared radiation|Gamma rays|1|
+Class 10 Chemistry|Chemistry|Set 05|Polyamides are synthetic polymers commonly known as______?|synthetic|Protein|Cellulose|Nylon|3|
+Class 10 Chemistry|Chemistry|Set 05|How much solar flux absorb by earth's surface is used to drive hydrologic cycle:|1/2sec|1/3rd|1/4th|1/5th|1|
+Class 10 Chemistry|Chemistry|Set 05|Which one of the following serve as aquatic solar fuel cell:|Bacteria|Virus|Fungi|Algae|3|
+Class 10 Chemistry|Chemistry|Set 05|Who used the term Concentrationwindow to draw the arbitrary lines of demarcation|Einstein|Dr.A.Walash|Schwartz|S.E.Manhan|2|
+Class 10 Chemistry|Chemistry|Set 05|Element that have same number of neutrons are called______?|isotope|isobar|isotone|None of these|2|
+Class 10 Chemistry|Chemistry|Set 05|Calculate % of N in KNO3______?|14.34%|18.56%|13.86%|None of these|2|
+Class 10 Chemistry|Chemistry|Set 05|The pH of milk is______?|9|6.5-7|8|12|1|
+Class 10 Chemistry|Chemistry|Set 05|The process in which solid changes directly into vapours without passing through liquid state?|Decantation|Sublimation|Evaporation|None|1|
+Class 10 Chemistry|Chemistry|Set 05|The Boiling Point of Ethyl Alcohol is______?|78 deg C|58 deg C|73 deg C|56 deg C|0|
+Class 10 Chemistry|Chemistry|Set 05|Why does Ethyl Alcohol show high boiling point then Acetone?|Due to Hydrogen bonding|Due to high molecular weight|Due to its Acidic nature|Due to its Low molecular weight|0|
+Class 10 Chemistry|Chemistry|Set 05|Why do we determined the boiling point of a liquid?|To check its Acidity and Basicity|To Check temperature|To check its Purity and nature|None of These|2|
+Class 10 Chemistry|Chemistry|Set 05|Which of the following can be separated by " Sublimation Method"?|Sand and Iron Filing|Sand and Naphthalene|Both A & B|None|1|
+Class 10 Chemistry|Chemistry|Set 05|The Chemical Formula of Sand is______?|Si2O3|SiO2|Al2O3|Sr2O|1|
+Class 10 Chemistry|Chemistry|Set 05|Benzene gives mainly______?|Addition reaction|Substitution reactions|Halogenation|All of these|1|
+Class 10 Chemistry|Chemistry|Set 05|The Bond Energy of H-F is______?|456kJ/mol|562kJ/mol|281kJ/mol|None|1|
+Class 10 Chemistry|Chemistry|Set 05|The element used for the formation of alloys is______?|Iron|Calcium|Mercury|Chromium|3|
+Class 10 Chemistry|Chemistry|Set 05|Air is a/an ______?|Compound|Element|Electrolyte|Mixture|3|
+Class 10 Chemistry|Chemistry|Set 05|Give Electronic configuration of Sodium:|1s2,2s2,2p6|1s2,2s2,2p6,3s2|1s2,2s2,2p6,3s1|None of these|2|
+Class 10 Chemistry|Chemistry|Set 05|For the generation of biogas, the materials commonly used are______?|Animal wastes|Forest residues|Aquatic plants|None of these|0|
+Class 10 Chemistry|Chemistry|Set 05|Which of the following is not the name of any scientist?|Pauli exclusion principle|Hund's rule|Aufbau's principle|Le-Chatelier's principle|2|
+Class 10 Chemistry|Chemistry|Set 06|Which of the following is the most Viscous?|Glycerine|Water|Honey|Spirit|2|
+Class 10 Chemistry|Chemistry|Set 06|Urea as a fertilizer contains:______?|57% N|73% N|46% N|53% N|2|
+Class 10 Chemistry|Chemistry|Set 06|Which molecule have stronger London dispersion forces?|Hydrogen gas|Water|Bromine|Hydrochloric acid|1|
+Class 10 Chemistry|Chemistry|Set 06|The concept of ensemble was introduced by______?|Boltzmann|Gibbs|Carnot|Mexwell|1|
+Class 10 Chemistry|Chemistry|Set 06|Phonon is Quantum of______?|Longitudinal wave|Elastic wave|Transverse wave|Electromagnetic wave|1|
+Class 10 Chemistry|Chemistry|Set 06|Which gas is used for artificial ripening of green fruit ?|Carbon dioxide|Acetylene|Ethane|Ethylene|3|
+Class 10 Chemistry|Chemistry|Set 06|Which of the following is solid?|Water|Stone|Both|None|1|
+Class 10 Chemistry|Chemistry|Set 06|The number of ions produced by [Pt(NH3)]Cl2?|4|2|3|5|2|
+Class 10 Chemistry|Chemistry|Set 06|The practical problem in Hydrogen production is it:______?|Weight|Valency|Size|Chemical property|0|
+Class 10 Chemistry|Chemistry|Set 06|Radiations are harmful as it:______?|Causes skin cancer|Causes anemia|Alters body tissue|is unstable|0|
+Class 10 Chemistry|Chemistry|Set 06|Soil pollution is caused by:______?|Aerosol|Ozone|Acid rain|PAN|2|
+Class 10 Chemistry|Chemistry|Set 06|What are the metal bearing rocks called?|Bitumen|Bauxite|Metalloids|Ores|3|
+Class 10 Chemistry|Chemistry|Set 06|One fathom is equal to:______?|6 feet|6 meters|60 feet|100 cm|0|
+Class 10 Chemistry|Chemistry|Set 06|Reading of a Barometer going down is an indication of:______?|Snow|Storm|Intense heat|Rainfall|3|
+Class 10 Chemistry|Chemistry|Set 06|Actinides are the elements with atomic number from:|97 to 104|101 to 115|89 to 103|36 to 43|2|
+Class 10 Chemistry|Chemistry|Set 06|Carbon,Diamond and Graphite are together called:______?|Allotrope|Isomers|Isomorphs|Isotopes|0|
+Class 10 Chemistry|Chemistry|Set 06|According to Journal of Biological Chemistry 158, human brain and heart are composed of ______water?|75%|81%|73%|89%|2|
+Class 10 Chemistry|Chemistry|Set 06|Which is artificial manmade fiber?|Boron|Saffron|Rayon|None of these|2|
+Class 10 Chemistry|Chemistry|Set 06|When Ammonia is used as a refrigerant in vapour compression cycle?|Cu Tubing used|Steel tubes used|Both a & b|Material does not effect by refrigerant|1|
+Class 10 Chemistry|Chemistry|Set 06|Example of 'globular' proteins is ______ ?|Peptide|Enzymes|Primary protein|Secondary proteins|1|
+Class 10 Chemistry|Chemistry|Set 06|which Compound Destroy The OZONE ?|CFCs|CH3COOH|BOTH A & B|None Of These|0|
+Class 10 Chemistry|Chemistry|Set 06|In whole Periodic Table which element Is Most Reducing Agent ?|Chlorine|lithium|Helium|Neon|1|
+Class 10 Chemistry|Chemistry|Set 06|Effective volume is usually taken for ______ ?|2 moles of gas|1 mole of gas|5 moles of gas|3moles of gas|1|
+Class 10 Chemistry|Chemistry|Set 06|Process used to separate insoluble particles from liquids is ______ ?|Drying|Filtration|Sieving|Extraction|1|
+Class 10 Chemistry|Chemistry|Set 06|Column of manometer which faces liquid is ______ ?|Raised|Depressed|Compressed|Remains same|1|
+Class 10 Chemistry|Chemistry|Set 06|Quantum numbers are ______ ?|Arithmetical values|Numerical values|Leometric values|Logical values|1|
+Class 10 Chemistry|Chemistry|Set 06|Distance at which attractive forces of hydrogen overcome repulsive forces is ______ ?|75.2pm|75.3pm|75.5pm|75.4pm|3|
+Class 10 Chemistry|Chemistry|Set 06|In a group, atomic radii increase due to successive increase of ______ ?|Electronic shells|Proton shells|Neutron shells|Nucleus|0|
+Class 10 Chemistry|Chemistry|Set 06|Chromatography is used to separate ______ ?|Solution|Mixtures|Molecules|Atoms|1|
+Class 10 Chemistry|Chemistry|Set 06|In SI base units, 1 Bq is equal to ______ ?|10 disintegration per second|1.5 disintegration per second|0.01 disintegration per second|1 disintegration per second|3|
+Class 10 Chemistry|Chemistry|Set 06|A helium nucleus comprising of two protons and two neutrons with a charge of 2e is ______ ?|Beta particle|Gamma particle|Alpha particle|Negative particle|2|
+Class 10 Chemistry|Chemistry|Set 06|Elements which emit natural radioactivity are known as ______ ?|Radio elements|Active elements|Radioactive elements|Nuclear elements|2|
+Class 10 Chemistry|Chemistry|Set 06|Treatment of sucrose with conc. HNO3 gives______?|Nitrosucrose|Glucose+ fructose|Oxalic acid|Laevulinic acid|0|
+Class 10 Chemistry|Chemistry|Set 06|How many isomeric aldoses are possible for the molecular formula C6H12O6?|2|4|7|16|3|
+Class 10 Chemistry|Chemistry|Set 06|The IUPAC name of pyridines is______?|Azolo|Azine|Azolidins|Diazine|1|
+Class 10 Chemistry|Chemistry|Set 06|The hybridization of nitrogen atom in pyridine is______?|Sp|Sp2|Sp3|It is not hybridized|1|
+Class 10 Chemistry|Chemistry|Set 06|Following are the anions of soap which form Ca and Mg ions which we see as curd in water|Sodium hexadecanoate|Sodium octadecanoate|Sodium pentadecanoate|Both A & B|3|
+Class 10 Chemistry|Chemistry|Set 06|Which of the following compounds is not soluble in HNO3______?|CuS|CdS|PbS|AgCl|3|
+Class 10 Chemistry|Chemistry|Set 06|The amount of Zinc (at. Wt=65) necessary to produce 224 ml of H2 by the reaction with an acid will be______?|0.065gm|0.65gm|6.5gm|7.5gm|3|
+Class 10 Chemistry|Chemistry|Set 06|The weight of a metal of equivalent of 12 which will give 0.475g of its chloride is______?|0.12g|0.16g|0.18g|0.24g|2|
+Class 10 Chemistry|Chemistry|Set 06|A brivalent metal has the equivalent weighr of 12. The molecular weight to its oxide will be______?|24|32|36|40|3|
+Class 10 Chemistry|Chemistry|Set 06|When SO2 solution is passed over which of the following it turns green?|K2Cr2O7|H2SO4|SO3|P2O5|0|
+Class 10 Chemistry|Chemistry|Set 06|The composition of ' Golden spangles is______?|PbCrO4|PbI2|As2Cr2O7|BaCrO4|0|
+Class 10 Chemistry|Chemistry|Set 06|What is chemical symbol for Tungsten?|Z|T|Tn|W|3|
+Class 10 Chemistry|Chemistry|Set 06|If a compound contains 24 gram of carbon 2 gram of hydrogen and 64 gram of oxygen then its empirical formula will be______?|C2H2O4|CH2|CH2O|CHO2|3|
+Class 10 Chemistry|Chemistry|Set 06|The reaction of Lucas reagent is the fastest with______?|(CH3)2CHOH|CH3(CH2)OH|CH3CH2OH|(CH3)3COH|3|
+Class 10 Chemistry|Chemistry|Set 06|For the reaction 2HI ______> H2+ I2|Kp > kc|Kc > kp|Kp= kc|Kp <= kc|2|
+Class 10 Chemistry|Chemistry|Set 06|If volumetric analysis methyl orange indicator is used when______?|Acid is strong|Acid is weak|Bade is strong|Acid is strong base is weak|0|
+Class 10 Chemistry|Chemistry|Set 06|Ethylene diammine is ligand______?|mono dentate|Bi dentate|tri dentate|Poly dentate|1|
+Class 10 Chemistry|Chemistry|Set 07|Formula of Galena is______?|PbS|HgS|AS2S3|FeS2|0|
+Class 10 Chemistry|Chemistry|Set 07|BeCl2 has the hybrid orbitaks of type______?|Sp2|Sp3|Sp|dsp2|2|
+Class 10 Chemistry|Chemistry|Set 07|I3( Tri-iodine) has shape______?|Trigonal bipyramidal|Linear|Square bipyramidal|Both A and C|1|
+Class 10 Chemistry|Chemistry|Set 07|Water molecule is______?|V-shaped|Angular|Pyramidal|Triangular planer|0|
+Class 10 Chemistry|Chemistry|Set 07|In borax bead test which compound is formed______?|Ortho burate|Meta borate|Double oxide|Tetra borate|1|
+Class 10 Chemistry|Chemistry|Set 07|Percentage of lead in lead pencil is______?|Zero|20|80|70|0|
+Class 10 Chemistry|Chemistry|Set 07|Cassiterite is an ore of______?|Mn|Ni|Sb|Sn|3|
+Class 10 Chemistry|Chemistry|Set 07|Which of the following shows electrical conduction______?|Potassium|Graphite|Diamond|Sodium|1|
+Class 10 Chemistry|Chemistry|Set 07|The type of hybridisation of boron in diborane is______?|Sp- hybridisation|Sp2- hybridisation|Sp3- hybridisation|Sp3d2- hybridisation|0|
+Class 10 Chemistry|Chemistry|Set 07|Which of the following element has the maximum electron affinity______?|Cl|Br|I|F|0|
+Class 10 Chemistry|Chemistry|Set 07|The structure of H2O2 is______?|Planar|Non- polar|Spherical|Linear|1|
+Class 10 Chemistry|Chemistry|Set 07|The volume strength of 1.5 N H2O2 solution is______?|4.8|5.2|8.8|8.4|3|
+Class 10 Chemistry|Chemistry|Set 07|A 10 volume solution of H2O2 means______?|10 grams of H2O2 solution liberate 10 mL of O2 at STO|10 gram equivalents of H2O2 liberates 10 mL of O2 at STP|10 litres of H2O2 liberates 19 mL of O2 at STP|1mL of solution of H2O2 liberates 10 mL of O2 at STP|3|
+Class 10 Chemistry|Chemistry|Set 07|Electronic Configuration of Calcium (Ca) atom may be written as______?|Ne, 4p2|Ar, 4s2|Ne, 4s2|Kr,4p2|1|
+Class 10 Chemistry|Chemistry|Set 07|Ce58 is a member of______?|S-block|P-block|d-block|f-block|3|
+Class 10 Chemistry|Chemistry|Set 07|Basicity of orthophosphoric acid is______?|2|3|4|5|1|
+Class 10 Chemistry|Chemistry|Set 07|Gypsum is______?|CaSO4|CaSO4.1/2H2O|CaSO4,2H2O|CaSO4.3H2O|2|
+Class 10 Chemistry|Chemistry|Set 07|In melting of iron, which of the following reactions takes place in Bladt Furnace at 400 deg C- 600 deg C______?|CaO+ SiO2--> CaSiO3|2FeS+3O2---> 2Fe+ SO2|FeSiO3---> FeSiO3|Fe2O3+ 3CO---> 2Fe+ 3CO2|3|
+Class 10 Chemistry|Chemistry|Set 07|Parke's process is used in the extraction of______?|Iron|Sodium|Silver|Zinc|2|
+Class 10 Chemistry|Chemistry|Set 07|Which metal is used as a reducing agent in Smelting______?|C|Zn|Al|Cu|0|
+Class 10 Chemistry|Chemistry|Set 07|A process used for the Concentration of Ore is______?|Roasting|Forth flotation|Electrolysis|Distillation|1|
+Class 10 Chemistry|Chemistry|Set 07|Which Oxide of Manganese is amphoteric?|MnO2|Mn2O3|Mn2O7|MnO|0|
+Class 10 Chemistry|Chemistry|Set 07|The purpose of Smelting an ore is to______?|Reduce it|Oxidize it|Obtain an alloy|Separate volatile impurities|0|
+Class 10 Chemistry|Chemistry|Set 07|Which set of quantum numbers is not allowed?|n=2,l=1,m1=0,ms=+1/2|n=2,l=1,m1=-1,ms=+1/2|n=2,l=0,m1=0,ms=-1/2|n=2,l=2,m1=1,ms=-1/2|3|
+Class 10 Chemistry|Chemistry|Set 07|Find the PH of a 0.001 M solution of Nitric acid HNO3?|2|3|4|5|1|
+Class 10 Chemistry|Chemistry|Set 07|Potassium Permanganate is used for purifying drinking water, because______?|It is a sterilising agent.|It dissolves the impurities of water.|It is a reducing agent.|It is an oxidising agent.|3|
+Class 10 Chemistry|Chemistry|Set 07|The chemical (Ethyl Mercaptan) added to the otherwise odourless LPG cooking gas for imparting a detectable smell to the gas is a compound of:______?|Bromine|Fluorine|Chlorine|Sulphur|3|
+Class 10 Chemistry|Chemistry|Set 07|The average salinity of sea water is______?|3%|3.5%|2.5%|2%|1|
+Class 10 Chemistry|Chemistry|Set 07|Tetraethyl lead is used as______?|Pain Killer|Fire Extinguisher|Mosquito Repellent|Petrol Additive|3|
+Class 10 Chemistry|Chemistry|Set 07|Electric bulb filament is made of______?|Copper|Aluminum|Lead|Tungsten|3|
+Class 10 Chemistry|Chemistry|Set 07|Oxidation state +1 for phosphorous is found in______?|H3PO3|H3PO4|H3PO2|H2P2O7|2|
+Class 10 Chemistry|Chemistry|Set 07|SO2 reacts with Cl in sunlight to form______?|Sulphur dioxide|Sulphuryl chloride|Suphanyl chloride|All of the above|1|
+Class 10 Chemistry|Chemistry|Set 07|Argon gas was discovered by______?|Rayleigh|Ramsay|Lockerey|Dalton|1|
+Class 10 Chemistry|Chemistry|Set 07|The number of lone pairs in XeOF4 is______?|O|1|2|3|1|
+Class 10 Chemistry|Chemistry|Set 07|The O-O linkage is present in______?|H2S2O3|H2SO8|H2S4O6|H2 S2 O6|1|
+Class 10 Chemistry|Chemistry|Set 07|Poisonous gas present in the exhaust fumes of a jet plane is______?|Flurocarbon|Carbon monoxide|Methane|C2H2|1|
+Class 10 Chemistry|Chemistry|Set 07|The formula C6H5-CO-CH3 represents______ ?|Acetone|Acetic acid|Acetophenone|Phenyl acetate|2|
+Class 10 Chemistry|Chemistry|Set 07|What is the density ofargon gas at a temperature of 30 deg C and a pressure of 1.05 atm?|1.65 g/L|1.67 g/L|1.68 g/L|None of the above|2|
+Class 10 Chemistry|Chemistry|Set 07|The number of atoms present in 21.6 gram of silver (atomic weight = 108) are same as the molecules in______?|1.8 gram of H2O|12 moles of KMnO4|0.6N H2SO4|4.6 gram of C2H5OH|1|
+Class 10 Chemistry|Chemistry|Set 07|The molecular formula for cholesterol is C27 H46 O. What are the degrees of unsaturation for this compound?|5|6|7|8|0|
+Class 10 Chemistry|Chemistry|Set 07|The most appropriate method for separating a large quantity of a mixture of nonvolatile, nonpolar organic compounds would be______?|Distillation|Extraction|Gas chromatography|Column chromatography|3|
+Class 10 Chemistry|Chemistry|Set 07|The relatively high energy of the gauche conformation of butane is primarily associated with______?|Angle strain|Torsional strain|Steric strain|Orbital strain|2|
+Class 10 Chemistry|Chemistry|Set 07|A substance is analyzed and found to have an emperical formula of CH2 and a molar mass of 56g/mole. What is the molecular formula of the compound?|C2H4|C3H6|C4H8|C5H10|2|
+Class 10 Chemistry|Chemistry|Set 07|When an aldehyde is reacted with hydrogen cyanide a " Cyanihydrin" is formed. This process is best termed as ______?|Electrophilic addition|Electrophilic substitution|Nucleophilic addition|Necleophilic substitution|2|
+Class 10 Chemistry|Chemistry|Set 07|Which of the following solvents would best facilitate an SN2 substitution reaction?|Water|Hexane|Dimethylflormamide|Ethanol|2|
+Class 10 Chemistry|Chemistry|Set 07|In a molecule of carbon monoxide, what are the formal charges on the two atoms?|Carbon=0, Oxygen=0|Carbon= +1, Oxygen= -1|Carbon= -1, Oxygen= +1|Carbon=0, Oxygen= -1|2|
+Class 10 Chemistry|Chemistry|Set 07|Which of the following aqueous solutions would have the highest boiling point?|0.20 m glucose|0.20 m NaCl|0.15 m CaCl2|0.25 m sucrose|2|
+Class 10 Chemistry|Chemistry|Set 07|The mass of 3.2 moles of ammonia (NH3) gas?|53.4 grams|54.4 grams|55.4 grams|56.4 grams|1|
+Class 10 Chemistry|Chemistry|Set 07|The molecules of which gas have highest speed?|H2 at -73oC|CH4 at 300 K|N2 at 1,027oC|O2 at 0oC|0|
+Class 10 Chemistry|Chemistry|Set 07|The law which states that the amount of gas dissolved in a liquid is proportional to its partial pressure is______?|Dalton's law|Gay Lussac's law|Henry's law|Raoult's law|2|
+Class 10 Chemistry|Chemistry|Set 08|The main buffer system of the human blood is______?|H2CO3 - HCO3|H2CO3 - CO32-|CH3COOH - CH3COO-|NH2CONH2 - NH2CONH+|0|
+Class 10 Chemistry|Chemistry|Set 08|The most commonly used bleaching agent is______?|alcohol|carbon dioxide|chlorine|sodium chlorine|2|
+Class 10 Chemistry|Chemistry|Set 08|The heat required to raise the temperature of body by 1 K is called______?|specific heat|thermal capacity|water equivalent|None of the above|1|
+Class 10 Chemistry|Chemistry|Set 08|The mass of P4O10 that will be obtained from the reaction of 1.33 gram of P4 and 5.07 of oxygen is______?|2.05 gram|3.05 gram|4.05 gram|5.05 gram|1|
+Class 10 Chemistry|Chemistry|Set 08|The octane number of zero is assigned to______?|2-methyl octane|n-heptane|iso-octane|3-methyl octane|1|
+Class 10 Chemistry|Chemistry|Set 08|The Latin word formica means ant. The name formic acid is derived from this Latin word because______?|this acid, in ancient times, was used to eliminate ant-hills|this corrosive acid is secreted by ants to drive away their enemies|this acid was first obtained by the distillation of ants|ants are attracted by the odour of this acid|2|
+Class 10 Chemistry|Chemistry|Set 08|The heat energy produced when the human body metabolises 1 gram of fat is______?|30 KJ|1 KJ|39 KJ|29 KJ|2|
+Class 10 Chemistry|Chemistry|Set 08|Which of the following phenomenon is considered responsible for Global Warming?|Greenhouse effect|Fire in coal mines|Dry farming|Monsoon|0|
+Class 10 Chemistry|Chemistry|Set 08|Which of the following orbitals has maximum penetration effect?|S|P|d|f|0|
+Class 10 Chemistry|Chemistry|Set 08|Which of the following is most soluble on water?|BaSO4|SrSO4|CaSO4|MgSO4|3|
+Class 10 Chemistry|Chemistry|Set 08|The common oxidation state of lanthanides is______?|+3|+2|+1|+4|0|
+Class 10 Chemistry|Chemistry|Set 08|Which one of the following is a bridge element?|Be|Cl|K|P|0|
+Class 10 Chemistry|Chemistry|Set 08|The element having electronic configuration [kr] 4d10, 4f14,5s2,5p6,5d1,6s2 belongs to ______?|S-Block|P-Block|d-Block|f-Block|3|
+Class 10 Chemistry|Chemistry|Set 08|Which group contains elements that exist as monoatomic molecule?|1|2|14|18|3|
+Class 10 Chemistry|Chemistry|Set 08|The concept of telluric helix was developed by______?|Lother Meyer|A.E de Chancourtois|Newland|Dobereiner|1|
+Class 10 Chemistry|Chemistry|Set 08|The law of traids is applicable to______?|Li, Be, B|F, Cl, Br|Cl, Br, I|Na, K, Rb|2|
+Class 10 Chemistry|Chemistry|Set 08|Grignard reagent gives carboxylic acid with______?|CO2|CH3CHO|COC2|HCN|0|
+Class 10 Chemistry|Chemistry|Set 08|Hydrocarbon is formed when Grignard reagent is treated with______?|H2O|CH3OH|Both a and b|None of the above|0|
+Class 10 Chemistry|Chemistry|Set 08|Which of the following haloalkane is hydrolysed by SN1 mechanism?|CH3Br|CH3CH2Br|CH3CH2CH2Br|(CH3)3CBr|3|
+Class 10 Chemistry|Chemistry|Set 08|The density of a gas is 1.964 g dm-3 at 273 K and 76 cm Hg. The gas is ______?|CH4|CO2|C2H4|Xe|1|
+Class 10 Chemistry|Chemistry|Set 08|Pressure remain constant, at which temperature the volume of gas becomes twice of what it is at 0 deg C?|546 deg C|546 K|200 deg C|273 K|1|
+Class 10 Chemistry|Chemistry|Set 08|In a closed vessel, a gas is heated from 300K to 600 K. The kinetic energy becomes______?|Double|Same|Half|Four times|0|
+Class 10 Chemistry|Chemistry|Set 08|Which of the following gases shows more ideal behaviour at 0 deg C______?|H2|CH4|He|NH3|2|
+Class 10 Chemistry|Chemistry|Set 08|The energy of one mole of photons of radiation, whose frequency is 4x10 14 Hz, is ______?|159.6kJ|135.5 KJ|110.5 KJ|80.4 KJ|0|
+Class 10 Chemistry|Chemistry|Set 08|Azimuthal quantum number defines______?|e/m ratio of an electron|Spin of an electron|Angular momentum of an electron|Magnetic momentum of an electron|2|
+Class 10 Chemistry|Chemistry|Set 08|Magnetic quantum number specifies______?|Size of orbitals|Shape of orbitals|Orientation of orbitals|All of the above|2|
+Class 10 Chemistry|Chemistry|Set 08|If R is the Rydberg constant for hydrogen, then wave-number of the second line in the Lyman series is ______?|2 R|R/2|3R/4|R/4|2|
+Class 10 Chemistry|Chemistry|Set 08|Generally the limit of visible spectrum is______?|1000 to 300 A deg|3800 to 7600 A deg|8000 to 10,000 A deg|12,000 to 15,000 A deg|1|
+Class 10 Chemistry|Chemistry|Set 08|Which one of the following is the correct sequence according to atomic weights?|Fe>Co> Ni|Co > Ni > Fe|Ni> Co> Fe|Co >Fe>Ni|1|
+Class 10 Chemistry|Chemistry|Set 08|Alpha particles can be detected by using______?|Gold foils|Barium sulphate|Zinc sulphide screen|Thin Aluminium sheet|2|
+Class 10 Chemistry|Chemistry|Set 08|When 0.01 moles of NaOH are added to a buffer solution, its PH changes from 4.745 to 4.832. What is its?|0.115|0.900|0.015|0.215|0|
+Class 10 Chemistry|Chemistry|Set 08|The PH of pure water at 25 deg C, kw=1x10-4______?|0|7|14|None of above|1|
+Class 10 Chemistry|Chemistry|Set 08|The PH of Tears is ______?|7.0|7.4|7.8|8.2|1|
+Class 10 Chemistry|Chemistry|Set 08|The PH of the 1.3 x 10-4 NH4Cl is______?|1.3|4.0|2.886|3.886|3|
+Class 10 Chemistry|Chemistry|Set 08|The PH of the 0.0032 M H2SO4 is______?|3.2|4.0|2.198|1.0|0|
+Class 10 Chemistry|Chemistry|Set 08|The compound (CH3)3COH according to IUPAC is known as ______?|Tert-Butanol|2,2-Dimethyl-propanol|Tert Alcohol|1,1- Diethylethanol|1|
+Class 10 Chemistry|Chemistry|Set 08|The IUPAC name of HCONH2 is______?|Methanamide|Methanoylamine|Aminoethanol|Formanide|0|
+Class 10 Chemistry|Chemistry|Set 08|The IUPAC name of ethylene oxide is______?|Epoxy methane|Oxoethene|Methoxymethane|Oxirane|1|
+Class 10 Chemistry|Chemistry|Set 08|The IUPAC suffix used for ______ NC group?|Cyanide|Isocyanides|Nitrile|Carbylamines|2|
+Class 10 Chemistry|Chemistry|Set 08|The molar mass of an organic acids is determined by______?|Depression of freezing point|Volumetric method|Victor Meyer's method|Osmosis method|1|
+Class 10 Chemistry|Chemistry|Set 08|Beillstein test is used for______?|Cl|N2|CO2|CO|0|
+Class 10 Chemistry|Chemistry|Set 08|The stationary and mobile phases in paper chromatography are______?|Liquid/liquid|Solid/liquid|Liquid/solid|Liquid/gas|1|
+Class 10 Chemistry|Chemistry|Set 08|The bond length of C=C is______?|1.20A deg|1.34A deg|1.54A deg|1.68A deg|3|
+Class 10 Chemistry|Chemistry|Set 08|The bond angle between hybrid orbitals in methane CH3 is______?|115.5 deg|109.5 deg|105. 7 deg|180 deg|1|
+Class 10 Chemistry|Chemistry|Set 08|Chlorine Cl when attached to benzene has______?|+I and +R effect|-1 and +R effect|+1 and -R effect|-I and -R effect|1|
+Class 10 Chemistry|Chemistry|Set 08|Which one of the following is most acidic?|Phenol|P-nitrophenol|O-nitrophenol|M-nitrophenol|1|
+Class 10 Chemistry|Chemistry|Set 08|Which of the following effects best explains that o-nitrophenol is insoluble in water?|Inductive effect|Resonance effect|Intermolecular H-bonding|Isomeric effect|2|
+Class 10 Chemistry|Chemistry|Set 08|The carbon-carbon bond strength is maximum in______?|CH3CH3|CH2=CH2|Benzene|Cyclohexane|0|
+Class 10 Chemistry|Chemistry|Set 08|Which one of the following is caustic potash?|NaOH|KOH|NaCl|NaBH4|1|
+Class 10 Chemistry|Chemistry|Set 08|______ surfactants perform well over a wide range water hardness and PH?|Anionic|Cationic|Nonionic|Neutral|2|
+Class 10 Chemistry|Chemistry|Set 09|Polyethylene Glycols are used in the preparation of which type of detergents?|Cationic detergents|Anionic detergents|Non-ionic detergents soap|All of above|2|
+Class 10 Chemistry|Chemistry|Set 09|The by-product of the process of Saponification is______?|Methanol|Glycol|Glycerol|Sodium hydroxide|2|
+Class 10 Chemistry|Chemistry|Set 09|Which of the following statements is false about transition metals?|They form complexes|They show variable valency|All transition metal compounds are paramagnetic|They form coloured ions|2|
+Class 10 Chemistry|Chemistry|Set 09|Colour in transition metal compounds is attributed to______?|Small sized metal ions|Absorption of light in UV region|Complete ns sub-shell|Incomplete (n-1) d sub-shell|3|
+Class 10 Chemistry|Chemistry|Set 09|The maximum oxidation shown by manages is______?|+2|+4|+5|+7|3|
+Class 10 Chemistry|Chemistry|Set 09|Which of the following is soluble in water?|AgF|AgCl|AgBr|AgI|0|
+Class 10 Chemistry|Chemistry|Set 09|Which of the following alloys contain(s) Cu and Zn?|Bronze|Brass|Gun-metal|Type metal|1|
+Class 10 Chemistry|Chemistry|Set 09|Transition elements, in general, exhibit the following properties, except one. Name that property?|Variable oxidation state|Natural Radioactivity|Tendency to form complexes|Formation of alloys|1|
+Class 10 Chemistry|Chemistry|Set 09|The substance used in cancer therapy is______?|Fe|Co|Ni|Rn|1|
+Class 10 Chemistry|Chemistry|Set 09|If steel is heated to a temperature well below red heat and is then cooled slowly, the process is called______?|Annealing|Quenching|Tempering|Nitriding|0|
+Class 10 Chemistry|Chemistry|Set 09|Carbon in wrought iron is present as______?|Silicon carbide|Iron carbide|Graphite|Partly as iron carbide and partly as graphite|1|
+Class 10 Chemistry|Chemistry|Set 09|Stainless steel contains______?|Fe+Cr+Ni|Fe+Ni+Cu|Fe+ Cr+Cu|Cu+C+Ni|0|
+Class 10 Chemistry|Chemistry|Set 09|A theoretical link between quantum mechanics and thermodynamics is______?|Electrchemistry|Matrix mechanics|Statistical thermodynamics|Soectroscopic analysis|2|
+Class 10 Chemistry|Chemistry|Set 09|For a given mass of a gas at constant temperature, if the value V becomes 3 times, the pressure will becomes______?|3P|P/3|3P/T|6P|1|
+Class 10 Chemistry|Chemistry|Set 09|The reciprocal of the coefficent of viscosity is called______?|Density|Specific gravity|Fluidity|Absorbance|2|
+Class 10 Chemistry|Chemistry|Set 09|The science of fermentation is called ______ ?|Zygology|Zymology|Zymurgy|Zootaxy|1|
+Class 10 Chemistry|Chemistry|Set 09|The Branch of chemistry dealing with brewing and distilling is called ______ ?|Zygology|Zymology|Zymurgy|Zootaxy|2|
+Class 10 Chemistry|Chemistry|Set 09|What is the molecular Weight of Nitric acid (HNO3 ) ?|63.012 g/mol|65.012 g/mol|70.012 g/mol|81.011 g/mol|0|
+Class 10 Chemistry|Chemistry|Set 09|What is the molecular formula for Nitric acid ______ ?|HNO2|HNO3|HN2O2|H2NO4|1|
+Class 10 Chemistry|Chemistry|Set 09|The discovery of neutron became very late because ______ ?|It does not carry any charge|It does not move|It is a fundamental particle|It is present in nucleus|0|
+Class 10 Chemistry|Chemistry|Set 09|The absolute value of charge on electron was determined by ______ ?|J.J.Thomson|Chadwick|Rutherford|Robert Millikan|3|
+Class 10 Chemistry|Chemistry|Set 09|What is the molecular weight of Ammonia (NH3) ______ ?|17.031 g/mol|18.031 g/mol|19.031 g/mol|27.033 g/mol|0|
+Class 10 Chemistry|Chemistry|Set 09|Sum of protons and neutrons in an atom gives off ______ ?|Nucleon numbera|Mass number|Atomic number|Both A and B|3|
+Class 10 Chemistry|Chemistry|Set 09|Which among the following is not a property of Ionic bond ______?|Sharing of electrons|Transfer of electrons|Losing of electrons|Gain of electrons|0|
+Class 10 Chemistry|Chemistry|Set 09|Permanent hardness of water due to sulphate of metals can be destroyed by the use of ______ ?|Zeolites|Sulphonides|Lime|Nitrates|0|
+Class 10 Chemistry|Chemistry|Set 09|What is the Chemical formula of Zinc Hydroxide ______ ?|Zn(OH)2|ZNO2|Zn2(OH)3|ZnOH|0|
+Class 10 Chemistry|Chemistry|Set 09|The valency of carbon Atom is ______ ?|1|2|3|4|3|
+Class 10 Chemistry|Chemistry|Set 09|Which law states that the rate of the effusion of a gas is inversely proportional to the square root of its density?|Graham's Law|Gay-Lussac's law|Boyle's law|None of these|0|
+Class 10 Chemistry|Chemistry|Set 09|Which law states that the volume of a given amount of gas held at constant pressure is directly proportional to the Kelvin temperature?|Charles' Law|Avogadro's Law|Graham's Law|Boyle's law|0|
+Class 10 Chemistry|Chemistry|Set 09|Which law states that "equal volumes of all gases, at the same temperature and pressure, have the same number of molecules?|Boyle's law|Charles' law|Gay-Lussac's law|Avogadro's law|3|
+Class 10 Chemistry|Chemistry|Set 09|Which of the following noble gases is abundant in air?|Neon|Helium|Argon|Methane|2|
+Class 10 Chemistry|Chemistry|Set 09|Which of the following noble gases is not present in atmosphere?|Argon|Helium|Radon|Xenon|2|
+Class 10 Chemistry|Chemistry|Set 09|The easy way of balancing the chemical equation is______?|according to atom's atomic number.|According to atom's atomic mass.|First we balance Metal than non-metal than Hydrogen than Oxygen.|None of the above|2|
+Class 10 Chemistry|Chemistry|Set 09|Which one of the following is also known as lactic acid ?|3-Hydroxy propanoic acid|2-Hydroxy propanoic acid|2-hydroxy butanoic acid|3-hydroxy butanoic acid|1|
+Class 10 Chemistry|Chemistry|Set 09|Ethers show functional group isomerism with ______?|aldehydes|ketones|alcohols|carboxylic acid|2|
+Class 10 Chemistry|Chemistry|Set 09|Which one of the following compound does not have - OH group______?|ethylene glycol|glycerol|picric acid|ethyl acetate|3|
+Class 10 Chemistry|Chemistry|Set 09|When alcohol reacts with phosphorous halides it geive______?|alkyl halides|alkyl amine|alkanes|alkynes|0|
+Class 10 Chemistry|Chemistry|Set 09|An alcohol which can be prepared by fermentation is______?|CH3OH|C3H7OH|CH3 - CH2 - OH|C6H5OH|2|
+Class 10 Chemistry|Chemistry|Set 09|Methyl alcohol is not used______?|As a solvent|As an antifreezing agent|As a substitute for petrol|For denaturing of ethyl alcohol|2|
+Class 10 Chemistry|Chemistry|Set 09|Which compound shows hydrogen bonding ?|C2H6|C2H5Cl|CH3OCH3|C2H5OH|3|
+Class 10 Chemistry|Chemistry|Set 09|When phenol is heated with concentrated nitric acid the product is______?|Picric acid|o-nitrophenol|1 3 5 -trinitro benzene|p-nitrophenol|0|
+Class 10 Chemistry|Chemistry|Set 09|The given dissociation constant (Ka) value 1.3x10-10 is of______?|Alcohol|Acetic acid|Water|Phenol|3|
+Class 10 Chemistry|Chemistry|Set 09|The distinction test for primary secondary and tertiary alcohol required to react each of them is______?|Cone. HCI and anhydrous SOCl2|Cone. HCI and anhydrous CaCl2|Cone. HCI and anhydrous PCl2|Cone. HCI and anhydrous ZnCl2|3|
+Class 10 Chemistry|Chemistry|Set 09|The oxidation of isopropyl alcohol will yield______?|propane|Propanol|Propanone|Propanoic acid|2|
+Class 10 Chemistry|Chemistry|Set 09|The rectified spirit contains______?|12% alcohol|90% alcohol|95% alcohol|100% alcohol|2|
+Class 10 Chemistry|Chemistry|Set 09|The formula of starch is______?|C12H22O11|C6H10O5|(C6H10O5)n|C6H12O6|2|
+Class 10 Chemistry|Chemistry|Set 09|Which one of the following alcohol has greater boiling point______?|ethanol|ethylene glaycol|glycerol|methanol|2|
+Class 10 Chemistry|Chemistry|Set 09|Ethanol and methanol can be distinguished by a______?|Iodoform test|Lucas test|Benedicts test|Tollens test|0|
+Class 10 Chemistry|Chemistry|Set 09|The hydrogenation of phenol in the presence of Ni and heat gives______?|cyclohexane|n - hexane|1 - hexanol|cyclohexanol|3|
+Class 10 Chemistry|Chemistry|Set 09|Phenol was isolated by Runge from______?|vegetable oil|coaltar|wood|none of these|1|
+Class 10 Chemistry|Chemistry|Set 10|Absolute alcohol is obtained when rectified spirit is treated with______?|Ca(OH)2|CaCO3|CaCl2|CaO|3|
+Class 10 Chemistry|Chemistry|Set 10|Methanol can be obtained from______?|water gas|destructive distillation of wood|methane|all|3|
+Class 10 Chemistry|Chemistry|Set 10|Ethanol can be converted into ethanoic acid by______?|Hydrogenation|Hydration|Oxidation|Fermentation|2|
+Class 10 Chemistry|Chemistry|Set 10|Treating phenol with formaldehyde in the presence of dilute base forms Bakelite. The process involved is______?|oxidation|elimination|condensation polymerization|additional polymertization|2|
+Class 10 Chemistry|Chemistry|Set 10|Heating phenol with Zn will yield______?|Benzene|Benzoic acid|Phenoxide|Cyclohexane|0|
+Class 10 Chemistry|Chemistry|Set 10|Which compound is also known by the name of carbolic acid ?|C2H2OH|H2CO3|C6H5OH|H3PO3|2|
+Class 10 Chemistry|Chemistry|Set 10|Which alcohol will undergo elimination reaction to give alkene in the presence of acidic potassium dichromate ?|Primary alcohol|Secondary alcohol|Tertiary alcohol|All of above|2|
+Class 10 Chemistry|Chemistry|Set 10|K2Cr2O7/H2SO4 generate______?|Oxygen|Hydrogen|Nascent oxygen[O]|Nascent hydrogen[H]|2|
+Class 10 Chemistry|Chemistry|Set 10|The process of fermentation of starch involve many enzymes the sequence of enzymes used are______?|Diastase-maltase-zymase|Zymase-maltase-diastase|Maltase-diastase-zymase|Diastase-zymase-maltase|0|
+Class 10 Chemistry|Chemistry|Set 10|The residue obtained after the crystallization of sugar from concentrated sugar cane juice is called______?|Mother liquor|Filterate|Extract|Molasses|3|
+Class 10 Chemistry|Chemistry|Set 10|Which one of the following is also known as tartaric acid ?|2 3-dihydroxy butance 1 4 -dioic acid|2 3 -dihydroxy butanedioic acid|2 3 -dihydroxy butanioc acid|2 2 -dihydroxy butanoic acid|0|
+Class 10 Chemistry|Chemistry|Set 10|Which one of the following is termed as benzul alcohol ?|C6H5OH|C6H5CH(OH)2|C6H5CH2OH|C6H5COOH|2|
+Class 10 Chemistry|Chemistry|Set 10|Alkyl halides undergo a type of reaction______?|Nucleophilic substitution|Nucleophilic addition|Elimination|both A & C|3|
+Class 10 Chemistry|Chemistry|Set 10|Ethylene epoxide treated with Grignards reagent followed by acid hydrolysis yield ______?|primary alcohol|secondary alcohol|tertiary alcohol|dihydric alcohol|0|
+Class 10 Chemistry|Chemistry|Set 10|Which one of the following reactants will be required to form straight chain alcohol by using Grignard reagent______?|formaldehyde|ketone|ethylene epoxide|both A & C|3|
+Class 10 Chemistry|Chemistry|Set 10|Alkyl halides are considered to be very reactive compounds towards nucleophile because______?|they have an electrophilic carbon|they have an electrophilic carbon & a good leaving group|they have an electrophilic carbon & a bad leaving group|they have a nucleophilic carbon & a good leaving group|1|
+Class 10 Chemistry|Chemistry|Set 10|For which mechanisms the first step involved is the same ?|E1 + E2|E2 + SN2|E1 and SN1|SN1 and SN2|2|
+Class 10 Chemistry|Chemistry|Set 10|SN2 reaction can be best carried out with______?|primary alkyl halide|secondary alkyl halide|tertiary alkyl halide|all|0|
+Class 10 Chemistry|Chemistry|Set 10|When CO2 is made to react with ethyl magnesium iodide followed by acid hydrolysis the product formed is ______?|propane|propanoic acid|propanal|propanol|1|
+Class 10 Chemistry|Chemistry|Set 10|When two moles of ethyl chloride react with two moles of sodium in the presence of ether what will be formed ?|2 moles of ethane|1 mole of ethane|2 moles of butane|1 mole of butane|3|
+Class 10 Chemistry|Chemistry|Set 10|Which alkyl halide out of the following may follow both SN1 and SN2 mechanism ?|CH3-X|(CH3)3 C-CH2 - X|(CH3)2 CH - X|(CH3)3 C - X|2|
+Class 10 Chemistry|Chemistry|Set 10|Which one is not a nucleophile ?|C2H5O-|SCN-|NH3|H3C+|3|
+Class 10 Chemistry|Chemistry|Set 10|Which alkyl halide has the highest reactivity for a particular alkyl group ?|R-F|R-C|R-Br|R-I|3|
+Class 10 Chemistry|Chemistry|Set 10|50% inversion of configuration of molecules take place in a______?|E1 - reaction|E2 - reaction|SN1 - reaction|SN2 - reaction|2|
+Class 10 Chemistry|Chemistry|Set 10|The best method of preparation of alkyl halides is a reaction of alcohol with______?|Zn / HCI|SOCl2 / Pyridine|PCI3|PCI5|1|
+Class 10 Chemistry|Chemistry|Set 10|In primary alkyl halides the halogen atom is attached to a carbon which is further attached to how many carbon atoms______?|two|three|one|four|2|
+Class 10 Chemistry|Chemistry|Set 10|Which one of the following molecules does not form alcohol when reacts with Grignard reagent ?|formaldehyde|acetaldehyde|propanone|carbondioxide|3|
+Class 10 Chemistry|Chemistry|Set 10|Which one of the following alcohols will be formed when ethyl magnesium bromide reacts with acetone ?|primary alcohol|secondary alcohol|tertiary alcohol|dihydric alcohol|2|
+Class 10 Chemistry|Chemistry|Set 10|Which one of the following species is not an electrophile ?|NH3|Br+|H+|BF3|0|
+Class 10 Chemistry|Chemistry|Set 10|The ether used in Wurtz synthesis is______?|acidic|basic|aqueous|dry|3|
+Class 10 Chemistry|Chemistry|Set 10|Grignard reagent is reactive due to______?|the presence of halogen atom|the presence of magnesium atom|the polarity of C-Mg bond|all|2|
+Class 10 Chemistry|Chemistry|Set 10|Elimination bimolecular reactions involve______?|first order kinetics|second order kinetics|third order kinetics|zero order kinetics|1|
+Class 10 Chemistry|Chemistry|Set 10|The rate of E1 reaction depends upon______?|the concentration of substrate|the concentration of nucleophile|the concentration of substrate as well as nucleophile|base the concentration of substrate as well as nucleophile|0|
+Class 10 Chemistry|Chemistry|Set 10|What is the order of kinetics in the SN1 mechanism ?|Zero|First|Second|Third|1|
+Class 10 Chemistry|Chemistry|Set 10|What will be the order of reaction of a reaction whose rate can be expressed as R = K [A] [B] ?|Zero|One|Two|Three|2|
+Class 10 Chemistry|Chemistry|Set 10|The number of molecules taking part in the rate determining step is called______?|Order of reaction|Rate of reaction|Mole of a reaction|Extent of a reaction|0|
+Class 10 Chemistry|Chemistry|Set 10|Ethyl chloride with nascent hydrogen produces______?|methane|ethane|propane|butane|1|
+Class 10 Chemistry|Chemistry|Set 10|Which C-X bond has the highest bond energy per mole ?|C-F|C-C|C-Br|C-I|0|
+Class 10 Chemistry|Chemistry|Set 10|Vinylacetylene combines with HCI to form______?|polyacetylene|benzene|chloroprene|divinyl acetylene|2|
+Class 10 Chemistry|Chemistry|Set 10|Raney nickel is prepared from ______ by treating with caustic soda?|Ni-Cu alloy|Ni-Fe alloy|Ni-Al alloy|Ni-Mg alloy|2|
+Class 10 Chemistry|Chemistry|Set 10|Reactivity due to pi-electrons is present in______?|alkane|alkene|alkyne|both B & C|3|
+Class 10 Chemistry|Chemistry|Set 10|Removal of halogen and hydrogen atom is______?|halogenation|dehalogenation|dehydrohalogenation|hydrohalogenation|2|
+Class 10 Chemistry|Chemistry|Set 10|Order of ease of halogenation in alkane is______?|I2>Cl2>Br2>F2|F2>Cl2>I2>Br2|F2>Cl2>Br2>I2|Cl2>F2>Br2>I2|2|
+Class 10 Chemistry|Chemistry|Set 10|Incomplete oxidation of methane in the limited supply of air forms ?|CO2 and H2O|CH3OH|CO + H2 + C|CO + H2O + C|1|
+Class 10 Chemistry|Chemistry|Set 10|Upto ______ C atoms alkanes are gases?|2|3|4|6|2|
+Class 10 Chemistry|Chemistry|Set 10|Dehalogenation of ethyl tetrahalide will give______?|ethene|ethyne|ethyl halide|all of the above are possible|1|
+Class 10 Chemistry|Chemistry|Set 10|Soda lime is a mixture of______?|CaO and KOH|CaO and NaOH|NaOH and Na2O|Na2O and KOH|1|
+Class 10 Chemistry|Chemistry|Set 10|Clemmensens reduction infolves the reduction of______?|ketone|aldehyde|alkane|all of the above|0|
+Class 10 Chemistry|Chemistry|Set 10|Sabatier Senderns reaction involve ______ in presence of Ni?|Aalkene & H2|alkene & O2|alkene & N2|alkyne & Cl2|0|
+Class 10 Chemistry|Chemistry|Set 10|When one hydrogen atom of alkane is removed then it is called______?|alkene|alkyl|aldehyde|saturated hydrocarbon|1|
+Class 10 Chemistry|Chemistry|Set 11|Which is methyl cyanide______?|CH3NH2|CH3NO2|CH3CN|CH2 = CH - CN|2|
+Class 10 Chemistry|Chemistry|Set 11|Preparation of vegetable ghee involves______?|halogenation|hydroxylation|hydrogenation|hydration|2|
+Class 10 Chemistry|Chemistry|Set 11|Which is used for artificial ripening of fruit ?|ethane|ethene|ethyne|methane|1|
+Class 10 Chemistry|Chemistry|Set 11|Which one is Chloroform______?|CH2Cl2|CH3Cl|CHCl3|CCl4|2|
+Class 10 Chemistry|Chemistry|Set 11|In unsaturated hydrocarbons electrons favour______?|less reactivity|addition reactions|substitution reactions|none|1|
+Class 10 Chemistry|Chemistry|Set 11|Alkenes are produced from dehalogenation of______?|dihalo alkane|trihalo alkane|vicinal dihalo alkane|vicinal trihalo alkane|2|
+Class 10 Chemistry|Chemistry|Set 11|Which of the following will be acidic______?|propyne|1-butyne|ethyne|all of the above|3|
+Class 10 Chemistry|Chemistry|Set 11|The gas used in manufacturing of urea fertilizer______?|C2H6|C2H4|C2H2|CH4|3|
+Class 10 Chemistry|Chemistry|Set 11|Introduction of nitro group in a molecule is called______?|nitration|halogenation|sulphonation|amination|0|
+Class 10 Chemistry|Chemistry|Set 11|Which of the following is the most reactive______?|ethane|ethyne|ethene|benzene|2|
+Class 10 Chemistry|Chemistry|Set 11|R-Mg-Br is called______?|Grignard reagent|Metallic alkyl halide|Both A & B|Alkyl|2|
+Class 10 Chemistry|Chemistry|Set 11|Molozonide is unstable and changes into ozonide on______?|reduction|oxidation|hydrolysis|rearrangement|3|
+Class 10 Chemistry|Chemistry|Set 11|Removal of CO2 is called______?|carboxylation|decarboxylation|esterification|hydroxylation|1|
+Class 10 Chemistry|Chemistry|Set 11|Hydrogenolysis results in the formation of______?|alkane|alkene|alkyne|aldehydes|0|
+Class 10 Chemistry|Chemistry|Set 11|Alkanes are also known as______?|saturated hydrocarbon|unsaturated hydrocarbon|paraffins|both A & C|2|
+Class 10 Chemistry|Chemistry|Set 11|Alkanes containing a methyl group on main chain at 2nd carbon are called______?|iso-alkane|normal-alkane|neo-alkane|branched-alkane|0|
+Class 10 Chemistry|Chemistry|Set 13|Ozonolysis of benzene produces______?|Glycol|Glyoxal|Vicinal diol|Both B & C|1|
+Class 10 Chemistry|Chemistry|Set 13|The preparation of benzene from acetylene can also be said as______?|Oxidation|Polymerization|Dehydration|Condensation|1|
+Class 10 Chemistry|Chemistry|Set 13|Benzene is heated in air with V2O5 at 450 deg C it undergoes______?|Substitution reaction|Addition reaction|Elimination reaction|Oxidation reaction|3|
+Class 10 Chemistry|Chemistry|Set 13|Nitronium ion is______?|NO3|NO|NO2-|NO2+|3|
+Class 10 Chemistry|Chemistry|Set 13|Benzene does not undergo______?|Substitution reaction|Addition reaction|Polymerization reactions|Oxidation reactions|2|
+Class 10 Chemistry|Chemistry|Set 13|Acetophenone is a______?|Ether|Ketone|Aldehyde|Ester|1|
+Class 10 Chemistry|Chemistry|Set 13|Which is fused cyclic aromatic compound ______?|diphenyl amine|diphenyl methane|naphthalene|biphenyl|2|
+Class 10 Chemistry|Chemistry|Set 13|Mixture of catalysts Cr2O3 + A?2O3 + SiO2 at 500?C are used when benzene is prepared from______?|acetylene|N-hexane|Benzene sulphonic acid|Sodium benzoate|1|
+Class 10 Chemistry|Chemistry|Set 13|Chlorination of toluene in the presence of sublight produces______?|Benzyl chloride|o - chlorotoluene|p - chlorotoluene|benzoic acid|0|
+Class 10 Chemistry|Chemistry|Set 13|By which method the molecular mass of benzene was determined as 78.108 ?|Specific gravity method|Vapour density method|X-ray diffraction method|Distillation methos|1|
+Class 10 Chemistry|Chemistry|Set 13|Nitration of chlorobenzene gives______?|o - chloronitrobenzene|p - chloronitrobenzene|m - chloronitrobenzene|A & B|3|
+Class 10 Chemistry|Chemistry|Set 13|Aniline is a derivative of benzene which contains______?|Imino group|Amino group|Amide group|Nitro group|1|
+Class 10 Chemistry|Chemistry|Set 13|In benzene sulphonic acid the sulphonic group is attached with benzene ring through ______?|Hydrogen|Oxygen|Sulphur|OH|2|
+Class 10 Chemistry|Chemistry|Set 13|The hydrolysis of Benzenetrizonide will yield three moles of______?|Glyoxime|Benzaldehyde|Glycol|Glyoxal|3|
+Class 10 Chemistry|Chemistry|Set 13|What is the molecular formula of Benzenetriozonide ?|C6H6O9|C6H5O8|C6H5O9|C6H6O6|0|
+Class 10 Chemistry|Chemistry|Set 13|Which compound form benzoic acid on oxidation with acidified KMnO4 or K2Cr2O7 ?|Toluene|Ethyl benzene|n-propyl benzene|All|3|
+Class 10 Chemistry|Chemistry|Set 13|Replacement of hydrogen of benzene by alkyl group in the presence of alkyl halide & aluminum chloride is known as______?|Dows process|Friedel & Craft acylation|Friedel & Craft alkylation|Clemmenson reduction|2|
+Class 10 Chemistry|Chemistry|Set 13|Which one of the following statement is not correct about benzene ?|On hydrogenation 208 KJ/mole is liberated|C-H bond length in benzene is 1.09 A?|Molecular mass of benzene is 78.108|Resonance energy of benzene is 150.5 K Cal/mole|3|
+Class 10 Chemistry|Chemistry|Set 13|Which compound will readily undergo sulphonation ?|Benzene|Nitro benzene|Toluene|Chlorobenzene|2|
+Class 10 Chemistry|Chemistry|Set 13|During sulphonation of benzene H2SO4 generates the electrophile ______?|HSO4-|SO2|SO3|H+|2|
+Class 10 Chemistry|Chemistry|Set 13|Reacting bromine with benzene in the presence of sunlight will result in______?|The rupturing of benzene ring|Substitution reaction|Addition reaction|No-reaction|2|
+Class 10 Chemistry|Chemistry|Set 13|Which one of the following methods will not give benzene ?|Heating sod. Salt of Benzoic acid with soda lime|Distilling phenol with Zn dust|Chlorobenzene with NaOH at 360 deg C & 150atm.|Hydrolysis of benzene sulphonic acid with super heated steam|2|
+Class 10 Chemistry|Chemistry|Set 13|What catalyst is employed when benzene is prepared from acetylene at 70 deg C?|Cr2O3 + A2O3 + SiO2|Raney nickel|Organo-nickel|Ni 250 - 300 deg C|2|
+Class 10 Chemistry|Chemistry|Set 13|The resonance energy of benzene is______?|150.5 kJ/mol|250.5 kJ/mol|150.5 Cal/mol|250.5 Cal/mol|0|
+Class 10 Chemistry|Chemistry|Set 13|How many moles of H2 are added up when benzene is heated with hydrogen in the presence of platinum ?|Two|Three|Four|Six|1|
+Class 10 Chemistry|Chemistry|Set 13|Michael Faraday discovered benzene in the gas which was produced by destructive distillation of vegetable oil that is done in______?|The presence of Oxygen|The presence of Hydrogen|The absence of Oxygen|The presence of excessive Oxygen|2|
+Class 10 Chemistry|Chemistry|Set 13|When benzene is substituted by halogens only which one of the following halogens only which one of the following halogens is given the number one position in the ring while writing the name of compound ?|Bromine|Chlorine|Fluorine|Iodine|3|
+Class 10 Chemistry|Chemistry|Set 13|How many electrons are there in benzene to form delocalized electron cloud______?|3|4|6|8|2|
+Class 10 Chemistry|Chemistry|Set 13|Phenanthrene is a fused polycyclic compound contains ______ benzene rings ?|Two|Three|Four|Five|1|
+Class 10 Chemistry|Chemistry|Set 14|In base catalyzed reaction of carbonyl compound the catalyst______?|increases the nucleophilic character of reagent|increases electrophilic character of carbonyl compound|acidic character of reagent|both a and b|0|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following is a symmetrical ketone______?|3 - hexanone|acetone|butanone|2-pentanone|1|
+Class 10 Chemistry|Chemistry|Set 14|Which one exhibits aldol condensation______?|HCHO|C6H5CHO|Cl3CCHO|CH3COCH3|3|
+Class 10 Chemistry|Chemistry|Set 14|Acetaldehyele cyanohydrin on acid hydrolysis yields______?|Tartaric acid|Propanoic acid|Lactic acid|Valeric acid|2|
+Class 10 Chemistry|Chemistry|Set 14|Ethanal is prepared industrially by air oxidation of ethylene using palladium chloride as catalyst and ______ as promoter?|PdCl2|Cu2Cl2|CuCl2|PbCl2|2|
+Class 10 Chemistry|Chemistry|Set 14|Aldehyde and ketone have same general formula for homologous series______?|CnH2nO2n|CnH2n|CnH2nO|CnH2nOn+1|2|
+Class 10 Chemistry|Chemistry|Set 14|Formalin consists of mixture of formaldehyde methyl alcohol and water Percentage of water in it is______?|60%|50%|52%|8%|2|
+Class 10 Chemistry|Chemistry|Set 14|Formula of haloform is______?|HCOX|CX4|CHX3|CH3X|2|
+Class 10 Chemistry|Chemistry|Set 14|Formaldehyde and lactose are combined to produce throat lozenges named as______?|formamint|lactomint|aldomint|formalactose|0|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following do not give aldol condensation reactions ?|formaldehyde|acetaldehyde|diemthyl ketone|propionaldehyde|0|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following reagents will react with both aldehydes and ketones ?|Grignard reagent|Tollens reagent|Fehlings reagent|Benedicts reagent|0|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following reactions may be assoclated with aldehyde and ketone ?|nucleophile addition|polymerization|oxidation|all of the above|3|
+Class 10 Chemistry|Chemistry|Set 14|Acetone reacts with HCN to form a cyanohydrin. It is an example of______?|electronphilic addition|electrophilic substitution|nucleophilic addition|nucleophilic substitution|2|
+Class 10 Chemistry|Chemistry|Set 14|Formalin is ______ solution of formaldehyde in water?|10%|20%|40%|60%|2|
+Class 10 Chemistry|Chemistry|Set 14|The carbon atom of carbonyl group is______?|sp hybridized|sp2 hybridized|cp3 hybridized|dsp2 hybridized|1|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following will have the highest boiling point ?|methanol|ethanal|propanal|hexanone|3|
+Class 10 Chemistry|Chemistry|Set 14|Iodoform test can be used to distinguish between______?|ethanol and methanol|acetaldehyde and methanal|acetone and diethyl ketone|all of the above|3|
+Class 10 Chemistry|Chemistry|Set 14|Cannizaros reaction takes place through the transfer of ______ from complex anion?|hydrogen ion|hydride ion|oxide ion|methoxide ion|1|
+Class 10 Chemistry|Chemistry|Set 14|Dry distillation of calcium acetate results in the formation of______?|formaldehyde|acetaldehyde|methane|acetone|3|
+Class 10 Chemistry|Chemistry|Set 14|Tetrahydroborate ion is the source of______?|proton|H+|both A & amp; B|H-|3|
+Class 10 Chemistry|Chemistry|Set 14|Acetal on acid hydrolysis generates______?|Alcohol|Ketone|Both A & B|None of the above|2|
+Class 10 Chemistry|Chemistry|Set 14|Ncleophilic addition reactions are catalysed______?|Acid|Base|Both A and B|None|2|
+Class 10 Chemistry|Chemistry|Set 14|Oxidation of primary alcohol gives______?|ketone|Aldehyde|Alkene then - COOH|Ester|1|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following compounds has the empirical formula CH2O and reacts with sodium hydroxide ?|carbonic acid|ethanol|acetic acid|methanoic acid|2|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following will not give addition reaction with NaHSO3______?|HCHO|CH3CHO|CH3-CH2-CHO|None of the above|2|
+Class 10 Chemistry|Chemistry|Set 14|Formaldehyde condenses with phenol in the presence of dilute H2SO4 to yield______?|Nylon 66|urotropine|Aniline formaldehyde plastic|Bakelite|3|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following is not a use of acetaldehyde ?|formation of phenolic resins|formation of mirror|antiseptic inhalant|formation of throat lozenges|3|
+Class 10 Chemistry|Chemistry|Set 14|Which of the following is not a use of formaldehyde ?|in silvery mirror|in making medicine urotropine|in making throat lozenges|in making acetic acid|3|
+Class 10 Chemistry|Chemistry|Set 15|Ketones are comparatively less reactive than aldehdye. It is due to______?|alkyl groups are electron donating|steric hindrance|Both A and B|none|2|
+Class 10 Chemistry|Chemistry|Set 15|Cannizzaros reaction is not given by______?|formaldehyde|acetaldehyde|benzaldehyde|trimethyl acetaldehyde|1|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following compounds will react with Tollens reagent ?|CH3-CHO|CH3-CH-CH3|CH3-COOH|CH3-CO-CH2-CH3|0|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following substances does not give iodoform test ?|acetaldehyde|ethyl alcohol|methyl alcohol|acetone|2|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following reaction is not shown by ketones ?|reaction with HCN|reaction with NaHSO3|reaction with 2 4 dinitrophenyl hydrazine|reaction with Fehling solution|3|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following aldehydes shows rapid reaction with sodium nitroprusside ?|formaldehyde|accetaldehyde|benzaldehyde|acetone|3|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following is not an amino acids______?|glumatic acid|lactic acid|aspartic acids|glycine|1|
+Class 10 Chemistry|Chemistry|Set 15|The reaction of carboxylic acids with alcohols in presence of cone. H2SO4 is called ______?|esterification|neutralization|hydrolysis|saponification|0|
+Class 10 Chemistry|Chemistry|Set 15|Carboxylic acid on reduction with HI / phosphorous yields______?|alkane|alcohols|aldehydes|ketones|0|
+Class 10 Chemistry|Chemistry|Set 15|An acid with unpleasant smell______?|formic acid|acetic acid|propionic acid|butyric acid|3|
+Class 10 Chemistry|Chemistry|Set 15|The aliphatic monocarboxylic acids are obtained by the hydrolysis of______?|proteins and oild|fats and proteins|fats and oils|all above|2|
+Class 10 Chemistry|Chemistry|Set 15|The formula of palmitic acid______?|C15H31COOH|C13H27COOH|C17H33COOH|C17H35COOH|0|
+Class 10 Chemistry|Chemistry|Set 15|The organic acid that can be made from ethanol is______?|Acetic acid|Formic acid|Butanoic acid|Citric acid|0|
+Class 10 Chemistry|Chemistry|Set 15|Glycine is the name of an amino acid because______?|Sweet taste|Bitter taste|Shining appearance|Green colour|0|
+Class 10 Chemistry|Chemistry|Set 15|Which one of following amino acid is neither acidic nor a basic in nature ?|Lysine|Histidine|Proline|Glutamic acid|2|
+Class 10 Chemistry|Chemistry|Set 15|Which one of the following acids is present in lemon juice ?|Citric acid|Benzoic acid|Tartaric acid|Oxalic acid|0|
+Class 10 Chemistry|Chemistry|Set 15|The term internal salt refers to______?|Acidic character of amino acids|Basic character of amino acids|Dipolar character of amino acids|Non-polar structure of amino acids|2|
+Class 10 Chemistry|Chemistry|Set 15|Acidic amino acids have______?|2 amino groups and 1 carboxylic group|1 amino and 1 carboxylic groups|2 carboxylic groups and 1 amino group|2 amino and 2 carboxylic groups|2|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following is the strongest acid ?|Water|Formic acid|Acetic acid|Propanoic acid|1|
+Class 10 Chemistry|Chemistry|Set 15|The irritation caused by red ants bite is due to______?|Lactic acid|Formic acid|Uric acid|Acetic acid|1|
+Class 10 Chemistry|Chemistry|Set 15|The common name of propane 1 3-dioic is______?|Oxalic acid|Aromatic acid|Malonic acid|Fumaric acid|2|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following is an unsaturated carboxylic acid______?|malonic acid|oxalic acid|succinic acid|maleic acid|3|
+Class 10 Chemistry|Chemistry|Set 15|Amino acids present in cheese______?|lysine|alanine|tyrosine|proline|2|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following has orange flavour______?|isobutyl formate|octyl acetate|ethyl butyrate|amyl lactate|1|
+Class 10 Chemistry|Chemistry|Set 15|Which of the following is not an ester______?|amyl acetate|sodium butyrate|isobutyle formate|octyl acetate|1|
+Class 10 Chemistry|Chemistry|Set 15|The basic hydrolysis of ethyl acetate produces______?|ethanol|acetic acid|ethanol and acetic acid|ethanol and sodium acetate|3|
+Class 10 Chemistry|Chemistry|Set 15|Essential amino acids are______?|5|10|15|20|1|
+Class 10 Chemistry|Chemistry|Set 15|Picric acid is______?|monocarboxylc acid|dicarboxylic acid|aromatic carboxylic acid|none of these|3|
+Class 10 Chemistry|Chemistry|Set 15|The complete reduction carboxylic acid results in the formation of______?|Alkyne|Alkene|Alkane|Alcohol|2|
+Class 10 Chemistry|Chemistry|Set 15|Carboxylic acid reacts with ammonia to form ammonium salts which on heating produces______?|CO2|Alkane|Ester|Acidamide|3|
+Class 10 Chemistry|Chemistry|Set 15|The test which is used for the identification of amino-acids is______?|Ninhydrin test|Molisch test|Biuretic test|Benedict test|0|
+Class 10 Chemistry|Chemistry|Set 15|The organic acid that does not has COOH group is______?|phthalic acid|carbolic acid|Maleic acid|Succinic acid|1|
+Class 10 Chemistry|Chemistry|Set 15|In the formation of Zwitter ions proton goes from______?|Carboxyl to amino group|Amino to carboxyl group|Amino group only|Carboxyl group only|0|
+Class 10 Chemistry|Chemistry|Set 15|Which acid is the manufacture of synthetic rubber ?|Acetic acid|Formic acid|Carbonic acid|Benzoic acid|0|
+Class 10 Chemistry|Chemistry|Set 15|The acid which is used as ink remover is______?|Oxalic acid|Succinic acid|Adipic acid|Acetic acid|0|
+Class 10 Chemistry|Chemistry|Set 15|The common thing in phthalic acid and oxalic acid is that both are______?|Aromatic|Dicarboxylic|Hydrocarbons|Strong acids|1|
+Class 10 Chemistry|Chemistry|Set 15|When - COOH is attached directly to the benzene ring the acid is called______?|Aliphatic|Alicyclic|Carboxylic|Aromatic|3|
+Class 10 Chemistry|Chemistry|Set 18|The process of polymerization was classified by______?|Strecker|Sabatier|Runge|W. H. Carothers|3|
+Class 10 Chemistry|Chemistry|Set 18|Hydrolysis of an oligosaccharide in the presence of acid yields______?|one monosaccharide unit|No monosaccharide unit|2-9 monosaccharide unit|many monosaccharide|2|
+Class 10 Chemistry|Chemistry|Set 18|Common example of carbohydrates are______?|Cellulose glycogen galactose|Glyceraldehydes glucose peptone|Glycerol phospho lipids collagen|Legumin amylopectin albumin|0|
+Class 10 Chemistry|Chemistry|Set 18|Industrial materials and thermal power stations are coated with______?|Polyester resins|Epoxy paints|Polyamide resins|Polyvinyl chloride|1|
+Class 10 Chemistry|Chemistry|Set 18|The important monomers of acryclic resins is______?|Vinyl chloride|Styrene|Methylmethacrylate|Hexamethylenediamine|2|
+Class 10 Chemistry|Chemistry|Set 18|Polymers described as large molecules built up from small repeating units called______?|Biopolymers|Dimers|Monomers|metamers|2|

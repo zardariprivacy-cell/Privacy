@@ -1,0 +1,900 @@
+Class 9 English|English|Set 01|Starvation is related to Nutrition in the same way as Exhaustion is related to?|Energy|Bravery|Freshness|Courage|0|
+Class 9 English|English|Set 01|Sugar is related to Molasses in the same way as Gasoline is related to?|Mine|Quarry|Drill|Petroleum|3|
+Class 9 English|English|Set 01|Drummer is related to Orchestra in the same way as Minister is related to?|Voter|Constituency|Cabinet|Department|2|
+Class 9 English|English|Set 01|Retirement is related to Service in the same way as Dismissal is related to?|Agreement|Communication|Employment|Adoption|2|
+Class 9 English|English|Set 01|Naphthalene is related to Woollen in the same way as Antibiotics is related to?|Germs|Immunity|Diseases|Body|3|
+Class 9 English|English|Set 01|Appreciation is related to Reward in the same way as Disgrace is related to?|Crime|Guilt|Allegation|Punishment|3|
+Class 9 English|English|Set 01|Happiness is related to Sorrow in the same way as Comfort is related to?|Hardship|Rest|Poverty|Difficulty|0|
+Class 9 English|English|Set 01|Cyclone is related to Anticyclonein the same way as Flood is related to?|Devastation|Havoc|River|Drought|3|
+Class 9 English|English|Set 01|Motorcycle is related to Battery in the same way as Life is related to?|Earth|Sun|Moon|Star|1|
+Class 9 English|English|Set 01|Betel is related to Chew in the same way as Football is related to?|Play|Run|Roll|Kick|3|
+Class 9 English|English|Set 01|Drama is related to Scene in the same way as Book is related to?|Story|Page|Chapter|Author|2|
+Class 9 English|English|Set 01|Wood is related to Charcoal in the same way as Coal is related to?|Fire|Smoke|Coke|Ash|2|
+Class 9 English|English|Set 01|Firm is related to Flabby in the same way as Piquant is related to?|Bland|Salty|Pleasant|Small|0|
+Class 9 English|English|Set 01|Mirror is related to Reflection in the same way as Water is related to?|Conduction|Dispersion|Immersion|Refraction|3|
+Class 9 English|English|Set 01|Lion is related to Prowl in the same way as Bear is related to?|Frisk|Lumber|Stride|Bound|1|
+Class 9 English|English|Set 01|What is related to Leaves in the same way as Chatter is related to?|Whistle|Ripple|Rustle|Cackle|2|
+Class 9 English|English|Set 01|Anthropology is related to Man in the same way as Anthology is related to?|Nature|Trees|Apes|Poems|3|
+Class 9 English|English|Set 01|Bag is related to Luggage in the same way as Ship is related to?|Coal|Stock|Cargo|Weight|2|
+Class 9 English|English|Set 01|Mathematics is related to Numbers in the same way as History is related to?|People|Events|Dates|Wars|1|
+Class 9 English|English|Set 01|Radical is related to Moderate in the same way as Revolution is related to?|Change|Chaos|Peace|Reformation|2|
+Class 9 English|English|Set 01|Sirius is related to Star in the same as Cygnus is related to?|Constellation|Asteroid|Galaxy|Meteor|0|
+Class 9 English|English|Set 01|Cub is related to Tiger in the same way as Fawn is related to?|Stag|Monkey|Ass|Sheep|0|
+Class 9 English|English|Set 01|Prose is related to Writing in the same way as Lisp is related to?|Reading|Music|Speech|Drawing|2|
+Class 9 English|English|Set 01|Gardener is related to Trowel in the same way as Seamstress is related to?|Saw|Scissors|Sneakers|Crowbar|1|
+Class 9 English|English|Set 01|Scissors is related to Cloth in the same way as Scythe is related to?|Wood|Steel|Grass|Paper|2|
+Class 9 English|English|Set 01|Resign is related to Politician in the same way as Abdicate is related to?|Prince|King|Realm|Throme|1|
+Class 9 English|English|Set 01|Birds is related to Aviary in the same way as Bees is related to?|Aquarium|Hive|Brewery|Apiary|3|
+Class 9 English|English|Set 01|Sword is related to Slaughter in the same way as Scalpel is related to?|Sculptor|Cobbler|Chef|Mason|1|
+Class 9 English|English|Set 01|Needle is related to Thread in the same way as Pen is related to?|Ink|Cap|Paper|Word|0|
+Class 9 English|English|Set 01|Hooke is related to Cells in the same way as Mulder is related to?|Carbohydrates|Minerals|Vitamines|Proteins|3|
+Class 9 English|English|Set 01|Life is related to Death in the same way as Hope is related to?|Sad|Despair|Pain|Cry|1|
+Class 9 English|English|Set 01|Ecology is related to Environment in the same way as Histology is related to?|Fossils|History|Tissues|Hormons|2|
+Class 9 English|English|Set 01|Dancer is related to Stage in the same way as Minister is related to?|Pulpit|Assembly|Parliament|State|0|
+Class 9 English|English|Set 01|Jade is related to Green in the same way as Garnet is related to?|Blue|Orange|Red|Yellow|2|
+Class 9 English|English|Set 01|Chef is related to Restaurant in the same way as Druggist is related to?|Medicine|Pharmacy|Store|Chemist|1|
+Class 9 English|English|Set 01|Life is related to Autobiography in the same way as Witness is related to?|Papers|Truth|Documents|Acceptance|2|
+Class 9 English|English|Set 01|Bread is related to bakery in the same way as Brick is related to?|Mint|Kiln|Furnace|Mine|1|
+Class 9 English|English|Set 01|Wax is related to Grease in the same way as Milk is related to?|Drink|Ghee|Curd|Protein|2|
+Class 9 English|English|Set 01|Soap is related to Wash in the same way as Broom is related to?|Clean|Dust|Sweep|Floor|2|
+Class 9 English|English|Set 01|Museum is related to Curator in the same way as Prison is related to?|Manager|Monitor|Jailor|Warden|2|
+Class 9 English|English|Set 01|Doctor is related to Patient in the same way as Lawyer is related to?|Customer|Accused|Magistrate|Client|3|
+Class 9 English|English|Set 01|Vicuna : Camel : : Repec : ______?|Violin|Trumpet|Harp|Harmonium|0|
+Class 9 English|English|Set 01|Pituitary : Brain : : Thymus : ______?|Larynx|Spinal Cord|Throat|Chest|3|
+Class 9 English|English|Set 01|Yaws : Skin : : Thrush : ______?|Legs|Eyes|Belly|Throat|3|
+Class 9 English|English|Set 01|Virology : Virus : : Semantics : ______?|Amoeba|Language|Nature|Society|1|
+Class 9 English|English|Set 01|Funk : Vitamins : : Curie : ______?|Uranium|Radium|Radioactivity|Photography|1|
+Class 9 English|English|Set 01|Nark : Spy : : Shyster : ______?|Police|Robber|Judge|Lawyer|3|
+Class 9 English|English|Set 01|Sepia : Cuttle Fish : : Merino : ______?|Camel|Goat|Sheep|Llama|2|
+Class 9 English|English|Set 01|Xylograph : Engraving : : Diorama : ______?|Painting|Exhibition|Colouring|Staging|1|
+Class 9 English|English|Set 01|Salve : Ointment : : Sauterne : ______?|Drink|Wine|Beverage|Drug|1|
+Class 9 English|English|Set 02|Vine : Grapes : : Poppy : ______?|Opium|Tobacco|Pears|Pineapple|0|
+Class 9 English|English|Set 02|Karnataka : Gold : : Madhya Pradesh : ______?|Diamond|Iron|Copper|Gems|0|
+Class 9 English|English|Set 02|USA : Congress : : Iran : ______?|Althing|Storting|Majlis|Cortes|2|
+Class 9 English|English|Set 02|Foresight : Anticipation : : Insomnia : ______?|Treatment|Disease|Sleeplessness|Unrest|2|
+Class 9 English|English|Set 02|Dum Dum : Calcutta : : Palam : ______?|Kerala|Delhi|Madras|Bombay|1|
+Class 9 English|English|Set 02|Seismograph : Earthquakes : : Taseometer : ______?|Volcanoes|Resistances|Landslides|Strains|3|
+Class 9 English|English|Set 02|Receptionist : Office : Hostess : ______?|Aircraft|Crew|Hospital|Airport|0|
+Class 9 English|English|Set 02|Knoll : Hill : : Eclogue : ______?|Poem|Music|Drama|Ballad|0|
+Class 9 English|English|Set 02|Mattock : Dig : : Shovel : ______?|Break|Push|Scoop|Whittle|2|
+Class 9 English|English|Set 02|Pig : Farrow : : Dog : ______?|Mare|Puppy|Bitch|Colt|1|
+Class 9 English|English|Set 02|Applique : Ornament : : Impound : ______?|Confiscate|Powder|Grab|Snatch|0|
+Class 9 English|English|Set 02|Car : Petrol : : Television : ______?|Electricity|Transmission|Entertainment|Antenna|0|
+Class 9 English|English|Set 02|Oriel : Room : : Tendon : ______?|Blood|Muscles|Veins|Liver|1|
+Class 9 English|English|Set 02|Circle : Circumference : : Square : ______?|Volume|Area|Diagonal|Perimeter|3|
+Class 9 English|English|Set 02|Shark : Fish : Lavender : ______?|Shrub|Tree|Herd|Climber|0|
+Class 9 English|English|Set 02|Tanning : Leather : : Pyrotechnics : ______?|Wool|Fireworks|Bombs|Machinery|1|
+Class 9 English|English|Set 02|Convoy : Ships : : Deputation : ______?|Voters|Representatives|Politicians|Writers|1|
+Class 9 English|English|Set 02|Line : Square: : Arc : ______?|Ring|Sphere|Circle|Ball|2|
+Class 9 English|English|Set 02|Mountain : Valley : : Genius : ______?|Brain|Idiot|Think|Intelligence|1|
+Class 9 English|English|Set 02|Sikkim : Gangtok : : Manipur : ______?|Dispur|Cherrapunji|Shillong|Imphal|3|
+Class 9 English|English|Set 02|Novice : Learner : : Harbinger : ______?|Messenger|Thief|Pickpocket|Robber|0|
+Class 9 English|English|Set 02|Calendar : Dates : : Dictionary : ______?|Vocabulary|Language|Words|Book|2|
+Class 9 English|English|Set 02|Wine : Grapes : : Vodka : ______?|Potatoes|Apples|Oranges|Flour|3|
+Class 9 English|English|Set 02|Eye : Wink : : Heart : ______?|Move|Throb|Pump|Quiver|1|
+Class 9 English|English|Set 02|Misogamy : Marrige : : Misogyny : ______?|Children|Husband|Relation|Women|3|
+Class 9 English|English|Set 02|Vegetable : Chop : : Body : ______?|Cut|Amputate|Peel|Prune|1|
+Class 9 English|English|Set 02|Sports : Logo : : Nation : ______?|Anthem|Ruler|Animal|Emblem|3|
+Class 9 English|English|Set 02|Winter : Hibernation : : Summer : ______?|Survival|Activation|Aestivation|Cache|2|
+Class 9 English|English|Set 02|Scout : Army : : Clerk : ______?|Office|Files|Officer|Administration|0|
+Class 9 English|English|Set 02|War : Death : : Smoke : ______?|Burning|Pollution|Fire|Cigarette|1|
+Class 9 English|English|Set 02|Anatomy : Zoology : : Paediatrics : ______?|Chemistry|Medicine|Palaeontology|Mechanics|1|
+Class 9 English|English|Set 02|Oasis : Sand : : Island : ______?|River|Sea|Water|Waves|2|
+Class 9 English|English|Set 02|Loiter : Dwandle : : Impugn : ______?|Challenge|Gamble|Confiscate|Revenge|0|
+Class 9 English|English|Set 02|Probe : Wound : : Anemograph : ______?|Humidity|Painfall|Force|Pressure|2|
+Class 9 English|English|Set 02|Heed : Neglect : : Pacify : ______?|Victory|Incite|Allay|War|1|
+Class 9 English|English|Set 02|Anaemia : Blood : : Anarchy : ______?|Disorder|Monarchy|Government|Lawlesseness|2|
+Class 9 English|English|Set 02|Hilt : Sword : : Outwork : ______?|Hippodrome|Field|Rink|Fortress|3|
+Class 9 English|English|Set 02|Roster : Duty : : Inventory : ______?|Furnace|Exports|Goods|Produce|2|
+Class 9 English|English|Set 02|Coconut : Shell : : Letter : ______?|Letter-Box|Stamp|Mail|Envelope|3|
+Class 9 English|English|Set 02|Eccrinology : Secretions : : Selenography : ______?|Sun|Moon|Crust|Mantle|1|
+Class 9 English|English|Set 02|Calf : Cow : : Puppy : ______?|Dog|Bitch|Horse|Donkey|1|
+Class 9 English|English|Set 02|Rill : Stream : : Pony : ______?|Mare|Mule|Donkey|Horse|3|
+Class 9 English|English|Set 02|Archipelago : Islands : : Massif : ______?|Mountains|Caves|Forests|Hillocks|0|
+Class 9 English|English|Set 02|Bank : Money : : Transport : ______?|Goods|Road|Traffic|Speed|0|
+Class 9 English|English|Set 02|Nautilus : Fish : : Teal : ______?|Chicken|Dolphin|Duck|Pigeon|2|
+Class 9 English|English|Set 02|Entrepreneur : Profit : : Scholar : ______?|Income|Knowledge|Service|Business|1|
+Class 9 English|English|Set 02|Origami : Paper : : Ikebana : ______?|Trees|Theatre|Flowers|Tapestry|2|
+Class 9 English|English|Set 02|Mastic : Gum : : Suet : ______?|Milk|Fat|Hide|Fur|1|
+Class 9 English|English|Set 02|Primo : Music : : Suburd : ______?|Province|Country|State|City|3|
+Class 9 English|English|Set 02|Jungle : Zoo : : Sea : ______?|Aquarium|Harbour|Water|Fishery|0|
+Class 9 English|English|Set 03|Wine : Grapes : : Perry : ______?|Whisky|Pears|Almonds|Pomagranates|1|
+Class 9 English|English|Set 03|Touch : Feel : : Greet : ______?|Smile|Manners|Acknowledge|Success|2|
+Class 9 English|English|Set 03|Noise : Din : : Quiet : ______?|Hush|Dumb|Gag|Mouth|0|
+Class 9 English|English|Set 03|Penology : Punishment : : Seismology : ______?|Law|Liver|Earthquakes|Medicine|2|
+Class 9 English|English|Set 03|Igloos : Canada : : Rondavels : ______?|Africa|Rangoon|Russia|Indonesia|0|
+Class 9 English|English|Set 03|Good : Bad : : Virtue : ______?|Blame|Sin|Despair|Vice|3|
+Class 9 English|English|Set 03|Mash : Horse : : Mast : ______?|Cow|Monkey|Chimpanzee|Pig|3|
+Class 9 English|English|Set 03|Visitor : Invitation : : Witness : ______?|Subpoena|Permission|Assent|Document|0|
+Class 9 English|English|Set 03|Vestry : Church : : Dispensary : ______?|Laboratory|Hospital|School|Monastery|1|
+Class 9 English|English|Set 03|Lemur : Monkey : : Rook : ______?|Cat|Crow|Vulture|Owl|1|
+Class 9 English|English|Set 03|Annihilation : Fire : : Cataclysm : ______?|Earthquake|Flood|Emergency|Steam|1|
+Class 9 English|English|Set 03|Legend : Story : : Merlin : ______?|Hawk|Eagle|Crow|Parakeet|0|
+Class 9 English|English|Set 03|Tectonics : Building : : Taxidermy : ______?|Classification|Conserving|Stuffing|Collecting|2|
+Class 9 English|English|Set 03|Dawn : Dusk : : Inauguration : ______?|Invitation|Valediction|Repetition|Organisation|1|
+Class 9 English|English|Set 03|Pongee : Silk : : Shallot : ______?|Boat|Building|Ship|Stream|0|
+Class 9 English|English|Set 03|Painting : Artist : : Symphony : ______?|Novelist|Poet|Essayist|Composer|3|
+Class 9 English|English|Set 03|Roentgen : X-rays : : Becquerel : ______?|Uranium|Radioactivity|Fission|Superconductivity|1|
+Class 9 English|English|Set 03|Fruits : Basket : : Fishes : ______?|Rip|River|Seine|Rill|0|
+Class 9 English|English|Set 03|Ottawa : Canada : : Canberra : ______?|Argentina|Switzerland|Sri Lanka|Australia|3|
+Class 9 English|English|Set 03|Birds : Wing : : Fish : ______?|Gill|Fin|Tail|Scale|1|
+Class 9 English|English|Set 03|Palaeography : Writings : : Ichthyology : ______?|Fishes|Whales|Oysters|Mammals|0|
+Class 9 English|English|Set 03|Earth : Sun : : Moon : ______?|Orbit|Sky|Star|Earth|3|
+Class 9 English|English|Set 03|Deciduous : Willow : : Coniferous : ______?|Lime|Spruce|Oak|Elm|1|
+Class 9 English|English|Set 03|Leather : Cobbler : : Wood : ______?|Furniture|Cottage|Carpenter|Mason|2|
+Class 9 English|English|Set 03|Video : Cassette : : Computer : ______?|Reels|Recordings|Files|Floppy|3|
+Class 9 English|English|Set 03|Jama Masjid : Delhi : : Red Square : ______?|Hyderabad|Moscow|New York|Lahore|1|
+Class 9 English|English|Set 03|Knife : Cut : : Axe : ______?|Lacerate|Chop|Slice|Sever|1|
+Class 9 English|English|Set 03|Rondo : Music : : Lay : ______?|Song|Poem|Lyric|Story|0|
+Class 9 English|English|Set 03|Nightingale : Warble : : Frog : ______?|Yelp|Croak|Cackle|Squeak|1|
+Class 9 English|English|Set 03|Produce : Waste : : Contrast : ______?|Match|Correct|Oppose|Contradict|0|
+Class 9 English|English|Set 03|Taxonomy : Classification : : Pedology : ______?|Nature|Farming|Soil|Mountain|2|
+Class 9 English|English|Set 03|Foundation : Edifice : : Constitution : ______?|Government|State|Nation|Cabinet|2|
+Class 9 English|English|Set 03|Girl : Beautiful : : Boy : ______?|Smart|Heroic|Courageous|Handsome|3|
+Class 9 English|English|Set 03|Cells : Tissues : :Atoms : ______?|Elements|Molecules|Electrons|Organs|1|
+Class 9 English|English|Set 03|Wax : Wane : : Zenith : ______?|Nadir|Bottom|Fall|Depth|0|
+Class 9 English|English|Set 03|Proteins : Growths : : Carbohydrates : ______?|Energy|Strength|Resistance|Diseases|0|
+Class 9 English|English|Set 03|Head : Cap : :Finger : ______?|Glove|Thimble|Nail|Thumb|1|
+Class 9 English|English|Set 03|Deep : Shallow : : Freedom : ______?|Prison|Discipline|Convict|Democracy|1|
+Class 9 English|English|Set 03|Accommodation : Rent : : Journey : ______?|Expense|Octroi|Freight|Fare|3|
+Class 9 English|English|Set 03|Amber : Yellow : : Caramine : ______?|Red|Green|Blue|Orange|0|
+Class 9 English|English|Set 03|Meat : Vegetarian : : Liquor : ______?|Insane|Introvert|Teetotaller|Foolish|2|
+Class 9 English|English|Set 03|Ocean : Pacific : : Island : ______?|Greenland|Ireland|Netherlands|Borneo|0|
+Class 9 English|English|Set 03|Ice : Coolness : : Earth : ______?|Ocean|Forest|Weight|Gravitation|3|
+Class 9 English|English|Set 03|Ornithologist : Birds : : Anthropologist : ______?|Plants|Animals|Mankind|Environment|2|
+Class 9 English|English|Set 03|Perch : Fresh water : : ______ : Salt water|Crocodile|Frog|Cod|Snake|2|
+Class 9 English|English|Set 03|Insert : Extract : :Mighty : ______?|Thin|Strong|Frail|Feeble|3|
+Class 9 English|English|Set 03|Heart : Pericardium : : Brain : ______?|Bones|Head|Skull|Cranium|3|
+Class 9 English|English|Set 03|Wrist : Elbow : : Ankle : ______?|Heel|Fingers|Foot|Knee|3|
+Class 9 English|English|Set 03|Major : Battalion : : Colonel : ______?|Company|Regiment|Army|Soldiers|1|
+Class 9 English|English|Set 03|Aeroplane : Cockpit : : Train : ______?|Wagon|Coach|Compartment|Engine|3|
+Class 9 English|English|Set 04|Cunning : Fox : : Timid : ______?|Horse|Ant|Ass|Rabbit|2|
+Class 9 English|English|Set 04|Dilatory : Expeditious : : Direct : ______?|Tortuous|Circumlocutory|Straight|Curved|1|
+Class 9 English|English|Set 04|Igloo : Ice : : Marquee : ______?|Canvas|Silk|Buckram|Sateen|0|
+Class 9 English|English|Set 04|Victory : Encouragement : : Failure : ______?|Sadness|Defeat|Anger|Frustration|3|
+Class 9 English|English|Set 04|Ship : Sea : : Camel : ______?|Forest|Land|Mountain|Desert|3|
+Class 9 English|English|Set 04|Imprison : Jail : : Exile : ______?|Country|Depart|Banish|Punishment|2|
+Class 9 English|English|Set 04|Harp : Drum : : Flute : ______?|Violin|Bugle|Harmonium|Piano|1|
+Class 9 English|English|Set 04|Horse : Neigh : : Jackal : ______?|Squeak|Chatter|Howl|Bray|2|
+Class 9 English|English|Set 04|Professor : Lecture : : Doctor : ______?|Hospital|Disease|Medicine|Patient|2|
+Class 9 English|English|Set 04|Elegance : Vulgarity : : Graceful : ______?|Awkward|Comely|Asperity|Dirty|0|
+Class 9 English|English|Set 04|Sorrow : Death : : Happiness : ______?|Love|Dance|Cry|Birth|3|
+Class 9 English|English|Set 04|Tuberculosis : Lungs : : Cataract : ______?|Ear|Throat|Skin|Eye|3|
+Class 9 English|English|Set 04|Sedative : Pain : : Solace : ______?|Irritation|Kill|Grief|Hurt|2|
+Class 9 English|English|Set 04|Man : Machine : : Master : ______?|Worker|Manager|House|Slave|3|
+Class 9 English|English|Set 04|Wool : Sheep : : Mohair : ______?|Cat|Goat|Cow|Camel|1|
+Class 9 English|English|Set 04|Mature : Regressed : : Varied : ______?|Rhythmic|Monotonous|Decorous|Obsolete|1|
+Class 9 English|English|Set 04|Disease : Pathology : : Planet : ______?|Astrology|Geology|Astronomy|Palaeontology|2|
+Class 9 English|English|Set 04|Atom : Matter : : Particle : ______?|Proton|Electron|Molecule|Dust|3|
+Class 9 English|English|Set 04|Skeleton : Body : : Grammar : ______?|Language|Sentence|Meaning|Education|0|
+Class 9 English|English|Set 04|Wimbledon Trophy : Tennise : : Walker`s Cup : ______?|Hockey|Polo|Golf|Wrestling|2|
+Class 9 English|English|Set 04|Skirmish : War : : Disease : ______?|Medicine|Patient|Epidemic|Infection|2|
+Class 9 English|English|Set 04|Market : Demand : : Farming : ______?|Farmer|Monsoons|Foodgrains|Supply|1|
+Class 9 English|English|Set 04|Tea : Cup : : Tobacco : ______?|Leaves|Hookah|Toxin|Cheroot|3|
+Class 9 English|English|Set 04|Hermit : Solitude : : Intruder : ______?|Thief|Privacy|Burglar|Alm|2|
+Class 9 English|English|Set 04|Squint : Eye : : Squeeze : ______?|Tongue|Cloth|Throat|Hand|3|
+Class 9 English|English|Set 04|Enough : Excess : : Sufficiency : ______?|Adequacy|Surplus|Competency|Import|1|
+Class 9 English|English|Set 04|Teheran : Iran : : Beijing : ______?|China|Japan|Turkey|Malaysia|0|
+Class 9 English|English|Set 04|Pigeon : Peace : : White flage : ______?|Friendship|Victory|Surrender|War|2|
+Class 9 English|English|Set 04|Jeopardy : Peril : : Jealousy : ______?|Envy|Insecurity|Lust|Sin|0|
+Class 9 English|English|Set 04|Glucose : Carbohydrate : : Soyabean : ______?|Proteins|Vitamins|Minerals|Legumes|0|
+Class 9 English|English|Set 04|Cricket : Bat : : Hockey : ______?|Field|Stick|Player|Ball|1|
+Class 9 English|English|Set 04|Conscience : Wrong : : Police : ______?|Thief|Law|Discipline|Crime|3|
+Class 9 English|English|Set 04|Scrap : Food : : Lees : ______?|Bread|Tea|Wine|Rice|2|
+Class 9 English|English|Set 04|Reading : Knowledge : : Work : ______?|Experience|Engagement|Employment|Experiment|0|
+Class 9 English|English|Set 04|Porcupine : Rodent : : Mildew : ______?|Fungus|Germ|Insect|Pathogen|0|
+Class 9 English|English|Set 04|Fog : Visibility : : AIDS : ______?|Health|Resistance|Virus|Death|1|
+Class 9 English|English|Set 04|Hourse : Jockey : : Car : ______?|Mechanic|Chauffeur|Steering|Brake|1|
+Class 9 English|English|Set 04|Doctor : Diagnosis : : Judge : ______?|Court|Punishment|Lawyer|Judgement|3|
+Class 9 English|English|Set 04|Man : Biography : : Nation : ______?|Leader|People|Geography|History|3|
+Class 9 English|English|Set 04|Dog : Rabis : : Mosquito : ______?|Plague|Death|Malaria|Sting|2|
+Class 9 English|English|Set 04|Snake : Fang : : Bee : ______?|Honey|Humming|Wax|Sting|3|
+Class 9 English|English|Set 04|Fossils : Creatures : : Mummies : ______?|Egypt|Human Beings|Animals|Martyrs|1|
+Class 9 English|English|Set 04|Sculptor : Statue : : Poet : ______?|Canvas|Pen|Verse|Chisel|2|
+Class 9 English|English|Set 04|Reluctant : Keen : : Remarkable : ______?|Usual|Restrained|Striking|Evocative|0|
+Class 9 English|English|Set 04|Ocean : Water : : Glacier : ______?|Refrigerator|Ice|Mountain|Cave|1|
+Class 9 English|English|Set 04|King : Throne : : Rider : ______?|Seat|Horse|Saddle|Chair|2|
+Class 9 English|English|Set 04|Pesticide : Crop : : Antiseptic : ______?|Wound|Clotting|Bandage|Bleeding|0|
+Class 9 English|English|Set 04|Fire : Ashes : : Explosion : ______?|Flame|Death|Sound|Debris|3|
+Class 9 English|English|Set 04|Engineer : Map : : Bricklayer : ______?|Design|Templet|Mould|Cement|1|
+Class 9 English|English|Set 04|Quail : Partridges : : Yark : ______?|Cows|Deer|Oxen|Antelopes|2|
+Class 9 English|English|Set 05|Food : Stomach : : Fuel : ______?|Plane|Truck|Engine|Automobile|2|
+Class 9 English|English|Set 05|Matricide : Mother : : Homicide : ______?|Human|Childern|Father|Apes|0|
+Class 9 English|English|Set 05|Malaria : Disease : : Spear : ______?|Wound|Sword|Weapon|Death|2|
+Class 9 English|English|Set 05|Flower : Butterfly : : Dirt : ______?|Rats|Fly|Bugs|Sweeper|1|
+Class 9 English|English|Set 05|Bank : River : : Coast : ______?|Flood|Waves|Sea|Beach|2|
+Class 9 English|English|Set 05|Giant : Dwarf : : Genius : ______?|Wicked|Gentle|Idiot|Tiny|2|
+Class 9 English|English|Set 05|Tree : Forest : : Grass : ______?|Lawn|Field|Garden|Farm|0|
+Class 9 English|English|Set 05|Drama : Stage : : Tennis : ______?|Tournament|Net|Court|Racket|2|
+Class 9 English|English|Set 05|Conference : Chairman : : Newspaper : ______?|Reporter|Distributor|Printer|Editor|3|
+Class 9 English|English|Set 05|Hot : Oven : : Cold : ______?|Ice Cream|Air Conditioner|Snow|Refrigerator|3|
+Class 9 English|English|Set 05|Darwin : Evolution : : Archimedes : ______?|Friction|Lubrication|Buoyancy|Liquids|2|
+Class 9 English|English|Set 05|Naphthalene : Coal tar : : Dyes : ______?|Petroleum|Oils|Chemicals|Carbon|0|
+Class 9 English|English|Set 05|Push : Pull : : Throw : ______?|Jump|Collect|Pick|Game|2|
+Class 9 English|English|Set 05|Poodle : Dog : : Moose : ______?|Duck|Donkey|Fowl|Deer|3|
+Class 9 English|English|Set 05|Steel : Rails : : Alnico : ______?|Aircraft|Machinery|Silver ware|Magnets|3|
+Class 9 English|English|Set 05|Hong Kong : China : : Vatican : ______?|Rome|Mexico|Canada|Christianity|0|
+Class 9 English|English|Set 05|House : Garbage : : Ore : ______?|Rubbish|Gangue|Sand|Dregs|1|
+Class 9 English|English|Set 05|Ruby : Red : : Sapphire : ______?|Blue|White|Green|Silver|0|
+Class 9 English|English|Set 05|Command : Order : : Confusion : ______?|Discipline|Clarity|Chaos|Problem|2|
+Class 9 English|English|Set 05|Chromite : Chromium : : Ilmenite : ______?|Limestone|Cobalt|Manganese|Titanium|3|
+Class 9 English|English|Set 05|Quartz : Radio : : Gypsum : ______?|Glass|Porcelain|Cement|Powder|2|
+Class 9 English|English|Set 05|Court : Justice : : School : ______?|Teacher|Student|Ignorance|Education|3|
+Class 9 English|English|Set 05|Bread : Yeast : : Curd : ______?|Fungi|Bacteria|Germs|Virus|1|
+Class 9 English|English|Set 05|Country : President : : State : ______?|Governor|Minister|Chief Minister|Citizen|0|
+Class 9 English|English|Set 05|Hill : Mountain : : Stream : ______?|River|Canal|Glacier|Avalanche|0|
+Class 9 English|English|Set 05|Import : Export : : Expenditure : ______?|Deficit|Revenue|Debt|Tax|1|
+Class 9 English|English|Set 05|Tile : Mosaic : : Knot : ______?|Embroidery|Abacus|Macrame|Easle|2|
+Class 9 English|English|Set 05|Fruit : Banana : : Mammal : ______?|Cow|Snake|Fish|Sparrow|0|
+Class 9 English|English|Set 05|Drill : Bore : : Sieve : ______?|Thresh|Sift|Pry|Rinse|1|
+Class 9 English|English|Set 05|Cub : Lion : : Colt : ______?|Doe|Stag|Leopard|Stallion|3|
+Class 9 English|English|Set 05|Appraiser : Building : : Critic : ______?|Book|Masterpiece|Judge|Gold|0|
+Class 9 English|English|Set 05|Dungeon : Confinement : : Asylum : ______?|Refuge|Mercy|Truancy|Remorse|0|
+Class 9 English|English|Set 05|Illiteracy : Education : : Flood : ______?|Rain|Bridge|Dam|River|2|
+Class 9 English|English|Set 05|Pork : Pig : : Beef : ______?|Farmer|Herd|Cow|Lamb|2|
+Class 9 English|English|Set 05|Rupee : India : : Yen : ______?|Turkey|Bangladesh|Pakistan|Japan|3|
+Class 9 English|English|Set 05|Cobbler : Leather : : Carpenter : ______?|Furniture|Wood|Hammer|Chair|1|
+Class 9 English|English|Set 05|Planet : Orbit : : Projectile : ______?|Trajectory|Track|Milky Way|Path|0|
+Class 9 English|English|Set 05|Nurture : Neglect : : Denigrate : ______?|Reveal|Extol|Recognise|Calumniate|1|
+Class 9 English|English|Set 05|Grain : Stock : : Stick : ______?|Heap|Bundle|Collection|String|1|
+Class 9 English|English|Set 05|Dog : Bark : : Goat : ______?|Bleat|Howl|Grunt|Bray|0|
+Class 9 English|English|Set 05|Oxygen : Burn : : Carbon dioxide : ______?|Isolate|Foam|Extinguish|Explode|2|
+Class 9 English|English|Set 05|Growth : Death : : Increase : ______?|Ease|Decrease|Tease|Cease|1|
+Class 9 English|English|Set 05|Water : Convection : : Space : ______?|Conduction|Transference|Vacuum|Radiation|3|
+Class 9 English|English|Set 05|Venerate : Worship : : Extol : ______?|Glorify|Homage|Compliment|Recommend|0|
+Class 9 English|English|Set 05|Acting : Theatre : : Gambling : ______?|Casino|Club|Bar|Gymn|0|
+Class 9 English|English|Set 05|Candle : Wax : : Paper : ______?|Wood|Tree|Bamboo|Pulp|3|
+Class 9 English|English|Set 05|Race : Fatigue : : Fast : ______?|Food|Appetite|Hunger|Weakness|2|
+Class 9 English|English|Set 05|Car : Garage : : Aeroplane : ______?|Port|Depot|Hangar|Harbour|2|
+Class 9 English|English|Set 05|Breeze : Cyclone : : Drizzle : ______?|Earthquake|Storm|Flood|Downpour|3|
+Class 9 English|English|Set 05|Gun : Bullet : : Chimney : ?|Ground|House|Roof|Smoke|3|
+Class 9 English|English|Set 06|Errate : Books : : Flaws : ______?|Manuscripts|Metals|Speech|Charter|0|
+Class 9 English|English|Set 06|Flower : Bud : : Plant : ?|Seed|Taste|Flower|Twig|0|
+Class 9 English|English|Set 06|Scribble : Write : : Stammer : ______?|Walk|Play|Speak|Dance|2|
+Class 9 English|English|Set 06|Tractor : Trailer : : Horse : ______?|Stable|Cart|Saddle|Engine|1|
+Class 9 English|English|Set 06|Eye : Myopia : : Teeth : ______?|Pyorrhoea|Cataract|Trachoma|Eczema|0|
+Class 9 English|English|Set 06|Paw : Cat : : Hoof : ______?|Horse|Lion|Lamb|Elephant|0|
+Class 9 English|English|Set 06|Muslims : Mosque : : Sikhs : ______?|Golden Temple|Medina|Fire Temple|Gurudwara|3|
+Class 9 English|English|Set 06|Clock : Time : : Thermometer : ______?|Heat|Radiation|Energy|Temperature|3|
+Class 9 English|English|Set 06|Melt : Liquid : : Freeze : ______?|Ice|Condense|Solid|Crystal|2|
+Class 9 English|English|Set 06|Fear : Threat : : Anger : ______?|Compulsion|Panic|Provocation|Force|2|
+Class 9 English|English|Set 06|Influenza : Virus : : Typhoid : ______?|Bacillus|Parasite|Protozoa|Bacteria|3|
+Class 9 English|English|Set 06|Forecast : Future : : Regret : ______?|Present|Atone|Past|Sins|2|
+Class 9 English|English|Set 06|Moon : Satellite : : Earth : ______?|Sun|Planet|Solar System|Asteroid|1|
+Class 9 English|English|Set 06|English language approximately consist of ______ words?|170000|250000|100000|None of these|0|
+Class 9 English|English|Set 06|"Hitting the Nail on the Head" means?|Performing a task with exactness|Hurting someone without letting them know|Taking a very dangerous risk|Scold someone for their mistake|0|
+Class 9 English|English|Set 06|A state of temporary disuse or suspension is called?|ABEYANT|Dimentia|Condone|None of the above|0|
+Class 9 English|English|Set 06|Departing from an accepted standard is called?|Aberrant|Avoid|Attract|None of the above|0|
+Class 9 English|English|Set 06|Excessive admiration or praise is called?|Addiction|Backbiting|Adulation|None of the above|2|
+Class 9 English|English|Set 06|I took the gun and hid it ______ the sofa.|Under|Below|Beneath|Underneath|3|
+Class 9 English|English|Set 06|The metro station is right ______ the airport.|Below|Under|Beneath|None of the above|2|
+Class 9 English|English|Set 06|Someone was having a party in the flat ______.|Under|Below|Into|None of the above|1|
+Class 9 English|English|Set 06|The lake is almost 900 feet ______ sea level.|Under|Below|Both|None of the above|1|
+Class 9 English|English|Set 06|She slept ______ she was watching the movie.|While|During|Between|None of the above|0|
+Class 9 English|English|Set 06|She slept ______ the movie.|While|During|At|None of the above|1|
+Class 9 English|English|Set 06|There wasn't much unity ______ the council members|Among|From|For|None of the above|0|
+Class 9 English|English|Set 06|Polyandry means ______?|A man having more than one wife|A woman having more than one husband|A doctor having more than one specialty|None of the above|1|
+Class 9 English|English|Set 06|Yank means ______?|Push|Gluttonous|Hitch|None of these|0|
+Class 9 English|English|Set 06|Willy-nilly means ______?|Excavate|Haphazardly|Methodical|None of these|1|
+Class 9 English|English|Set 06|Ali is not my brother. Here word not is?|Verb|Adverb|Preposition|Conjunction|1|
+Class 9 English|English|Set 06|Strong sense of love for a place is called?|Autophilia|Astrophilia|Clinophilia|Topophilia|3|
+Class 9 English|English|Set 06|The famous word 'coulrophobia' means extreme fear of?|Colours|Clouds|Cold|Clowns|3|
+Class 9 English|English|Set 06|Synonym of 'Awfy'?|Terrible|Happy|Active|Clear|0|
+Class 9 English|English|Set 06|The novel " Anna Karenina " is written by?|John Milton|John Keats|Leo Tolstoy|William Shakespeare|2|
+Class 9 English|English|Set 06|He laughs ______ me.|on|of|at|None of these|2|
+Class 9 English|English|Set 06|The meeting was put ______ by the Chairman|Put under|Put off|Put inside|Put outside|1|
+Class 9 English|English|Set 06|Mountain is covered ______ snow.|by|with|of|None of these|1|
+Class 9 English|English|Set 06|Antonym of Accord?|Solution|Act|Withhold|Concord|2|
+Class 9 English|English|Set 06|You had already left by seven O' Clock, ______ you ?|didn't|weren't|haven't|hadn't|3|
+Class 9 English|English|Set 06|How do you feel ______ their coming.|in|of|about|on|2|
+Class 9 English|English|Set 06|Synonym of Liaison?|Condone|Confine|Association|None of these|2|
+Class 9 English|English|Set 06|Synonym of Portent?|Lie|Isthmus|Omen|None of these|2|
+Class 9 English|English|Set 06|Synonym of Prognosis?|Unique|Good|Prediction|Priceless|2|
+Class 9 English|English|Set 06|What is the synonym of thrifty?|loving|caring|cunning|frugal|3|
+Class 9 English|English|Set 06|Synonyms of Abase ______?|incur|tax|estimate|humiliate|3|
+Class 9 English|English|Set 06|What does the English prefix "Sino" mean:|Chinese|French|American|Japanese|0|
+Class 9 English|English|Set 06|Better ______ than never.|Late|Once|Sometime|Repeat|0|
+Class 9 English|English|Set 06|I enjoy ______ tennis.|to play|plays|playing|to playing|2|
+Class 9 English|English|Set 07|Most common english word in the world?|and|of|is|the|3|
+Class 9 English|English|Set 07|Smoking is detrimental ______ health.|to|with|against|of|0|
+Class 9 English|English|Set 07|He delivered a speech that was not appropriate ______ the event.|with|to|of|against|1|
+Class 9 English|English|Set 07|I have great aversion ______ smoking.|at|to|with|on|1|
+Class 9 English|English|Set 07|We should not sneer ______ the poor.|on|of|against|at|3|
+Class 9 English|English|Set 07|Chairman of the meeting was out of country, so it was put ______ .|out|off|on|up|1|
+Class 9 English|English|Set 07|She pleaded ______ the King for her husband's life.|to|with|for|at|1|
+Class 9 English|English|Set 07|I called ______ him but he was very busy in his work.|on|after|at|of|2|
+Class 9 English|English|Set 07|Ahmed inquired ______ my health.|after|of|at|with|0|
+Class 9 English|English|Set 07|The idiom "A bolt from blue" means?|Good news|Unexpected misfortune|Expected misfortune|Sudden News|1|
+Class 9 English|English|Set 07|The idiom "once a blue moon" means?|Often|Rarely|Rapidly|Slowly|1|
+Class 9 English|English|Set 07|The idiom "All and Sundry" means?|Specific|Everyone|Experienced|Relevant|1|
+Class 9 English|English|Set 07|The idiom "Above-board" means?|Clever|Over confidence|Honest|Moral|2|
+Class 9 English|English|Set 07|What is synonym of Waive?|Accept|Struggle|Relinquish|Abrogate|2|
+Class 9 English|English|Set 07|What is synonym of Succinct?|Concise|Elaborated|Extra|Verbose|0|
+Class 9 English|English|Set 07|What is synonym of Maladroit?|Clever|Adept|Clumsy|Serious|2|
+Class 9 English|English|Set 07|What is the meaning of idiom " pour cold water on "?|Discourage|Encourage|To be calm|Deceive|0|
+Class 9 English|English|Set 07|Nearly everybody has trouble ______ at one time or another.|sleep|in sleeping|during sleeing|sleeping|3|
+Class 9 English|English|Set 07|Synonym of Bellicose ______?|Navel|Amusing|hostile|None of these|2|
+Class 9 English|English|Set 07|Once in a Blue Moon means?|Always|Rarely|Never|Impossibly|1|
+Class 9 English|English|Set 07|He is ignorant ______ what he pretends to know?|to|with|on|from|0|
+Class 9 English|English|Set 07|I have been working hard ______ arithmetic?|in|at|on|None of these|2|
+Class 9 English|English|Set 07|The dog ran ______ the road?|under|along|over|in|1|
+Class 9 English|English|Set 07|Synonym of connoisseur?|Ignorant|Lover of art|Interpreter|Delinquent|1|
+Class 9 English|English|Set 07|He used to visit us every week,but he ______ now?|rarely comes|is rarely coming|has rarely come|None of these|0|
+Class 9 English|English|Set 07|Men ______to abolish wars up to now, but maybe they will find a way in future?|never managed|have never managed|will have never managed|None of these|1|
+Class 9 English|English|Set 07|The headmaster ______ to speak to you?|wants|is wanting|was wanting|None of these|0|
+Class 9 English|English|Set 07|______ earth moves around______ sun.|The; A|An; The|The; the|An; A|2|
+Class 9 English|English|Set 07|A person who wants to destroy all government and order is called ______?|Alienate|Anarchist|Annihilate|Aviary|1|
+Class 9 English|English|Set 07|Communications of impressions from mind to mind without the aid of the senses?|Tact|Telepathy|Tantalize|None of these|1|
+Class 9 English|English|Set 07|Government by old people?|Gerontocracy|Gourmand|Honorary|Edible|0|
+Class 9 English|English|Set 07|Astound means ______?|Amaze/greatly surprise|Clam|Clarity|None of these|0|
+Class 9 English|English|Set 07|What is the correct spelling?|Bettalion|Battalion|Bettalean|Battalian|1|
+Class 9 English|English|Set 07|Idiom "Between Scylla and Charybdis" means?|Between two lovers|Between two dangers/evils|Between two parties|Between two Happy Moments|1|
+Class 9 English|English|Set 07|Synonym of Bibliophile is ______?|lover of books|lover of bibliography|lover of ideas|lover of art|0|
+Class 9 English|English|Set 08|It was unanimously resolved that the parties ______ launching of popular programmes.|Should unitedly undertake|Should be united undertook|Should be unitedly undertaken|Should be unitedly undertake|0|
+Class 9 English|English|Set 08|The research study is an eye-opener and ______ us with the problems of poor nations.|Attempted to acquaint|Attempting to acquaint|Attempts at acquainting|Attempt to acquaint|2|
+Class 9 English|English|Set 08|Synonym of Gruesome is ______ ?|Tragic|Frightful|Painful|Hateful|1|
+Class 9 English|English|Set 08|To read between the lines means?|To Suspect|To Grasp the hidden meaning|To concentrate|To read carefully|1|
+Class 9 English|English|Set 08|The Synonym of Cadge is ______.|Trick|Path|Disclose|Beg|3|
+Class 9 English|English|Set 08|The Synonym of Caress.|Adore|Kiss|Hate|Fondle|3|
+Class 9 English|English|Set 08|I am fed up ______ his mess.|With|Of|About|in|0|
+Class 9 English|English|Set 08|The comparative degree of an adjective is followed by ______.|The|Than|Other|None of these|1|
+Class 9 English|English|Set 08|He is so much preoccupied with his job that he has become indifferent ______ his health.|for|over|to|with|2|
+Class 9 English|English|Set 08|Synonym of Trammel is ______?|Obstacle|Ponder|Rattle|None of these|0|
+Class 9 English|English|Set 08|His mathematics ______ good.|Is|Are|Were|None of these|1|
+Class 9 English|English|Set 08|Mumps______ a terrible disease.|Is|Are|Have|None of these|0|
+Class 9 English|English|Set 08|What is synonym of Husbandry?|Business|Illicit|Rules|Agriculture|3|
+Class 9 English|English|Set 08|Synonym of "Caucus"?|Congregation|Systematic|Confession|Indicts|0|
+Class 9 English|English|Set 08|William Blake was born in ______?|1756|1719|1757|None of these|2|
+Class 9 English|English|Set 08|The Synonyms of resuscitate is ______?|Rejuvenate|Demolish|Revitalize|A and C|3|
+Class 9 English|English|Set 08|Synonym of Waggle?|To bicker|Argue about price|Wobble|betting|2|
+Class 9 English|English|Set 08|The ______ hostages huddled together, waiting to be rescued.|excited|terrified|bored|annoyed|1|
+Class 9 English|English|Set 08|Maria does well in her studies because she is a ______ students.|clever|intelligent|attractive|charming|0|
+Class 9 English|English|Set 08|Lila is a ______ girl and does not like to go out alone.|timid|frightened|lonely|scared|0|
+Class 9 English|English|Set 08|Aaron who is a ______ boy has many friends.|popular|famous|quiet|handsome|0|
+Class 9 English|English|Set 08|Sarah will do the job well. She is a ______ girl.|rely|reliable|reliance|reliability|1|
+Class 9 English|English|Set 08|The ______ man was taken to the hospital.|injure|injured|injury|injurious|1|
+Class 9 English|English|Set 08|We heard the ______ news that seven schoolchildren had drowned.|bad|unpleasant|terrifying|shocking|3|
+Class 9 English|English|Set 08|You need a ______ knife to cut this meat.|big|new|sharp|long|2|
+Class 9 English|English|Set 08|Idiom "Best of both worlds" means?|Friendly with everyone|Master of huge wealth|benefits of two things and none of the disadvantages.|None of these|2|
+Class 9 English|English|Set 08|The Idiom "At the drop of a hat" means?|At the top level|Hide something|Without any hesitation|Feeling proud|2|
+Class 9 English|English|Set 08|"Nod off" means?|take rest|Fall asleep|sitting down|turn off something|1|
+Class 9 English|English|Set 08|My uncle, who is a businessman, often travels ______ air.|on|in|by|from|2|
+Class 9 English|English|Set 08|My aunt has invited me to her place ______ three o'clock this afternoon ______ tea.|at; for|on; to|during; so that|from; for|0|
+Class 9 English|English|Set 08|You can move around the town ______ foot as it is not very big.|by|in|on|from|2|
+Class 9 English|English|Set 08|This present is ______ my grandmother.|by|from|on|at|1|
+Class 9 English|English|Set 08|She hurried to the supermarket ______ she might get some things ______ it closed.|in order to; before|so that; before|for; by|so that; at|1|
+Class 9 English|English|Set 08|Travelling ______ air is faster than travelling ______ sea.|on; on|by; by|in; on|by; at|1|
+Class 9 English|English|Set 08|My parents are going to China ______ a holiday ______ September.|for; in|so; that|in; at|for; during|0|
+Class 9 English|English|Set 08|My grandmother died ______ 7p.m. ______ 12 August 1989.|in; on|at; in|at; on|by; during|2|
+Class 9 English|English|Set 08|I intend to visit my grandparents ______ this weekend.|on|during|by|for|1|
+Class 9 English|English|Set 08|On hearing the siren. I pulled ______ and stopped the car.|in|off|over|up|2|
+Class 9 English|English|Set 08|Most ______ the tourists enjoyed the visit to the batik factory.|of|off|between|with|0|
+Class 9 English|English|Set 08|There was rapid development ______ the post-war years.|by|among|towards|during|3|
+Class 9 English|English|Set 08|There is widespread unemployment all ______ the country.|in|about|over|around|2|
+Class 9 English|English|Set 08|You can obtain the answer ______ adding the date of birth to this figure.|in|on|to|by|3|
+Class 9 English|English|Set 08|The staff co-operated ______ the management to increase productivity.|for|by|to|with|3|
+Class 9 English|English|Set 08|The local team scored three goals ______ the first half of the match.|in|on|for|below|0|
+Class 9 English|English|Set 08|The island is so small that there are only five houses ______ it.|in|on|over|around|1|
+Class 9 English|English|Set 08|Severely abusive writing in journals?|imaginary|speculative|scurrilous|sarcastic|2|
+Class 9 English|English|Set 09|Words written on a tomb is called ______?|epithet|epigraph|Soliloquy|epitaph|3|
+Class 9 English|English|Set 09|We sat ______ the back of the queue.|at|in|on|None of these|0|
+Class 9 English|English|Set 09|Our country needs a number of ______ Social workers.|uninterested|disinterested|self-centered|None of these|1|
+Class 9 English|English|Set 09|After dinner, grand mother used to tell us stories while ______ the old socks.|Sewing|Stitching|Darning|None of these|2|
+Class 9 English|English|Set 09|If the storm continues, the overhead wires may ______ with twang.|Break|Snap|Tear|None of these|1|
+Class 9 English|English|Set 09|The destiny has destined him ______ a high post than he now holds.|to|on|for|None of these|2|
+Class 9 English|English|Set 09|It is natural for us to exult ______ our own success.|at|over|against|None of these|0|
+Class 9 English|English|Set 09|At last he yielded ______ the temptation.|About|on|for|to|3|
+Class 9 English|English|Set 09|Idiom "Red letter day" means?|a dangerous day|an important day|an eventful day|a formidable day|1|
+Class 9 English|English|Set 09|Idiom "no love lost" means?|stop loving|not like each other at all.|forming a group|have good understanding|1|
+Class 9 English|English|Set 09|Idiom "Get the sack" means?|resigned|got rid of|was demoted from|was dismissed from|3|
+Class 9 English|English|Set 09|Idiom "The pros and cons of" means?|measure the ingredient|observe etiquette|consider all facts|postpone action|2|
+Class 9 English|English|Set 09|Idiom "by leaps and bounds" means?|very slowly|very quickly|irregularly|very systematically|1|
+Class 9 English|English|Set 09|Idiom "turned a deaf ear to" means?|disputed|paid attention to|To ignore or refuse to listen to someone or something|acknowledged gratefully|2|
+Class 9 English|English|Set 09|Idiom "at one's wit's end" means?|to understand thoroughly|to be puzzled|to be a stupid person|to behave irrationally|1|
+Class 9 English|English|Set 09|The poet who used extensive alliteration?|William Shakespeare|William Wordsworth|John Keats|Percy Bysshe Shelley|2|
+Class 9 English|English|Set 09|To beat the air means?|Making progress|To sound logical|To keep doing something despite its apparent pointlessness or futility|None of these|2|
+Class 9 English|English|Set 09|Synonym of Gigantic?|Huge|Enormous|Bright|None of these|1|
+Class 9 English|English|Set 09|Making a show of being morally superior to other people is called______?|Selflessness|Over confidence|Sanctimonious|None of the above|2|
+Class 9 English|English|Set 09|Synonym of BRISKLY is ______?|LAZY|CLEARLY|HASTY|STUNNING|2|
+Class 9 English|English|Set 09|Synonym of Paucity is ______?|Presence|Poverty|Scarcity|None of these|2|
+Class 9 English|English|Set 09|The stretcher bond in brick masonry can be used only when the thickness of wall is______?|90 mm|190 mm|180 mm|280 mm|0|
+Class 9 English|English|Set 09|The name of a person, thing is called______?|Noun|Pronoun|Verb|Adjective|0|
+Class 9 English|English|Set 09|Teachers as well as headmaster ______ punctual of time|Is|Are|Have|Was|1|
+Class 9 English|English|Set 09|Be in your ______.|Boats|Shoes|House|Ship|1|
+Class 9 English|English|Set 09|Each of us ______ eaten our meal.|Have|Has|Are|was|1|
+Class 9 English|English|Set 09|Make hay ______ sun shines|When|While|Than|If|1|
+Class 9 English|English|Set 09|Haroon was a king. Here *King* is______?|Common Noun|Abstract Noun|Material Noun|Proper Noun|0|
+Class 9 English|English|Set 09|Synonym of "DOWNTURN" is______?|Spurt|Plunge|Upsurge|Repulsion|1|
+Class 9 English|English|Set 09|Synonym of "PREVALENCE" is______?|Currency|Magnitude|Impediment|Bounds|0|
+Class 9 English|English|Set 09|Synonym of "POPULOUS" is ______?|Uninhibited|Latent|Reserved|Heaving|3|
+Class 9 English|English|Set 09|The synonyms of FOSTERING is ______?|Safeguarding|Neglecting|Ignoring|Nurturing|3|
+Class 9 English|English|Set 09|An Error in Printing or writing______?|Flaw|Erratum|Elixir|Pangaea|1|
+Class 9 English|English|Set 09|One who knows everything?|Acquiescent|Ubiquitous|Omnipresent|Omniscient|3|
+Class 9 English|English|Set 09|An abandoned child of unknown parents who is found by somebody______?|Foundling|Siblings|Urchin|Orphan|0|
+Class 9 English|English|Set 09|Parts of a country behind the coast or a river's banks:|Swamps|Hinterland|Isthmuses|None of these|1|
+Class 9 English|English|Set 09|A group of giraffe is known as:______?|Tower|Herd|Flock|None of these|0|
+Class 9 English|English|Set 09|The teacher cautioned me ______ my spelling.|For|Against|At|On|0|
+Class 9 English|English|Set 09|I______my friend will die soon.|Hope|Fear|Expect|No Appropriate Option|1|
+Class 9 English|English|Set 09|Idiom "Star Crossed" is______?|Unlucky|Lucky|Hard worker|None of these|0|
+Class 9 English|English|Set 09|The train went ______ the tunnel.|from|under|through|to|2|
+Class 9 English|English|Set 09|A hundred rupees ______ all that he wants.|was|Were|Is|Are|2|
+Class 9 English|English|Set 09|Choose the nearest meaning of the word "Lax".|Anger|Negligent|Deny|None of these|1|
+Class 9 English|English|Set 09|Choose the meaning of idiom: "To break a lance with".|To entertain friends|To fail or to miscarry|To engage in a competition|Get up to be involved in something|2|
+Class 9 English|English|Set 09|The Synonymous of "Delineate" is:______?|Dissemble|Intimate|Representative|Outline|3|
+Class 9 English|English|Set 09|Choose the Synonymous of "Novice":|Unaware|experienced|Lively|None of these|0|
+Class 9 English|English|Set 09|Choose the correct Synonymous of "Quenching"?|Assuage|Scrawny|Lament|Insincerity|0|
+Class 9 English|English|Set 10|Choose the correct meaning of idiom " between sylla and charybids"|Between two great difficulties|Between two great opportunities|In a confused situation|None of these|0|
+Class 9 English|English|Set 10|choose the correct meaning of idiom " Leave in the Lurch" :|A difficult situation|To meet suddenly with someone|To leave someone in difficulty|To assist someone in adverse circumstances|2|
+Class 9 English|English|Set 10|choose the right meaning of idiom " In the blue funk " :|To get rid off|In a state of terror|To be against person wishes|To make a challenge.|1|
+Class 9 English|English|Set 10|Choose the correct meaning of idiom " Play ones card right":|To do something risky|To get benefit of the opportunity|Change the parties|Being to improve|1|
+Class 9 English|English|Set 10|choose the correct meaning of idiom " peddle one's own canoe:|A person with good behaviour|To solve one's own issues without any help|To have aims & desires suitable to circumstances|To be successful|1|
+Class 9 English|English|Set 10|Choose the correct meaning of idiom " Spill the beans______ :|Become uncertain about something|To avoid from someone|To reveal the Secrets|Something difficult to accept|2|
+Class 9 English|English|Set 10|Choose the correct meaning of idiom "Champing at the bit______?|Something difficult to accept|Extremely Impatient|A pessimistic Person|None of these|1|
+Class 9 English|English|Set 10|Idiom " As the Crow flies " means:______?|In a indirect way|The impossible task|In a direct & straight way|None of these|2|
+Class 9 English|English|Set 10|Synonymous of Morbid is ______ ?|Cheerful|Cimmerian|Refute|None of these|1|
+Class 9 English|English|Set 10|The jug is full ______ milk?|of|about|by|with|0|
+Class 9 English|English|Set 10|Fortnight Means?|14 days|18 days|20 days|22 days|0|
+Class 9 English|English|Set 10|choose the correct meaning of idiom "The birds & the bees______ :|Depression and low spirits|Remain undecided & uncomplete|Do favors for getting favors|Basic information about se*ual behaviour in humans|3|
+Class 9 English|English|Set 10|Synonym of INNUENDO is ______?|Implication|Verification|Harm|Proof|0|
+Class 9 English|English|Set 10|What it the moaning of the Idiom/proverb "To be at loggerheads" ?|To cooperate with enemies|To be in strong disagreement or dispute|To face stiff opposition|To tax one's mind and body|1|
+Class 9 English|English|Set 10|I have lost ______ umbrella which you had given me.|a|an|the|no article is used|2|
+Class 9 English|English|Set 10|Choose the most suitable word: An office or post with no work but high pay:|Honorary|Sinecure|Gratis|Ex-Officio|1|
+Class 9 English|English|Set 10|Choose the correct article: Wait for me by ______ school gate at 4 o clock.|An|A|The|Article is not required.|2|
+Class 9 English|English|Set 10|Synonym of LOQUACIOUS is ______?|Talkative|Thirsty|Funny|Non of these|0|
+Class 9 English|English|Set 10|Books are a great source ______ happiness.|of|for|on|with|0|
+Class 9 English|English|Set 10|"TO EGG ON" means ?|to advise|to ask|to urge|to warn|2|
+Class 9 English|English|Set 10|"MALA FIDE" means ?|Bad intention|Genuine|Trustworthy|Generous|0|
+Class 9 English|English|Set 10|He is superior ______me?|To|than|With|from|0|
+Class 9 English|English|Set 10|Through which light cannot pass?|Dull|Dark|Obscure|Opaque|3|
+Class 9 English|English|Set 10|Snollygoster is Synonymous to ?|Villain|Man of Principles|Sharp,Shrewd and Unprincipled Person|None of these|2|
+Class 9 English|English|Set 10|What is the Synonym of of "Hue"?|Colour|Dew|Still|Pursuit|0|
+Class 9 English|English|Set 10|What is the Synonym of "Jeer"?|Scoff|Magnanimity|Applaud|Avoid|0|
+Class 9 English|English|Set 10|She sings______?|Nicely|Beautifully|Sweetly|None of these|1|
+Class 9 English|English|Set 10|A leady who remains unmarried?|Bachelor|Misanthrope|Spinster|None of these|2|
+Class 9 English|English|Set 10|Synonym of Obsolescent is ______?|Useless|Glittering|Fustiness|Modernity|2|
+Class 9 English|English|Set 10|The noisy River Kumar Passes through city of Balakot. In this sentence " noisy River" prefers to ______ ?|Talkative and Lively river|Loud and Fast flowing river|Slow and Gently Flowing river|Unhurried and Smoothly flowing river|1|
+Class 9 English|English|Set 10|The recent immigrants realised they were Consaguineous.?|Badly treated|cheated|having same ancestor|Mistaken|2|
+Class 9 English|English|Set 10|"Weal and woe" means______?|Up & down|Joys & sorrows|whole heartedly|Extreme hate|1|
+Class 9 English|English|Set 10|idiom of "Rides the high horse"?|went on gambling|bought a horse|superior|None of them|2|
+Class 9 English|English|Set 10|Khan is always ready to "Eat anyone,s salt"?|To be one,s guest|To cook tasty dishes|An infectious diseas|None|0|
+Class 9 English|English|Set 10|The people of the village Afzal Khan are "the salt of the earth"?|Kind|Rich|Educated|Qurralsome|0|
+Class 9 English|English|Set 10|He looks upset, I think he took the criticism ______ heart?|to|in|about|of|0|
+Class 9 English|English|Set 10|You can't always pass ______ appearance.|Down|By|Into|Of|1|
+Class 9 English|English|Set 10|It is Good ______ him to help me in time.|of|for|to|by|0|
+Class 9 English|English|Set 10|To face the music means______?|To be greeted rudely|To be offered warm hospitailty|To be on the front seat in a concert|To bear the consequences|3|
+Class 9 English|English|Set 10|The foreign phrase De novo means______?|one side only|Indefinitly|New|None of Above|2|
+Class 9 English|English|Set 10|Synonyms of of remote is______?|automatic|savage|distant|mean|2|
+Class 9 English|English|Set 10|Synonyms of of Admonition is ______?|Weapon|Warning|Preamble|Alarm|1|
+Class 9 English|English|Set 10|Which mark is used for Semicolon______?|?|:|;|!|2|
+Class 9 English|English|Set 11|Wow! Ah! Oh! and No! are usually used as______?|Preposition|Conjunction|Interjection|Adjective|2|
+Class 9 English|English|Set 11|FAQ stands for ______ ?|Frequently Asked Questions|Favourite Asked Questions|Favourite and Answered Questions|Frequently Answered Questions|0|
+Class 9 English|English|Set 11|Rule of thumb means ?|Mark of thumb on a legal paper|a rough estimate|an easy choice|an unknown rule|1|
+Class 9 English|English|Set 11|Have an Axe to Grind means:______ ?|To use axe frequently|Selfish motive|To have a dispute with someone|To be fair with someone|1|
+Class 9 English|English|Set 11|Chose the correct meaning of idiom: Beat about the bush ?|Try to meet George Bush|To avoid the main topic|To make noise|To accompany someone in a jungle|1|
+Class 9 English|English|Set 11|The Chairman is ill and we'll have to______the meeting for a few days.|Put on|Put of|Put away|Put off|3|
+Class 9 English|English|Set 11|"Wow" is an example of______?|Article|Conjunction|Interjection|Adverb|2|
+Class 9 English|English|Set 11|isolation is most similar to______?|Fear|Plenitude|Solitude|Disease|2|
+Class 9 English|English|Set 11|Contiguous is most similar to______?|Catching|Divided|Adjoining|Circumstantial|2|
+Class 9 English|English|Set 11|Carte Blanche means:|wheel in the motion|A blank thing|Going by the rules|Full discretionary powers|3|
+Class 9 English|English|Set 11|Both parties must adhere ______ the terms of the contract.|In|By|On|To|3|
+Class 9 English|English|Set 11|Synonym of "Bibulous" is ______?|Huge|Boozy|Sottish|Both B & C|3|
+Class 9 English|English|Set 11|Which one of the following word is most similar to " characterized by or showing interest or concern"?|Forlorn|Delinquent|Solicitous|All of the above|2|
+Class 9 English|English|Set 11|Which one of the following is most similar in meaning to SOPORIFIC?|Meteoric|Phlegmatic|Sadistic|Hypnotic|3|
+Class 9 English|English|Set 11|Synonym of "Yokel" is ______?|Crafty|Canny|bumpkin|Crave|2|
+Class 9 English|English|Set 11|I was alarmed______his death.|by|at|upon|from|1|
+Class 9 English|English|Set 11|Synonym of EVADE is______?|Elude|Avoid|dodge|All of these|3|
+Class 9 English|English|Set 11|Synonym of VAGUE is______?|Fuzzy|Clear|ill-timid|Evade|0|
+Class 9 English|English|Set 11|Meaning of words and how to use them is called?|Syntax|Semantics|Pragmatics|IPA|1|
+Class 9 English|English|Set 11|The list of words in a language is referred to as its______?|Vocabulary|Structure|lexicon|Vocal cords|2|
+Class 9 English|English|Set 11|The synonym of "Emancipate" is______?|Emanate|Incorporate|Defame|Release|3|
+Class 9 English|English|Set 11|The synonym of "Gregarious" is______?|Sociable|Reserved|Shaky|Egregious|0|
+Class 9 English|English|Set 11|Synonym of DEFLECT is ______?|Frustrate|Divert|Revert|Depress|1|
+Class 9 English|English|Set 11|What is the synonysm for STRICTURE?|Stricness|Stinging|Censure|Discipline|2|
+Class 9 English|English|Set 11|Synonym of Contaminate is ______?|Purify|Debase|Clean|Arrange|1|
+Class 9 English|English|Set 11|The Ship Is Bound______Pakistan.|Onto|At|To|For|3|
+Class 9 English|English|Set 11|Synonyms of ABASEMENT is ______?|Incurrence|Taxation|Pride|Humiliation|3|
+Class 9 English|English|Set 11|He is averse______hard work.|on|to|at|from|1|
+Class 9 English|English|Set 11|The idiomatic phrase "Spick and Span" means?|Wisdome and foresight|Watch the weather|spotlessly clean|Deceive somebody|2|
+Class 9 English|English|Set 11|Synonym of Abysmal is______?|Dreadful|Awaful|Atrocious|All of them|3|
+Class 9 English|English|Set 12|What do you mean by Novel ______ ?|Short prose|A long fictional prose with many characters|A short narrative prose|A literary work on the stage|1|
+Class 9 English|English|Set 12|What the term Short Story stands for:|A long prose fiction|A story of figurative language|A story of many characters|A short prose fiction|3|
+Class 9 English|English|Set 12|Reptile is to Lizard as Flower is to______?|Petal|Stem|Daisy|Alligator|2|
+Class 9 English|English|Set 12|My first lesson ______ forgiveness came from my mother.|Upon|About|In|On|3|
+Class 9 English|English|Set 12|I'm ______ sure of it as you are.|Quite|As|Perfectly|Very|1|
+Class 9 English|English|Set 12|What is the Synonym of the word "INDUBITABLE"?|Certain|Undeniable|Fraudulent|Doubtful|1|
+Class 9 English|English|Set 12|Synonym of Unhinge is______?|Sane|Stable|Deranged|Balanced|2|
+Class 9 English|English|Set 12|Synonym of Fanatical is______?|Zealous|Moderate|Open-minded|Rare|0|
+Class 9 English|English|Set 12|Synonym of Lurch is______?|Stagger|Tiptoe|Steady|None of the above|0|
+Class 9 English|English|Set 12|Synonym of Warmonger is______?|Militarist|Pacifist|Honest|Optimist|0|
+Class 9 English|English|Set 12|Synonym of Enfeeble is______?|Weaken|Strengthen|Powerful|Acceptable|0|
+Class 9 English|English|Set 12|Synonym of Prudence is______?|Judgement|Folly|Recklessness|Incapable|0|
+Class 9 English|English|Set 12|Synonym of Murky is______?|Dark|Gloomy|Bright|Both A and B|3|
+Class 9 English|English|Set 12|Synonym of Ominous is______?|Menacing|Promising|Auspicious|Propitious|0|
+Class 9 English|English|Set 12|Synonym of Obscure is ______?|confusing|Reveal|Clear|Bright|0|
+Class 9 English|English|Set 12|Synonym of Gauche is ______?|Awkward|Elegant|Sophisticated|Decent|0|
+Class 9 English|English|Set 12|Synonym of Confiscated is______?|Seize|Return|Allow|Free|0|
+Class 9 English|English|Set 12|Synonym of Reluctant is ______?|Willing|eager|Unwilling|Ready|2|
+Class 9 English|English|Set 12|Synonym of Dissent is______?|Agree|Accept|Disagree|Assent|2|
+Class 9 English|English|Set 12|Synonym of Cagey is ______?|Secretive|Frank|Open|Weak|0|
+Class 9 English|English|Set 12|Synonym of "AFICIONADO" is______?|Enthusiast|Critic|indifferent|Rival|0|
+Class 9 English|English|Set 12|Synonym of "INEBRIATE" is______?|Dreamy|Stupefied|Drunken|Unsteady|2|
+Class 9 English|English|Set 12|Synonym of "Retaliation" is______?|Reconciliation|Remission|Revenge|Condonation|2|
+Class 9 English|English|Set 12|The original inhabitants of a Country.|Aborigines|Citizens|Natives|Primitive|0|
+Class 9 English|English|Set 12|The teacher made the naughty boy ______.|Tiptoe|Tiptoes|To Tiptoe|None of these|0|
+Class 9 English|English|Set 12|Synonym of "AMNESTY" is______?|Assistance|Security|Judicial|Pardon|3|
+Class 9 English|English|Set 12|Synonym of "YOB" is______?|Annoyed|Intelligent|Humble|Aggressive|3|
+Class 9 English|English|Set 12|Synonym of "BONHOMIE" is______?|friendliness|curriculum|Meticulous|Insolent|0|
+Class 9 English|English|Set 12|To"Jazz Up" means to______?|Go faster|Make something more exciting|Make a lot of noise|Be Strong|1|
+Class 9 English|English|Set 12|There were no opposition to the new policy by the 'rank and file' of the Government.|The ordinary members|The official machinery|The majority|The cabinet ministers|0|
+Class 9 English|English|Set 12|Synonym of TRUCE is______?|Armistice|Ratify|Agreement|Settlement|0|
+Class 9 English|English|Set 12|Synonym of Foster is ______?|Increase|Lessen|Raise|None|2|
+Class 9 English|English|Set 12|What is the synonym for the Exotic?|dull|uninteresting|Unusual|boring|2|
+Class 9 English|English|Set 12|What is the cause ______ the problem?|of|on|about|in|0|
+Class 9 English|English|Set 12|It differs ______ their last suggestion?|about|in|from|of|2|
+Class 9 English|English|Set 12|This flying coach is bound______Karachi.|For|From|To|None|0|
+Class 9 English|English|Set 12|I would like to thank you ______ behalf of all of us?|of|on|about|in|1|
+Class 9 English|English|Set 12|He is jealous ______ her success?|of|on|about|in|0|
+Class 9 English|English|Set 12|As ______ me; I will be happy to lend a hand?|of|in|about|for|3|
+Class 9 English|English|Set 12|What did you make ______ the lecture?|of|in|about|on|0|
+Class 9 English|English|Set 12|Unfortunately, we had to cancel it owing ______ the bad weather?|of|in|about|to|3|
+Class 9 English|English|Set 12|It was kind ______ you to help?|of|in|about|on|0|
+Class 9 English|English|Set 12|She cares ______ the environment?|of|in|about|on|2|
+Class 9 English|English|Set 12|He was embarrassed because everybody was laughing ______ him?|of|in|about|at|3|
+Class 9 English|English|Set 12|Green pepper is very rich ______ vitamin C?|of|in|about|on|1|
+Class 9 English|English|Set 12|Please do not interfere ______ my personal affairs?|of|in|about|on|1|
+Class 9 English|English|Set 12|He is interested ______ history?|of|in|about|on|1|
+Class 9 English|English|Set 12|We arrived ______ the station an hour late?|of|in|about|at|3|
+Class 9 English|English|Set 12|I am good ______ tennis?|of|in|about|at|3|
+Class 9 English|English|Set 12|The teacher set some homework ______ the end of the lesson?|of|in|about|at|3|
+Class 9 English|English|Set 13|She suffers ______ a heart disease?|from|in|about|on|0|
+Class 9 English|English|Set 13|They decided ______ the grey sofa?|of|in|about|on|3|
+Class 9 English|English|Set 13|He confided ______ me?|of|in|about|on|1|
+Class 9 English|English|Set 13|I am envious ______ them?|of|in|about|on|0|
+Class 9 English|English|Set 13|I am worried ______ the exam?|in|about|on|of|1|
+Class 9 English|English|Set 13|He is good ______ Football.|At|Of|With|In|0|
+Class 9 English|English|Set 13|She is jealous ______ my friend?|From|With|Of|By|2|
+Class 9 English|English|Set 13|Synonym of Nostalgia is ______?|Reminiscence|Apathy|Homesickness|Wistfulness|2|
+Class 9 English|English|Set 13|The Sun______From Behinds The Clouds.|Immerse|Emerged|Imerged|None Of These|1|
+Class 9 English|English|Set 13|A Group of birds or a flock flying together in hundreds or even in thousands is called ______ ?|Startling|Murmuration|Both A and B|None of these|1|
+Class 9 English|English|Set 13|One who lacks knowledge ______ ?|Intelligent|Ignorant|Credulous|Colleague|1|
+Class 9 English|English|Set 13|A part of a word that can be pronounced separately ?|Particle|Sibilant|Syllable|Letter|2|
+Class 9 English|English|Set 13|One who travels from place to place ?|Itinerant|Mendicant|Journeyman|Tramp|0|
+Class 9 English|English|Set 13|She said to the princess, "May you live long".|She prayed for the princess that she might live long.|She prayed for the princess that may she live long.|She prayed for the princess that she live long.|She prayed for the princess that she may live long.|0|
+Class 9 English|English|Set 13|He will be arriving quite late, so by the time he comes, the play ______ ?|Would have begun|Will begun|Will have begun|Would begun|2|
+Class 9 English|English|Set 13|The police ______ for the robber for long but they have failed to find him so far.|Have looked|Have been looking|Has looked|Has been looking|1|
+Class 9 English|English|Set 13|I'll come to meet you at the station in my car ______ you do not have to walk to my house.|So that|In order|That|Because|0|
+Class 9 English|English|Set 13|Rubi talks a lot, doesn't she? Yes, although there no reason for ______ ?|So much have talking|Her so much talking|Her talking so much|Talking her so much|2|
+Class 9 English|English|Set 13|Turn left______the traffic lights.|At|In|On|Of|0|
+Class 9 English|English|Set 13|Correct the sentence: He got up and run to the door.|He get up and run to the door.|He gets up and run to the door.|He got up and will run to the door.|He got up and ran to the door.|3|
+Class 9 English|English|Set 13|______ earth moves around ______ sun.|The; A|An; The|The; the|An; A|2|
+Class 9 English|English|Set 13|Choose the correct option which reflect the same sense as in the captioned sentence: "Our guest let us know that he would be arriving next week in his last letter."|Our guest let us know that he was arriving next week in his last letter.|Our guest let us know that's he are arriving in his last letter.|Our guest let us know in his last letter that he would be arriving next week.|Done of the above|2|
+Class 9 English|English|Set 13|He writes ______ ink.|WITH|IN|FOR|ON|1|
+Class 9 English|English|Set 13|Meaning of the idiom 'Swan song"?|Last work|First work|Middle work|Early work|0|
+Class 9 English|English|Set 13|The food is very good______that restaurant.|at|of|in|with|2|
+Class 9 English|English|Set 13|The Synonym of Abstemious is______?|Diligent|Confused|Moderate|None of these|2|
+Class 9 English|English|Set 13|The Synonym of Abreast is______?|Smart|Informed|Opposite|None of these|1|
+Class 9 English|English|Set 13|The words in these books will be of value______ you.|To|For|On|None of these|0|
+Class 9 English|English|Set 13|Zillzahid Presents himself as a bold Journalist by asking people in politics the kinds of..................... questions that other reporters do not ask.|Controversial|Circumnutating|Abnormal|Irrelevant|0|
+Class 9 English|English|Set 13|Synonym of Fealty is ______?|Loyalty|Non-Alliance|Amenity|Fear|0|
+Class 9 English|English|Set 13|Synonym of Intrepid is ______?|Timid|Affable|Bold|Lazy|2|
+Class 9 English|English|Set 13|Synonym of Dearth is ______?|Necessity|Luck|Lack|Abundance|2|
+Class 9 English|English|Set 13|Synonym of Facile is ______?|Cheerful|Clean|Easy|Humorous|2|
+Class 9 English|English|Set 13|Synonym of fervor is______?|Excitement|Class|Realization|Swiftness|0|
+Class 9 English|English|Set 13|Synonym of Doleful is______?|Sad|Happy|Famous|Enemy|0|
+Class 9 English|English|Set 13|Synonym of Apposite is______?|Whole|Revealing|Cooked|Appropriate|3|
+Class 9 English|English|Set 13|Synonym of Diffident is______?|Upsetting|Shy|Responsible|Polite|1|
+Class 9 English|English|Set 13|Synonym of rebate is ______ ?|Gift|Charity|Commission|Discount|3|
+Class 9 English|English|Set 13|Synonym of Decimate is ______?|Destroy|Promote|Disfigure|Dissipate|0|
+Class 9 English|English|Set 13|Synonym of Mull is ______ ?|Help|Discourage|Think|Provoke|2|
+Class 9 English|English|Set 13|He belongs______ a noble family.|with|to|among|in|1|
+Class 9 English|English|Set 13|Synonym of INFRINGE is______?|Breach|Escape|Hard|Bound|0|
+Class 9 English|English|Set 13|Synonymous of 'Flank' is ______?|Side of a person right or left|In an open, honest, and direct manner|Hidden|Far away|0|
+Class 9 English|English|Set 13|Synonym of 'Rowdy' is______?|Restrained|Noisy and disorderly|Crowd|Push out|1|
+Class 9 English|English|Set 13|Synonym of 'Shove'______?|A strong push|Avoid|Come out|Fast|0|
+Class 9 English|English|Set 13|Synonym of BEMOAN is ______ ?|Denounce|Lament|Soothe|Loathe|1|
+Class 9 English|English|Set 14|Synonym of WRATH is ______ ?|Violence|Anger|Hatred|Jealousy|1|
+Class 9 English|English|Set 14|Synonym of EAGER is ______ ?|Devoted|Clever|Curious|Enthusiastic|2|
+Class 9 English|English|Set 14|Synonym of OBLIQUE is ______?|Horizontal|Bore|Slanting|Disregard|2|
+Class 9 English|English|Set 14|When I was sleeping, she ______ playing the sitar .|Was|Must be|Were|Is|0|
+Class 9 English|English|Set 14|Can they go shopping with us ? Sorry, they are busy; I wish they ______ with you now?|Can go|Are going|Could go|Would go|2|
+Class 9 English|English|Set 14|When I listened to his cogent arguments, all my ______ were ______ and I was forced to agree with his point of view.|Senses- Stimulated|Doubt- Confirmed|Doubt- Dispelled|Questions- Asked|2|
+Class 9 English|English|Set 14|It is almost impossible at times to capture the ______ of words when we translate them into a foreign language.|Implications|Meanings|Denotations|Connotations|3|
+Class 9 English|English|Set 14|"Clique" means______?|A group of animals|A group of birds|A group of people|None of above|2|
+Class 9 English|English|Set 14|"Prosaic" means______?|Good|Dull|Beautiful|None|1|
+Class 9 English|English|Set 14|What is the meaning of Banton?|Afresh|Good manners|Farewell|Authority|1|
+Class 9 English|English|Set 14|Synonym of Turmoil is ______?|Conclusion|Reversal|Meanness|Confusion|3|
+Class 9 English|Fill in the blanks|Set 14|______ the bad weather, the outdoor party was rescheduled.|Because of|In order to|Despite|None of these|0|
+Class 9 English|Fill in the blanks|Set 14|The market is nearer to them than ______.|we|us|ours|ourselves|1|
+Class 9 English|Fill in the blanks|Set 14|He bought a three ______ suit.|Hundred-Dollars|Hundreds-Dollar|Hundred-Dollar|Hundreds-Dollars|2|
+Class 9 English|Fill in the blanks|Set 14|The Students protested ______ the ill-treatment of their leader.|over|to|against|for|2|
+Class 9 English|Fill in the blanks|Set 14|The______ of war is expected very soon.|Cessation|Cession|Session|cestion|0|
+Class 9 English|Fill in the blanks|Set 14|Choose the correct spelling for the missing word: My ______ needs to be paid every month.|Morgage|Morguage|Mortgage|Morgauge|2|
+Class 9 English|Fill in the blanks|Set 14|Nobody ______ that old man had fallen.|noted|knew|noticed|none of these|2|
+Class 9 English|Fill in the blanks|Set 14|I am tired______waiting.|Of|By|With|From|0|
+Class 9 English|Fill in the blanks|Set 14|I always praise him for his merits, but he always turns______you pointing out your demerits|at|to|on|for|1|
+Class 9 English|Fill in the blanks|Set 14|Pronoun is used to avoid unnecessary repetition of ______ in a sentence?|Verb|Adjective|Noun|Preposition|2|
+Class 9 English|Fill in the blanks|Set 14|He cut his finger______ the knife|By|with|through|From|1|
+Class 9 English|Fill in the blanks|Set 14|The man ______ you met is an anchorperson.|who|whose|whom|which|2|
+Class 9 English|Fill in the blanks|Set 14|He has been working______morning.|For|Since|at|by|1|
+Class 9 English|Fill in the blanks|Set 14|When she was younger, she ______ five kilometers a day.|walked|had walked|has been walking|had been walking|0|
+Class 9 English|Fill in the blanks|Set 14|He is looking for accommodation ______ in flat or shared house.|both|until|neither|either|3|
+Class 9 English|Fill in the blanks|Set 14|Tania, accompanied by her brother, ______ at the party.|is|are|was|were|2|
+Class 9 English|Fill in the blanks|Set 14|The students in our school are ______ in other schools.|smarter|smarter than|smarter than those|more smarter than|2|
+Class 9 English|Fill in the blanks|Set 14|The new information on dengue virus caused panic in the public and government ______.|like|likely|alike|dislike|1|
+Class 9 English|Fill in the blanks|Set 14|She is standing ______ her boyfriend.|with|by|in|for|1|
+Class 9 English|Fill in the blanks|Set 14|She is standing ______ her Brother.|with|by|in|for|1|
+Class 9 English|Fill in the blanks|Set 14|Everyone at the party ______ amazed by his performance.|is|are|were|was|3|
+Class 9 English|Fill in the blanks|Set 14|The house is large ______ is quite old-fashioned.|and|or|which|but|3|
+Class 9 English|Fill in the blanks|Set 14|He has been living in Switzerland ______ two years.|for|since|from|until|0|
+Class 9 English|Fill in the blanks|Set 14|On leaving the shopping plaza, Sania was robbed ______ purse.|by her|by hers|of her|of hers|2|
+Class 9 English|Fill in the blanks|Set 14|If I have money, I ______ it tomorrow.|will purchase|would purchase|have purchase|have purchased|0|
+Class 9 English|Fill in the blanks|Set 14|The departmental store is open ______ eight to seven.|by|from|between|during|1|
+Class 9 English|Fill in the blanks|Set 14|Anna and Tania went shopping, but ______ couldn't find anything ______ liked.|they, those|they, them|those, they|they, they|3|
+Class 9 English|Fill in the blanks|Set 14|While Pakistan has earned record revenue this year, ______ well behind in exports.|it still lag|it still lags|it lag still|it lags still|1|
+Class 9 English|Fill in the blanks|Set 14|She ______ for the upcoming tennis tournament.|trains|is training|will train|is going to train|1|
+Class 9 English|Fill in the blanks|Set 14|I ______ New Zealand next year.|go|will go|am going|am going to|3|
+Class 9 English|Fill in the blanks|Set 14|There are some vacant rooms ______ in flats and shared houses.|both|between|either|neither|0|
+Class 9 English|Fill in the blanks|Set 14|The sun rises ______ the east.|in|on|from|towards|0|
+Class 9 English|Fill in the blanks|Set 14|Nitrogen gas is in abundance ______ the Earth.|in|on|above|along|1|
+Class 9 English|Fill in the blanks|Set 14|I was watching a TV program, when he ______ in.|walk|walks|walked|was walking|2|
+Class 9 English|Fill in the blanks|Set 14|We are planning ______ out to dinner tonight.|taking our guests|guests to take|guests taking|to take our guests|3|
+Class 9 English|Fill in the blanks|Set 14|She took lessons ______ how to swim.|learn|for learning|to learn|learning|2|
+Class 9 English|Fill in the blanks|Set 14|The class teacher ______ Saba move to another chair.|allows|allowed|let|permitted|2|
+Class 9 English|Fill in the blanks|Set 14|He devotes much of his time ______ for the future.|to planning|to plan|plan|planning|3|
+Class 9 English|Fill in the blanks|Set 14|I've never __ to England.|Been|Went|Going|Go|0|
+Class 9 English|Fill in the blanks|Set 15|Look! The bus ______.|Leaves|Leaving|Does leave|Is leaving|3|
+Class 9 English|Fill in the blanks|Set 15|______there a restaurant near here?|Are|Have|Do|Is|3|
+Class 9 English|Fill in the blanks|Set 15|I saw the horse jump ______ the fence.|Behind|On|Over|To|2|
+Class 9 English|Fill in the blanks|Set 15|I found my car keys ______ my pocket.|On|In|At|From|1|
+Class 9 English|Fill in the blanks|Set 15|I purchased a cupboard ______ my new house.|To|at|Until|For|3|
+Class 9 English|Fill in the blanks|Set 15|I am now quite______and hearty.|Hail|Hale|Hell|Hall|1|
+Class 9 English|Fill in the blanks|Set 15|If I ______ money, I would purchase it now.|has|have|had|have had|2|
+Class 9 English|Fill in the blanks|Set 15|She is looking for an accommodation ______ in flat or shared house.|both|until|neither|either|3|
+Class 9 English|Fill in the blanks|Set 15|The newly imposed rules sound very ______.|interesting|interestingly|interested|interest|0|
+Class 9 English|Fill in the blanks|Set 15|Maryam, accompanied by her brother, ______ at the party.|is|are|was|were|2|
+Class 9 English|Fill in the blanks|Set 15|Though smaller than our solar system, a quasar, which looks like an ordinary star, emits more light ______ galaxy.|than an entire|than entire|than is entire|than entirely|0|
+Class 9 English|Fill in the blanks|Set 15|Kindly ask her to play the piano, she is a ______ pianist?|voracious|vacuous|volatile|virtuoso|3|
+Class 9 English|Fill in the blanks|Set 15|He was ______ from all charges leveled against him?|liberated|exonerated|apprehended|judged|1|
+Class 9 English|Fill in the blanks|Set 15|His application for a visa was turned ______ by the consulate.|out|over|down|aside|2|
+Class 9 English|Fill in the blanks|Set 15|You are ______ your time trying to persuade him, he will never help you.|missing|losing|spending|wasting|3|
+Class 9 English|Fill in the blanks|Set 15|______ known as Prince claimed that he was the rightful heir to the throne.|Man|A man|The man|None|2|
+Class 9 English|Fill in the blanks|Set 15|Food prices have been ______ steadily for at least two years.|raising|rising|growing|lifting|1|
+Class 9 English|Fill in the blanks|Set 15|He called me last night. "me" is|Subject pronoun|Reflexive pronoun|Object pronoun|Possessive pronoun|2|
+Class 9 English|Fill in the blanks|Set 15|You must take a taxi if you ______ to catch the next train.|intend|will intend|would intend|intending|0|
+Class 9 English|Fill in the blanks|Set 15|He ______ a lot of reading in his free time.|does|is|reads|doesn't|0|
+Class 9 English|Fill in the blanks|Set 15|I was studying English ______ my brother was watching a drama.|When|although|While|because|2|
+Class 9 English|Fill in the blanks|Set 15|Sana enjoyed eating both meat and vegetables; she considered herself a(n) ______.|Hungry|Carnivore|Vegetarian|Omnivore|3|
+Class 9 English|Fill in the blanks|Set 15|After a large Friday dinner, Salam's family was ______.|Satiated|esurient|argumentative|assiduous|0|
+Class 9 English|Fill in the blanks|Set 15|It is very cold here in winter, so they ______ Islamabad.|going to|usually go to|goes to|are sometimes go to|1|
+Class 9 English|Fill in the blanks|Set 15|I am looking for admission ______ in a government or private university.|both|until|either|neither|2|
+Class 9 English|Fill in the blanks|Set 15|Amna was engaged ______ Asim.|with|from|to|None|2|
+Class 9 English|Fill in the blanks|Set 15|______ stood ______ the burning house.|A girl - on|The girl - on|A girl- in|Girl - in|1|
+Class 9 English|Fill in the blanks|Set 15|Your face is very familiar ______ him.|from|with|of|to|3|
+Class 9 English|Fill in the blanks|Set 15|It was so nice ______ them.|by|with|of|to|2|
+Class 9 English|Fill in the blanks|Set 15|He is indifferent ______ his words.|at|on|of|to|3|
+Class 9 English|Fill in the blanks|Set 15|Parents were very surprised ______ his result.|on|from|at|about|2|
+Class 9 English|Fill in the blanks|Set 15|There is no possibility of ______ coming late.|them|they|theirs|their|3|
+Class 9 English|Fill in the blanks|Set 15|I did not know where he ______ from.|has come|had come|have come|comes|1|
+Class 9 English|Fill in the blanks|Set 15|It will rain soon, ______?|will it|won't it|would it|wouldn't it|1|
+Class 9 English|Fill in the blanks|Set 15|She always keeps on ______ dramas.|watch|watched|watching|watches|2|
+Class 9 English|Fill in the blanks|Set 15|He is good at ______ English.|spoken|speaking|speak|spoke|1|
+Class 9 English|Fill in the blanks|Set 15|I knew he ______ fail in exam.|shall|will|would|both A & B|2|
+Class 9 English|Fill in the blanks|Set 15|Prime Minister leaves ______ UK on Monday.|to|by|for|none|2|
+Class 9 English|Fill in the blanks|Set 15|She is scared ______ snake.|from|with|of|by|2|
+Class 9 English|Fill in the blanks|Set 15|She is totally obedient ______ him.|of|to|both A & B|None|1|
+Class 9 English|Fill in the blanks|Set 15|I told him ______ play cricket.|don't|to not|not to|didn't|2|
+Class 9 English|Fill in the blanks|Set 15|Congregational prayer is superior ______ optional prayer.|from|to|of|than|1|
+Class 9 English|Fill in the blanks|Set 15|The doctor warms him that unless he gives up smoking:______(PMS 2018 KPK)|His health will soon be recovered|He will not recover|Will he able to recover|He will not suffer|1|
+Class 9 English|Fill in the blanks|Set 15|Unless you work very hard, ______ (PMS 2018 KPK)|You are not being successful|You will not be successful|You ought to be successful|You be not successful|1|
+Class 9 English|Fill in the blanks|Set 15|Earth is closest to the sun every year in early ______, when it's winter for the Northern Hemisphere. We're farthest away from the sun in early ______, during our Northern Hemisphere summer.|January - July|June - December|July - January|December - June|0|
+Class 9 English|Fill in the blanks|Set 15|I ______ an old friend in Empress market this morning.|came around|came round|came across|came with|2|
+Class 9 English|Fill in the blanks|Set 15|Nothing must be allowed to ______ our search for the truth.|interfered into|interfered from|interfered upon|interfered with|3|
+Class 9 English|Fill in the blanks|Set 15|Our plan ______ to succeed.|bid fair|pass by|boil down|hand and galore|0|
+Class 9 English|Fill in the blanks|Set 15|Complete the following sentence: No sooner did the thief see the policeman ______.|he ran away|he had run away|when he ran away|than he ran away|3|
+Class 9 English|Fill in the blanks|Set 15|Pick the correct response from following sentence "In the beginning he worked honestly but later he turned ______ to be a cheat"|Out|Up|For|In|0|
+Class 9 English|Fill in the blanks|Set 16|As he was not prepared for making a speech , he broke ______ in the middle.|of|off|in|into|1|
+Class 9 English|Fill in the blanks|Set 16|Complete the following sentence: The doctor advised the patient ______|that no to neglect his health|to not to neglect his health|not to neglect his health|don't neglect your health|2|
+Class 9 English|Fill in the blanks|Set 16|I dont agree with you; I think______?|it is fairly good film|it is rather a good film|it is rather fairly good film|it is fairly rather good film|1|
+Class 9 English|Fill in the blanks|Set 16|I enquired of him ______?|whether if he wants to join the course|if he did want to join the course|if he wants to join the course|if he wanted to join the course|3|
+Class 9 English|Fill in the blanks|Set 16|He exclaimed with shock ______?|that it was a very tragic accident|that it is a tragic accident|that it was a tragic accident|it was a tragic accident|0|
+Class 9 English|Fill in the blanks|Set 16|Because of oil crisis, the prices of commodities are looking ______?|at|on|up|to|2|
+Class 9 English|Fill in the blanks|Set 16|Adnan is "very different about" passing the Civil Services Examination this year.|Dead sure of|Very hopeful of|Lacking self confidence about|Reasonably certain of|2|
+Class 9 English|Fill in the blanks|Set 16|It was he who put "a spoke in my wheel".|tried to cause an accident|helped in the execution of the plan|thwarted in the execution of the plan|destroyed the plan|2|
+Class 9 English|Fill in the blanks|Set 16|Plough a lonely furrow means______?|remain unaffected|do without the help of others|survive in isolation|remain non-aligned|1|
+Class 9 English|Fill in the blanks|Set 16|He is "out and out" a reactionary.|no more|thoroughly|in favour of|deadly against|1|
+Class 9 English|Fill in the blanks|Set 16|The decision did not appear to "hold out" bright prospects.|highlight|show|offer|promise|2|
+Class 9 English|Fill in the blanks|Set 16|Stew in ones own juice means______?|To fight with his mind|To destroy his memory|Suffer in his own juice|Suffer for his own act|3|
+Class 9 English|Fill in the blanks|Set 16|Play to the gallery means______?|advertise|cater to the public taste|attempt to appeal to popular taste|depend upon the public for approval|2|
+Class 9 English|Fill in the blanks|Set 16|He is using "backstairs influence" to sort out his matter.|Political influence|Backing influence|Deserving and proper influence|Secret and unfair influence|3|
+Class 9 English|Fill in the blanks|Set 16|He was undecided. He "let the grass grow under his feet".|loitered around|stayed out|sat unmoving|moved away|0|
+Class 9 English|Fill in the blanks|Set 16|This matter has been "hanging fire" for the last many days. It should be sorted out.|going on slowly|hotly debated|stuck up|ignored|0|
+Class 9 English|Fill in the blanks|Set 16|The boxing match proved to be a "big draw".|a keen contest|a huge attraction|a lovely spectacle|a game without any result|1|
+Class 9 English|Fill in the blanks|Set 16|Modern industry abounds ______ opportunities for young people with good scientific qualifications.|In|For|Into|With|3|
+Class 9 English|Fill in the blanks|Set 16|The players agreed to abide ______ the referee's decision.|With|By|In|Into|1|
+Class 9 English|Fill in the blanks|Set 16|He was abstained ______ salted food by the doctor.|From|For|In|To|0|
+Class 9 English|Fill in the blanks|Set 16|Oh there goes the front door bell - oh it's you! I might have______.|Thought|Believed|Considered|Guessed|3|
+Class 9 English|Fill in the blanks|Set 16|Don't______ - I'll see you very soon.|Concern|Care|Worry|Mind|2|
+Class 9 English|Fill in the blanks|Set 16|Well, this is very interesting but I am very______.|Busy|Occupied|Hurried|Active|0|
+Class 9 English|Fill in the blanks|Set 16|I've already told you I'm in the______?|Place|Area|Spot|Location|1|
+Class 9 English|Fill in the blanks|Set 16|Tell me, where are you at the______?|Time|Second|Hour|Moment|3|
+Class 9 English|Fill in the blanks|Set 16|Well, I did______a lot of money on it.|Dispense|Pass|Spend|Dispose|2|
+Class 9 English|Fill in the blanks|Set 16|You______very clear.|Sound|Ring|Hear|Noise|0|
+Class 9 English|Fill in the blanks|Set 16|Not really. I'm quite______?|Nearer|Near|Next|Nearly|1|
+Class 9 English|Fill in the blanks|Set 16|Oh yes. Are you______Away?|Distant|Long|Far|Quite|2|
+Class 9 English|Fill in the blanks|Set 16|I am just______out my new mobile.|Trying|Probing|Testing|Finding|0|
+Class 9 English|Fill in the blanks|Set 16|Drugs addicts in Pakistan are______ in special centers set up by the Government.|Consolidated|Consulted|Inhabited|Indoctrinated|1|
+Class 9 English|Fill in the blanks|Set 16|My Uncle has ______to spain and returned back.|gone|went|been|being|2|
+Class 9 English|Fill in the blanks|Set 16|Jameel, who has been nervous and jumpy lately, suddenly burst ______ tears.|into|in|on|with|0|
+Class 9 English|Fill in the blanks|Set 16|South Africa brushed ______ the threat of tougher economic sanctions.|of|off|down|about|1|
+Class 9 English|Fill in the blanks|Set 16|i think we are agreed on the main points. Does anyone want to bring ______ anything further.|Around|Down|About|Up|3|
+Class 9 English|Fill in the blanks|Set 16|I am not concerned______his affairs.|To|With|At|on|1|
+Class 9 English|Fill in the blanks|Set 16|She deprived her husband______all he had.|With|To|Of|from|2|
+Class 9 English|Fill in the blanks|Set 16|The Master was annoyed______the servant.|To|With|On|Upon|1|
+Class 9 English|Fill in the blanks|Set 16|Although he was a hardened criminal, his one______feature was his love of children|Saving|Recovering|Redeeming|Acquiring|2|
+Class 9 English|Fill in the blanks|Set 16|I never miss a football match.I ______ fond of it since my childhood.|Am|Have been|Has been|Will be|1|
+Class 9 English|Fill in the blanks|Set 16|When the doorbell rang, I was ______ my bath.|in|have|having|with|2|
+Class 9 English|Fill in the blanks|Set 16|He ______ as a teacher before he became a lecturer|have worked|had worked|was worked|have been worked|1|
+Class 9 English|Fill in the blanks|Set 16|Our new digital photo-print machine, the manual ______is lost awaits to be set up properly.|of what|where|by whom|of which|3|
+Class 9 English|Fill in the blanks|Set 16|______ me to your mother when you are in London.|Tell|Remind|Remember|Greet|2|
+Class 9 English|Fill in the blanks|Set 16|When I asked him ______ the keys , Bilal said he had no idea where they were.|if did he see|if he had seen|could he see|that he had seen|1|
+Class 9 English|Fill in the blanks|Set 16|The boy I was about to meet ______ play a very important role in my life.|is going to|might have|would get to|has had to|2|
+Class 9 English|Fill in the blanks|Set 16|The confusion ______ the discovery of the body made everybody lose track of time.|had caused|was caused by|had been caused by|caused by|3|
+Class 9 English|Fill in the blanks|Set 16|Have you met Fatima? She is a friend of ______.|my|my mother|my mother's|me|1|
+Class 9 English|Fill in the blanks|Set 16|He give a lecture in which he pointed ______ an error in the book.|by|with|out|in|2|
+Class 9 English|Fill in the blanks|Set 16|The situation in the factory ______)no signs of improvement, as the ongoing strike entered second day.|displayed|exposed|showed|view|2|
+Class 9 English|Fill in the blanks|Set 17|I usually have bread and butter for breakfast, but yesterday I ______ pasta.|have been|had been|have|had|3|
+Class 9 English|Fill in the blanks|Set 17|Make only a few rules for students that emphasize ______behaviour.|correct|fitting|appropriate|useful|2|
+Class 9 English|Fill in the blanks|Set 17|It's about time you ______exercising regularly.|start|started|should start|will start|1|
+Class 9 English|Fill in the blanks|Set 17|Can you help ______up the mess?|clear|with clear|to clearing|me clearing|3|
+Class 9 English|Fill in the blanks|Set 17|The deadline was nearby, so Mrs. Jamal had her students'______their essays.|complete|to complete|completing|completed|3|
+Class 9 English|Fill in the blanks|Set 17|Javed, two of______brothers attend primary school, wishes to be a school teacher after his graduation from the University.|whom|them|whose|which|2|
+Class 9 English|Fill in the blanks|Set 17|She lived ______juice for ten days to slim down for the fashion show.|with|by|in|off|3|
+Class 9 English|Fill in the blanks|Set 17|My husband asked him if he'd ever been convicted ______a crime.|with|of|by|on|1|
+Class 9 English|Fill in the blanks|Set 17|The department head insisted that he ______absolute authority to regulate office work.|gives|is given|would give|would be given|3|
+Class 9 English|Fill in the blanks|Set 17|She has been supporting her family ______her husband's death.|on|at|from|since|3|
+Class 9 English|Fill in the blanks|Set 17|There is something wonderful ______him.|of|about|for|inside|1|
+Class 9 English|Fill in the blanks|Set 17|Could I have a ______-of chocolate?|block|bar|slice|piece|1|
+Class 9 English|Fill in the blanks|Set 17|Four independent______testified to seeing him at the scene of the crime.|person|witnesses|spectator|attestant|1|
+Class 9 English|Fill in the blanks|Set 17|May I give you______advice?|an|some|little|one|1|
+Class 9 English|Fill in the blanks|Set 17|There ______any message from my teacher since she moved to London.|isn't|wasn't|hasn't been|hadn't been|2|
+Class 9 English|Fill in the blanks|Set 17|If everything goes according to ______, work will be complete in December.|timing|time|schedule|lineup|2|
+Class 9 English|Fill in the blanks|Set 17|Please ______two colour passport photographs to the application form.|fix|link|hook up|attach|3|
+Class 9 English|Fill in the blanks|Set 17|He shows great ability ______Mathematics.|at|for|about|in|3|
+Class 9 English|Fill in the blanks|Set 17|The sparrows took no ______the bread.|notice of|notice about|notice from|notice to|0|
+Class 9 English|Fill in the blanks|Set 17|The powers of the party are______in several places in the Constitution.|numbered|named|enumerated|counted|2|
+Class 9 English|Fill in the blanks|Set 17|The teacher found many mistakes in my composition, when she went______it.|into|about|for|through|3|
+Class 9 English|Fill in the blanks|Set 17|The fireman managed to put ______the fire.|away|down|out|off|2|
+Class 9 English|Fill in the blanks|Set 17|A system is ______if it is easy for citizens to access and understand.|transparent|lucid|clear|translucent|0|
+Class 9 English|Fill in the blanks|Set 17|Did the boys turn ______for football practice?|up|on|back|in|0|
+Class 9 English|Fill in the blanks|Set 17|Health______labels have adorned cigarette packages since 1966 in USA.|information|note|message|warning|3|
+Class 9 English|Fill in the blanks|Set 17|Some animals have unique______that allow them to survive in extreme weather conditions.|characteristics|problems|feelings|conditions|0|
+Class 9 English|Fill in the blanks|Set 17|What was the main______behind london bombings.|aim|motive|objective|purpose|1|
+Class 9 English|Fill in the blanks|Set 17|There was an______response for the marathon.|overwhelming|overriding|excessive|extreme|0|
+Class 9 English|Fill in the blanks|Set 17|I would really ______if you could help me out.|respect|value|appreciate|regard|2|
+Class 9 English|Fill in the blanks|Set 17|A speed limit is the______legal speed that you can travel on the road.|highest|biggest|maximum|longest|2|
+Class 9 English|Fill in the blanks|Set 17|Ali must have the______to stick to his diet, if he wants to lose weight.|obstinacy|determination|decision|obligation|1|
+Class 9 English|Fill in the blanks|Set 17|Although he had no ______injuries, doctors found that he was suffering from internal bleeding.|outside|external|outlying|exterior|1|
+Class 9 English|Fill in the blanks|Set 17|______weight gain or weight loss is not good for your body.|Explosive|Excessive|Expressive|Extensive|1|
+Class 9 English|Fill in the blanks|Set 17|Water is made up of two ______ , namely oxygen and hydrogen.|section|aspects|solutions|elements|3|
+Class 9 English|Fill in the blanks|Set 17|Mr. and Mrs. Khan go for a ______ walk just before dinner.|vibrant|brisk|vivacious|slow|1|
+Class 9 English|Fill in the blanks|Set 17|A Computer is hard to repair as there may be hundreds of different ______?|parts|objects|components|materials|2|
+Class 9 English|Fill in the blanks|Set 17|We shall go for a picnic if the weather ______good.|is|was|has been|had been|0|
+Class 9 English|Fill in the blanks|Set 17|In the test, we will ______your work and then give you detailed feedback.|assess|judge|measure|check|0|
+Class 9 English|Fill in the blanks|Set 17|The smoke went ______ the chimney.|by|in|up|on|2|
+Class 9 English|Fill in the blanks|Set 17|She has only ______friends.|fewer|less|more|a few|3|
+Class 9 English|Fill in the blanks|Set 17|He wore multiple bracelets on ______hand.|every|each|either|neither|1|
+Class 9 English|Fill in the blanks|Set 17|Army ______troubled places as curfew remained in force.|moving|walking|patrolling|running|2|
+Class 9 English|Fill in the blanks|Set 17|______you hear the President's speech?|Have|Has|Had|Did|3|
+Class 9 English|Fill in the blanks|Set 17|How much longer______this book?|you are needing|will you be needing|will you have needing|have you needing|1|
+Class 9 English|Fill in the blanks|Set 17|He decided to ______his degree examination in order to get a higher score.|redo|reappear|rewrite|remake|2|
+Class 9 English|Fill in the blanks|Set 17|The news was______good to be true.|very|too|so|as|1|
+Class 9 English|Fill in the blanks|Set 17|The speaker did not properly space out his speech, but went on ______one point only.|stressing|avoiding|devoting|decrying|0|
+Class 9 English|Fill in the blanks|Set 17|How did these things come ______?|about|into|at|down|0|
+Class 9 English|Fill in the blanks|Set 17|Macbeth's desire ______ power brought about his downfall|in|for|with|as|1|
+Class 9 English|Fill in the blanks|Set 17|The worker used ______ to patch up the hole in the wall.|sand|cement|soil|grass|1|
+Class 9 English|Fill in the blanks|Set 18|The agenda for the meeting is ______ the notice|forwarded in|subscribed to|enclosed with|delivered as|2|
+Class 9 English|Fill in the blanks|Set 18|I am exhausted, let's ______a day.|call it|call at|call off|call in|0|
+Class 9 English|Fill in the blanks|Set 18|It's difficult ______reconcile such different points of view.|with|to|in|on|1|
+Class 9 English|Fill in the blanks|Set 18|Many people reported ______a noise in the night.|to hear|having heard|to have heard|been hearing|2|
+Class 9 English|Fill in the blanks|Set 18|The colour of the walls in my room has faded ______.|in|with|away|on|2|
+Class 9 English|Fill in the blanks|Set 18|The flight stewardess the passenger ______.|when to start travelling|where to land the plane|how to fasten the seat belt|how to judge the altitude of the plane|2|
+Class 9 English|Fill in the blanks|Set 18|I ______a single word he says|not believe|don't believe|am not believing|will not believe|1|
+Class 9 English|Fill in the blanks|Set 18|She made her stepson her ______to her large fortune.|hare|heir|hair|here|1|
+Class 9 English|Fill in the blanks|Set 18|The girl ran ______the field when she saw her father after long time.|in|across|on|along|1|
+Class 9 English|Fill in the blanks|Set 18|The Paralympics is a competition for the ______.|disadvantaged|discouraged|disabled|despised|2|
+Class 9 English|Fill in the blanks|Set 18|He has ______ his mind to Join Pak Army.|make by|made with|made by|made up|3|
+Class 9 English|Fill in the blanks|Set 18|The farmers ______their farms, if they had known that a thunderstorm was approaching.|will leave|would leave|will have left|would have left|3|
+Class 9 English|Fill in the blanks|Set 18|I promise to ______you in all circumstances.|stand up to|stand with|stand off|stand by|1|
+Class 9 English|Fill in the blanks|Set 18|The problem ______a lot of thought.|calls for|comes across|calls on|comes into|0|
+Class 9 English|Fill in the blanks|Set 18|Do you prefer______ or traditional art forms?|archaic|contemporary|foreign|simultaneous|1|
+Class 9 English|Fill in the blanks|Set 18|It is already 8 o'clock. Can you ______ time to catch the bus?|have it in|have enough|make it in|made it|2|
+Class 9 English|Fill in the blanks|Set 18|______she is clever, she often makes mistakes.|Despite|Since|Although|Yet|2|
+Class 9 English|Fill in the blanks|Set 18|It is certain that human beings ______latent power of which they are only vaguely aware.|exhibit|possess|impose|knowledge|1|
+Class 9 English|Fill in the blanks|Set 18|______your instruction, we have closed your bank account.|In lieu|With regard to|In accordance with|On account of|2|
+Class 9 English|Fill in the blanks|Set 18|My younger sister constantly misbehaves and is always causing ______.|hostility|violence|mischief|courtesy|2|
+Class 9 English|Fill in the blanks|Set 18|If you had followed the rules, you ______disqualified.|will not be|would not be|will not have been|would not have been|3|
+Class 9 English|Fill in the blanks|Set 18|The ______were arrested for illegally hunting the bears.|poachers|rangers|soldiers|villagers|0|
+Class 9 English|Fill in the blanks|Set 18|______you leave now, you will be late.|Until|Till|Unless|Although|2|
+Class 9 English|Fill in the blanks|Set 18|The man ______down the road is my brother.|hurry|hurried|to hurry|hurrying|3|
+Class 9 English|Fill in the blanks|Set 18|John said he ______to play at home.|would prefer|prefer|will prefer|had prefered|0|
+Class 9 English|Fill in the blanks|Set 18|The housewife ______the cakes burning, and ran to switch off the oven.|smell|smells|smelt|smelling|2|
+Class 9 English|Fill in the blanks|Set 18|If we go to the park, ______you like to come too ?|shall|are|would|am|2|
+Class 9 English|Fill in the blanks|Set 18|When will you hand ______ your assignment?|in|back|down|into|0|
+Class 9 English|Fill in the blanks|Set 18|I am very much ______to meet you.|delight|to delight|delighting|delighted|3|
+Class 9 English|Fill in the blanks|Set 18|If I had helped him, he ______drowned.|will not be|would not be|will not have|would not have|3|
+Class 9 English|Fill in the blanks|Set 18|He has many friends, but ______are good ones.|a few|few|the few|the some|1|
+Class 9 English|Fill in the blanks|Set 18|______the rain forests is very important, if we do not want the flora and fauna found there to become extinct.|Reserving|Destroying|Preserving|Maintaining|2|
+Class 9 English|Fill in the blanks|Set 18|That was ______movie I have ever seen.|worse|the worst|most worst|bad|1|
+Class 9 English|Fill in the blanks|Set 18|I assume ______with me.|every one agreeing|that every one agrees|every one to agree|that every one to agree|1|
+Class 9 English|Fill in the blanks|Set 18|There is quite tenuous evidence ______it.|with|at|for|must|2|
+Class 9 English|Fill in the blanks|Set 18|The company let me ______ time off work.|take|taking|to take|took|0|
+Class 9 English|Fill in the blanks|Set 18|______you wake me up so early on a Sunday?|Could|Dare|Must|Will|1|
+Class 9 English|Fill in the blanks|Set 18|Do not stay in the grasslands after dark, as some animals become ______when they see humans.|provoked|alerted|aggressive|threatened|2|
+Class 9 English|Fill in the blanks|Set 18|My father was angry ______my failure.|in|on|with|at|3|
+Class 9 English|Fill in the blanks|Set 18|She remained a ______all her life.|spinster|bachelor|unmarried|single|0|
+Class 9 English|Fill in the blanks|Set 18|My brother is devoted ______religion.|with|to|at|in|1|
+Class 9 English|Fill in the blanks|Set 18|The lion sprang______the buffaloes.|at|in|upon|on|2|
+Class 9 English|Fill in the blanks|Set 18|The song in the play cannot be deleted as it is ______to the story.|intervened|innate|exacting|integral|3|
+Class 9 English|Fill in the blanks|Set 18|After______smoking, they let the cigarette fall on the wood floor.|finished|finishing|had finished|finishes|1|
+Class 9 English|Fill in the blanks|Set 18|There is something wonderful ______ him.|of|about|for|inside|1|
+Class 9 English|Fill in the blanks|Set 18|He ______ in Pakistan.|live|lives|is living|living|1|
+Class 9 English|Fill in the blanks|Set 18|The building is not safe and must be ______down.|pull|pulling|pulled|pulls|2|
+Class 9 English|Fill in the blanks|Set 18|I shall look ______ the matter.|in|about|into|after|2|
+Class 9 English|Fill in the blanks|Set 18|I am very much ______ to meet you.|delight|to delight|delighting|delighted|3|
+Class 9 English|Fill in the blanks|Set 18|All of us are devoted ______ one another.|of|at|to|with|2|
+Class 9 English|Fill in the blanks|Set 19|The man ______ down the road is my brother.|hurry|hurried|to hurry|hurrying|3|
+Class 9 English|Fill in the blanks|Set 19|It is already 5 o'clock. Can you ______ time to catch the bus?|have it in|have enough|make it in|made it|2|
+Class 9 English|Fill in the blanks|Set 19|It is certain that human beings ______ latent power of which they are only vaguely aware|exhibit|possess|impose|knowledge|1|
+Class 9 English|Fill in the blanks|Set 19|If we go to the park, ______ you like to come too ?|shall|are|would|am|2|
+Class 9 English|Fill in the blanks|Set 19|Some people ______ to the officer against him about his mis-deeds|asked|complained|question|informed|1|
+Class 9 English|Fill in the blanks|Set 19|The police forces have launched an operation to ______ out the kidnapped person|track|touch|nib|trace|3|
+Class 9 English|Fill in the blanks|Set 19|If she is not interested, we will ______ the proposal.|vaccant|abandon|impulse|remove|1|
+Class 9 English|Fill in the blanks|Set 19|The President's speech was so ______ that many people were persuaded to accept the need for change.|expressive|articulate|eloquent|calm|2|
+Class 9 English|Fill in the blanks|Set 19|A speed limit is the ______ legal speed that you can travel on the road.|highest|biggest|maximum|longest|2|
+Class 9 English|Fill in the blanks|Set 19|The speaker did not properly space out his speech, but went on ______ one point only.|stressing|avoiding|devoting|decrying|0|
+Class 9 English|Fill in the blanks|Set 19|It's difficult ______ reconcile such different points of view|with|to|in|on|1|
+Class 9 English|Fill in the blanks|Set 19|I promise to ______ you in all circumstances|stand up to|stand with|stand off|stand by|1|
+Class 9 English|Fill in the blanks|Set 19|Ocean currents play a ______role in setting long-term climate______.|vital ... date|important ... variations|major ... patterns|unusual ... changes|2|
+Class 9 English|Prepositions|Set 19|I prefer tea______coffee.|to|than|then|of|0|
+Class 9 English|Prepositions|Set 19|Please wait for me. I will be finished ______ five or ten minutes.|at|in|by|from|1|
+Class 9 English|Prepositions|Set 19|The railway track runs ______ the river.|over|across|by|on|1|
+Class 9 English|Prepositions|Set 19|Is this is the bus, ______ goes to the Sadar Bazar?|that|who|which|To arrive|2|
+Class 9 English|Prepositions|Set 19|The book is______the mug and pen.|In|Among|Between|Of|2|
+Class 9 English|Prepositions|Set 19|A good judge never jumps ______the conclusion.|In|To|on|At|1|
+Class 9 English|Prepositions|Set 19|If______the match,I will go to "KPK (Peshawar) to meet the sports board chairperson.|I will win|I win|I wins|I shall win|1|
+Class 9 English|Prepositions|Set 19|You must bear______his pranks.|with|In|some of|All|0|
+Class 9 English|Prepositions|Set 19|He is serious______visiting Islamabad.|Of|For|To|On|0|
+Class 9 English|Prepositions|Set 19|We are accountable ______God for our actions.|with|on|in|to|3|
+Class 9 English|Prepositions|Set 19|I am famous ______honesty where javed is notorious for dishonesty.|for|to|upon|in|0|
+Class 9 English|Prepositions|Set 19|I'm getting late ______ office.|From|For|To|In|1|
+Class 9 English|Prepositions|Set 19|She's angry ______ you.|On|For|With|To|2|
+Class 9 English|Prepositions|Set 19|Parents expect more ______ their children?|with|of|from|to|1|
+Class 9 English|Prepositions|Set 19|I have been working here ______ ten years?|from|since|for|with|2|
+Class 9 English|Prepositions|Set 19|Fakhar Zaman appeared settled ______ the crease?|on|at|in|none|1|
+Class 9 English|Prepositions|Set 19|He got ______ his illness in two weeks.|over|on|at|by|0|
+Class 9 English|Prepositions|Set 19|There was no heir ______ the throne.|to|with|him|over|0|
+Class 9 English|Prepositions|Set 19|The rains have set ______.|In|Of|On|Out|0|
+Class 9 English|Prepositions|Set 19|Usman was broken______from his old friends.|with|of|away|in|2|
+Class 9 English|Prepositions|Set 19|His people built many memorials __ his greatness.|for|of|to|with|2|
+Class 9 English|Prepositions|Set 19|The wheels of the truck press __ the road.|on|against|upon|over|1|
+Class 9 English|Prepositions|Set 19|Translate this passage ______ English.|to|in|into|on|2|
+Class 9 English|Prepositions|Set 19|My brother was trembling ______ cold.|from|with|of|by|1|
+Class 9 English|Prepositions|Set 19|Either Sana or her friends ______ present there.|was|were|is|none|1|
+Class 9 English|Prepositions|Set 19|Please do not get angry __ me.|with|on|at|towards|0|
+Class 9 English|Prepositions|Set 19|__ the night mysterious creatures prowl.|in|at|on|along|0|
+Class 9 English|Prepositions|Set 19|You should not jest ______ his poverty.|on|with|at|of|2|
+Class 9 English|Prepositions|Set 19|Sana is not known ______ me.|to|on|at|with|0|
+Class 9 English|Prepositions|Set 19|Do you mean to say you exchanged that lovely car ______ this?|with|on|by|for|3|
+Class 9 English|Prepositions|Set 19|When the meeting had finished, they went ______ the plan once again.|down|on|up|over|3|
+Class 9 English|Prepositions|Set 19|They are anxious ______ his health.|for|at|about|on|2|
+Class 9 English|Prepositions|Set 19|There is still no cure ______ AIDS.|of|to|for|with|2|
+Class 9 English|Prepositions|Set 19|We arrived ______ the village at night.|to|in|at|of|2|
+Class 9 English|Prepositions|Set 19|He has been swimming ______ one hour.|from|with|Since|For|3|
+Class 9 English|Prepositions|Set 19|My friend amused us ______ funny jokes.|from|at|on|with|3|
+Class 9 English|Prepositions|Set 19|Do not bother me 3 o' clock __ night.|in|at|on|along|1|
+Class 9 English|Prepositions|Set 20|The candidates shall abide ______ all directions, instructions and regulations issued by the department.|on|with|by|to|2|
+Class 9 English|Prepositions|Set 20|I am used ______ speaking English.|with|of|to|Both B & C|2|
+Class 9 English|Prepositions|Set 20|Sana is different ______ other girls.|than|with|from|to|2|
+Class 9 English|Prepositions|Set 20|I am going ______ home.|at|to|towards|None|3|
+Class 9 English|Prepositions|Set 20|She is thankful to you for being so patient ______ her.|for|of|with|at|2|
+Class 9 English|Prepositions|Set 20|Sana was starring ______ me.|to|towards|at|on|2|

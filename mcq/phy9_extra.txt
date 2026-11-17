@@ -1,0 +1,800 @@
+Class 9 Physics|Measurements|Set 01|Which of the following is not a correct representation method for prefixes______?|1mm|10km|1000um|Both A and B|2|
+Class 9 Physics|Measurements|Set 01|The number 76.85 is rounded off up to two significant figures as______?|76.8|77|76.9|None of these|1|
+Class 9 Physics|Measurements|Set 01|The number of significant figures in the length of a bar 6200mm measured by meter rod is______?|4|3|2|None of these|0|
+Class 9 Physics|Measurements|Set 01|To reduce the uncertainty in the timing experiment______?|Highly precise instrument|Conduct at room temperature|Count number of vibration|Both a and C|3|
+Class 9 Physics|Measurements|Set 01|The number of significant figures in 5.400 is______?|3|5|2|None|3|
+Class 9 Physics|Measurements|Set 01|In multiplication and division of measurement______?|Percentage uncertainties are added|Absolute uncertainties are added|Percentage uncertainties are divided|Absolute uncertainties are divided|0|
+Class 9 Physics|Measurements|Set 01|Zero error of the instrument is a type of______?|Random error|Personal error|Systematic error|Classified error|2|
+Class 9 Physics|Measurements|Set 01|Which one is the dimensionally correct equation ?|f=vt|S=Vit+1/2at2|V=St|V=f/t|1|
+Class 9 Physics|Measurements|Set 01|Which one is the derived quantity in SI units ______?|Electric current|Electric charge|Plane angle|Amount of substance|1|
+Class 9 Physics|Measurements|Set 01|One light year is equal to______?|9.5x1015m|9.5x1015sec|9.5x1015Km|9.5x1015cm|0|
+Class 9 Physics|Measurements|Set 01|How many main frontiers of fundamental science ?|1|2|3|4|2|
+Class 9 Physics|Measurements|Set 01|Unit of G is ______?|Nm2Kg2|Nm2Kg|Nm2Kg-2|None|1|
+Class 9 Physics|Measurements|Set 01|One pico stands for______?|10 raised to power -15|10 raised to power -12|10 raised to power -9|10 raised to power -6|1|
+Class 9 Physics|Measurements|Set 01|Which one is the highest power multiple ?|Giga|Beta|Mega|Deca|0|
+Class 9 Physics|Measurements|Set 01|Total uncertainty, in the result obtained from the subtraction of two measurements, is equal to______?|Sum of their absolute uncertainties|The difference of their absolute uncertainties|The product of their absolute uncertainties|Division of their absolute uncertainties|0|
+Class 9 Physics|Measurements|Set 01|An ideal standard of measurement of a base quantity has characteristics______?|Accessible|Invariable|Transportable|Only a and b are correct|3|
+Class 9 Physics|Measurements|Set 01|Steradian is the SI unit of______?|Plane angle|Solid angle|Both plane angle and solid angle|Neither plane angle nor solid angle|1|
+Class 9 Physics|Measurements|Set 01|Absolute uncertainty in a measurement depends upon______?|The magnitude of the measurement|Least count of the instrument|Percentage error in the measurement|All of a, b and C|1|
+Class 9 Physics|Measurements|Set 01|Three students measured the length of a needle with meter rod and recorded as : (i) 0.2145m (ii) 0.21m (iii) 0.214m Which one is a correct record ?|Only (i)|Only (ii)|Only (iii)|Both (i) and (ii)|2|
+Class 9 Physics|Measurements|Set 01|SI unit of the coefficient of viscosity is______?|Kg.m.S-1|Kg m-1.S-1|Kg.m.S|Kg-1.m-1.S-1|1|
+Class 9 Physics|Measurements|Set 01|Which equation is not dimensionally correct ?|E=mc2|Vf=Vi+at|S=Vt2|S=1/2at2|2|
+Class 9 Physics|Measurements|Set 01|Dimensional analysis is helpful for______?|Deriving a possible formula|Checking the homogeneity of a physical equation|Verification of laws|Only A and B are correct|3|
+Class 9 Physics|Measurements|Set 01|ML-1 T-2 is the dimension of______?|Force|Pressure|Momentum|Energy|1|
+Class 9 Physics|Measurements|Set 01|The dimension of force is______?|MLT-1|MLT-2|ML-1T|ML-1T-2|1|
+Class 9 Physics|Measurements|Set 01|Smaller the least count of the instrument more is the measurement______?|Accurate|Precise|Accurate and precise|None of these|1|
+Class 9 Physics|Measurements|Set 01|Number of significant figures in 0.0173 is______?|3|4|5|2|0|
+Class 9 Physics|Measurements|Set 01|A digit zero in a measurement______?|May be significant may not significant|Always significant|Always insignificant sign|Significant only if left to a significant figure|0|
+Class 9 Physics|Measurements|Set 01|In any measurement the significant figures are______?|All accurately known and all doubtful digits|Only accurately known digits|Only doubtful digits|All accurately known digits and the first doubtful digit|3|
+Class 9 Physics|Measurements|Set 01|Random errors can be reduced by______?|Taking zero correction|Comparing the instrument with another more accurate one|Taking mean of several measurements|All methods explained in A, B and C|2|
+Class 9 Physics|Measurements|Set 01|The uncertainty in a measurement may occur due to______?|Limitation of an instrument|Natural variation of the object to be measured|Inadequate technique|All given in A, B and C|3|
+Class 9 Physics|Measurements|Set 01|The error in measurement may occur due to______?|The inexperience of a person|The faulty apprentice|Inappropriate method|Due to all reasons in A, B and C|3|
+Class 9 Physics|Measurements|Set 01|Prefix deca represents______?|10 Raised to power 1|10 Raised to power 2|10 Raised to power 3|10 Raised to power -1|0|
+Class 9 Physics|Measurements|Set 01|1024 can be written in scientific notation as______?|1.024x103|2 Raised to power 10|0.000976|1/0.00097|0|
+Class 9 Physics|Measurements|Set 01|In scientific notation, numbers are expressed in______?|Power of ten|Powers of two|Reciprocal|Decimal|0|
+Class 9 Physics|Measurements|Set 01|How many types of units are in SI ?|1|2|3|4|2|
+Class 9 Physics|Measurements|Set 01|The number of categories in which physical quantities are divided is______?|1|2|3|4|1|
+Class 9 Physics|Measurements|Set 01|Which one is not a branch of physical sciences ?|Chemistry|Astronomy|Geology|Biology|3|
+Class 9 Physics|Measurements|Set 01|Which branch of science plays an important role in the development of technology and engineering ?|Chemistry|Physics|Geology|Biology|1|
+Class 9 Physics|Motion and Force|Set 01|A body is falling freely under gravity. How much distance it falls during an interval of time between 1st and 2nd seconds of its motion, taking g=10 ?|15 m|20 m|5 m|25 m|0|
+Class 9 Physics|Motion and Force|Set 01|The range of the projectile at 30 deg and 60 deg are______?|equal to 45 deg|equal to 90 deg|equal to each other|none of the above|2|
+Class 9 Physics|Motion and Force|Set 01|The force beared by a wall on which water strikes normally at a speed of 10m/sec and at a discharge of 0.0001m3/sec is______?|1 N|10 N|100 N|none|0|
+Class 9 Physics|Motion and Force|Set 01|The trajectory (or path) of a projectile is______?|straight line|parabola|hyperbola|circle|1|
+Class 9 Physics|Motion and Force|Set 01|The distance covered by a body in time t starting from rest is______?|at2/2|Vt|a2t/2|at2|0|
+Class 9 Physics|Motion and Force|Set 01|When two bodies move toward each other with constant speeds the distance between them decreases at the rate of 6m / sec. If they move in the same direction the distance between them increases at the rate of 4m/sec. Then their speeds are______?|5m/s, 1m/s|3m/s, 3m/s|6m/s, 1m/s|4m/s, 2m/s|0|
+Class 9 Physics|Motion and Force|Set 01|The thrust on the rocket in the absence of gravitational force of attraction is______?|Constant|not constant|constant if the rate of ejected gases is constant|constant for short range rocket.|0|
+Class 9 Physics|Motion and Force|Set 01|Which of the following is not an example of projectile motion ?|a gas filled ballon|bullet fired from gun|a football kicked|a base ball shot|0|
+Class 9 Physics|Motion and Force|Set 01|The acceleration in the rocket at any instant is proportional to the nth power of the velocity of the expelled gases. Where the value of n must be ?|-1|1|2|-2|1|
+Class 9 Physics|Motion and Force|Set 01|When collision between the bodies in a system is inelastic in nature then for system ______?|momentum changes but K.E remain conserve|K.E changes but momentum remain conserve|both momentum and K.E changes|both momentum and K.E remain conserve|1|
+Class 9 Physics|Motion and Force|Set 01|During long jump, athlete runs before taking the jump. By doing so he______?|provide him a larger inertia|decreases his inertia|decreases his momentum|increases his momentum|3|
+Class 9 Physics|Motion and Force|Set 01|Motorcycle safety helmet extends the time of collision hence decreasing the______?|chance of collision|force acting|velocity|impulse|3|
+Class 9 Physics|Motion and Force|Set 02|When a body moves in a straight line then its displacement coincides with______?|distance|force|acceleration is zero|both A and B|0|
+Class 9 Physics|Motion and Force|Set 02|Momentum depends upon______?|force acts on the body|mass of the body|velocity of the body|both mass and velocity of the body|3|
+Class 9 Physics|Motion and Force|Set 02|2nd law of motion gives the definition of______?|force|acceleration|velocity|both force and acceleration|1|
+Class 9 Physics|Motion and Force|Set 02|Newtons laws do not hold good for particles______?|at rest|moving slowly|move with high velocity|move with velocity comparable to velocity of light|3|
+Class 9 Physics|Motion and Force|Set 02|Which law of motion is also called law of inertia ?|1st law|2nd law|3rd law|all 1st, 2nd and 3rd laws|0|
+Class 9 Physics|Motion and Force|Set 02|Slope of velocity time graph is______?|acceleration|distance|force|momentum|0|
+Class 9 Physics|Motion and Force|Set 02|When velocity time graph is a straight line parallel to time axis then______?|acceleration is const|acceleration is variable|acceleration is zero|velocity is zero|2|
+Class 9 Physics|Motion and Force|Set 02|A body is moving with uniform velocity. Its______?|speed changes|acceleration changes|direction of motion changes|displacement from origin changes|3|
+Class 9 Physics|Motion and Force|Set 02|Why Ballistic missile fails in some circumstances of precision ?|due to their shape|due to air resistance|due to angle of projection|all of these|1|
+Class 9 Physics|Motion and Force|Set 02|Time rate of change of momentum is equal to______?|force|impulse|velocity|both A and C|0|
+Class 9 Physics|Motion and Force|Set 02|At which angle the range of the projectile is maximum______?|45|60|30|none|0|
+Class 9 Physics|Motion and Force|Set 02|Flight of a rocket in the space is an example of______?|second law of motion|third law of motion|first law of motion|law of gravitation|1|
+Class 9 Physics|Motion and Force|Set 02|Distance covered by a freely falling body in 2 seconds will be______?|4.9 m|19.6 m|39.2 m|44.1 m|1|
+Class 9 Physics|Motion and Force|Set 02|Taking off rocket can be explained by ______?|1st law of motion|2nd law of motion|Law of conservation of momentum|law of conservation of energy|2|
+Class 9 Physics|Motion and Force|Set 02|Which shows the correct relation between time of flight T and maximum height H ?|H=gT2/8|H=8T2/g|H=8g/T2|H=gT2|0|
+Class 9 Physics|Motion and Force|Set 02|What is the shape of velocity, time graph for constant acceleration ?|straight inclined line.|parabola|inclined curve|declined curve|0|
+Class 9 Physics|Motion and Force|Set 02|When car takes turn around a curve road, the passengers feel a force acting on them in a direction away from the center of the curve. It is due to______?|Centripetal force|Gravitational force|Their inertia|Centrifugal force|3|
+Class 9 Physics|Motion and Force|Set 02|The collision between two bodies be elastic if bodies are______?|solid and soft|soft and elastic|solid and hard|hard and elastic|2|
+Class 9 Physics|Motion and Force|Set 02|Which of the following pair has same direction always ?|force, displacement|force, velocity|force, acceleration|force, momentum|2|
+Class 9 Physics|Motion and Force|Set 02|3rd law of motion explains______?|effect of force|existence of a force|existence of two forces|existence of pair of forces in nature|3|
+Class 9 Physics|Motion and Force|Set 02|1st law of motion gives the definition of ______?|inertia|motion|velocity|force|0|
+Class 9 Physics|Motion and Force|Set 02|Inertia of an object is quantitative measure of its______?|volume|density|mass|temperature|2|
+Class 9 Physics|Motion and Force|Set 02|Instantaneous and average velocities become equal when body______?|has zero acceleration|has uniform acceleration|has variable acceleration|moves in a circle|0|
+Class 9 Physics|Motion and Force|Set 02|Area under velocity time graph represent______?|force|displacement|distance|acceleration|1|
+Class 9 Physics|Motion and Force|Set 02|A man is in a car is moving with velocity of 36km/hr. His speed with repect to the car is ______?|10m/s|36m/s|zero|infinite|2|
+Class 9 Physics|Motion and Force|Set 02|When body is in motion, ______ always changes?|its velocity|its acceleration|its position vector|its momentum|2|
+Class 9 Physics|Work And Energy|Set 02|An elevator weighing 3.5 x 10-6 N is raised to a height of 1000 m in the absence of friction, the work done is______?|3.5 x 10-3 J|3.5 x 104 J|3.5 x 106 J|3.5 x 109 J|0|
+Class 9 Physics|Work And Energy|Set 02|If the momentum of an object is increased twice, then what will be the kinetic energy?|Twice|Thrice|Four times|Sixteen times|2|
+Class 9 Physics|Work And Energy|Set 02|A ball of mass 0.2 kg is thrown vertically upwards by applying a force by hand. If the hand moves 0.2 m while applying the force and the ball goes up to 2 in height further, find the magnitude of the force. Consider g = 10m/s 2|22N|16N|20N|4N|0|
+Class 9 Physics|Work And Energy|Set 02|Force 100N is applied on a wire produces extension 5mm in it. Energy stored in it is|0.125 J|0.250 J|0.50 J|1 J|1|
+Class 9 Physics|Work And Energy|Set 02|Biomass can be converted into fuels by______?|direct combustion|fermentation|both A and B|none of these|2|
+Class 9 Physics|Work And Energy|Set 02|______ cells converts solar energy into electrical energy?|rotory|photovoltaic|galvanic|non of these|1|
+Class 9 Physics|Work And Energy|Set 02|Geothermal energy is a ______ source of energy?|non-renewable|stable|renewable|none of the above|2|
+Class 9 Physics|Work And Energy|Set 02|Propulsion force of a rocket is______?|non-conservative force|conservative force|both A and B|none of these|0|
+Class 9 Physics|Work And Energy|Set 02|The area under the force displacement graph represents______?|area|work done|power|none of these|1|
+Class 9 Physics|Work And Energy|Set 02|A man lifts vertically a weight of 40kg through 1m in 10s; while a chile lifts vertically a weight of 10kg through a distance of 1m in 1s. What will be correct inference ?|man does more work than child|child does more work than man|both do the same amount of work|it is a foolish question|1|
+Class 9 Physics|Work And Energy|Set 02|When two protons are brought together______?|Kinetic energy increases|P.E. between them increases|P.E. between them decreases|P.E. between tem does not change|1|
+Class 9 Physics|Work And Energy|Set 02|The relation between the escape velocity V esc and orbital speed Vo is given by______?|V esc = 1/2Vo|V esc = -2 Vo|V esc = Vo|V esc = 2Vo|1|
+Class 9 Physics|Work And Energy|Set 02|Work has the dimension as that of same as that of______?|torque|angular momentum|linear momentum|power|0|
+Class 9 Physics|Work And Energy|Set 02|One mega watt hour is equal to______?|36 x 106 J|36 x 1012 J|36 x 109 J|36 x 108 J|3|
+Class 9 Physics|Work And Energy|Set 02|When the speed of a moving body is doubled then______?|its K.E is doubled|its acceleration is doubled|its P.E is doubled|its momentum is doubled|3|
+Class 9 Physics|Work And Energy|Set 02|Gravitational P.E of a body has______?|no formula|a formula mgh only|a formula|no general formula|3|
+Class 9 Physics|Work And Energy|Set 02|The highest value of escape velocity in solar system is planet______?|Earth|Neptune|Jupiter|Moon|2|
+Class 9 Physics|Work And Energy|Set 02|The tides raise the mater in the see roughly in a day______?|once|twice|four time|eight time|1|
+Class 9 Physics|Work And Energy|Set 02|Work done on the body equals to the ______?|change in its K.E always|change in its P.E always|change in its K.E and change in its P.E|neither change in K.E and nor change in its P.E|2|
+Class 9 Physics|Work And Energy|Set 02|Slope of work time graph is equal to______?|displacement|acceleration|power|energy|2|
+Class 9 Physics|Work And Energy|Set 02|The relation between horse power and watt is______?|1 hp = 546 watts|1 hp = 746 watts|1 hp = 1000 watts|1 hp = 946 watts|1|
+Class 9 Physics|Work And Energy|Set 02|Which of the following types of force can do no work on the particle on which it acts ?|frictional force|gravitational force|elastic force|centripetal force|3|
+Class 9 Physics|Work And Energy|Set 02|A field in which the work done in a moving a body along closed path is zero is called______?|electric field|conservative field|electromagnetic field|gravitational field|1|
+Class 9 Physics|Work And Energy|Set 02|Work done will be maximum if the angle between the force F and displacement d is______?|45 deg|90 deg|180 deg|0 deg|3|
+Class 9 Physics|Work And Energy|Set 03|On a clear day at noon the solar energy reaching the earth is ______?|1.44kw/m2|1.4kw/m2|1 kw/m2|none|2|
+Class 9 Physics|Work And Energy|Set 03|The source of tidal energy is______?|sun|earth|both A and B|moon|3|
+Class 9 Physics|Work And Energy|Set 03|The dot product of force and velocity is______?|power|work|impulse|torque|0|
+Class 9 Physics|Work And Energy|Set 03|The dimension of power is______?|[ML2T-3]|[ML2T-2]|[ML2T3]|none of these|0|
+Class 9 Physics|Work And Energy|Set 03|The work done by friction is______?|positive|negative|zero|none of these|1|
+Class 9 Physics|Work And Energy|Set 03|When arrow is released form its bow, its energy is transformed from ______?|heat energy to K.E|elastic P.E to K.E|elemical energy to elastic P.E|K.E to elastic P.E.|1|
+Class 9 Physics|Work And Energy|Set 03|If moon radius is 1600 km and g on its surface is 1.6 ms-2 then the escape velocity on the moon is ______?|1600 ms-1|50.6 ms-1|71.6 ms-1|2263ms-1|1|
+Class 9 Physics|Work And Energy|Set 03|The escape velocity form the earth surface in km S-1 is______?|4.2 km S-1|7.5 km S-1|9.5 km S-1|1.1 km S-1|3|
+Class 9 Physics|Work And Energy|Set 03|The consumption of energy by a 60 watt bulb in 2 sec is______?|120 J|60 J|30 J|0.02 J|0|
+Class 9 Physics|Work And Energy|Set 03|Which of the following is not conservative force______?|friction|electric|gravitational|magnetic|0|
+Class 9 Physics|Work And Energy|Set 03|If velocity is doubled then______?|momentum increases 4 times and K.E increases 2 times|momentum and K.E. remain same|momentum increases 2 times and K.E increases constant|momentum increases 2 times and K.E increases 4 time|3|
+Class 9 Physics|Work And Energy|Set 03|Work done by the force of friction is______?|always positive|always negative|positive only for small frictional force|positive only for large frictional force|1|
+Class 9 Physics|Work And Energy|Set 03|The source of geothermal energy is______?|decay of radioactive element in the earth|compression of material in the earth|residual lost of the earth|all as said in A - B and C|3|
+Class 9 Physics|Work And Energy|Set 03|The escape velocity of a body in gravitational field of earth is independent of______?|its mass|the angle at which it is thrown|both its mass and the angle at which it is thrown|gravitational field of earth|2|
+Class 9 Physics|Work And Energy|Set 03|Work done by variable force is determine by dividing______?|force into small interval|displacement into small interval|both force and displacement into small intervals|force into small and displacement into large intervals|1|
+Class 9 Physics|Work And Energy|Set 03|Proton electron neutron and a particles have same momentum. Which of them have highest K.E ?|Proton|electron|neutron|a-particle|1|
+Class 9 Physics|Work And Energy|Set 03|The average power and instantaneous power become equal if work is done at ______?|any rate|at variable rate|at uniform rate|at high rate|2|
+Class 9 Physics|Work And Energy|Set 03|If a body a mass of 2 kg is raised vertically through 2m, then the work done will be ______?|38.2 J|392.1 J|39.2 J|3.92 J|2|
+Class 9 Physics|Work And Energy|Set 03|When a force is parallel to the direction of motion of the body, then work done on the body is______?|zero|minimum|infinity|maximum|3|
+Class 9 Physics|Fluid Dynamics|Set 03|For ______ flow the path of the fluid particles cannot be tracked?|Laminar|Streamline|Turbulent|Both A and B|2|
+Class 9 Physics|Fluid Dynamics|Set 03|The normal blood pressure range for a human body is______?|120 to 80 torr|100 to 80 torr|120 to 60 torr|60 to 140 torr|0|
+Class 9 Physics|Fluid Dynamics|Set 03|The speed of the fluid is maximum in the venturi meter at______?|Convergent duct|Divergent duct|Throat|None of these|3|
+Class 9 Physics|Fluid Dynamics|Set 03|The density of human blood is nearly equal to______?|Water|Honey|Mercury|Oil (kerosene)|0|
+Class 9 Physics|Fluid Dynamics|Set 03|Bernoulli's equation is applicable for______?|Laminar flow|Turbulent flow|Both laminar and turbulent flow|None of these|2|
+Class 9 Physics|Fluid Dynamics|Set 03|The profile of aeroplane wing which lifts it up is called as______?|Wing shape|Aerofoil profile|Curved profile|None of these|1|
+Class 9 Physics|Fluid Dynamics|Set 03|The blood flow is ______ flow at systolic pressure?|Laminar|Turbulent|Mixed|None|0|
+Class 9 Physics|Fluid Dynamics|Set 03|The carburettor of a car is an application of______?|Venturi meter|Bernoulli equation|Both A and B|None|2|
+Class 9 Physics|Fluid Dynamics|Set 03|Sphygmomanometers measures blood pressure ?|Statically|Dynamically|Some time static and sometimes dynamic|None of these|1|
+Class 9 Physics|Fluid Dynamics|Set 03|Laminar flow usually occurs at speeds______?|Low|High|Very high|Some time high and some time low|0|
+Class 9 Physics|Fluid Dynamics|Set 03|Ideal fluid is______?|Non-viscous|Incompressible|Steady flow|Possess all properties|3|
+Class 9 Physics|Fluid Dynamics|Set 03|The effect of the decrease in pressure with the increase of the speed of the fluid in a horizontal pipe is known as______?|Bernoulli effect|Torricelli effect|Venturi effect|Stokes effect|2|
+Class 9 Physics|Fluid Dynamics|Set 03|A chimney works best if air exposed to the chimney is______?|Stationary|Moving|Moving slowly|Moving fast|3|
+Class 9 Physics|Fluid Dynamics|Set 03|The instrument used to measure blood pressure is called______?|Venturimeter|Blood pressure|Sphygmomanometer|Sonometer|2|
+Class 9 Physics|Fluid Dynamics|Set 03|Systolic pressure is called______?|Low blood pressure|High blood pressure|Normal blood pressure|Abnormal blood pressure|1|
+Class 9 Physics|Fluid Dynamics|Set 03|One torr is equal to______?|1.333 Nm-2|.1333 Nm-2|13.33 Nm-2|133.3 Nm2|3|
+Class 9 Physics|Fluid Dynamics|Set 03|Stokes law is applicable if body has ______shape?|Rough|Square|Circular|Spherical|3|
+Class 9 Physics|Fluid Dynamics|Set 03|In cricket when a bowler produce reverse swing the ball will move towards______?|The shinning side of the ball|Rough side|The seam of the ball|Goes straight|0|
+Class 9 Physics|Fluid Dynamics|Set 03|Venturi meter is used to measure______?|Fluid pressure|Fluid density|Fluid speed|None|0|
+Class 9 Physics|Fluid Dynamics|Set 03|Bernoulli's equation is obtained by applying the law of conservation of ______?|Mass|Energy|Momentum|Fluid|1|
+Class 9 Physics|Fluid Dynamics|Set 03|Two fog droplets have radius 2:3 their terminal velocities are______?|4:06|4:09|2:09|4.3|1|
+Class 9 Physics|Fluid Dynamics|Set 03|For which position maximum blood pressure in the body have the smallest value ?|Standing straight|Sitting on chair|Sitting on ground|Laying horizontally|3|
+Class 9 Physics|Fluid Dynamics|Set 03|A man standing near a fast moving train may fall______?|On the train|Away from the train|Towards the train|On himself|2|
+Class 9 Physics|Fluid Dynamics|Set 03|Concentration of red cells in blood is about______?|25%|40%|50%|75%|2|
+Class 9 Physics|Fluid Dynamics|Set 03|Blood vessels are______?|Rigid|Not rigid|Of glass|Of rubber|1|
+Class 9 Physics|Fluid Dynamics|Set 03|Speed of efflux can be determined by applying______?|Bernoulli's theorem|Torricelli's theorem|Venture relation|All|1|
+Class 9 Physics|Fluid Dynamics|Set 03|Velocity of fluid increases where the pressure is______?|Low|High|Constant|Changes continuously|0|
+Class 9 Physics|Fluid Dynamics|Set 03|The equation of continuity is obtained by applying in the law of conservation of______?|Mass|Energy|Momentum|All|0|
+Class 9 Physics|Fluid Dynamics|Set 03|According to equation of continuity A1V1 = A2V2 = constant. The constant is equal to______?|Flow rate|Volume of fluid|Mass of fluid|The density of the fluid|0|
+Class 9 Physics|Fluid Dynamics|Set 03|Irregular flow of fluid is called______?|Streamline|Turbulent|Uniform|Laminar|1|
+Class 9 Physics|Fluid Dynamics|Set 03|When fluid is incompressible then______?|The velocity of the fluid is constant|The flow of the fluid is the straight line|The density of the fluid is constant|The volume of the fluid is constant|2|
+Class 9 Physics|Fluid Dynamics|Set 04|The drag force is given by______?|Newtons law|Pascals law|Gauss law|Stokes law|3|
+Class 9 Physics|Fluid Dynamics|Set 04|The flow of ideal fluid is always______?|Turbulent|Streamline|Irregular|Straight line|1|
+Class 9 Physics|Fluid Dynamics|Set 04|Terminal velocity of the body is directly proportional to the______?|The radius of the body|The diameter of the body|Size of the body|Square of the diameter of the body|3|
+Class 9 Physics|Fluid Dynamics|Set 04|When the body moves with terminal velocity the acceleration in the body become______?|0|Maximum|Variable|Infinite|0|
+Class 9 Physics|Fluid Dynamics|Set 04|Terminal velocity is______?|Uniform|Maximum|Uniform and maximum|Neither uniform nor maximum|2|
+Class 9 Physics|Fluid Dynamics|Set 04|The dimensions of the coefficient of viscosity are______?|ML-1T-1|M2L1T1|ML1T-1|M2L-1T-1|0|
+Class 9 Physics|Oscillations|Set 04|The energy absorbed by a body is ______ at resonance?|Maximum as well minimum|Minimum only|Maximum only|0|2|
+Class 9 Physics|Oscillations|Set 04|In case of a simple pendulum, the cause of damping is______?|Drag force of air|Gravity|Tension in the string|None of these|0|
+Class 9 Physics|Oscillations|Set 04|A cup of milk is placed in a microwave oven. Tell which statements is false. (1) Milk will be heated up only. (2) Cup will remain cool. (3) Both cup and mild will get hot ?|None|1|2|3|3|
+Class 9 Physics|Oscillations|Set 04|The distance covered by a body in one complete vibration is 20cm. What is the amplitude of body ______?|10 cm|5 cm|15 cm|7.5 cm|1|
+Class 9 Physics|Oscillations|Set 04|For a simple pendulu,m the restoring force is caused by______?|Gravity|Spring|Hand|All of these|0|
+Class 9 Physics|Oscillations|Set 04|Displacement of the body in S.H.M is equal to amplitude when the body is at______?|Mean position|Elsewhere|Extreme position|None|2|
+Class 9 Physics|Oscillations|Set 04|The projection of the particle moving in a circle with non-uniform speed executes ?|S.H.M|Vibratory motion|Both B and D|None S.H.M|2|
+Class 9 Physics|Oscillations|Set 04|The velocity of the mass attached to a spring is maximum at______?|Mean position|Extreme position|Both A and B|None|0|
+Class 9 Physics|Oscillations|Set 04|At Murree Hills (Assume the value of g changes). If we use a simple pendulum as time standard then one-second duration will______?|Increase|Decrease|Remains the same|Is zero|0|
+Class 9 Physics|Oscillations|Set 04|The mass attached to a spring executes ?|Vibratory motion|Rotatory motion|S.H.M|Both A and C|3|
+Class 9 Physics|Oscillations|Set 04|Forced vibration is known as______?|Simple harmonic vibration|Natural vibration|Driven harmonic vibration|Free vibration|2|
+Class 9 Physics|Oscillations|Set 04|In damped harmonic oscillation which one decreases ?|Amplitude of vibration|Energy of vibration|Both amplitude and energy|Neither amplitude nor energy|2|
+Class 9 Physics|Oscillations|Set 04|When K.E energy of SHM is maximum its______?|P.E is zero|Acceleration is zero|Restoring force is zero|All P.E acceleration and restoring force are zero|3|
+Class 9 Physics|Oscillations|Set 04|Total distance travelled by a bob of the simple pendulum in one vibration is equal to______?|Amplitude|Square of the amplitude|2 x amplitude|4 x amplitude|3|
+Class 9 Physics|Oscillations|Set 04|Electrical resonance is observed in______?|Radio|Microwave oven|Both in radio and microwave oven|Neither in radio nor in a microwave oven|0|
+Class 9 Physics|Oscillations|Set 04|The natural frequency of simple pendulum depends upon______?|It's mass|It's length|Square of its length|The square root of its length|3|
+Class 9 Physics|Oscillations|Set 04|The phase of SHM describes______?|Displacement only|The direction of motion only|Both displacement and direction of motion|Neither displacement nor direction of motion|2|
+Class 9 Physics|Oscillations|Set 04|Which one does not work according to resonance ?|T.V|Radio|Microwave oven|Bulb|3|
+Class 9 Physics|Oscillations|Set 04|For what displacement the P.E becomes 1/4 of its maximum value ?|x = x'|x = x'/2|x = x'/4|x = x(2)'/2|1|
+Class 9 Physics|Oscillations|Set 04|The length of the second pendulum is______?|100 cm|99 cm|99.2 cm|98 cm|2|
+Class 9 Physics|Oscillations|Set 04|The product of the frequency and time period is equal to______?|1|2|3|4|0|
+Class 9 Physics|Oscillations|Set 04|The energy of SHM is maximum at______?|Mean position|Extreme position|In between mean and extreme|All positions during SHM|3|
+Class 9 Physics|Oscillations|Set 04|A simple pendulum suspended from the ceiling of a lift has time period T when the lift is at rest. When the lift falls freely, the time period is______?|Infinite|T/g|Zero|g/T|0|
+Class 9 Physics|Oscillations|Set 04|When the amplitude of a wave becomes double its energy become______?|Double|Four times|One half|None time|1|
+Class 9 Physics|Oscillations|Set 04|The SI unit of force constant is identical with that of______?|Force|Pressure|Surface tension|Loudness|2|
+Class 9 Physics|Oscillations|Set 04|Simple harmonic motion is a type of______?|Rotational motion|Circular motion|Musical arrangement|Vibratory motion|3|
+Class 9 Physics|Oscillations|Set 04|The frequency of the second pendulum is______?|1 hertz|0.5 hertz|1.5 hertz|2.5 hertz|1|
+Class 9 Physics|Oscillations|Set 04|If the length of the second pendulum becomes four times, then its time period will become______?|4 times|6 times|8 times|2 times|3|
+Class 9 Physics|Oscillations|Set 04|The time period of a second pendulum is______?|4 seconds|3 seconds|2 seconds|6 seconds|2|
+Class 9 Physics|Oscillations|Set 04|The total energy of a body executing S.H.M is directly proportional to______?|The square root of amplitude|The amplitude|Reciprocal of amplitude|Square of an amplitude|3|
+Class 9 Physics|Oscillations|Set 04|In S.H.M. the velocity of a particle is maximum at______?|mean position|extreme position|middle between the mean and extreme position on the right side|middle between the mean and extreme position on the left side|0|
+Class 9 Physics|Oscillations|Set 04|S.I unit of frequency is______?|Vibration S-2|Radian|Hertz|ms-1|2|
+Class 9 Physics|Oscillations|Set 04|The waveform of S.H.M. is______?|Standing wave|Sine wave|Square wave|None|1|
+Class 9 Physics|Oscillations|Set 04|In vibratory motion______?|P E remains constant|K E remain constant|total energy remains constant|total momentum remains constant|2|
+Class 9 Physics|Waves|Set 04|Fundamental frequency of stationary waves in open pipe is ______ times the frequency in closed pipe?|One|Two|Four time|None of these|1|
+Class 9 Physics|Waves|Set 04|The beats frequency (sensible) for a human car is ______?|42Hz|7 Hz|256Hz|262Hz|1|
+Class 9 Physics|Waves|Set 04|Laplace found that the alternate compressions and rarefactions produced in sound waves follows ______?|isothermal law|adiabatic law|isochoric law|all of the above|1|
+Class 9 Physics|Waves|Set 04|Waves produced at the surface of water by a pencil executing vibrating motion if held vertically at a frequency of 50Hz are______?|Longitudinal|Transverse|Periodic|both A and C|3|
+Class 9 Physics|Waves|Set 04|The dimension of elastic modulus is ______ ?|ML-1T-2|ML-2T-2|MLT-2|ML2T-2|0|
+Class 9 Physics|Waves|Set 04|In open organ pipe______?|only even harmonics are present|only odd harmonics are present|both even and odd harmonics are present|selected harmonics are present|2|
+Class 9 Physics|Waves|Set 04|A simple pendulum has a bob of mass m and its frequency is f. If we replaced the bob with a heavier one say of 2m then that will be its new frequency ?|1/4f|1/2f|frequency lower than 20 Hz|2f|2|
+Class 9 Physics|Waves|Set 04|Doppler effect applies to______?|sound wave only|light wave only|both sound and light waves|neither sound nor light wave|2|
+Class 9 Physics|Waves|Set 04|Beats are the results of______?|diffraction of sound waves|constructive and destructive interference|polarization|destructive interference|1|
+Class 9 Physics|Waves|Set 04|The periodic alternation of sound between maximum and minimum loudness are called______?|silence zone|interference|beats|resonance|2|
+Class 9 Physics|Waves|Set 05|The velocity of sound in air would become double than its velocity at 0 deg C at temperature______?|313 deg C|586 deg C|819 deg C|1172 deg C|2|
+Class 9 Physics|Waves|Set 05|The normal ear is the most sensitive in the frequency range______?|20000 to 30000 hertz|10 to 20 hertz|2000 to 4000 hertz|6000 to 8000 hertz|2|
+Class 9 Physics|Waves|Set 05|On loading the prong of a tuning form with wax its frequency______?|increases|decreases|remains unchanged|may increase or decrease|1|
+Class 9 Physics|Waves|Set 05|Increase in velocity of sound in the air for 1 deg C rise in temperature is______?|1.61 ms-1|61.0 ms-1|0.61 ms-1|2.00 ms-1|2|
+Class 9 Physics|Waves|Set 05|Sound waves do not travel in vacuum because ______?|they are transverse waves|they are stationary waves|they require material medium for propagation|they do not have enough energy|2|
+Class 9 Physics|Waves|Set 05|It is possible to distinguish between transverse and longitudinal waves form the property of ______?|refraction|polarization|interference|diffraction|1|
+Class 9 Physics|Waves|Set 05|If stretching force T of wire increases, then its frequency ______?|decreases|increases|remains the same|any of above|1|
+Class 9 Physics|Waves|Set 05|When two identical traveling waves are superimposed, the velocity of the resultant wave______?|decreases|increases|remains unchanged|becomes zero|2|
+Class 9 Physics|Waves|Set 05|The waves that require a material medium for their propagation are called______?|matter waves|electromagnetic waves|carrier waves|mechanical waves|3|
+Class 9 Physics|Waves|Set 05|Which phenomena can be applied to estimate the velocity of star with respect to earth ______?|Dopplers effect|Interference of waves|Beats phenomena|All of these|0|
+Class 9 Physics|Waves|Set 05|The speed of stationary waves in a stretched string are independent of______?|Number of loops|Tension in the string|Point where string is plucked|both A and C|3|
+Class 9 Physics|Waves|Set 05|The speed of sound in hydrogen is ______ time than that in oxygen?|Two times|Three times|Four time|Six time|2|
+Class 9 Physics|Waves|Set 05|Newton estimated the speed of sound ______?|281m/sec|333m/sec|340m/sec|all of the above|0|
+Class 9 Physics|Waves|Set 05|Which one is the correct relation for fundamental frequency of open and closed pipe ?|fopen = 2 fclosed|fclosed = 2fopen|fopen = fclosed|fopen = 1 / f closed|0|
+Class 9 Physics|Waves|Set 05|When the source of sound moves away form a stationary listener then ______ occurs?|an apparent increase in frequency|an apparent decrease in frequency|an apparent decrease in wavelength|no apparent change in frequency|1|
+Class 9 Physics|Waves|Set 05|Silence zone takes place due to______?|constructive interference|destructive interference|beats|resonance|1|
+Class 9 Physics|Waves|Set 05|The number of beats produced per second is equal to______?|the sum of the frequencies of two tuning forks|the difference of the frequencies of two tuning forks|the ratio of the frequencies of two tuning forks|the frequency of either of the two tuning forks|1|
+Class 9 Physics|Waves|Set 05|Ultrasonic have______?|frequency in the audible range|frequency is greater than 20 kHz|frequency lower than 20 Hz|all of above|1|
+Class 9 Physics|Waves|Set 05|The velocity of sound is greatest in______?|Water|air|copper|ammonia|2|
+Class 9 Physics|Waves|Set 05|Velocity of sound in vacuum is ______?|332 ms-1|320 ms-1|Zero|224 ms-1|2|
+Class 9 Physics|Waves|Set 05|According to Newton sound travel in air under the conditions of______?|adiabatic|isothermal|isobaric|isochoric|1|
+Class 9 Physics|Waves|Set 05|A stationary wave is set up in the air column of a closed pipe. At the closes end of the pipe ______?|always an node in formed|always an antinode is formed|neither node nor antinode is formed|sometimes a node and sometimes an antinode is formed|0|
+Class 9 Physics|Waves|Set 05|In vibrating cord the points where the amplitude is maximum, are called ______?|antinodes|nodes|troughs|crests|0|
+Class 9 Physics|Waves|Set 05|The distance between any two consecutive crests or troughs is called______?|frequency|period|Wave length|phase difference|2|
+Class 9 Physics|Waves|Set 05|Waves transmit ______ from one place to another?|energy|mass|both|none|0|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The unit of entropy is______?|J.K|J/K|N.m/sec|Kgm2/sec2.K|1|
+Class 9 Physics|Heat and Thermodynamics|Set 05|In which process all the heat supplied is converted into work done ?|isothermal|isochoric|isobaric|isentropic|0|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The performance of a refrigerator is described by______?|efficiency|coefficient of performance|both A and B|not described|1|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Which quantity is a state function______?|internal energy|heat supply|pressure|volume|0|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Petrol engine is a______?|C.I engine|SI engine|IC engine|all the above|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The purpose of flywheel in the engines is______?|to smooth out the energy variation|to add more weight to engine to work it stable|to start engine|both A and B|0|
+Class 9 Physics|Heat and Thermodynamics|Set 05|For the successful operation of Heat engine which condition should be met ?|cyclic process|operated at certain temperature difference|both A and B|none of these|2|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The work done in the isochoric process is______?|constant|variable|zero|depends on situation|2|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Adiabatic process is also called______?|Heat exchange process|Heating process|Isentropic process|All of the above|2|
+Class 9 Physics|Heat and Thermodynamics|Set 05|In which process entropy remains constant______?|isobaric|isochoric|adiabatic|isothermal|2|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Average translational kinetic energy per molecule of an ideal gas is given by______?|3NaT/2R|2NaT/3|3RT/2Na|3Na/2RT|2|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Boltzman constant K in terms of universal gas constant R and Avagadros number Na is give as______?|K = RNa|K = R/Na|K = Na/Ra|K = nRNa|1|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Which of the following properties of molecules of a gas is same for all gases at particular temperature ?|momentum|mass|velocity|kinetic energy|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|For a gas obeying Boyles law if the pressure is doubled the volume becomes______?|double|one half|four times|one fourth|1|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The area enclosed by the curve ABCDA for a Carnot heat engine represents the work done by Carnot engine______?|at any instant|averagely|during its operation|during one cycle|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|At what temperature is the Fahrenheit scale reading equal to twice that of the Celsius scale?|460 deg C|280 deg C|360 deg C|160 deg C|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Standard condition STP refer to a gas at ______?|76cm 0 deg C|760mm 273K|1atm 273K|all of the above|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Which one is true for internal energy ?|It is sum of all forms of energies associated with molecules of a system|It is a state function of a system|It is proportional to transnational K.E of the molecules|All are correct|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|According to Pascals law the pressure of gas in a vessel is______?|Different in different direction|Same in all direction|Same only along opposite directions|Same only along normal directions|1|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The size of one degree of Celsius is equal to______?|One degree of Fahrenheit scale|1.8 degrees of Fahrenheit scale|3.2 degrees of Fahrenheit scale|2.12 degrees of Fahrenheit scale|1|
+Class 9 Physics|Heat and Thermodynamics|Set 05|The Fahrenheit and centigrade scales agree to______?|40|15.5|542|273|0|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Normal human body temperature 98.6 deg F corresponds to______?|37 deg C|42 deg C|55 deg C|410 deg C|0|
+Class 9 Physics|Heat and Thermodynamics|Set 05|Numerical value of Boltzmanns constant is______?|1.38x10-31JK-1|3.18x10-31JK-1|3.18x10-23JK-1|1.38x10-23JK-1|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|We prefer mercury as a thermometric substance because______?|Over a wide range of temperature its expansion is uniform|It does not stick to thermometer glass|It opaque to light|All of above|3|
+Class 9 Physics|Heat and Thermodynamics|Set 05|In a clinical thermometer the mercury in the capillary tube does not contract once removed from the patient because______?|Mercury takes a long time to contract|The amount of mercury use is very small|The capillary tube has a small constriction near the bulb|The capillary tube is very narrow|2|
+Class 9 Physics|Heat and Thermodynamics|Set 06|Which one is not an example of adiabatic process ?|rapid escape of air from a burst tyre|rapid expansion of air|conversion of water into ice in refrigerator|cloud formation in the atmosphere|2|
+Class 9 Physics|Heat and Thermodynamics|Set 06|If the volume of a gas is held constant and we increase its temperature then______?|its pressure is constant|its pressure rises|its pressure falls|any of above|1|
+Class 9 Physics|Heat and Thermodynamics|Set 06|Boyles law helds for ideal gases in______?|isochoric processes|isobaric processes|isothermal processes|adiabatic processes|2|
+Class 9 Physics|Heat and Thermodynamics|Set 06|Gas molecules of different masses in the same container have the same average transnational kinetic energy which is directly proportional to their______?|volume|pressure|absolute temperature|time|2|
+Class 9 Physics|Heat and Thermodynamics|Set 06|If the pressure of a given gas is held constant its density is inversely proportional to its absolute temperature. We can refer it as another statement of______?|Boyles law|Charles law|Ideal gas law|Avagadros law|1|
+Class 9 Physics|Heat and Thermodynamics|Set 06|The pressure exerted by a column of mercury 76cm high and at 0 deg C is called______?|1 atmosphere|1 Newton per square meter|1 Pascal|data is insufficient|0|
+Class 9 Physics|Heat and Thermodynamics|Set 06|Metabolism is the name of a process in which energy transformation takes place within______?|Heat engine|Human body|Atmosphere|Laboratory|1|
+Class 9 Physics|Heat and Thermodynamics|Set 06|We can produce heat by______?|Frictional process|Chemical processes|Electrical processes|All of the above|3|
+Class 9 Physics|Heat and Thermodynamics|Set 06|At constant temperature the graph between V and 1/P is______?|Hyperbola|Parabola|A curve of any shape|A straight lime|3|
+Class 9 Physics|Heat and Thermodynamics|Set 06|The scales of temperature are based on two fixed points which are______?|The temperatures of water at 0? 100?C|The temperature of melting ice and boiling water at atmospheric pressure|The temperatures of ice cold and boiling water|The temperatures of frozen and boiling mercury|1|
+Class 9 Physics|Heat and Thermodynamics|Set 06|Temperature is a property which determines______?|How much heat a body contains|Whether a body will feel hot or cold to touch|In which direction heat will flow between two systems|How much total absolute energy a body has|2|
+Class 9 Physics|Heat and Thermodynamics|Set 06|Dimension of pressure is______?|MLT|ML-1T-1|ML-1T-2|ML-2T-2|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Which one is not a type of dynamic equilibrium ?|Rotational equilibrium|Translational equilibrium|Static equilibrium|Both A and C are corret answer|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|A body will be in complete equilibrium when it is satisfying______?|1st condition of equilibrium|2nd condition of equilibrium|Both Ist and 2nd condition of equilibrium|Impossible|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|A body in equilibrium______?|Always at rest|Always in uniform motion|May be at rest or in uniform motion|May be at rest or in motion|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Torque acting on a body determines______?|Acceleration|Linear acceleration|Angular acceleration|Direction of motion of the body|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|SI unit of torque is______?|N.m|joule|Both a and b are correct|Neither a nor b is correct|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The dimension of torque is______?|[ML2T-2]|[MLT-2]|[ML2T]|[ML-2T-2]|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Torque is defined as______?|Turning effect of force|Cross product of position vector and force|Product of force and moment arm|All A, B and C are correct|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The magnitude of the cross product is equal to the dot product between them. The angle between the two vectors is______?|30 deg|45 deg|60 deg|180 deg|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|An angle between two vectors A and B can be determined by______?|Their dot product|Their cross product|Head to tail rule|Right-hand rule|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Which one is a unit vector ?|??3 i^ + ??3 j^ + ??3 k^|1/??3 i^ + 1/??3 j^ +1/ ??3 k^|??3 / 3 i^ + ??3 / 3 j^ + ??3 / 3 k^|Both B and C are correct|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Null vector is a vector which has______?|Zero magnitude|No specified direction|Both A and B are correct|Both A and B are not correct|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|If east, west, north, south, up and down are representing the direction of unit vectors, then east x south has the direction along______?|West|North|Down|Up|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The direction of the vector product is given by______?|Head to tail rule|Right-hand rule|Left-hand rule|Triangular rule|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|I ^. (j^ x k^) is equal to______?|1|i^|j^|k^|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|If A=B, which of the following is not correct ?|A.B = A^ B^|/A/ = /B/|/A^/ = /B^/|AB^ = BA^|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Two vectors are A = 3i^+2j^ -k^& B = 3i^-2j^ +k^ , then______?|B is anti-parallel to A|B is a negative vector of A|B has a negative magnitude|B is perpendicular to A|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|In which quadrant the two rectangular components of a vector have same sign ?|1st|2nd|Both 1st and 3rd|4th|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|What is the angle that the given vector makes with y-axis and A=2i+3j ?|30 deg|60 deg|90 deg|120 deg|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|A central force is that which______?|Can produce torque|Cannot produce torque|Some time can produce torque some time cannot|Has no relation with torque|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|If A=Ax i^ + Ay j^ + Az K^ B = Bx i^ + By j^ + Bz K^ then______?|A. B = Ax Bx + Ay By + Az Bz|A. B = Ax By + Ay Bz + Az By|A. B = Ay Bz + Az By + Az Bx|A. B = Ax Bz + Ay By + Az Bx|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The magnitude of i^. (j^ x k^) is______?|0|1|-1|i^|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|In which quadrant, the only value of tan will be positive ?|First|Second|Third|Both 1st and 3rd|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The cross product of two vectors is a negative vector when______?|They are parallel vectors|They are anti parallel vectors|They are a perpendicular vector|They are rotated through 270 deg|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The unit vector in the direction of vector A = 2 i^ -2j^ + k^ is______?|2i^ - 2j^ + k^|(2i^ - 2j^ +k^)/9|(2i^ - 2j^ +k^)/3|(2i^ - 2j^ +k^)/5|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The cross product i^ x j^ is equal to______?|Zero|One|i^|k^|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|It is easier to turn a steering wheel with both hands than with a single hand because______?|Accelerating force increases on the wheel|Two forces act on the wheel|Two hands provide a firm grip|The couple acts on the wheel|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Which of the following pairs does not have identical dimensions ?|Torque and energy|Momentum and impulse|Energy and work|Mass and moment of inertia|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Three coplanar forces acting on a body keep it in equilibrium. They should therefore be______?|Concurrent|Non-concurrent|Parallel|Non-parallel|0|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The resultant of two forces of equal magnitudes is also equal to the magnitude of the forces. The angle between the two forces is______?|30 deg|60 deg|90 deg|120 deg|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Which one is not correct for a vector A= 2i+2j+3k ?|Has direction 45 deg with an x-axis|Has magnitude 2|Has magnitude 2 and direction deg =45 deg with a y-axis|Has magnitude -2|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Maximum number of components of a vector may be______?|1|2|3|Infinite|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Maximum number of rectangular components are______?|1|2|3|4|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The rectangular coordinate system is also called______?|Polar coordinate system|Cartesian coordinate system|Cylindrical coordinate system|Spherical coordinate system|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Unit vector n^ is along______?|X-axis|Normal on a surface|Y-axis|Z-axis|1|
+Class 9 Physics|Vectors And Equilibrium|Set 06|A vector can be multiplied by a number. The number may be______?|Dimensionless|Dimensional scalar|Negative|All A, B and C are correct|3|
+Class 9 Physics|Vectors And Equilibrium|Set 06|The direction of a vector in space is specified by______?|One angle|Two angle|Three angle|No angle|2|
+Class 9 Physics|Vectors And Equilibrium|Set 06|Addition of vector obeys______?|Commutative law|Distributive law|Associative law|All given laws in A, B and C|3|
+Class 9 Physics|Physics Of Solids|Set 06|The net charge on n-type material is______?|Positive|Negative|Both positive and negative|Neutral|3|
+Class 9 Physics|Physics Of Solids|Set 07|In a semiconductors the charge carriers are ______?|Holes only|Electrons only|Electron and holes both|All of the above|2|
+Class 9 Physics|Physics Of Solids|Set 07|Holes can exist in______?|Conductors|Insulators|Semi conductors|All of the above|2|
+Class 9 Physics|Physics Of Solids|Set 07|Many of the semi conductors are crystals of the type______?|Face centred cubic|Body centred cubic|Simple cubic|All of the above|0|
+Class 9 Physics|Physics Of Solids|Set 07|The electrons in conduction band are free to______?|Transport vibrations|Transport signals|Transport charge|Transport impulses|2|
+Class 9 Physics|Physics Of Solids|Set 07|A vacant or partially filled band is called ______?|Conduction band|Valence band|Forbidden band|Empty band|0|
+Class 9 Physics|Physics Of Solids|Set 07|In simple cube one atom or molecule lies at its______?|Force corners|Nine corners|Eight corners|Six corners|2|
+Class 9 Physics|Physics Of Solids|Set 07|The breaking of crystals along definite direction is called ______?|Cleavage|Symmetry|Isotropy|Homogeneity|0|
+Class 9 Physics|Physics Of Solids|Set 07|The bulk properties of materials such as their mode of fracture can be related to their______?|Polymerization|Cleavage|Microstructure|Dislocation|2|
+Class 9 Physics|Physics Of Solids|Set 07|Coercive force is the force which opposes ______?|Demagnetization|Breakage|Extension|Surface cracking|0|
+Class 9 Physics|Physics Of Solids|Set 07|The curie temperature is that at which ______?|Semi-conductor becomes conductors|Ferromagnetic becomes paramagnetic|Paramagnetic becomes diamagnetic|Metals become super conductor|1|
+Class 9 Physics|Physics Of Solids|Set 07|Any alteration produced in shapes length or volume when a body is subjected to some external force is called______?|Stiffness|Toughness|Extension|Deformation|3|
+Class 9 Physics|Physics Of Solids|Set 07|Materials that undergo plastic deformation before breaking are called ______?|Brittle|Ductile|Amorphous|Polymers|1|
+Class 9 Physics|Physics Of Solids|Set 07|A uniform steel wire of length 4m and area of cross-section 3x10-6m2 is extended by 1mm by the application of a force. If the youngs modulus of steel is 2x1011 Nm-2 the energy stored in the wire is______?|0.025J|0.50J|0.75J|0.100J|2|
+Class 9 Physics|Physics Of Solids|Set 07|A rubber cord of cross-sectional area 2cm2 has a length of 1m. When a tensile force of 10N is applied the length of the cord increases by 1cm. What is the youngs modulus of rubber ?|2x108 Nm-2|5x106 Nm-2|0.5x10-6 Nm-2|0.2x10-6Nm-2|1|
+Class 9 Physics|Physics Of Solids|Set 07|What is the SI unit of modulus of elasticity of substance ?|Nm-2|Jm-2|Nm-1|Being a number it has no unit.|0|
+Class 9 Physics|Physics Of Solids|Set 07|Energy needed to magnetize and demagnetize is represented by ______?|Hysteresis curve|Hysteresis loop area|Hysteresis loop|Straight line|1|
+Class 9 Physics|Physics Of Solids|Set 07|Very weak magnetic fields are detected by______?|Squids|Magnetic resonance imaging (MRI)|Magnetometer|Oscilloscope|0|
+Class 9 Physics|Physics Of Solids|Set 07|On the basis of band theory of solids the semiconductors have ______?|A party filled valence band and totally empty conduction band|A completely filled valence band a totally empty conduction band and a very wide forbidden band|A completely filled valence band a partially filled conduction band and a narrow forbidden band|A partly filled valence band a totally empty conduction band and a wide forbidden band|2|
+Class 9 Physics|Physics Of Solids|Set 07|With increase in temperature the electrical conductivity of intrinsic semi conductor______?|Decreases|Increases|Remains same|First increases then decreases|1|
+Class 9 Physics|Physics Of Solids|Set 07|Which one has the greatest energy gap ?|Semi conductor|Conductor|Metals|Non metals|3|
+Class 9 Physics|Physics Of Solids|Set 07|A completely filled band is called______?|Conduction band|Valence band|Forbidden band|Core band|3|
+Class 9 Physics|Physics Of Solids|Set 07|The band theory of solids explains satisfactorily the nature of______?|Electrical insulators alone|Electrical conductors alone|Electrical semi conductors alone|All of the above|3|
+Class 9 Physics|Physics Of Solids|Set 07|If the density of atoms remain same along any direction in a crystal is called______?|Symmetry|Homogeneity|Isotropy|Cleavage|1|
+Class 9 Physics|Physics Of Solids|Set 07|The angular position of cells remains the same for a sample of a crystal. This property is called______?|Isotropy|Cleavage|Homogeneity|The external symmetry of form|3|
+Class 9 Physics|Physics Of Solids|Set 07|Materials in which valence electrons are tightly bound to their atoms at low temperature are called______?|Semi conductor|Super conductors|Insulators|Conductor|2|
+Class 9 Physics|Physics Of Solids|Set 07|A ferromagnet will become fully magnetized at______?|High voltage A.C|Low voltage A.C|Alternating current at its peak value|D.C current at peak value|2|
+Class 9 Physics|Physics Of Solids|Set 07|The energy band occupied by the valence electrons is called______?|Energy state|Valence band|ve energy state|conduction band|1|
+Class 9 Physics|Physics Of Solids|Set 07|Formation of large molecule by joining small molecules is______?|Fusion|Polymerization|Crystallization|Subtraction|1|
+Class 9 Physics|Physics Of Solids|Set 07|A wire is stretched by a force F which causes an extension 1. The energy stored in the wire is______?|The extension of the wire is proportional to the force applied|The weight of the wire is negligible|The wire is not stretched beyond its elastic limit|The cross sectional area of the wire remains constant|0|
+Class 9 Physics|Physics Of Solids|Set 07|The ration stress to strain in youngs modulus of the material then tension is______?|Directly proportional to extension|Directly proportional to strain|Directly proportional to square of amplitude|Inversely proportional to extension|0|
+Class 9 Physics|Physics Of Solids|Set 07|A certain stress applied to an elastic material produces a certain strain in it. If the elastic limit is not exceeded the energy gained per unit volume of the material is given by______?|Stress/strain|(stress/strain)|Stress x strain|(Stress / strain)|3|
+Class 9 Physics|Physics Of Solids|Set 07|A wire suspended vertically from one end is stretched by attaching a weight of 20N to the lower end. The weight stretches the wire by 1mm. How much energy is gained by the wire ?|0.01J|0.02J|0.04J|1.0J|0|
+Class 9 Physics|Physics Of Solids|Set 07|A wire of length L is stretched by a length E when a force F is applied at one end. If the elastic limit is not exceeded the amount of energy stored in the wire is______?|FE|(FE)|FE2/L|FE2|1|
+Class 9 Physics|Physics Of Solids|Set 07|Which one of the following physical quantities does not have the dimensions of force per unit area ?|Stress|Strain|Youngs modulus|Pressure|1|
+Class 9 Physics|Physics Of Solids|Set 07|What are the dimensions of stress ?|MLT-2|ML-2T-1|ML-1T-2|ML-T-1|2|
+Class 9 Physics|Physics Of Solids|Set 07|Which of the following substances posses the highest elasticity ?|Rubber|Steel|Glass|Copper|1|
+Class 9 Physics|Optical Instruments|Set 07|Michelson calculated the speed of light using the instruments______?|spectrometer|galvanometer|interferometer|none of these|0|
+Class 9 Physics|Optical Instruments|Set 07|A convex lens acts as a diverging lens if the______?|object is beyond C|if the object is with in C|if the object is within f|both B and C|3|
+Class 9 Physics|Optical Instruments|Set 07|Michelson devised the formula to calculate the speed of light______?|C = 4fd|C = 8fd|C = 16fd|C = 5/2fd|2|
+Class 9 Physics|Optical Instruments|Set 07|In optic fiber transmission the repeater are separated through a distance of ______ km in newer system?|300km|200km|100km|20km|2|
+Class 9 Physics|Optical Instruments|Set 07|The function of collimeter in spectrometer is______?|to produce parallel beams of light|to filter the light rays|to make them|no function|0|
+Class 9 Physics|Optical Instruments|Set 07|Errors in the transmission of power through optic fiber can be minimized by using a______?|Multimode index fiber|Graded index fiber|Single mode step index fiber|Copper wire|1|
+Class 9 Physics|Optical Instruments|Set 07|Magnification of the astronomical telescope is______?|fo+fe|fo/fe|fe/fo|(1+fo/fe)L/fo|1|
+Class 9 Physics|Optical Instruments|Set 07|In optic fiber transmission system ______ are used regenerate the dim light signal?|Diodes|Repeaters|Laser|Transformer|1|
+Class 9 Physics|Optical Instruments|Set 07|The value of critical angle for glass is______?|42 deg|47 deg|52 deg|50 deg|0|
+Class 9 Physics|Optical Instruments|Set 07|A point where the incident parallel rays of light converge or appear to diverge after passing through a lens is called______?|center of curvature|focus|optical center|aperture|1|
+Class 9 Physics|Optical Instruments|Set 07|The minimum distance between an object and its real image in a convex lens is______?|2 f|2.5 f|3f|4f|3|
+Class 9 Physics|Optical Instruments|Set 07|A convex lens gives a virtual image only when the objects lies______?|between principal focus and center of curvature|beyond 2 f|at the principal focus|between principal focus and optical center|3|
+Class 9 Physics|Optical Instruments|Set 07|Image of an object 5 mm high is only 1 cm high. Magnification produced by lens is______?|0.5|0.2|1|2|3|
+Class 9 Physics|Optical Instruments|Set 07|Least distance of distinct vision______?|increases with increase in age|decreases with increase in age|neither increases nor decreases|becomes infinite after 60 years|0|
+Class 9 Physics|Optical Instruments|Set 08|Two convex lenses of equal focal length f are placed in contact the resultant focal length of the combination is______?|zero|focus|2 f|f/2|3|
+Class 9 Physics|Optical Instruments|Set 08|For normal adjustment, length of astronomical telescope is______?|fo + fe|fo - fe|fo / fe|fe / fo|0|
+Class 9 Physics|Optical Instruments|Set 08|Final image produced by a compound microscope is______?|real and inverted|real and erect|virtual and erect|virtual and inverted|3|
+Class 9 Physics|Optical Instruments|Set 08|In multimode step index fibre the refractive index of core and cladding is______?|same|different|zero|different with refractive index of core higher than cladding|3|
+Class 9 Physics|Optical Instruments|Set 08|A convex lens of focal length f1 and a concave lens of focal length f2 are placed in contact. The focal length of the combination is______?|f2 + f1|f2 - f1|f1f2/f2+f1|f1f2/f1-f2|3|
+Class 9 Physics|Optical Instruments|Set 08|If a convex lens of large aperture fails to converge the light rays incident on it to a single point, it is said to suffer from______?|chromatic aberration|spherical aberration|both spherical and chromatic|distortion|1|
+Class 9 Physics|Optical Instruments|Set 08|The least distance of distinct vision for a normal eye is______?|15 cm|25 cm|30 cm|40 cm|1|
+Class 9 Physics|Optical Instruments|Set 08|Magnifying power of simple microscope______?|increase with increase in focal length|increase with decrease in focal length|no effect with decrease or increase with focal length|list distance of distinct vision|1|
+Class 9 Physics|Optical Instruments|Set 08|If an object is placed away from 2f of a converging lens then the image will be______?|real and erect|virtual and erect|real and inverted|virtual|2|
+Class 9 Physics|Optical Instruments|Set 08|The power of a concave lens is______?|real|virtual|positive|negative|3|
+Class 9 Physics|Optical Instruments|Set 08|Unit of power of a lens is______?|meter|watt|diopter|horsepower|2|
+Class 9 Physics|Optical Instruments|Set 08|The diameter of a lens is called______?|focal length|principal axis|aperture|radius of curvature|1|
+Class 9 Physics|Optical Instruments|Set 08|A lens which converges a beam of parallel rays to a point is called______?|diverging (or concave) lens|converging (or convex) lens|plano concave lens|plano convex lens|1|
+Class 9 Physics|Physical Optics|Set 08|Which experiment shows that wavelength of light is smaller than that of sound______?|Diffraction|Polarization|Interference|Reflection|0|
+Class 9 Physics|Physical Optics|Set 08|Gives the definition of metre in terms of wavelength of red cadmium light ______?|Newton|Einstein|Michelson|Galileo|2|
+Class 9 Physics|Physical Optics|Set 08|A thing that emits its own light is______?|luminous|non-luminous|incandescent|bright|0|
+Class 9 Physics|Physical Optics|Set 08|Diffraction fringes are______?|equally spaced|distance between them increases|distance between then decreases|they are adjacent with no space in between|2|
+Class 9 Physics|Physical Optics|Set 08|Light on passing through a Polaroid is ______?|plane polarized|un-polarized|circularly polarized|elliptically polarized|0|
+Class 9 Physics|Physical Optics|Set 08|A diffraction grating has 500 lines per mm. Its slit spacing or grating element will be equal to ______?|500 mm|5 x 10-3 mm|2 x 10-5 mm|2 x 10-3 mm|3|
+Class 9 Physics|Physical Optics|Set 08|Diffraction effect is______?|more for a round edge|less for a round edge|more for a sharp edge|less for a sharp edge|2|
+Class 9 Physics|Physical Optics|Set 08|A light ray traveling form rarer to denser medium suffers a phase change of______?|60 deg|90 deg|180 deg|45 deg|2|
+Class 9 Physics|Physical Optics|Set 08|appearance of colour in thin films is due to ______?|diffraction|dispersion|interference|polarization|2|
+Class 9 Physics|Physical Optics|Set 08|The velocity of light was determined accurately by______?|Newton|Michelson|Huygen|Young|1|
+Class 9 Physics|Physical Optics|Set 08|Two sources of light are coherent if they emit rays of______?|same wavelength|same amplitude of vibration|same wave length with constant phase difference|same amplitude and wavelength|2|
+Class 9 Physics|Physical Optics|Set 08|The locus of all points in a medium having the same phase of vibration is called______?|crest|trough|wavelength|wave front|3|
+Class 9 Physics|Physical Optics|Set 08|Central spot of Newtons rings ______?|bright|dark for large wavelength|dark|bright for large wavelength|0|
+Class 9 Physics|Physical Optics|Set 08|According to Einstein light travels form one place to another in the form of ______?|waves|particles|photons|it was not his discovery|2|
+Class 9 Physics|Physical Optics|Set 08|Light reaches the earth form sun in nearly______?|15 minutes|10 minutes|8 minutes|8 minutes 30 seconds|3|
+Class 9 Physics|Physical Optics|Set 08|When light incident normally on thin film the path difference depends upon ______?|thickness of the film only|nature of the film only|angle of indidence only|all thickness nature and angle of incidence|3|
+Class 9 Physics|Physical Optics|Set 08|Which is not optically active ?|sugar|tartaric acid|water|sodium chlorate|2|
+Class 9 Physics|Physical Optics|Set 08|Crystals of a material can behave as______?|Convex lens|Interferometer|Diffraction grating|Concave|2|
+Class 9 Physics|Physical Optics|Set 08|In the shadow of a ball the central portion appears bright that happens due to______?|Interference|Diffraction|Polarization|Refraction|1|
+Class 9 Physics|Physical Optics|Set 08|In double slit experiment if one of the two slit is covered then______?|no interference fringes are observed|no diffraction fringes are observed|no fringes observed|interference pattern not disturbed|0|
+Class 9 Physics|Physical Optics|Set 08|In monochromatic red light a blue book will probably appear to be______?|black|purple|green|no scientific reasoning available|0|
+Class 9 Physics|Physical Optics|Set 08|Which one of the following cannot be polarized ?|radio waves|ultraviolot rays|X-rays|sound waves|3|
+Class 9 Physics|Physical Optics|Set 08|In a plane polarized light ______?|vibration in all direction|vibration in two mutually perpendicular directions|vibration take place in a direction perpendicular to the direction of propagation of light|no vibration at all|2|
+Class 9 Physics|Physical Optics|Set 08|Wavelength of X-rays falling at glancing angle of 30? on a crystal with atmic spacing 2 x 10-10 for the fist order diffraction is______?|4 x 10-10 m|2 x 10-10 m|0.02x10-10m|20x10-10m|1|
+Class 9 Physics|Physical Optics|Set 08|When one mirror of a Michelson Interferometer is moved a distance of 0.5 mm we observe 2000 fringes. What will be wavelength of light used ?|5000 nm|5000A|500m|2000um|1|
+Class 9 Physics|Physical Optics|Set 08|The blue colour of the sky is due to______?|diffraction|reflection|polarization|scattering|3|
+Class 9 Physics|Physical Optics|Set 08|In an interference pattern______?|bright fringes are wider than dark fringes|dark fringes are wider than bright fringe|both dark and bright fringes are of equal width|central fringes are brighter than the outer fringes|2|
+Class 9 Physics|Physical Optics|Set 08|In Young double slit experiment, if white light is used______?|alternate dark and bright fringes will be seen|coloured fringes will be seen|no interference fringes will be seen|impossible to predict|1|
+Class 9 Physics|Physical Optics|Set 08|When crest of one wave falls over the trough of the other wave this phenomenon is known as______?|polarization|constructive interference|destructive interference|diffraction|2|
+Class 9 Physics|Physical Optics|Set 08|Which one of the following is nearly monochromatic light ?|light form fluorescent tube|light form neon lamp|light form sodium lamp|light form simple lamp|2|
+Class 9 Physics|Physical Optics|Set 08|A point source of light placed in a homogeneous medium gives rise to ______?|a cylindrical wave front|an elliptical wave front|a spherical wave front|a plane wave front|2|
+Class 9 Physics|Physical Optics|Set 08|Longitudinal waves do not exhibit ______?|reflection|refraction|diffraction|polarization|3|
+Class 9 Physics|Physical Optics|Set 08|Photoelectric effect was given by ______?|Hertz|Fresnel|Einstein|Plank|2|
+Class 9 Physics|Physical Optics|Set 08|Which one of the following properties of light does not change with the nature of the medium ?|velocity|wavelength|amplitude|frequency|3|
+Class 9 Physics|Physical Optics|Set 08|In double slit experiment we observe ______?|interference fringes only|diffraction fringes only|both interference and diffraction fringes|polirized frringes|2|
+Class 9 Physics|Physical Optics|Set 08|Optical active crystals rotates the ______?|vibrating plane|polarization plane|diffraction plane|interference plane|1|
+Class 9 Physics|Physics|Set 08|A potential difference is applied across the ends of a wire. If the potential difference is doubled, then the drift velocity of free electron will.|be quadrupled|be doubled|be halved|remain unchanged|1|
+Class 9 Physics|Physics|Set 09|If the axis of rotation passes through the body and the body moves around itself then the motion is called:|Spin motion|Orbital motion|Rectilinear motion|Translatory motion|0|
+Class 9 Physics|Physics|Set 09|Which instrument is used to detect path of visible rays?|Geiger counter|Wilson Cloud Detector|Solid State Detector|None of the above|1|
+Class 9 Physics|Physics|Set 09|Earth's orbital speed is ______?|70 km/s|60 km/s|45 km/s|30 km/s|3|
+Class 9 Physics|Physics|Set 09|The antiparticle of electron is: ______?|Proton|Meson|Neutron|Positron|3|
+Class 9 Physics|Physics|Set 09|A photon is always considered to be: ______?|Moving with speed of light|At rest|In accelerated form|Moving with speed of sound|0|
+Class 9 Physics|Physics|Set 09|A black body emitting all the radiation in the visible region appears______.|Green|White|Blue|Black|1|
+Class 9 Physics|Physics|Set 09|Compton's effects was presented by: ______?|Mosely|Marley|Arthur Holly Compton|Stefan Boltzman|2|
+Class 9 Physics|Physics|Set 09|Due to the relative motion of observer and frame of reference time:|Dilates|Contracts|Constant|Uniform|0|
+Class 9 Physics|Physics|Set 09|A black body has the property to ______ all the radiation entering it.|Exude|Reflect|Absorb|None of these|2|
+Class 9 Physics|Physics|Set 09|Modern system of navigation satellites called ______?|Inertia frames of reference|Navstar|Proton|None of these|1|
+Class 9 Physics|Physics|Set 09|A.C. and D.C. have the same ______?|Affect in charging a capacitor|Affect in charging a battery|Affect while passing through an inductance|Heating effect through a resistance|3|
+Class 9 Physics|Physics|Set 09|A low resistance which can bypass a current is: ______?|Divider|Shunt|Multiplier|None of these|1|
+Class 9 Physics|Physics|Set 09|An electric motor could be used as a: ______?|Battery|Capacitor|Dynamo|Transformer|2|
+Class 9 Physics|Physics|Set 09|The dimension of velocity are ______?|LT|LMT|LMT^-1|LT^-1|3|
+Class 9 Physics|Physics|Set 09|An example of scalar quantity is ______?|Displacement|Speed|Velocity|Acceleration|1|
+Class 9 Physics|Physics|Set 09|For anti-parallel vectors angle is equal to ______?|90 deg|180 deg|270 deg|None of these|1|
+Class 9 Physics|Physics|Set 09|A vector which has magnitude one is called ______?|A resultant vector|A unit vector|A null vector|A position vector|1|
+Class 9 Physics|Physics|Set 09|If Ax is -ve and Ay is +ve, the resultant is:______?|2nd|4th|3rd|1st|0|
+Class 9 Physics|Physics|Set 09|What is the SI unit of acceleration is ______?|Meter per secound|meter per second square|Both|All|1|
+Class 9 Physics|Physics|Set 09|If a wire has a resistance of 0.5 ohm, then its conductance is:|1 S|1.5 S|2 S|5 S|2|
+Class 9 Physics|Physics|Set 09|Area under the curve of velocity-time graph gives______?|Displacement|Force|Acceleration|Momentum|0|
+Class 9 Physics|Physics|Set 09|If the velocity-time graph gives a parabolic curve then body posses______?|Variable acceleration|Constant acceleration|Zero acceleration|All of these|0|
+Class 9 Physics|Physics|Set 09|The slope of velocity-time graph gives______?|Speed|Velocity|Acceleration|All of these|2|
+Class 9 Physics|Physics|Set 09|When average and instantaneous velocities become equal then body possess______?|Uniform Velocity|Variable Velocity|Uniform Acceleration|Variable Acceleration|0|
+Class 9 Physics|Physics|Set 09|If the distance-time graph gives a straight line then body possesses______?|Zero Velocity|Uniform Velocity|Variable Velocity|None|1|
+Class 9 Physics|Physics|Set 09|The ratio of displacement to distance can not be______?|Equal to one|Less than one|Greater than one|All are possible|2|
+Class 9 Physics|Physics|Set 09|Newton's first law of motion is valid in______?|Accelerated frame of reference|Inertial frame of reference|Non-inertial frame of reference|None|1|
+Class 9 Physics|Physics|Set 09|Speed of a body can not be______?|Zero|Positive|Negative|None|2|
+Class 9 Physics|Physics|Set 09|Which of the following is reverse process of composition of vectors?|Addition of vectors|Subtraction of vectors|Multiplication of vectors|Resolution of vectors|3|
+Class 9 Physics|Physics|Set 09|Addition of vectors obeys______law?|Commutative Law|Associative Law|Distributive Law|All of these|3|
+Class 9 Physics|Physics|Set 09|Which of the following group of forces can produce equilibrium?|12N, 5N, 20N|4N ,2N, 10N|10N, 18N|12N, 5N, 15N|3|
+Class 9 Physics|Physics|Set 09|Angle between the rectangular components of a vector is______?|Zero|30 deg|45 deg|90 deg|3|
+Class 9 Physics|Physics|Set 09|What is the minimum number of unequal magnitude vectors required to get a null vector?|Zero|Two|Three|None|2|
+Class 9 Physics|Physics|Set 09|Which of the following pair of forces can produce a resultant of 8N?|2N & 5N|20N & 2N|3N & 6N|4N & 1N|2|
+Class 9 Physics|Physics|Set 09|Which of the following can not be the resultant of two vectors having magnitude 10N and 15N?|18N|22N|25N|30N|3|
+Class 9 Physics|Physics|Set 09|The vector A= 2i^+2j^ makes______ angle with x-axis.?|30 deg|45 deg|60 deg|90 deg|1|
+Class 9 Physics|Physics|Set 09|For what value of "a" , the magnitude of a vector A= 2i^+j^+ak^ should be 3?|-2|2|4|Both A & B|3|
+Class 9 Physics|Physics|Set 09|A vector can have maximum______components in space.?|Zero|Two|Three|Infinite|2|
+Class 9 Physics|Physics|Set 09|A vector can have maximum______components in a plane.?|Zero|Two|Three|Infinite|1|
+Class 9 Physics|Physics|Set 09|The mass of Platinum cylinder kept near Paris is______?|1 gram|1 Kg|100 Kg|None|1|
+Class 9 Physics|Physics|Set 09|A train is moving with a speed of 100mph. What will be its speed in m/s.?|45 m/s|90 m/s|100 m/s|120 m/s|0|
+Class 9 Physics|Physics|Set 09|Which of the following is not a unit of length?|light year|radian|angstrom|micron|1|
+Class 9 Physics|Physics|Set 09|Study of sound is called ______?|Soundlogy|Acoustics|Neurology|Physiology|1|
+Class 9 Physics|Physics|Set 09|We have two bodies, One is moving with 2m/s velocity and other is at rest, which one has greater inertia?|Moving body|Body is at rest|Both have not any inertia|Both have same inertia because inertia depends upon mass only|3|
+Class 9 Physics|Physics|Set 09|Inertia is depends upon only?|Velocity|Direction|Mass|Time|2|
+Class 9 Physics|Physics|Set 09|Unit vector is used to specify the ______?|Magnitude|Velocity|Direction of vector|Frequency|2|
+Class 9 Physics|Physics|Set 09|Product of wavelength and time period is ______?|Frequency|Velocity|Time period|Wavelength|1|
+Class 9 Physics|Physics|Set 09|Product of time period and frequency is ______?|Time period|Frequency|Unity|Velocity|2|
+Class 9 Physics|Physics|Set 09|1atm is equal to|760 torr|760 mmHg|101.3 kPa|all of the above|3|
+Class 9 Physics|Physics|Set 09|Which of the following is path funtion?|Internal energy|work and heat|Enthalpy|Entropy|1|
+Class 9 Physics|Physics|Set 10|The system which can exchange matter as well as energy with its surroundings is called______?|open system|Closed system|Isolated system|Inert system|0|
+Class 9 Physics|Physics|Set 10|The process in which no heat enters or leave the system known as ______?|Isochoric|Isobaric|adiabatic|Isothermal|2|
+Class 9 Physics|Physics|Set 10|Mach is the unit of measurement in stating the speed of a moving object in relation to______?|The speed of sound|The speed of other object|The speed of light|The speed of air resistance|0|
+Class 9 Physics|Physics|Set 10|When two charges are placed in water then the Coulomb force between them reduces to ______?|1/2 times|1/3 times|1/78 times|1/58 times|2|
+Class 9 Physics|Physics|Set 10|Optics does not deal with ______?|Nature of light waves|Properties of light|Characteristics of sound|Lenses and mirrors|2|
+Class 9 Physics|Physics|Set 10|Length, mass, time, intensity of light and amount of substance are examples of ______?|Base quantities|Derived quantities|Prefixes|Quartile quantities|0|
+Class 9 Physics|Physics|Set 10|The anti-matter is composed of: ______?|Anti-electrons|Anti-proton|Anti-neutron|All of these|3|
+Class 9 Physics|Physics|Set 10|Which of the following is a good moderator?|Helium|Cadmium|Graphite|Ordinary Water|2|
+Class 9 Physics|Physics|Set 10|Intensity level of threshold of pain is: ______?|60 db|80 db|100 db|120 db|3|
+Class 9 Physics|Physics|Set 10|Value of 'g' at the surface of moon is ______?|6ge|ge/6|2ge|Zero|1|
+Class 9 Physics|Physics|Set 10|What is wavelength of visible spectrum?|8500 - 9800 angstrom|7800 - 8000 angstrom|3900 - 7600 angstrom|1300 - 3000 angstrom|2|
+Class 9 Physics|Physics|Set 10|When a projectile moves upward , its vertical component of velocity?|Decrease|increase|Remains same|None of these|0|
+Class 9 Physics|Physics|Set 10|Ceramic magnets are______?|Semiconductors|Insulators|Conductors|None of these|1|
+Class 9 Physics|Physics|Set 10|The reverse of LED is______?|Diode|Resistor|Photodiode|Capacitor|2|
+Class 9 Physics|Physics|Set 10|The light used in optical fiber transmission is______?|Dichromatic|Monochromatic|Pentachromatic|None of these|1|
+Class 9 Physics|Physics|Set 10|The back emf of a motor which is just started is______?|Zero|Maximum|Minimum|Optimum|0|
+Class 9 Physics|Physics|Set 10|Field particle of Electromagnetic interaction is ______?|Photon|Meson|Vector Boson|Graviton|0|
+Class 9 Physics|Physics|Set 10|Frequency is the inverse of ______?|Velocity|Stress|Time Period|Gravity|2|
+Class 9 Physics|Physics|Set 10|In addition to the daughter nucleus and an electron or positron, the products of a beta decay|Neutrons|Neutrino|Alpha particle|Proton|1|
+Class 9 Physics|Physics|Set 10|Newton's first law of motion gives the concept of ______?|Energy|Work|Inertia|Momentum|2|
+Class 9 Physics|Physics|Set 10|The unit of power is ______?|watt|Joule|Newton|Pascal|0|
+Class 9 Physics|Physics|Set 10|A______has no size or shape, just position.|line|bottom|point|vertex|2|
+Class 9 Physics|Physics|Set 10|Neutron was discovered by: ______?|Chadwick|Rutherford|Neil Bohr|Einstein|0|
+Class 9 Physics|Physics|Set 10|Tesla is the unit for measuring:|Magnetic intensity|Magnetic moment|Magnetic induction|None of the above|2|
+Class 9 Physics|Physics|Set 10|The unit of force in CGS, system is ______?|Newton|Pound|Dyne|None of these|2|
+Class 9 Physics|Physics|Set 10|Matter itself has energy called ______?|Potential energy|Rest energy|Chemical energy|Nuclear energy|1|
+Class 9 Physics|Physics|Set 10|Kirchhoff's 2nd rule is related to: ______?|IR Drops|Battery emf|junction voltages|both "1" and "2"|3|
+Class 9 Physics|Physics|Set 10|The power is the dot product of ______ quantities.|Force and time|Force and velocity|Force and speed|None of these|1|
+Class 9 Physics|Physics|Set 10|CGS system of units is also called ______?|Metric system|Metric or French system of units|Metric or British system of units|None of these|1|
+Class 9 Physics|Physics|Set 10|A person wears spectates with concave lenses. It means that normally (when not using glasses), the image of distant objects is focused in his eyes:|behind the retina|in front of the retina|on the retina|on the blind spot|1|
+Class 9 Physics|Physics|Set 10|The value of R ( Universal Gas Constant ) = ______?|8.314 J/mole K|6.5 J/mole K|1.314 J/mole K|10.314 J/mole K|0|
+Class 9 Physics|Physics|Set 10|Mirage is an example of ______?|reflection of light|refraction of light|Refraction and total internal reflection of light|Scattering of light|2|
+Class 9 Physics|Physics|Set 10|A Circle has a number of tangents equal to ______?|0|1|2|Infinite|3|
+Class 9 Physics|Physics|Set 10|In fission process______.|massive nucleus join together|massive nucleus splits to form smaller fragments|both A & B|None of these|1|
+Class 9 Physics|Physics|Set 10|What is the acceleration of free fall on the moon of that on the Earth ?|1/6th|1/4th|1/8th|None of these|0|
+Class 9 Physics|Physics|Set 10|CGS unit of Force is______?|Newton|Erg|Dyne|Joule|2|
+Class 9 Physics|Physics|Set 10|The Capacity of doing work is called______?|Work|Energy|Power|Momentum|1|
+Class 9 Physics|Physics|Set 10|What is the force of attraction between any two bodies by virtue of their masses is called?|Electromagnetic Force|Gravitational Force|Centripetal Force|Nuclear Force|1|
+Class 9 Physics|Physics|Set 10|By how many times are the Electrostatic forces stronger than the Gravitational Forces for a fixed distance?|102|1036|1012|None of these|1|
+Class 9 Physics|Physics|Set 10|If we look at the floating piece of iceberg on the sea, approximately what fraction of it is visible above the seawater level?|1/6th|1/8th|1/10th|None of these|1|
+Class 9 Physics|Physics|Set 10|Ohm is a unit of measuring ______?|Resistance|Voltage|Current|None of these|0|
+Class 9 Physics|Physics|Set 10|An artificial satellite revolves round the Earth in circular orbit, which quantity remains constant?|Angular Momentum|Angular Displacement|Linear Velocity|None of the above|0|
+Class 9 Physics|Physics|Set 10|If a lift is going up with acceleration, the apparent weight of a body is:|More than the true weight|More or less the true weight|Less than the true weight|Equal to the true weight|0|
+Class 9 Physics|Physics|Set 10|With the increase of pressure, the boiling point of any substance:|Decreases|Increases|Remains same|Becomes Zero|1|
+Class 9 Physics|Physics|Set 10|Which one of the following has the highest value of specific heat?|Water|Alcohol|Methane|Kerosene|0|
+Class 9 Physics|Physics|Set 10|If electrical conductivity increases with the increase of temperature of a substance, then it is a:|Semiconductor|Conductor|Insulator|None of the above|0|
+Class 9 Physics|Physics|Set 10|Young's modulus is the property of ______?|Gas only|Liquid only|Solid only|All of the above|2|
+Class 9 Physics|Physics|Set 10|Tick the correct statement______?|Moderators slow down the neutrons|Moderators bring the neutrons to rest|Moderators absorb the neutrons|Moderators reflect the neutrons|0|
+Class 9 Physics|Physics|Set 10|Atom is the smallest particall which is______?|Indivisible|Divisible|Both|Non of these|0|
+Class 9 Physics|Physics|Set 10|Potential energy means?|Due to position of object|Due to motion of object|Due to gravity|None of these|0|
+Class 9 Physics|Physics|Set 11|A ball is thrown towards the earth and bounce back. During this process:|Direction of velocity and acceleration changes|Direction of Displacement and acceleration changes|Direction of Displacement and Velocity changes|Direction of Displacement, Velocity and acceleration changes|2|
+Class 9 Physics|Physics|Set 11|A football is kicked at 45 degrees with horizontal with K.E of E. Its K.E. at highest point is|Zero|E/2|E|E/(2)1/2|1|
+Class 9 Physics|Physics|Set 11|The internal energy of the system increases______?|in adiabatic expansion|in adiabatic compression|in isothermal expansion|in isothermal compression|1|
+Class 9 Physics|Physics|Set 11|What is the ratio of the velocity of sound at 4 atmosphere to that at 1 atmosphere?|4 : 1|1 : 1|2 : 1|1 : 2|1|
+Class 9 Physics|Physics|Set 11|The first overtone of a stretched string of given length is 320 Hz. The first harmonic is______?|320 Hz|640 Hz|160 Hz|480 Hz|2|
+Class 9 Physics|Physics|Set 11|Two identical metal balls with charges + 2Q and - Q are separated by some distance, and exert a force F on each other. They are joined by a conducting wire, which is then removed. The force between them will now be______?|F|F/2|F/4|F/8|3|
+Class 9 Physics|Physics|Set 11|A million electron are added to a pith ball. Its charge is______?|- 1.6 x 10-12 coulomb|- 1.6 x 10-13 coulomb|- 1.6 x 10 -18 coulomb|- 1.6 x 10 coulomb|1|
+Class 9 Physics|Physics|Set 11|A cube of side 5 cm has a charge of 6 C. The surface density of charge is______?|100 C m-2|200 C m-2|300 C m-2|400 C m-2|3|
+Class 9 Physics|Physics|Set 11|In bringing an electron towards the second electron, the electrostatic potential energy of the system|Decreases|increases|remains the same|becomes zero|1|
+Class 9 Physics|Physics|Set 11|How many electrons per second constitute a current of one micro ampere?|one electron|10 -6 electrons|106 electrons|6.25 x 1012 electrons|3|
+Class 9 Physics|Physics|Set 11|A piece of copper and a piece of germanium are cooled from the room temperature down to 77 K.|The resistance of each of them increases.|The resistance of each of them decreases.|The resistance of copper decreases and that of germanium increases.|The resistance of copper increases and that of germanium decreases|2|
+Class 9 Physics|Physics|Set 11|Two parallel beams of positrons moving in the same direction will______?|repel each other|not interact with each other|attract each other|be deflected normal to the plane containing the two beams.|0|
+Class 9 Physics|Physics|Set 11|An emf of 5 volt is produced by a self inductance, when the current changes at a steady rate from 3 to 2 ampere in 1 millisecond. The value of self inductance is______?|zero|5 H|5000 H|5 mH|3|
+Class 9 Physics|Physics|Set 11|The core of a transformer is laminated to reduce energy losses due to______?|Eddy currents|Hysteresis|Resistance in winding|None of these|0|
+Class 9 Physics|Physics|Set 11|Which of the following is true ?|Lyman series is a continuous spectrum.|Paschen series is a line spectrum in the infra red.|Balmer series is a line spectrum in the ultraviolet.|the spectral series formula can be derived from the Rutherford model of the hydrogen atom.|1|
+Class 9 Physics|Physics|Set 11|Electric current in a solid metal conductor is caused by the movement of what ?|Protons|Electrons|Metal atoms|Metal ions|1|
+Class 9 Physics|Physics|Set 11|A force On particle is conservative if:______?|It's works equals the change in the kinetic energy of the particle.|It's obeys Newton's second law|It's obeys Newton's third law|It work depends on the end points of every motion, not on the path between.|3|
+Class 9 Physics|Physics|Set 11|A Stone thrown from the top of a tall building follows a path that is:|Circular|Made of two straight line segments|Hyperbolic|Parabolic|3|
+Class 9 Physics|Physics|Set 11|The speed of light will be minimum while passing through ?|Vaccum|Glass|Water|Air|1|
+Class 9 Physics|Physics|Set 11|Farad is the unit of______?|inductance|voltage|capacitance|None of these|2|
+Class 9 Physics|Physics|Set 11|The efficiency of the Carnot engine working between 150 deg C and 50 deg C is______?|50%|100%|23.6%|29.4%|2|
+Class 9 Physics|Physics|Set 11|Which instrument is suitable to measure the internal diameter of a test tube?|Vernier Callipers|Screw Gauge|Bore Gauge|None|0|
+Class 9 Physics|Physics|Set 11|A force applied on a body through the string is called______?|Weight|Momentum|Tension|Torque|2|
+Class 9 Physics|Physics|Set 11|The centripetal acceleration produced in a rotating body is commonly due to change on______of body?|magnitude|direction|both|None of these|1|
+Class 9 Physics|Physics|Set 11|The mass-energy relation is the outcome of______?|Quantum theory|General theory of relativity|Special theory of relativity|None of these|2|
+Class 9 Physics|Physics|Set 11|Mach number is used in connection with the speed of______?|Ship|Light|Sound|aircraft|3|
+Class 9 Physics|Physics|Set 11|Rutherford in his atomic model could not explain behavior of ______ ?|Electrons|Protons|Neutrons|Neutrino|0|
+Class 9 Physics|Physics|Set 11|Joule Thomson effect is based upon ______ ?|Sudden compression of gases|Sudden expansion of gases|Cooling of gases|Heating of gases|1|
+Class 9 Physics|Physics|Set 11|Medium which sends signal from source to destination is known as ______ ?|Transmitter|Transmission channel|Receiver|Hardware|1|
+Class 9 Physics|Physics|Set 11|Newton's Third Law of Motion?|every action there is an equal and opposite reaction.|attraction or repulsion between two charges|volume of a given mass of gas increases or decreases|temperature remaining constant, volume of a given mass of a gas varies inversely|0|
+Class 9 Physics|Physics|Set 11|Oil rises up to wick in a lamp because______?|Oil is very light|Oil is volatile|Diffusion of oil through the wick|Capillary action phenomenon|3|
+Class 9 Physics|Physics|Set 11|Which one of the following is not a radioactive element ?|Cadmium|Thorium|Radium|Uranium|0|
+Class 9 Physics|Physics|Set 11|The most suitable unit for expressing nuclear radius is______?|Angstrom|Micro|Nano meter|Fermi|3|
+Class 9 Physics|Physics|Set 11|The turning effect of force is called______?|Moment|Momentum|Torque|None of these|2|
+Class 9 Physics|Physics|Set 11|Which of the following waves have smallest velocity in vacuum?|Ultraviolet|Sound|Infra-Red|Micro|1|
+Class 9 Physics|Physics|Set 11|Who were the pioneers of Physics?|Egyptians|Greek|Latin|Persians|1|
+Class 9 Physics|Physics|Set 11|Which one of the following is not vector quantity ______?|Acceleration|Displacement|Speed|Force|2|
+Class 9 Physics|Physics|Set 11|The least count of Vernier caliper is ______ containing 10 Vernier scale divisions?|0.001mm|0.01mm|0.1mm|0.0001mm|2|
+Class 9 Physics|Physics|Set 11|Which of the following is not derived quantity______?|Time|Density|Volume|Area|0|
+Class 9 Physics|Physics|Set 11|The symbol of the prefix used for Mega is______?|G|h|M|E|2|
+Class 9 Physics|Physics|Set 11|Name the SI unit having the symbol cd?|Candela|Cm|Ampere|Second|0|
+Class 9 Physics|Physics|Set 11|Which of the following branch of Physics deals with the internal structure of earth?|Biophysics|Geophysics|Plasma physics|Atomic physics|1|
+Class 9 Physics|Physics|Set 11|The average acceleration caused by gravity per second is______?|22 feet|32 feet|52 feet|42 feet|1|
+Class 9 Physics|Physics|Set 11|A stone is thrown upward from the top of a 59.4m high cliff with an upward velocity component of 19.6m/s how long is the stone in the air?|4.00 s|5.00 s|6.00 s|7.00 s|2|
+Class 9 Physics|Physics|Set 11|The specially designed semi-conductor diodes used as fast counters in electronic circuits are______?|The light emitting diodes|Photo diodes|Photo voltaic cell|Solar cells.|1|
+Class 9 Physics|Physics|Set 11|The rectangular voltage is an example of______?|An analogue waveform|Continuous wave form|Electronic waveform|A digital waveform|3|
+Class 9 Physics|Physics|Set 11|An OP-AMPs can amplify______?|D.C.|A.C.|Both A.C. & D.C.|None of the above|1|
+Class 9 Physics|Physics|Set 11|Acceptor and donor impurities donate______?|n-carriers only|p-carriers only|p-carriers and n-carriers respectively|n-carriers and p-carriers respectively|2|
+Class 9 Physics|Physics|Set 11|The electronic circuits which implement the various logic operations are called______?|Logic gates|Boolean algebra|Amplifier gain|Logic functions|0|
+Class 9 Physics|Physics|Set 11|In forward bias the width of potential barrier______?|Increases|Decreases|Remains same|No effect|1|
+Class 9 Physics|Physics|Set 12|In a half-wave rectifier the r.m.s. value of the A.C. component of the wave is______?|Equal to D.C. value|More than D.C. value|Less than D.C. value|Zero|1|
+Class 9 Physics|Physics|Set 12|To obtain a p-type semi-conductor Si Crystal must be doped with foreign atoms whose valency is______?|2|3|4|5|1|
+Class 9 Physics|Physics|Set 12|The working of transistor as amplifier is similar to______?|Step up transformer|Step down transformer|Three diodes in common|Triode vacuum tube|3|
+Class 9 Physics|Physics|Set 12|An OP-AMP comparator is a circuit that compares the signal voltage on one of its inputs with a ______?|Non-inverting voltage at output|Reference voltage on the other|Virtual input|Output|1|
+Class 9 Physics|Physics|Set 12|Non-inverting amplifier circuits have______?|A very high input impedance|A very low input impedance|A low output impedance|None of the above|0|
+Class 9 Physics|Physics|Set 12|The operation of a transistor requires______?|That the emitter be heated|That the base be heated|That the collector be heated|None of the above|3|
+Class 9 Physics|Physics|Set 12|To obtain an n-type semiconductor germanium crystal it must be doped with foreign atoms whose valency is______?|2|3|4|5|3|
+Class 9 Physics|Physics|Set 12|The operational amplifier is______?|A high gain amplifier|A high-power amplifier|A high resistance amplifier|A low resistance amplifier|0|
+Class 9 Physics|Physics|Set 12|The alternating voltage is an example of______?|A digital waveform|An analogue waveform|Discrete waveform|None at all|1|
+Class 9 Physics|Physics|Set 12|The device used for conversion of D.C. to A.C. is called______?|Converter|A rectifier|Inverter|Oscillator|2|
+Class 9 Physics|Physics|Set 12|In half-wave rectification the output D.C. voltages is obtained across the load for______?|The negative half cycle of A.C.|The positive half cycle of A.C.|The positive and negative half cycles|Either positive or negative half of A.C.|1|
+Class 9 Physics|Physics|Set 12|In full wave rectification the output D.C. voltage across the load is obtained for______?|The positive half cycle of input A.C.|The negative half cycle of input A.C.|The complete cycle of input A.C.|All of the above.|2|
+Class 9 Physics|Physics|Set 12|In the transistor schematic symbol, the arrow______?|is located on the emitter|is located on the base|is locate on the collector|points form north to south|0|
+Class 9 Physics|Physics|Set 12|Which one of the following is not a donor impurity ?|antimony|phosphorus|aluminium|arsenic|2|
+Class 9 Physics|Physics|Set 12|Forward current through a semi conductor diode circuit is due to______?|minority carriers|majority carriers|holes|electron|1|
+Class 9 Physics|Physics|Set 12|The value of resistivity for insulator is of the order of______?|105 ohm metre|106 ohm metre|107 ohm metre|108 ohm metre|3|
+Class 9 Physics|Physics|Set 12|Which one of following band is completely filled in case of conductors ?|Conduction band|Fermi band|Valence band|Forbidden band|0|
+Class 9 Physics|Physics|Set 12|Depletion region of a junction is formed______?|during the manufacturing process|under forward bias|under reverse bias|when temperature varies|0|
+Class 9 Physics|Physics|Set 12|The simplest type of rectification known as half wave rectification is obtained by______?|using a transistor|suppressing the harmonics in A.C voltage|suppressing half wave of A.C supply by using diode|using a Coolidge tube|2|
+Class 9 Physics|Physics|Set 12|In p-n-p transistor the collector current is______?|equal to emitter current|slightly less than emitter current|greater than emitter current|any of above|1|
+Class 9 Physics|Electrostatics|Set 01|select the only wrong statement?|similar charges repel each other|dissimilar charges attract each other|repulsion is the sure test of electrification|an electrically neutral body is repelled both positively and negatively charged bodies|3|
+Class 9 Physics|Electrostatics|Set 01|select the correct statement?|the electric lines of force have no physical existence|they expand laterally and contract longitudinally|they do not cross each other and group together in dielectric|all the above statements are true|3|
+Class 9 Physics|Electrostatics|Set 01|If the distance between the two point charges become half then force between them becomes______?|double|half|four times|remains same|2|
+Class 9 Physics|Electrostatics|Set 01|The electric charge of 100 deg C is 13cm apart from another charge 16.9 deg C electric force between them is______?|9x107N|900N|9x105N|9x106N|1|
+Class 9 Physics|Electrostatics|Set 01|Two charges are placed at a certain distance. If the magnitude of each charge is doubled the force will become______?|1/4th of its original value|1/8th of its original value|4 times of its original value|8 times of its original value|2|
+Class 9 Physics|Electrostatics|Set 01|An electric field can deflect______?|Neutrons|X-rays|Both glass rod and silk acquire a negative charge|None|3|
+Class 9 Physics|Electrostatics|Set 01|Electric flux linked with a surface will be maximum when______?|The surface is held parallel to the electric field|The surface is held perpendicular to the electric field|The surface makes an angle of 45 deg with the field|All of the above|1|
+Class 9 Physics|Electrostatics|Set 01|The electric lines of force are______?|imaginary|physically existing every where|physically existing near the charges|depends upon case|0|
+Class 9 Physics|Electrostatics|Set 01|If free space between the plates of a capacitor is replaced by a dielectric______?|The potential difference remains constant capacittance and energy stored increases|The potential difference remains constant capacittance decreases and energy increases|The potential difference decreases but both capacitance and energy increase|both potential difference and capacitance decrease but energy increases|2|
+Class 9 Physics|Electrostatics|Set 01|A hollow metallic sphere of 8cm diameter is charged with 4 x 10 8C. The potential on its surface will be______?|900 volts|9000 volts|90 volts|zero|1|
+Class 9 Physics|Electrostatics|Set 01|Potential difference is the work done in moving unit positive charge form one point to another______?|in the direction of electric intensity|against electric intensity|in any direction|in the direction of electric flux|1|
+Class 9 Physics|Electrostatics|Set 01|The value of the capacitance depends upon the______?|voltage applied|thickness of the capacitor plates|geometry of the capacitor|dinsity of the capacitor plates|2|
+Class 9 Physics|Electrostatics|Set 01|Equivalent capacitance is greater than individual capacitances in______?|series combination|parallel combination|both series and parallel combinations|none of above|1|
+Class 9 Physics|Electrostatics|Set 01|The number of electrons in one coulomb charge is equal to______?|6.2 x 1018|1.6 x 1019|6.2 x 1021|1.6 x 10-27|0|
+Class 9 Physics|Electrostatics|Set 01|SI unit of the permittivity of free space is______?|Nm2C2|N-1mC-2|NmC-1|N-1m-2C2|3|
+Class 9 Physics|Electrostatics|Set 01|Which one of the following can be taken as the measure of electric intensity ?|F/A|V/A|VF/A|q/VA|1|
+Class 9 Physics|Electrostatics|Set 01|N/C =______?|V/A|J/V|V/m|A/m|2|
+Class 9 Physics|Electrostatics|Set 01|Photocopier and inject printer are dealt in______?|Electrostatics|Charges in motion|Capacitors|Electric fields|0|
+Class 9 Physics|Electrostatics|Set 01|If a charged rod is brought closer to a gas filled balloon then______?|Radius decreases|Balloon bursts|Radius increase|Balloon squeezes|2|
+Class 9 Physics|Electrostatics|Set 01|If metallic conductor is charged negatively then its weight______?|Remains same|First increases then decreases|Decreases then increases|Increases for a while|3|
+Class 9 Physics|Electrostatics|Set 01|If two charges are increased by two times then force______?|Decreases 9 times|Increases 9 times|Increases 4 times|Decreases 4 times|2|
+Class 9 Physics|Electrostatics|Set 01|If mica sheet is placed between the plates of a capacitor the capacity______?|increases|decreases|increases then decreases|decreases then increases|0|
+Class 9 Physics|Electrostatics|Set 01|If an electrons is allowed to move along the field in a non uniform electric field then it will follow______?|Spiral path|Straight line|Curved path|Circular path|1|
+Class 9 Physics|Electrostatics|Set 01|Selenium becomes a conductor in light so it behaves like______?|Semiconductor|Photodiode|Light emitting diode|Capacitor|1|
+Class 9 Physics|Electrostatics|Set 01|In a charged capacitor the energy resides in______?|magnetic hield|electric field|nuclear field|gravitational field|1|
+Class 9 Physics|Electrostatics|Set 01|A capacitor is a perfect insulator for______?|direct current|alternating current|both for the direct and alternating current|none of above|0|
+Class 9 Physics|Electrostatics|Set 01|A charge of 0.10C accelerated through a potential difference of 1000V acquires kinetic energy______?|200J|100J|1000J|100 eV|1|
+Class 9 Physics|Electrostatics|Set 01|Electric intensity at infinite distance from the point charge is______?|zero|infinite|positive|negative|0|
+Class 9 Physics|Electrostatics|Set 01|In a non-uniform electric field a polar molecule will experience______?|Net torque|Net force|both series and parallel combinations|zero|2|
+Class 9 Physics|Electrostatics|Set 01|Two oppositely charged balls A and B attract third conducting ball C when placed near them turn by turn. Then ball C must be______?|positively charged|electrically neutral|negatively charged|positively and negatively charged|1|
+Class 9 Physics|Electrostatics|Set 01|capacitor is to have an energy content of 20J it must be placed across a potential difference of______?|4 volts|9 volts|2 volts|1 vol|2|
+Class 9 Physics|Electrostatics|Set 01|A 25eV electron has a speed of______?|2 x 106m/sec|3 x 106m/sec|5 x 106m/sec|4 x 106m/sec|1|
+Class 9 Physics|Electrostatics|Set 01|Equipotential planes are______?|parallel to one another|non parallel to one another|intersecting|circular|0|
+Class 9 Physics|Electrostatics|Set 01|The metallic spheres A and B of radii 2m and 4m respectively carry the same charge 4 x 10 8C. If the spheres are connected by a copper wire______?|charge will flow from A to B|charge will flow from B to A|no flow of charge will occur|both a and b are possible|0|
+Class 9 Physics|Electrostatics|Set 01|A closed surface contains two equal and opposite charges. The net electric flux from the surface will be______?|negative|positive|zero|data is insufficient|2|
+Class 9 Physics|Electrostatics|Set 01|Electric intensity being a vector quantity always points______?|along the direction of force experienced by a unit positive charge|opposite to the direction of force experienced by a unit positive charge|perpendicular to the direction of force experienced by a uit positive charge|any of above|0|
+Class 9 Physics|Electrostatics|Set 01|An electric charge at rest produces______?|only a magnetic field|only an electric field|neither electric field nor magnetic field|both electric and magnetic fields|1|
+Class 9 Physics|Electrostatics|Set 01|The force per unit charge is know as______?|electric flux|electric intensity|electric potential|all of above are same|1|
+Class 9 Physics|Electrostatics|Set 01|Electric force between two point charges in air or vacuum is F. If we replace air or vacuum by an insulator (dielectric) of relative permitivity Cr the force between the charges will______?|decrease|increase|remain constant|depends upon composition of dielectric|0|
+Class 9 Physics|Electrostatics|Set 01|The minimum charge on any object cannot be less than______?|1.6 x 10-19C|3.2 x 10-19C|9.1 x 109C|no definite value exist|0|
+Class 9 Physics|Electrostatics|Set 01|When we rub a glass rod with a silk cloth then______?|glass rod acquires negative charge while silk acquires positive charge|glass rod acquires positive charge while silk acquires negative charges|both glass rod and silk acquire negative charge|both glass rod and silk acquire positive charge|1|
+Class 9 Physics|Electrostatics|Set 01|A capacitor in a circuit became hot and ultimately exploded due to wrong connections, which type of capacitor it could be ?|Paper capacitor|Ceramic capacitor|Electrolytic capacitor|Any-of the above|2|
+Class 9 Physics|Electrostatics|Set 01|Which of the following capacitors is marked for polarity ?|Air|Paper|Mica|Electrolytic|3|
+Class 9 Physics|Electrostatics|Set 01|The power dissipated in a pure capacitor is______?|zero|proportional to applied voltage|proportional to value of capacitance|both (B) and (C) above|0|
+Class 9 Physics|Electrostatics|Set 01|When a dielectric slab is introduced in a parallel plate capacitor, the potential difference between plates will______?|remain uncharged|decrease|increase|become zero|1|
+Class 9 Physics|Electrostatics|Set 01|A capacitor consists of______?|two insulators separated by a conductor|two conductors separated by an insulator|two insulators only|two conductors only|1|
+Class 9 Physics|Electrostatics|Set 01|A paper capacitor is usually available in the form of______?|tubes|rolled foil|disc|meshed plates|1|
+Class 9 Physics|Electrostatics|Set 01|Which of the following statements is incorrect ?|The thinner the dielectric, the more the capacitance and the lower the voltage breakdown rating for a capacitor .|A six dot mica capacitor colour coded white, green, black, red and yellow has the capacitance value of 500 pF|Capacitors in series provide less capacitance but a higher voltage breakdown rating for the combination|A capacitor can store charge because it has a dielectric between two conductors|1|
+Class 9 Physics|Electrostatics|Set 01|Which of the following capacitors can be used for temperature compensation ?|Air capacitor|Ceramic capacitor|Paper capacitor|None of the above|1|
+Class 9 Physics|Electrostatics|Set 01|The value of dielectric constant for vacuum is taken as______?|zero|1|4|10|1|
+Class 9 Physics|Electrostatics|Set 02|While testing a capacitor with ohm meter, if the capacitor shows charging, but the final resistance reading is appreciably less than normal, it can be concluded that the capacitor is______?|short-circuited|open circuited|alright|leaky|3|
+Class 9 Physics|Electrostatics|Set 02|Electric field intensity is a quantity______?|scalar|vector|both A. and (6)|none of the above|1|
+Class 9 Physics|Electrostatics|Set 02|When 4 volts e.m.f. is applied across a 1 farad capacitor, it will store energy of______?|2 joules|4 joules|6 joules|8 joules|3|
+Class 9 Physics|Electrostatics|Set 02|Dielectric constant for mica is nearly______?|200|100|3 to 8|1 to 2|2|
+Class 9 Physics|Electrostatics|Set 02|What is the value of capacitance that must be connected in parallel with 50 pF condenser to make an equivalent capacitance of 150 pF ?|50 pF|100 pF|150 pF|200 pF|1|
+Class 9 Physics|Electrostatics|Set 02|The capacitor preferred for high frequency circuits is______?|air capacitor|mica capacitor|electrolytic capacitor|none of the above|1|
+Class 9 Physics|Electrostatics|Set 02|If a 6 uF capacitor is charged to 200 V, the charge in coulombs will be______?|800 uC|900 uC|1200 uC|1600 uC|2|
+Class 9 Physics|Electrostatics|Set 02|Which of the following material has least value of dielectric constant ?|Ceramics|Oil|Glass|Paper|1|
+Class 9 Physics|Electrostatics|Set 02|For closer tolerances which of the following capacitors is usually preferred ?|Paper capacitor|Mica capacitor|Ceramic disc capacitor|None of the above|1|
+Class 9 Physics|Electrostatics|Set 02|"The surface integral of the normal component of the electric displacement D over any closed surface equals the charge enclosed by the surface". The above statement is associated with______?|Gauss's law|Kirchhoff s law|Faraday's law|Lenz's law|0|
+Class 9 Physics|Electrostatics|Set 02|capacitors can be used only for D.C ?|Air|Paper|Mica|Electrolytic|3|
+Class 9 Physics|Electrostatics|Set 02|The dielectric constant (relative permittivity) of glass is given by______?|0.1 to 0.4|0.5 to 1.0|2.0 to 4.0|5 to 100|3|
+Class 9 Physics|Electrostatics|Set 02|The electrostatic force between two charges of one coulomb each and placed at a distance of 0.5 m will be______?|36 x 10fa|36 x 107 N|36 x 108 N|36 x 109 N|3|
+Class 9 Physics|Electrostatics|Set 02|Dielectric strength of mica is______?|10 to 20 kV/mm|30 to 50 kV/mm|50 to 200 kV/mm|300 to 500 kV/mm|2|
+Class 9 Physics|Electrostatics|Set 02|capacitors are mainly used for radio frequency tuning?|Paper|Air|Mica|Electrolytic|1|
+Class 9 Physics|Electrostatics|Set 02|When the dielectric is homogeneous,the potential gradient is______?|uniform|non-uniform|zero|any of the above|0|
+Class 9 Physics|Electrostatics|Set 02|capacitors are used in transistor circuits?|Ceramic|Paper|Air|Electrolytic|0|
+Class 9 Physics|Electrostatics|Set 02|The inverse of capacitance is called______?|reluctance|conductance|susceptance|elastance|3|
+Class 9 Physics|Electrostatics|Set 02|______field is associated with the capacitor?|Electric|Magnetic|Both (A) and (B)|None of the above|0|
+Class 9 Physics|Electrostatics|Set 02|The total deficiency or excess of electrons in a body is known as______?|current|voltage|potential gradient|charge|3|
+Class 9 Physics|Electrostatics|Set 02|The potential gradient across the material of low permittivity is than across the material of high permittivity?|smaller|greater|both (A) and (B)|none of the above|1|
+Class 9 Physics|Electrostatics|Set 02|A capacitor having capacitance of 5 uF is charged to a potential difference of 10,000 V. The energy stored in the capacitor is______?|50 joules|150 joules|200 joules|250 joules|3|
+Class 9 Physics|Electrostatics|Set 02|The number of Faraday tubes of flux passing through a surface in an electric field is called______?|electric flux|electric flux density|magnetic flux density|electric charge density|0|
+Class 9 Physics|Electrostatics|Set 02|Two infinite parallel plates 10 mm apart have maintained between them a potential difference of 100 V. The acceleration of an electron placed between them is______?|0.56 x 1015 m/s2|1.5 x 1015 m/s2|1.6 x 1015 m/s2|1.76 x 1015 m/s2|3|
+Class 9 Physics|Electrostatics|Set 02|The phenomenon of an uncharged body getting charged merely by the nearness of a charged body is known as______?|pholoelectric effect|chemical effect|magnetic effect|induction|3|
+Class 9 Physics|Electrostatics|Set 02|The relative permittivity has the following units______?|F/m|m/F|Wb/m|no units|2|
+Class 9 Physics|Electrostatics|Set 02|A unit tube of flux is known as tube______?|Newton|Faraday|Michale|None of the above|1|
+Class 9 Physics|Electrostatics|Set 02|The value of E within the field due to a point charge can be found with the help of______?|Faraday's laws|Kirchhoff s laws|Coulomb's laws|none of the above|2|
+Class 9 Physics|Electrostatics|Set 02|at a point is equal to the negative potential gradient at that point?|Electric intensity|Electric flux|Magnetic flux|Magnetic flux density|0|
+Class 9 Physics|Electrostatics|Set 02|Dielectric strength ______ with increasing thickness|increases|decreases|remains unaltered|none of the above|1|
+Class 9 Physics|Electrostatics|Set 02|Electric intensity at any point in an electric field is equal to the at that point?|electric flux|magnetic flux density|potential gradient|none of the above|2|
+Class 9 Physics|Electrostatics|Set 02|The unit of dielectric strength is given by______?|V/m|V2/m|m/V|m/V2|0|
+Class 9 Physics|Electrostatics|Set 02|Electric displacement is a______quantity|scalar|vector|both of the above|none of the above|1|
+Class 9 Physics|Electrostatics|Set 02|is that property of a capacitor which delays any change of voltage across it ?|Inductance|Capacitance|Potential gradient|None of the above|1|
+Class 9 Physics|Electrostatics|Set 02|One volt is the same as______?|one joule/coulomb|one coulomb/joule|one coulomb|one joule|0|
+Class 9 Physics|Electrostatics|Set 02|Which medium has the least dielectric strength ______?|Paraffin wax|Quartz|Glass|Air|3|
+Class 9 Physics|Electrostatics|Set 02|Permittivity is expressed in______?|Farad/sq-m|Farad/meter|Weber/meter|Weber/sq-m|1|
+Class 9 Physics|Electrostatics|Set 02|In a cable capacitor, voltage gradient is maximum at the surface of the______?|earth|conduction|sheath|insulator|1|
+Class 9 Physics|Electrostatics|Set 02|The property of a capacitor to store electricity is called its______?|capacitance|charge|energy|none of the above|0|
+Class 9 Physics|Electrostatics|Set 02|The time constant of an R-C circuit is defined as the time during which capacitor charging voltage actually rises to ______ percent of its value|37, initial|62, initial|62, final|37, final|2|
+Class 9 Physics|Electrostatics|Set 02|Dielectric strength of a material depends on______?|moisture content|temperature|thickness|all of the above|3|
+Class 9 Physics|Electrostatics|Set 02|1 volt/meter is same as______?|1 meter/coulomb|1 newton meter|1 newton/meter|1 joule/coulomb|2|
+Class 9 Physics|Electrostatics|Set 02|The bridge used for the measurement of the value of the capacitance is______?|Wien's bridge|Wheatstone bridge|Schering bridge|Hay's bridge|2|
+Class 9 Physics|Electrostatics|Set 02|The capacitance between two plates increases with______?|shorter plate area and higher applied voltage|shorter plate area and shorter distance between them|larger plate area, longer distance between plates and higher,applied voltage|larger plate area and shorter distance between plates|3|
+Class 9 Physics|Electrostatics|Set 02|If an ohmmeter reading immediately goes practically to zero and stays there, capacitor is______?|charged|short-circuited|lossy|satisfactory|1|
+Class 9 Physics|Electrostatics|Set 02|The capacitance C is charged through a resistance R. The time constant of the charging circuit is given by______?|CIR|1/RC|RC|RIC|2|
+Class 9 Physics|Electrostatics|Set 02|Mica capacitors are characterized by all of the following except______?|stable operation|accurate value|low leakage reactance|low losses|2|
+Class 9 Physics|Electrostatics|Set 02|An uncharged conductor is placed near a charged conductor, then______?|the uncharged conductor gets charged by conduction|the uncharged conductor gets charged by induction and then attracted towards the charging body|the uncharged conductor is attracted first and then charged by induction|it remains as such|1|
+Class 9 Physics|Electrostatics|Set 02|Paper condenser is______?|always polarised|usually of fixed value|electrolytic condenser|a variable condenser|1|
+Class 9 Physics|Electrostatics|Set 02|Out of the following capacitors of identical rating which one will have the smallest dimensions ______ ?|Aluminium foil capacitor|Mica capacitor|Ceramic capacitor|Paper capacitor|2|
+Class 9 Physics|Electrostatics|Set 03|The presence of an uncharged conductor near a charged one increases the______?|charge of the charged conductor|capacity of the charged conductor|potential of the charged conductor|all of the above|1|
+Class 9 Physics|Electrostatics|Set 03|Which of the following statements is correct ?|Mica capacitors are available in capacitance values of 5 to 20 uF|Air capapitors have a black band to indicate the outside foil|Electrolytic capacitors must be connected in correct polarity|Ceramic capacitors must be connected in correct polarity|2|
+Class 9 Physics|Electrostatics|Set 03|For a good 0.05 uF capacitor ohmmeter reading should______?|show low resistance momentarily and back off to a very high resistance|show high resistance momentarily and then a very low resistance|go quickly to 50 ohm approximately and remain there|not move at all|0|
+Class 9 Physics|Electrostatics|Set 03|The ohmmeter reading for a short circuited capacitor is______?|infinity|few kilo ohms|few megohms|zero|3|
+Class 9 Physics|Electrostatics|Set 03|An electrolytic capacitor is generally made to provide______?|low capacitance|fixed capacitance|variable capacitance|large value of capacitance|3|
+Class 9 Physics|Electrostatics|Set 03|A positive and a negative charge are initially 50 mm apart. When they are moved close together so that they are now only 10 mm apart, the force between them will be______?|5 times smaller than before|5 times greater than before|10 times greater than before|25 times larger than before|3|
+Class 9 Physics|Electrostatics|Set 03|A condenser suitable for D.C. only is______?|metallic plate variable gang condenser|metallic paper capacitor|oil impregrated paper condenser|poled aluminium electrolytic condenser|3|
+Class 9 Physics|Electrostatics|Set 03|Which of the following capacitor is preferred in case of single phase motor ?|Mica capacitor|Paper capacitor|Electrolytic capacitor|Ceramic capacitor|2|
+Class 9 Physics|Electrostatics|Set 03|When a dielectric is placed in an electric field the field strength______?|decreases|increases|reduces to zero|remain unchanged|0|
+Class 9 Physics|Electrostatics|Set 03|Acharge which when placed in vacuum from an equal and similar charge repels with a force of 9 x 10 N, is known as______?|milli-coulomb|micro-coulomb|pico-coulomb|coulomb|1|
+Class 9 Physics|Electrostatics|Set 03|If a third equal and similar charge is placed between two equal and similar charges, then this third charge will______?|move out of the field of influence of the two charges|remain in stable equilibrium|not be in equilibrium|be in unstable equilibrium|1|
+Class 9 Physics|Electrostatics|Set 03|Which of the following capacitors preferred for high frequency circuits ?|Air capacitor|Electrolytic capacitor|Mica capacitor|none of the above|2|
+Class 9 Physics|Electrostatics|Set 03|In order to remove static electricity from machinery______?|construct insulated cabins|insulate the machinery|ground the framework|humidify the surroundings|2|
+Class 9 Physics|Electrostatics|Set 03|A region around a stationary electric charge has______?|an electric field|a magnetic field|both A. and (6)|none of the above|0|
+Class 9 Physics|Electrostatics|Set 03|Dielectric strength of a medium is usually expressed in______?|J/mm|C/m2|kV/mm|N/mm|2|
+Class 9 Physics|Electrostatics|Set 03|Which is the most superior dielectric out of the following ?|Air|Glass|Bakelite|Paper|2|
+Class 9 Physics|Electrostatics|Set 03|To prevent the generation of static charges on rubber or flat leather______?|surface is moistened|conductive dressing is done|oil compound dressing is done|talcum powder is sprayed on the surface|1|
+Class 9 Physics|Electrostatics|Set 03|A capacitance is a circuit component that opposes the change in circuit______?|Current|Voltage|impedance|None of the above|1|
+Class 9 Physics|Electrostatics|Set 03|In a capacitor, the electric charge is stored in______?|metal plates|dielectric|dielectric as well as metal plates|none of the above|1|
+Class 9 Physics|Electrostatics|Set 03|The minimum value of potential gradient in a cable occurs in______?|insulation|conductor|outer sheath|uniformly all over|0|
+Class 9 Physics|Electrostatics|Set 03|Dielectric strength of medium______?|increases with rise in temperature|increases with moisture content|is same for all insulating materials|none of the above|3|
+Class 9 Physics|Electrostatics|Set 03|A potential of 400 V is applied to a capacitor, the plates of which are 4 mm apart. The strength of electric field is______?|100 kV/m|10 kV/m|5 kV/m|2 kV/m|0|
+Class 9 Physics|Electrostatics|Set 03|What will happen to an insulating medium if voltage more than the breakdown voltage is applied on it______ ?|It will become magnetic|It will melt|It will get punctured or cracked|Its molecular structure will get changed|2|
+Class 9 Physics|Electrostatics|Set 03|A capacitor consists of two______?|ceramic plates and one mica disc|insulators separated by a dielectric|silver-coated insulators|conductors separated by an insulator|3|
+Class 9 Physics|Electrostatics|Set 03|The time constant and R-C circuit may also be defined as the time during which the charging current falls to ______ percent of its initial maximum value|37|42|63|73|0|
+Class 9 Physics|Electrostatics|Set 03|at a point may be defined as equal to the lines of force passing normally through a unit cross section at that point ?|Electric intensity|Magnetic flux density|Electric flux|None of the above|0|
+Class 9 Physics|Electrostatics|Set 03|A single core cable used on 33000 V has conductor diameter 10 mm and the internal diameter of sheath 25 mm. The maximum electrostatic stress in the cable is______?|62 x 105 V/m|72 x 105 V/m|82 x 105 V/m|92 x 105 V/m|1|
+Class 9 Physics|Electrostatics|Set 03|capacitors are used for audio frequency and radio frequency coupling and tuning ?|Air|Mica|Plastic film|Ceramic|1|
+Class 9 Physics|Electrostatics|Set 03|Which of the following capacitors will have the least value of breakdown voltage______ ?|Mica|Paper|Ceramic|Electrolytic|3|
+Class 9 Physics|Electrostatics|Set 03|Which capacitor will be physically smaller for the same ratings ______?|Ceramic capacitor|Paper capacitor|Both will be of equal size|None of the above|0|
+Class 9 Physics|Electrostatics|Set 03|A mica capacitor and a ceramic capacitor both have the same physical dimensions. Which will have more value of capacitance ______?|Ceramic capacitor|Mica capacitor|Both will have identical value of capacitance|It depends on applied voltage|0|
+Class 9 Physics|Electrostatics|Set 03|The capacity of capacitor bank used in power factor correction is expressed in terms of______?|kW|kVA|kVAR|volts|2|
+Class 9 Physics|Electrostatics|Set 03|The relative permittivity of free space is given by______?|1|10|100|1000|0|
+Class 9 Physics|Electrostatics|Set 03|A gang condenser is a______?|polarised capacitor|variable capacitor|ceramic capacitor|none of the above|1|
+Class 9 Physics|Electrostatics|Set 03|The unit of capacitance is______?|henry|ohm|farad|farad/m|2|
+Class 9 Physics|Electrostatics|Set 03|Air capacitors are generally available in the range______?|10 to 400 pF|1 to 20 pF|100 to 900 pF|20 to 100 pF|0|
+Class 9 Physics|Electrostatics|Set 03|A capacitor charged to 200 V has 2000 (iC of charge. The value of capacitance will be______?|10 F|10 uF|100 nF|1000 uF|1|
+Class 9 Physics|Electrostatics|Set 03|Capacitance increases with______?|increase in plate area and decrease in distance between the plates|increase in plate area and distance between the plates|decrease in plate area and value of applied voltage|reduction in plate area and distance between the plates|0|
+Class 9 Physics|Electrostatics|Set 03|In a capacitive circuit______?|a steady value of applied voltage causes discharge|an increase in applied voltage makes a capacitor charge|decrease in applied voltage makes a capacitor charge|none of the above|1|
+Class 9 Physics|Electrostatics|Set 03|The dissipation factor of a good dielectric is of the order of______?|0.0002|0.002|0.02|0.2|0|
+Class 9 Physics|Electrostatics|Set 03|Three capacitors each of the capacity C are given. The resultant capacity 2/3 C can be obtained by using them______?|all in series|all in parallel|two in parallel and third in series with this combination|two in series and third in parallel across this combination|2|
+Class 9 Physics|Electrostatics|Set 03|The sparking between two electrical contacts can be reduced by inserting a______?|capacitor in parallel with contacts|capacitor in series with each contact|resistance in line|none of the above|0|
+Class 9 Physics|Electrostatics|Set 03|In the case of a lossy capacitor, its series equivalent resistance value will be______?|small|very small|large|zero|2|
+Class 9 Physics|Electrostatics|Set 03|Which of the following capacitors has relatively shorter shelf life______?|Mica capacitor|Electrolytic capacitor|Ceramic capacitor|Paper capacitor|1|
+Class 9 Physics|Electrostatics|Set 03|Which of the following expression is correct for electric field strength______?|E = D/E|E = D2/t|E = jtD|E= nD2|0|
+Class 9 Physics|Electrostatics|Set 03|Which of the following statement is true ______?|The current in the discharging capacitor grows linearly|The current in the dicharging capacitor grows exponentially|The current in the discharging capacitor decays exponentially|The current in the discharging capacitor decreases constantly|1|
+Class 9 Physics|Electrostatics|Set 03|Which of the following materials has the highest value of dielectric constant______?|Glass|Vacuum|Ceramics|Oil|3|
+Class 9 Physics|Electrostatics|Set 03|For which of the following parameter variation, the capacitance of the capacitor remains unaffected ______?|Distance between plates|Area of the plates|Nature of dielectric|Thickness of the plates|3|
+Class 9 Physics|Electrostatics|Set 03|Which of the following capacitors will have the least variation ______?|Paper capacitor|Ceramic capacitor|Silver plated mica capacitor|None of the above|2|
+Class 9 Physics|Electrostatics|Set 03|"The total electric flux through any closed surface surrounding charges is equal to the amount oflcharge enclosed". The above statement is associated with______?|Coulomb's square law|Gauss's law|Maxwell's first law|Maxwell's second law|1|
+Class 9 Physics|Electrostatics|Set 04|Two plates of a parallel plate capacitor after being charged from a constant voltage source are separated apart by means of insulated handles, then the______?|Voltage across the plates increases|voltage across the plates decreases|charge on the capacitor decreases|charge on the capacitor increases|1|
+Class 9 Physics|Electrostatics|Set 04|Voltage applied across a ceramic dielectric produces an electrolytic field 100 times greater than air. What will be the value of dielectric constant ______?|50|100|150|200|1|
+Class 9 Physics|Electrostatics|Set 04|If A.C. voltage is applied to capacitive circuit, the alternating current can flow in the circuit because______?|varying voltage produces the charging and dicharging currents|of high peak value|charging current can flow|discharge current can flow|0|
+Class 9 Physics|Electrostatics|Set 04|A dielectric material must be______?|resistor|insulator|good conductor|semi conductor|1|
+Class 9 Physics|Electrostatics|Set 04|The capacitance of a capacitor is not affected by______?|distance between plates|area of plates|thickness of plates|all of the above|2|
+Class 9 Physics|Electrostatics|Set 04|The units of capacitance are______?|volts/coulomb|coulombs/volt|ohms|henry/Wb|1|
+Class 9 Physics|Electrostatics|Set 04|If three 10 uF capacitors are connected in parallel, the net cararitance is______?|20 uF|30 uE|40 uF|50 uF|1|
+Class 9 Physics|Electrostatics|Set 04|Which of the following is not a vector ______?|Linear momentum|Angular momentum|Electric field|Electric potential|1|
+Class 9 Physics|Electrostatics|Set 04|The lines of force due to charged particles are______?|always straight|always curved|sometimes curved|none of the above|1|
+Class 9 Physics|Electrostatics|Set 04|If the sheet of a bakelite is inserted between the plates of an air capacitor, the capacitance will______?|decrease|increase|remains unchanged|become zero|1|
+Class 9 Physics|Electrostatics|Set 04|A capacitor stores 0.24 coulombs at 10 volts. Its capacitance is______?|0.024 F|0.12 F|0.6 F|0.8 F|0|
+Class 9 Physics|Electrostatics|Set 04|If three 15 uF capacitors are connected in series, the net capacitance is|5 uF|30 uF|45 uF|50 uF|0|
+Class 9 Physics|Electrostatics|Set 04|The direction of electric field due +0 positive charge is ______?|away from the charge|towards the charge|both A. and (6)|none of the above|0|
+Class 9 Physics|Electrostatics|Set 04|The electric field intensity at a point situated 4 meters from a point charge is 200 N/C. If the distance is reduced to 2 meters, the field intensity will be______?|400 N/C|600 N/C|800 N/C|1200 N/C|2|
+Class 9 Physics|Electrostatics|Set 04|A field line and an equipotential surface are______?|always parallel|always at 90 deg|inclined at any angle 0|none of the above|1|
+Class 9 Physics|Electrostatics|Set 04|The force between two charges is 120 N. If the distance between the charges is doubled, the force will be______?|60 N|30 N|40 N|15 N|1|
+Class 9 Physics|Electrostatics|Set 04|The ability of charged bodies to exert force on 6ne another is attributed to the existence of______?|electrons|protons|neutrons|electric field|3|
+Class 9 Physics|Electrostatics|Set 04|For making a capacitor, it is better to select a dielectric having______?|low permittivity|high permittivity|permittivity same as that of air|permittivity slightly more than that of air|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The direction of magnetic lines of force is______?|from south pole to north pole|from north pole to south pole|from one end of the magnet to another|none of the above|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|A permeable substance is one______?|which is a good conductor|which is a bad conductor|which is a strong magnet|through which the magnetic lines of force can pass very easily|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|A magnetic field exists around______?|iron|copper|aluminium|moving charges|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The materials having low retentivity are suitable for making______?|weak magnets|temporary magnets|permanent magnets|none of the above|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Tesla is a unit of______?|field strength|inductance|flux density|flux|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Ferrites are materials|paramagnetic|diamagnetic|ferromagnetic|none of the above|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The two conductors of a transmission line carry equal current I in opposite directions. The force on each conductor is______?|proportional to 7|proportional to X|proportional to distance between the conductors|inversely proportional to I|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Air gap has______eluctance as compared to iron or steel path?|little|lower|higher|zero|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|A material which is slightly repelled by a magnetic field is known as______?|ferromagnetic material|diamagnetic material|paramagnetic material|conducting material|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Fleming's left hand rule is used to find______?|direction of magnetic field due to current carrying conductor|direction of flux in a solenoid|direction of force on a current carrying conductor in a magnetic field|polarity of a magnetic pole|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Magnetising steel is normals difficult because______?|it corrodes easily|it has high permeability|it has high specific gravity|it has low permeability|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|When an iron piece is placed in a magnetic field______?|the magnetic lines of force will bend away from their usual paths in order to go away from the piece|the magnetic lines of force will bend away from their usual paths in order to pass through the piece|the magnetic field will not be affected|the iron piece will break|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The ratio of intensity of magnetisation to the magnetisation force is known as______?|flux density|susceptibility|relative permeability|none of the above|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Materials subjected to rapid reversal of magnetism should have______?|large area oiB-H loop|high permeability and low hysteresis loss|high co-ercivity and high retentivity|high co-ercivity and low density|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The unit of relative permeability is______?|henry/metre|henry|henry/sq. m|it is dimensionless|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Indicate which of the following material does not retain magnetism permanently|Soft iron|Stainless steel|Hardened steel|None of the above|0|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The force between two long parallel conductors is inversely proportional to______?|radius of conductors|current in one conductor|product of current in two conductors|distance between the conductors|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The left hand rule correlates to______?|current, induced e.m.f. and direction of force on a conductor|magnetic field, electric field and direction of force on a conductor|self induction, mutual induction and direction of force on a conductor|current, magnetic field and direction of force on a conductor|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|A conductor of length L has current I passing through it, when it is placed parallel to a magnetic field. The force experienced by the conductor will be______?|zero|BLI|B2LI|BLI2|0|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The use of permanent magnets is. not made in______?|magnetoes|energy meters|transformers|loud-speakers|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The main constituent of permalloy is______?|cobalt|chromium|nickel|tungsten|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Paramagnetic materials have relative permeability______?|slightly less than unity|equal to unity|slightly more than unity|equal to that ferromagnetic mate rials|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Gilbert is a unit of______?|electromotive force|magnetomotive force|conductance|permittivity|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Which of the following is a ferromagnetic material ?|Tungsten|Aluminium|Copper|Nickel|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Substances which have permeability less than the permeability of free space are known as______?|ferromagnetic|paramagnetic|diamagnetic|bipolar|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|In the left hand rule, forefinger always represents______?|voltage|current|magnetic field|direction of force on the conductor|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Ferrites are a sub-group of______?|non-magnetic materials|ferro-magnetic materials|paramagnetic materials|ferri-magnetic materials|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Reciprocal of permeability is______?|reluctivity|susceptibility|permittivity|conductance|0|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Which of the following is the unit of magnetic flux density ?|weber|lumens|tesla|none of the above|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The working of a meter is based on the use of a permanent magnet. In order to protect the meter functioning from stray magnetic fields______?|meter is surrounded by strong magnetic fields|a soft iron shielding is used|a plastic shielding is provided|a shielding of anon-magnetic material is used|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|The relative permeability is less than unity is case of______?|ferromagnetic materials|ferrites|non-ferrous materials|diamagnetic materials|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 04|Which of the following is not a unit of flux?|Maxwell|Telsa|Weber|All of the above|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|One telsa is equal to______?|1 Wb/mm2|1 Wb/m|1 Wb/m2|1 mWb/m2|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The magnetism left in the iron after exciting field has been removed is known as______?|permeance|residual magnetism|susceptance|reluctance|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Which of the following is expected to have the maximum permeability ?|Brass|Copper|Zinc|Ebonite|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Out of the following statements, concerning an electric field, which statement is not true ?|The electric intensity is a vector quantity|The electric field intensity at a point is numerically equal to the force exerted upon a charge placed at that point|An electric field is defined as a point in space at which an electric charge would experience a force|Unit field intensity in the exertion of a force of one newton on a charge of one coulomb|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Susceptibility is positive for______?|non-magnetic substances|diamagnetic substances|ferromagnetic substances|none of the above|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|When a magnet is in motion relative to a coil the induced e.m.f. does not depend upon______?|resistance of the coil|motion of the magnet|number of turns of the coil|pole strength of the magnet|0|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|When two ends of a circular uniform wire are joined to the terminals of a battery, the field at the center of the circle?|will be zero|will be infinite|will depend on the amount of e.m.f. applied|will depend on the radius of the circle|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|A 300 mm long conductor is carrying a current of 10 A and is situated at right angles to a magnetic field having a flux density of 0.8 T ; the force on the conductor will be______?|240 N|24 N|2.4 N|0.24 N|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The electromagnet has 50 turns and a current of 1A flows through the coil. If the length of the magnet circuit is 200 mm, what is the magnetic field strength ?|2500 AT/m|250 AT/m|25 AT/m|2.5 AT/m|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, the force per meter of length of each conductor will be______?|100 N|10 N|1 N|0.1 N|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|A 200 turn coil having an axial length of 30 mm and a radius of 10 mm is pivoted in a magnetic field having a flux density of 0.8 T. If the coil carries a current of 0.5 A, the torque acting on the coil will be______?|8 N-m|0.48 N-m|0.048 N-m|0.0048 N-m|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|A square cross-sectional magnet has a pole strength of 1 x 10 Wb and cross sectional area of 20 mm x 20 mm. What is the strength at a distance of 100 mm from the unit pole in air ?|63.38 N/Wb|633.8 N/Wb|6338 N/Wb|63380 N/Wb|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Unit for quantity of electricity is______?|ampere-hour|watt|joule|coulomb|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The unit of flux is the same as that of______?|reluctance|resistance|permeance|pole strength|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The commonly used material for shielding or screening magnetism is______?|copper|aluminium|soft iron|brass|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The Biot-savart's law is a general modification of______?|Kirchhoffs law|Lenz's law|Ampere's law|Faraday's laws|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|If a copper disc is rotated rapidly below a freely suspended magnetic needle, the magnetic needle shall start rotating with a velocity?|less than that of disc but in opposite direction|equal to that of disc and in the same direction|equal to that of disc and in the opposite direction|less than that of disc and in the same direction|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|What will be the current passing through the ring shaped air cored coil when number of turns is 800 and ampere turns are 3200 ?|2|4|6|8|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The materials are a bit inferior conductors of magnetic flux than air|ferromagnetic|paramagnetic|diamagnetic|dielectric|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|he retentivity (a property) of material is useful for the construction of______?|permanent magnets|transformers|non-magnetic substances|electromagnets|0|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|A permanent magnet______?|attracts some substances and repels others|attracts all paramagnetic substances and repels others|attracts only ferromagnetic substances|attracts ferromagnetic substances and repels all others|0|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The relative permeability of materials is not constant|diamagnetic|paramagnetic|ferromagnetic|insulating|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|A rectangular magnet of magnetic moment M is cut into two piece of same length, the magnetic moment of each piece will be______?|M|M/2|2 M|M/4|1|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Magnetic moment is a______?|pole strength|universal constant|scalar quantity|vector quantity|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|Hysteresis loop in case of magnetically hard materials is more in shape as compared to magnetically soft materials|circular|triangular|rectangular|none of the above|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|A keeper is used to______?|change the direction of magnetic lines|amplify flux|restore lost flux|provide a closed path for flux|3|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The uniform magnetic field is______?|the field of a set of parallel conductors|the field of a single conductor|the field in which all lines of magnetic flux are parallel and equidistant|none of the above|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The change of cross-sectional area of conductor in magnetic field will affect______?|reluctance of conductor|resistance of conductor|A. and B. both in the same way|none of the above|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|The magneto-motive force is______?|the voltage across the two ends of exciting coil|the flow of an electric current|the sum of all currents embraced by one line of magnetic field|the passage of magnetic field through an exciting coil|2|
+Class 9 Physics|Magnetism and Electromagnetism|Set 05|What will be the magnetic potential difference across the air gap of 2 cm length in magnetic field of 200 AT/m ?|2 AT|4 AT|6 AT|10 AT|1|

@@ -1,0 +1,800 @@
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Atomic number of Mn is 25 what is the electronic configuration in the ground state______?|1s2 2s2 2p6 3s2 3p6 3d7|1s2 2s2 2p6 3s2 3p6 4s2 4p5|1s2 2s2 2p6 3s2 3p5 3d10|1s2 2s2 2p6 3s2 3p6 4s23d5|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following statement is correct ?|size of Cl atoms > Cl- ion|size of Na+ ion < Na atom|size of Na atom < Na+ ion|Cl- < Na+|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The compound which is added to leaded gasoline to save engine from lead oxide and lead sulphate deposits is______?|Ethylene iodide|Ethylene bromide|Ethylene chloride|Ethylene fluoride|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following elements conduct electricity and also melts below 100 deg C ?|Aluminium|Sodium|Carbon|Sulphur|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Acid present in acid rain may be______?|H2SO4|HNO3|both A and B|none of the above|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The unit of the rate constant (k) is same as that of rate of reaction______?|First order reaction|Second order reaction|Zero order reaction|Third order reaction|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following elements react with steam to produce H2 gas?|Pd|Ni|Sn|All of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Consider the following redox reaction. Zn+dil HNO3? Zn (NO3)2 + N2O + H2O The coefficient number of HNO3 in the equation is______?|6|8|10|4|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|A solution can be both______?|dilute and concentrated|dilute and saturated|saturated and unsaturated|saturated and super saturated|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The unit of molality is______?|moles dm-3|moles kg-1|gram dm-3|none|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Solubility of CaF2 is 2.0x10-4 gdm-3 then Ksp of CaF2 is______?|4.0 x 10-8|3.2 x 10-11|2.0 x 10-8|4.0 x 10-12|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following points are important in connection with equilibrium constant ?|Kc is constant at given temperature|Kc is unaffected by change in concentration of reactants or products|Kc indicates the extent of reaction but not about the rate of reaction.|All of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following molecule is polar______?|CCI4|CO2|BF3|none of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following elements has greater 1st ionization energy______?|B|C|N|O|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which catalyst is used in contact process ?|Fe2O3|V2O5|SO3|Ag2O|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|What is maximum number of electrons in an orbital with m (magnetic quantum number) = 3 ?|6|4|3|2|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|On heating aldehydes with Fehlings solution we get a precipitate whose colour is______?|pink|black|yellow|brick red|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Fruit juices and fizzy drinks such as lemonade are often sold in aluminium cans. What is the most important reason aluminium is a suitable metal ?|aluminium can be recycled|aluminium has very low density|aluminium is the most abundant metal in the earth crust|aluminium is resistant to corrosion by organic acids.|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|In solids the temperature is the measure of______?|Average kinetic energy of molecules|Vibrational kinetic energy|Translational kinetic energy|None of the above|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|All the transition elements show______?|Similar physical properties|Similar chemical properties|Both A and b|None|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Purines and pyrimidines are______?|Enzymes|Nitrogenous bases|Carbohydrates|Lipids|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following element doesnot show allotropy______?|Carbon|Arsenic|Nitrogen|Sulphur|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Benzene is a good solvent for______?|fats|resins|iodine|all the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|If a graph is plotted between temperature on x-axis and volume on y-axis for 1 mole of gas then we get straight line which cuts the temperature exis at______?|0?C|273.16K|?273.16 K|?273.16?C|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|When aquious bromine is added to aqueous phenol a creamy white ppt is obtained. What does this reaction show ?|phenol is unsaturated|2-bromophenol is insoluble in water|a hydroxy group makes the benzene ring more susceptible to electrophilic attack|acid-base reaction|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The inhaled breath of diabetics patient contain acetone. A medical student wishes to test for diabetes by asking patient to bubble their breath through a reagent ?|alkaline aquenous iodine|aqueous bromine|Fehling solution|aqueous NaOH|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|In the van der Waals equation (P + n2a / v2) (v - nb) = nRT which of the following statement is not true ?|n2a/v correct for the intermolecular forces.|nb correct for the volume occupied by gas molecules.|at high densities the equation reduces to the ideal gas law|all of the above statements are correct.|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Regular coiling or zigzagging of polypeptide through hydrogen bonding is its______?|Quantum structure|Secondary structure|Tertiary structure|Primary structure|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following is the formula of chrome red ?|Pb3 O4|2Pb CO3 - Pb (OH)2|Pb Cr O4 - Pb (OH)2|Pb2O|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Across short period the melting and boiling point increase upto ______?|IIIA group|IVA group|VA group|VIA group|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the elements do not fall in stair case of the modern periodic table______?|Si|As|Te|None of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of following metals can be displaced by all other metals from its solution ?|Ag|A|Au|Cu|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|In which of the following type of reactions energy of reactant is greater than energy of product______?|endothermic|exothermic|unpredictable|same|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|At which electrode the reduction of the solution is occurring in Al-Ag cell______?|A|Ag|Both|Neither|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The use of antifreeze in the automobile radiator is an important application of______?|constitutive property|additive property|colligative property|intrinsic property|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|1 mole of electron has mass in microgram______?|1.008 x 10-3|5.5 x 10-4|1.84 x 10-4|1.673 x 10-3|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|A solution has pH = 0 its H+ ion concentration is______?|1 x 10-1|1 x 10-14|1 x 10-7|1|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following is not characteristics of reversible reaction______?|whole amount of reactant does not change into product|chemical equilibrium is established|a catalyst changes the direction of reaction|rate of forward reaction decreases as reaction proceeds|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following theories is superior to others______?|VSEPR|VBT|MOT|none of the above|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The balanced chemical equation for the reaction which occurs when Be is added to water is______?|Be+2H2O?Be (OH)2+H2|Be+H2O?Be (OH)2+H2|Be+H2O?[Be (OH)4]+2+H2|no reaction|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the solid does not contain covalent bond______?|copper|ice|diamond|graphite|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|The hardest of the following solids is______?|sodium|diamond|graphite|magnesium|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following is mineral fiber ?|Teflon|asbestos|saran|acrylic|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|When methl iodide and ethyl iodide are treated with sodium metal possible major products are obtained ?|1|2|3|4|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|When an electron is moving with velocity of 2.188 x 106 ms-1 in the first orbit of Bohrs model of hydrogen. The de Broglie wavelength of electron is______?|0.33 nm|0.34 nm|0.35 nm|0.36 nm|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following properties prove that cathode rays are material in nature______?|they cast shadow|they possess momentum|they are negatively charged|all of the above|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Paramagnetic behaviour of substance is measured by a balance called______?|Analytical balance|Guoys balance|Electrical balance|Single beam balance|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Metallic crystals are soluble in______?|Polar solvent|Non polar solvent|Fused metal|None|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Butyl chloride gives possible isomers ?|2|3|4|5|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 01|Which of the following solids show anisotropy______?|Plastic|Glass|Rubber|None of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The rectified spirit is______?|12% alcohol|90% alcohol|95% alcohol|100% alcohol|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|As a substance moves from a solid to a liquid all of the following changes occur except ?|molecules become more disordered.|K.E of the molecules decreases|intermolecular forces become weaker.|molecules move more frequently.|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Oxygen (molecular weight = 32) diffuses at a rate of 10cm3/min under the same conditions of temperature and pressure how fast will hydrogen (molecular weight = 2) diffuse ?|20cm3/min|40cm3/min|160cm3/min|2.5cm3/min|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Methyl alcohol is not used as______?|a solvent|an anti freezing agent|a substitute for petrol|for denaturing of ethyl alcohol|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|All the following variables are used to describle gases except______?|pressure|volume|moles|density|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Dempsters mass spectrometer has number of zones / parts______?|5|4|3|2|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|When 0.5 mole of phosphoric acid is dissolved in aqueous solution how many moles of -ve and +ve ions are collected altogether ?|0.5|1|1.5|2|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The nucleus of an atom of every element will always contain______?|neutrons|protons and electrons|protons|protons and neutrons|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following methods is used to estimate hydrogen in an organic compound ?|Combustion method|Dumas method|Kjeldahls method|All of the above methods are for different purposes|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Isotopes differ in______?|properties which depend upon mass|arrangement of electrons in orbitals|chemical properties|all of the above|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Combustion analysis is performed to determine______?|Empirical formula|Molecular mass|Molecular formula|Formula mass|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Qualitative analysis is carried out for ______?|identification of elements|estimation of amounts of elements|molar ration of elements|molar volume of elements|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following statements is wrong about isotopes ?|they possess different mass number|they possess different physical properties|they possess same chemical properties|they possess different position in the periodic table|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The mass of decimole of electrons (NA) is______?|1.008 mg|0.184 mg|0.054 mg|5.4 mg|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which one of the following is not the mono isotopic element ?|arsenic|uranium|iodine|nickel|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following terms is used for the mass of chlorine 35.5 ?|relative atomic mass|mass number|atomic weight|relative isotopic mass|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Size of molecule depends upon______?|Atomicity|Shape of molecule|Both A and B|Difficult to predict|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Avogadros number may represent______?|volume of particles|number of particles|mass of particles|All of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The sample of isotopes of an element which needs not to be vaporized in the vaporization chamer______?|Gas|Liquid|Volatile solid|All|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following ion formation is always exothermic ?|Uni-negative|Uni-positive|Di-negative|Di-positive|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which one is true about isotope ?|Same number of neutrons|Same mass number|Same physical properties|Same chemical properties|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Molecular ions are formed by passing______?|High energy electron beam|? - particle|X-rays|All of the above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following are isoelectronic species ?|H+ H H-|Li+ Na+ K+|C1- Br- I|F- Ne Na+|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|1 a.m.u =______?|1.6 x 10-27 kg|1.6 x 10-24 kg|1.6 x 10-26 kg|1.6 x 10-28 kg|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The properties of an element mosly corresponds to that isotope which has greater______?|Mass number|Atomic mass|Relative abundance|all of the above|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|For which of the following compounds the term empirical formula cannot be applied ?|NaCl|H2O|CCI4|It can be applied to all mentioned above|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|When cationic molecular ions are allowed to pass through strong magnetic field in mass spectrometer which of the following ions is fallen______?|lighter|intermediate|heavier|are collected at same time|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Isotopes of the same elements has______?|different number of protons|same number of neutrons|different number of neutrons|same mass number (nucleon number)|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following is not a macromolecule ?|sand|haemoglobin|diamond|maltose|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Mostly elements have fractional atomic masses because of______?|Mass of an atom itself is in fraction|Atomic masses are average masses of isobars|Atmoic masses are average masses of isotopes proportional to their relative abundance|Atmoic masses are average masses of isotopes|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Percentage of calcium in calcium carbonate is______?|80%|30%|40%|20%|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|How many isotopes have odd atomic number ?|154|280|86|300|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The number of moles of CO2 which contains 16 g of oxygen is______?|0.25|0.5|0.75|1|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The volume occupied by 2.8 g of N2 at STP______?|2.24 dm3|22.4 dm3|1.12 dm3|112 dm3|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which one of the following has the maximum number of isotopes ?|oxygen|carbon|tin|chlorine|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|moles of each aluminium and oxygen react with each other to produce aluminium oxide. The amount of product formed is______?|0.18 mole|0.27 mole|0.24 mole|0.09 mole|0|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following terms is not used for ionic compound ?|formula unit|empirical formula|molecular formula|formula mass|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The number of isotopes of elements with even mass number and even atomic number are ______?|280|300|154|54|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|One mole of CO2 contains?|6.022 x 1023 atoms of oxygen|22-gram electrons|6.022 x 1023 atms of carbon|both B. & C.|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Which of the following statements about isotopes is correct ?|Isotopes with odd atomic number are abundant|Isotopes with odd atomic number and even mass number are abundant|Isotopes with even atomic number and even mass number are abundant|Isotopes with even atomic number and odd mass no are abundant|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Molecular mass of water (18g) means______?|1-mole molecules of water|1-gram molecule of water|3-gram atoms|all|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Empirical formula of chloroform is______?|CH2 C12|CH3C1|CC14|CHCL3|3|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|The number of peaks obtained in mass spectrometry shows______?|Relative abundance|Average mass of element|Number of isotopes|Relative isotopic mass|2|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Mass spectrometer is used to determine Mass number of isotopes and______?|Atomic number|Relative abundance|Electronic configuration|All of the above|1|
+Class 9 Chemistry|Chemistry Basic Concept|Set 02|Diameter of an atom is in the order of______?|0.2m|0.2mm|0.2nm|0.2pm|2|
+Class 9 Chemistry|Atomic Structure|Set 02|Neutrons moving with an energy of 1.2 MeV are called______?|Fast neutrons|Slow neutrons|Moderate neutrons|All are possible|0|
+Class 9 Chemistry|Atomic Structure|Set 02|When 6d orbital is complete the entering electron goes into______?|7f|7s|7p|7d|2|
+Class 9 Chemistry|Atomic Structure|Set 02|Centrifugal forces are balanced in atom by______?|Attractive forces|Repulsive force|Electrons|Neutrons|0|
+Class 9 Chemistry|Atomic Structure|Set 02|______ can expel proteons from paraffins ?|Electron|Positron|Neutron|None of above has such capability|2|
+Class 9 Chemistry|Atomic Structure|Set 02|Quantum number which tells the energy of electron is______?|n|1|m|s|0|
+Class 9 Chemistry|Atomic Structure|Set 03|Wavelength of electron was verified by______?|Moseley|Davisson and Germer|Einstein|Roentgen|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Sommerfelds modification in Bohrs model is______?|Orbit is cylindrical|Orbit is elliptical|Orbit is longitudinal|Orbit is asymmetrical|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Pfund series are produced in the spectrum of hydrogen atom______?|when electrons jump down to 2nd- orbit|when electrons jump down to 3rd- orbit|when electrons jump down to 4th- orbit|when electrons jump down to 5th- orbit|3|
+Class 9 Chemistry|Atomic Structure|Set 03|The maximum number of orbitals present in a subshell that is represented by Azimuthal quantum number = 3 will be______?|1|3|5|7|3|
+Class 9 Chemistry|Atomic Structure|Set 03|Rutherford bombarded ______ particles in discovery of nucleus?|Gamma-rays|Alpha-rays|Beta-rays|X-rays|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Charge of electron was measured by______?|J.J Thomson|Millikan|Rutherford|Perrin|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Free neutron changes into proton with the emission of______?|Neutrino|Electron|Both A & B|Meson|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Increase in atomic number is observed during______?|Alpha emission|Beta emission|Both A & B|Radioactivity|1|
+Class 9 Chemistry|Atomic Structure|Set 03|The number of fundamental particles in an atom of the lightest isotope carbon are______?|6|12|18|20|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Atom cannot be divided into simple unitstheorized by______?|Rutherford|Dalton|Bohr|Schrodinger|1|
+Class 9 Chemistry|Atomic Structure|Set 03|The velocity of the photon______?|Is independent of wavelength|Depends upon source|Depends upon its frequency|Equals to the square of amplitude|0|
+Class 9 Chemistry|Atomic Structure|Set 03|The relationship between energy of a photon of light and its frequency is given by______?|de-Broglie duel nature of matter|Bohrs model|Plancks Quantum theory|Rutherfords atomic model|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Positive rays are produced______?|By burning of gas|By cooling of the gas|By the bombardment of cathode rays on gas molecules|From anode like cathode rays produced from cathode|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Colour of fluorescene produced by cathode rays depends upon______?|Temperature|Pressure|Volume|Composition of glass|3|
+Class 9 Chemistry|Atomic Structure|Set 03|The atomic number of an element having maximum number of unpaired electrons in p-subshell is______?|7|10|12|16|0|
+Class 9 Chemistry|Atomic Structure|Set 03|The letters s p d and f are used to represent which quantum numbers______?|Principal|Azimuthal|Magnetic|Spin|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Three quantum number have been derived from equation of______?|de-Broglie|Plancks|Schrodinger|Heisenberg|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Splitting of spectral lines when atoms are subjected to strong electric filed is called______?|Zeeman effect|Stark effect|Photoelectric effect|Compton effect|1|
+Class 9 Chemistry|Atomic Structure|Set 03|When electron jump into orbit 1 then series obtained is______?|Lyman|Paschen|Pfund|Brackett|0|
+Class 9 Chemistry|Atomic Structure|Set 03|Spectrum is produced due to______?|Different wavelength|Different colours|Different intensities|all have little contribution|0|
+Class 9 Chemistry|Atomic Structure|Set 03|Milikan used ______ in his atomizer?|Milk|Honey|Oil|Water|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Electronic configuration of K is______?|[Ar]4s2|[Ar]4s1|[Kr]5s1|[He]2s1|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Space around nucleus where finding probability of electrons is maximum is called ______?|Orbital|Orbit is elliptical|subshell|Electron cloud|0|
+Class 9 Chemistry|Atomic Structure|Set 03|Atom with higher atomic number produces X-rays of______?|Shorter wavelength|Larger wavelength|X-ray not produced|All are possible|0|
+Class 9 Chemistry|Atomic Structure|Set 03|When electrons collide with heavy metals than ______ are produced?|Beta-rays|Alpha-rays|X-rays|Gamma-rays|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Atomic orbits having same energy are called______?|Degenerate orbitals|Bonding molecular orbitals|Anti bonding molecular orbitals|Half filled orbitals|0|
+Class 9 Chemistry|Atomic Structure|Set 03|The correct electronic configuration of Cu is ______?|[Ar]4s1|[Ar]4s2|[Ar]3d104s1|[Ar]3d94s2|2|
+Class 9 Chemistry|Atomic Structure|Set 03|2nd orbit is ______ away from nucleus of H-atom as compared to 1st orbit is ?|2-times|3-times|4-times|6 times|2|
+Class 9 Chemistry|Atomic Structure|Set 03|Planks theory says energy is emitted______?|In continuous manner|Discontinuous manner|Simultaneously|In the form of heat|1|
+Class 9 Chemistry|Atomic Structure|Set 03|The value of e/m ratio of electron is______?|6.02 x 1023 C/kg|1.7588 x 1020 C/kg|9.1095 x 10-31 C/kg|1.7588 x 1011 C/kg|3|
+Class 9 Chemistry|Atomic Structure|Set 03|Positive rays give flash on______?|AgNO3 plate|AgCl plate|ZnO|ZnS|3|
+Class 9 Chemistry|Atomic Structure|Set 03|Angle of deflection was studied by______?|Hitorff|Stoney|William Crookes|J.Perrin|3|
+Class 9 Chemistry|Atomic Structure|Set 03|Pressure in gas discharge tube was kept______?|10 torr|1 torr|0.1 torr|0.01 torr|3|
+Class 9 Chemistry|Atomic Structure|Set 03|Which one of the following explain the shape of orbitals ______?|Principal of quantum number|Azimuthal quantum number|Magnetic quantum number|Spin quantum number|1|
+Class 9 Chemistry|Atomic Structure|Set 03|Splitting of spectral lines when atom is subjected to magnetic field is called ______?|Zeemans effect|Starks effect|Photo electric effect|Compton effect|0|
+Class 9 Chemistry|Atomic Structure|Set 03|Rutherfords planet like structure was defective and unsatisfactory because______?|Moving e- accelerate towards the nucleus|Continuous spectrum|behavior of electron remain unexplained|all|3|
+Class 9 Chemistry|Atomic Structure|Set 03|Which one is not true about cathode rays ?|9.11x10-31 Kg|Cast shadow|Heat up the platinum foil|Cannot ionize|3|
+Class 9 Chemistry|Atomic Structure|Set 03|When an atom absorbs energy the lines in the spectrum will appear which are______?|Brighter|Darker|Colourless|Hard to locate|1|
+Class 9 Chemistry|Atomic Structure|Set 03|The maximum number of electron in a sub shell with ? = 3fs______?|6|10|14|18|2|
+Class 9 Chemistry|Atomic Structure|Set 03|The magnetic quantum number (QN) has its values determined directly by the value of______?|Principal (QN)|Azimuthal (QN)|Spin (QN)|Both A & B|1|
+Class 9 Chemistry|Atomic Structure|Set 03|All of the following were theorized by Bohr in his description of the atom except______?|Angular momentum of electrons in multiples of h/2?|Electrons revolve in discrete circular orbits|Energy of each electron is directly proportional to n2|Electrons radiate energy continuously in a given orbit.|3|
+Class 9 Chemistry|Chemical Bonding|Set 03|on sp3 hybridization ______?|All p-orbitals are involved|One s and 3 p-orbitals are involved|one p-orbital is involved|four p-orbitals are involved|1|
+Class 9 Chemistry|Chemical Bonding|Set 03|Product of charge and distance is called______?|Pressure|Bond length|Work|Dipole moment|3|
+Class 9 Chemistry|Chemical Bonding|Set 03|Unpaired electron in a molecule gives ______ character ?|Ferromagnetic|Paramagnetic|Diamagnetism|Both A & B|1|
+Class 9 Chemistry|Chemical Bonding|Set 03|According to VESPR Model the geometry of molecule having 5 bond pair in outer most shell will be ______?|Triangular|Square planner|Trigonal bipyramidal|Octahedral|2|
+Class 9 Chemistry|Chemical Bonding|Set 03|Geometry of molecule will be pyramidal if the outer post shell of the central atom has______?|3 bond pair one lone pair|2 bond pair 2 lone pair|1 bond pair 3 lone pair|3 lone pair 1 bond pair|0|
+Class 9 Chemistry|Chemical Bonding|Set 03|Orbitals of same energy produced after mixing of orbitals of different energy are called ______?|Degenerate orbitals|Generate orbitals|Hybrid orbitals|Zeeman orbitals|0|
+Class 9 Chemistry|Chemical Bonding|Set 03|Sharing of 1 electron pair by one specie forms______?|Single covalent bond|Hydrogen bond|Double covalent bond|Coordinate covalent bond|3|
+Class 9 Chemistry|Chemical Bonding|Set 03|Which one of the following has polar covalent bond ?|HF|CH4|H2|N2|0|
+Class 9 Chemistry|Chemical Bonding|Set 03|Bond will beionic when E.N difference of bonded atom is ______?|Equal to 1.7|Greater than 1.7|Less than 1.7|No specificity exists|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Ionic bond is produced after complete transfer of ______ ?|Nucleus|Neutrons|Electrons|Protons|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|In a period electronegativity from left to right______?|Increases|Decreases|Remain constant|Variable trend|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|Elements having high I.P values are______?|Metals|Non metals|Liquids|Solids|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Ionization energy in a period generally ______?|Increases|Decreases|No change|Variable trend|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|In a group ionic radius ?|Increases|Decreases|No change|Variable trend|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|An atom loses or gains electrons to______?|Gain stability|Form a bond|Complete its outermost shell|all are accurate justifications|3|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which of the following have their outer most shell complete in atomic form ?|Noble gases|Alkali metals|Coinage metals|Gun metals|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which one shows high %age of the ionic character ?|H2O|HF|HCI|HBr|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Molecular orbitals are filled according to ______?|Auf bau principle|Hunds rule|Paulis Exclusion principle|All these|3|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which one has maximum number of unpaired electrons ?|6X|7Y|9Z|13W|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Shielding effect across the period ______?|Increases|Decreases|Constant|None|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which of the following will have highest value of electron affinity______?|F|Cl|Br|I|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|The relative attraction of the nucleus for the electrons in a chemical bond is called ______?|Ionization energy|Electron affinity|Electro negativity|None of the above|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|Unit of dipole moment is______?|Debye|Poise|Pascal|Newton|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|Bond order for N2 molecule is ______?|2|1|3|4|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|Molecular orbital which have higher energy than atomic orbitals is called______?|Bonding molecular orbital|Antibonding molecular orbital|Hybrid orbital|Super atomic orbital|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Pi bonds are produced by overlapping of______?|Un-hybrid orbitals|Hybrid orbitals|Hybrid and un hybrid orbitals|atomic orbital and hybrid orbital|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|Geometry of simple molecule having sp3 hybrid orbital is ______?|Triangular|Tetrahedral|Square planner|Linear|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|By combining n atmic orbitals no. of hybrid orbitals will be______?|2n|n|3n|impossible to predict|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|The geometry of ammonia is______?|Tetrahedral|Square planner|Trigonal bipyramidal|Trigonal Pyramidal|3|
+Class 9 Chemistry|Chemical Bonding|Set 04|The Lewis acids are______?|Electron deficient|Electron rich|Octet is complete|No such acids exist|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|Mostly ionic compound are produced in between elements of______?|IA and VIA|IA IIA and VIIA|IB and VIIB|IA and IB|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Elements of group IA IIA are ______?|Electronegative|Electropositive|Neutral|IA is electropositive while IIA is electronegative|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Energy released or absorbed when electrons are added in atom is______?|Ionization potential|Electronegativity|Electron affinity|Activation energy|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|Greater shielding effect corresponds to ionization energy value______?|Greater|Lesser|Remain same|No effect|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Energy required to remove electron from an atom______?|Ionization potential|Electronegativity|Electron affinity|Activation energy|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|In a period the atomic radius ?|Increases|Decreases|Remain same|First decreases then increases|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Force responsible to hold atoms together in a compound is called ______?|Bond|Attractive force|Interaction|All of above represent same entity|0|
+Class 9 Chemistry|Chemical Bonding|Set 04|A specie with maximum number of unpaired electrons ?|F|H2O|HF|NH-2|3|
+Class 9 Chemistry|Chemical Bonding|Set 04|Measurement of the degree of polarity is______?|Electron affinity|Ionic character|Ionization energy|Dipole moment|3|
+Class 9 Chemistry|Chemical Bonding|Set 04|In O2 each oxygen atom is hybridized______?|sp3|sp2|sp|All|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which one is not the absolute term of the element ______ ?|Ionization energy|Electron affinity|Electro negativity|Atomic size|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which of the following is the best explanation that CO2 is non polar molecule ______?|Linear geometry|Dipole moment is zero|Sp hybridization|None|1|
+Class 9 Chemistry|Chemical Bonding|Set 04|The octet rule does not always hold for which of the following elements ______?|C|O|F|P|3|
+Class 9 Chemistry|Chemical Bonding|Set 04|Which type of bond is formed by overlap of p orbitals ______?|Pi|Sigma|Both|Neither|2|
+Class 9 Chemistry|Chemical Bonding|Set 04|The ionization energy______?|Generally increases from left to right in a period|Does not change in a period|Increase from top to bottom in a group|Does not change in a group|0|
+Class 9 Chemistry|Periodic Classification|Set 04|Which statement is incorrect ?|All the metals are good conductor of electricity|All the metals are good conductor of heat|All the metals form positive ions|All the metals form acidic oxides|3|
+Class 9 Chemistry|Periodic Classification|Set 04|Keeping in view the size of atom which order is correct one ?|Mg > Sr|Ba > Mg|Lu > Ce|C1 > I|1|
+Class 9 Chemistry|Periodic Classification|Set 04|Iodine is solid due to______?|Strong covalent bond|Large value of dipole moment|High polarizability|Strong hydrogen bonding|2|
+Class 9 Chemistry|Periodic Classification|Set 04|Halides in which halogen atoms act as a bridge between two atoms of the other element are called______?|Covalent halides|Electronegative halides|Polymeric halides|Polymeric hydrides|2|
+Class 9 Chemistry|Periodic Classification|Set 04|Oxidation state of an atom represents______?|Number of electrons gained|Number of electrons lost|Apparent charge in compound|Its vacancies|2|
+Class 9 Chemistry|Periodic Classification|Set 04|Metallic characters of alkali metals______?|Increase down the group|Decrease down the group|No regular trend|Remain same|0|
+Class 9 Chemistry|Periodic Classification|Set 04|Addition of 2nd electron to a uni negative ion is always______?|Exothermic|Endothermic|Data is insufficient|Unpredictable|1|
+Class 9 Chemistry|Periodic Classification|Set 04|Ionization energy depends upon______?|Nuclear charge|Atomic size|Shielding effect|I.E depends upon all of the above and nature of orbital|3|
+Class 9 Chemistry|Periodic Classification|Set 04|Deuterium reacts with oxygen to form______?|Hard water|Heavy water|Soft water|Water gas|1|
+Class 9 Chemistry|Periodic Classification|Set 04|The property which increases upto group IV-A then decreases on wards______?|Ionization energy|Atomic radii|Melting & boiling points|Atomic volume|2|
+Class 9 Chemistry|Periodic Classification|Set 04|Which discovery caused a revision in the periodic law as stated by Mendeleev ?|Location of nucleus by Rutherford|Atomic number by Moseley|X-rays by Roentgen|Natural radioactivity by Henry Bacquerel.|1|
+Class 9 Chemistry|Periodic Classification|Set 04|Which one of the following is not a periodic property ?|Melting point of elements|Boiling point of elements|Ionization energy of elements|Coordination number of ions|3|
+Class 9 Chemistry|Periodic Classification|Set 04|In which of the following pairs are elements belonging to the same group ?|Boron & Beryllium|Nitrogen & Phosphorous|Magnesium & Aluminium|Gallium & Helium|1|
+Class 9 Chemistry|Periodic Classification|Set 04|Hydrogen resembles with carbon because of having______?|Same number of electrons in the valence shell|Similar physical state|Remarkable reducing properties|Homovalent (show same valency)|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Amphoteric exides are those which possess ______ properties?|Acidic|Basic|Acidic and basic|Neutral and acidic|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Modern periodic table has been divided in ______ blocks?|2|4|8|7|1|
+Class 9 Chemistry|Periodic Classification|Set 05|Seventh period contains ______ normal elements ?|2|4|6|8|0|
+Class 9 Chemistry|Periodic Classification|Set 05|The longest period in the modern periodic table is______?|6th|7th|2nd and 3rd both|5th|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Noble gases are named so because they are______?|less reactive|Zero group elements|Having completely filled valence shell|All|3|
+Class 9 Chemistry|Periodic Classification|Set 05|Which element was not known when Mendeleev proposed his classification ?|Hydrogen|Sodium|Copper|Germanium|3|
+Class 9 Chemistry|Periodic Classification|Set 05|The scientist who did not contribute in the construction of periodic table ?|Al-Razi|Moseley|Dobereiner|Democritus|3|
+Class 9 Chemistry|Periodic Classification|Set 05|Among halogens the highest boiling point is of______?|Flrorine|Chlorine|Bromine|Iodine|3|
+Class 9 Chemistry|Periodic Classification|Set 05|Which of the following always increases on going from top to bottom in a group ?|Metallic character|Electronegativity|Oxidizing power|Tendency to get reduced|0|
+Class 9 Chemistry|Periodic Classification|Set 05|An element having low value of ionization energy and low value of electron affinity is likely to belong to______?|Group IA|Group IB|Group VIIA|Group VIII|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Which of the following cannot exist in solution______?|O-2|H+|Cl-|Na+|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Which one of the following element has highest oxidation state in its compounds ?|Cr|Mn|Sn|O|1|
+Class 9 Chemistry|Periodic Classification|Set 05|True increasing order of acidity of the oxides of Mn is______?|MnO < MnO2 < Mn2O7|Mn2O7 > MnO2 > MnO|MnO2 > MnO > Mn2O7|MnO2 > Mn2O7 > MnO|1|
+Class 9 Chemistry|Periodic Classification|Set 05|Which of the following possesses maximum hydration energy ?|Na+|K+|Mg+2|Ca+2|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Melting points of VII-A group elements down the group ______?|Increase|Decrease|Remain constant|No regular trend|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Higher value of electron affinity means______?|Atom will lose electron easily|Atom will gain electron easily|Atom may form di-positive ion|The reason is unknown|1|
+Class 9 Chemistry|Periodic Classification|Set 05|The atoms of same element having same atomic number but different mass number are called______?|Isobars|Isomers|Isotopes|Isotropes|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Which of the following ion is stable in aqueous solution ?|H+|H-|Cl-|All are stable|2|
+Class 9 Chemistry|Periodic Classification|Set 05|An element has electronic conviguration 1s2 2s2 2p2. It belongs to______?|Group II-A|Group IV-A|Group VII-A|Group VI-A|1|
+Class 9 Chemistry|Periodic Classification|Set 05|The atomic radii decreases by increasing atomic number in______?|Alkali metal|Alkaline earth metal|Elements from Li to Ne|Halogens|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Many properties of an element and its compounds can be predicted from the position of the element in the periodic table. What property could not be predicted in this way ?|The nature of its oxides|The charge on its ions|The formula of its oxide|Its number of isotopes|3|
+Class 9 Chemistry|Periodic Classification|Set 05|Which one of the following sets consists of all coinage metals ?|Cu Hg Au|Cu Ag Au|Ag Au Hg|Cu Fe Au|1|
+Class 9 Chemistry|Periodic Classification|Set 05|Best position of hydrogen in the periodic table is above I.A Group which is mainly due to______?|Both are electropositive|Similar outer most shell electronic configuration|Both form ionic compounds|All|3|
+Class 9 Chemistry|Periodic Classification|Set 05|Non-metals usually form ______ oxides?|Acidic|Amphoteric|Neutral|All of the above|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Inner transition elements are called ______?|Lanthanides|Actinides|Rare earth metals|All|3|
+Class 9 Chemistry|Periodic Classification|Set 05|In modern periodic table all the leements are arranged in ascending order of______?|Valency|Atomic mass|Atomic number|Valence electrons|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Elements with similar chemical properties appear in the______?|Same family|Same period|p block elements|Right upper corner|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Concept of Triads was introduced by______?|Dobereiner|Newland|Mendeleev|Al-Razi|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Periodic table provides a basic framework to study elements with respect to their______?|Physical properties|Chemical properties|Properties of their compounds|All|3|
+Class 9 Chemistry|Periodic Classification|Set 05|Which of the following will not form crystalline structure with opporitely charged ions______?|H+|H-|Mg2+|Ca2+|0|
+Class 9 Chemistry|Periodic Classification|Set 05|Which of the p-block elements are not representative elements ?|Alkali metals (I-A)|Group-14 elements (IV-A)|Group-18 elements (VIII-A)|Halogens (VII-A)|2|
+Class 9 Chemistry|Periodic Classification|Set 05|Elements in the same vertical group of the periodic table have same______?|Number of valence electrons|Atomic number|Atomic mass|Atomic volume|0|
+Class 9 Chemistry|Experimental Techniques|Set 05|The solution remaining after the formation of crystals is called ______?|Mother liquor|Dilute solution|Residue|both A & B|0|
+Class 9 Chemistry|Experimental Techniques|Set 05|Shaking two immiscible liquids increases______?|Length of contact|Volume of contact|Area of contact|all of above|2|
+Class 9 Chemistry|Experimental Techniques|Set 05|Which is not a sublime material______?|Iodine|Benzoic acid|Ammonium chloride|Potash alum|3|
+Class 9 Chemistry|Experimental Techniques|Set 05|Selection of filter paper depends on size of particles to be______?|filtered|dried|decolorized|decanted|0|
+Class 9 Chemistry|Experimental Techniques|Set 05|The major steps involved in complete quantitative analysis are ______?|2|3|4|5|2|
+Class 9 Chemistry|Experimental Techniques|Set 05|Which is not related pair of term used in analytical techniques______?|Filtrate residue|Sublimate sublimation|Drying desiccator|Separating funnel mother liquor|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|Sintered glass is a porous material used for ______?|absorption|adsorption|filtration|sublimation|2|
+Class 9 Chemistry|Experimental Techniques|Set 05|The solvent or mixture of solvents used for separation of compounds is called______?|Stationary phase|Mobile phase|Dynamic phase|Static phase|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|Silica gel and alumina are used as ______?|Mobile phase|Stationary phase|Mixed phase|Single phase|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|Safe and the most reliable method of drying crystals is through______?|Filter paper|Vacuum desiccators|Oven|None of these|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|A process controlled by Distributive law is______?|Crystallization|Sublimation|Solvent extraction|Filtration|2|
+Class 9 Chemistry|Experimental Techniques|Set 05|Different components of a mixture have different Rf values due to______?|Polar solvent used|Combination of solvents used|Their different distribution coefficients in the solvent|Distributive law|2|
+Class 9 Chemistry|Experimental Techniques|Set 05|Identification of the components of a sample is______?|Quantitative analysis|Qualitative analysis|Stoichiometry|Physical chemistry|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|The technique used to separate components of mixture in solid phase ?|Crystallization|Filtration|Sublimation|Solvent extraction|2|
+Class 9 Chemistry|Experimental Techniques|Set 05|The tip of funnel should touch the wall of the breaker in order to avoid______?|Inconsistent flow of filtration|splashing|premature crystallization|all of above|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|Size of filter paper is selected according to the amount of______?|solution|amount of insoluble solute|amount of soluble solute|Amount of solvent|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|Rate of filtration can be increased by applying gentle suction______?|Gooch crucible|Filter paper|Sintered crucible|All of the above|1|
+Class 9 Chemistry|Experimental Techniques|Set 05|In crystallization if the solvent is inflammable then direct heating is______?|needed|avoided|depends on temperature|crystallization does not involve heating|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|In solvent extraction ether is used to separate products of organic synthesis from______?|water|iodine|hydrochloric acid|gases|0|
+Class 9 Chemistry|Experimental Techniques|Set 06|The use of CaCl2 and PCl5 in the process of crystallization is as a______?|oxidizing agent|reducing agent|drying agent|colouring agent|2|
+Class 9 Chemistry|Experimental Techniques|Set 06|Without suction pump filtration is ______?|Fast process|Slow process|Rapid process|All are possible|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|Direct conversion of solids into vapours is called ______?|Solvent extraction|sublimation|crystallization|vaporization|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|In CCI4 I2 shows______?|Red colour|Purple colour|Blue colour|Yellow colour|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|Crystallization does not involve______?|heating|sublimation|cooling|vaporization|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|Animal charcoal adsorbs the coloured______?|impurities|crystals|solvents|both A & B|0|
+Class 9 Chemistry|Experimental Techniques|Set 06|Ratio of the amount of solute in organic and aqueous solvent is______?|Retardation factor|Distribution co-efficient|Distribution in aqueous solution|All statements are wrong|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|95% ethanol is called______?|methylated spirit|wood spirit|rectified spirit|absolute alcohol|2|
+Class 9 Chemistry|Experimental Techniques|Set 06|Which of the following technique is simple and efficient to purify a substance______?|Filtration|Sublimation|Crystallization|Solvent extraction|3|
+Class 9 Chemistry|Experimental Techniques|Set 06|Separation of a solid from its hot saturated solution by cooling is called______?|vapourization|solvent extraction|filtration|crystallization|3|
+Class 9 Chemistry|Experimental Techniques|Set 06|Sintered crucible is made up of______?|Plastic|glass|porcetain|fiber|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|Gooch Crucibles are made up of______?|plastic|fibre|porcelain|steel|2|
+Class 9 Chemistry|Experimental Techniques|Set 06|The solid which is left over the filter paper as a result of filtration______?|Insoluble particles|residue|crystals|mud|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|Estimation of amounts of different components in a sample is______?|Quantitative analysis|Qualitative analysis|Stochiometery|Physical chemistry|0|
+Class 9 Chemistry|Experimental Techniques|Set 06|Branch of chemistry that deals with the complete qualitative and quantitative analysis of a substance is______?|Stoichio chemistry|Physical chemistry|Analytical chemistry|Quantum chemistry|2|
+Class 9 Chemistry|Experimental Techniques|Set 06|A technique of partition chromatography in which the solvent is in a pool at the bottom of container______?|Adsorption chromatography|Ascending chromatography|Radial chromatography|Descending chromatography|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|A substance having very high vapour pressure at its melting point on heating will show______?|Melting|Sublimation|Decomposition|Condensation|1|
+Class 9 Chemistry|Experimental Techniques|Set 06|Fluted filter paper is used to______?|Filter hot solution|Avoid premature crystallization|Increase the rate of filtration|Decrease the area|2|
+Class 9 Chemistry|Experimental Techniques|Set 06|Which of the following technique is used for the separation of insoluble particles from liquids ?|Filtration|Crystallization|Solvent extraction|Chromatography|0|
+Class 9 Chemistry|Experimental Techniques|Set 06|Which of the following way in used for classification of chromatography ?|Shape|Phase|Mechanism|All|3|
+Class 9 Chemistry|Gases|Set 06|The gases become non-ideal at ______?|High temperature and high pressure|Low temperature and low pressure|High temperature and low pressure|Low temperature and high pressure|3|
+Class 9 Chemistry|Gases|Set 06|Who made volume and pressure correction to explain deviation of gases from ideal behaviour ?|Clausius|Boltzman|Charles|Vander waal|3|
+Class 9 Chemistry|Gases|Set 06|What will be the pressure of 1 mole of an ideal gas maintained at 300 K and 250cm3 volume ?|98.5 atm|96.7 atm|95.8 atm|97.1 atm|0|
+Class 9 Chemistry|Gases|Set 06|What do we call to sudden expansion of plasma ?|Avogadros law|Grahams law of diffusion|Joule Thompson effect|Daltons law of partial pressure|2|
+Class 9 Chemistry|Gases|Set 06|The highest temperature at which a substance can exist as a liquid is called its______?|Critical temperature|Standard temperature|Absolute temperature|Upper consulate temperature|0|
+Class 9 Chemistry|Gases|Set 06|The spreading of fragrance or scent in air is due to______?|Diffusion|Effusion|Attraction with air|Low dsensity|0|
+Class 9 Chemistry|Gases|Set 06|The partial pressure exerted by the water vapours is called______?|Surface tension|Aqueous tension|Vapour pressure|Hydraulic pressure|1|
+Class 9 Chemistry|Gases|Set 06|Which one is the right value for R ?|0.0821 atm dm3k-1mol-|0.0821 atm m3k-1mol-1|2 cal k-1 mol-1|8.314 Nm2k-1mol-1|0|
+Class 9 Chemistry|Gases|Set 06|For a gas where volume and pressures are 1dm3 and 2 atm respectively what should be its new volume when pressure is increased to 6 atm at constant temperature ?|1/2dm3|1/3dm3|1/4dm3|2/3dm3|1|
+Class 9 Chemistry|Gases|Set 06|What is the abundant form of matter on earth ?|Gas|Liquid|Solid|Plasma|2|
+Class 9 Chemistry|Gases|Set 06|In how many forms do matter exists ?|Three|Four|Five|Two|1|
+Class 9 Chemistry|Gases|Set 06|Which of the following option is incorrect about gases ?|All molecules move with same speed|All molecules behave independently|PV / RT = n|All gases cannot be liquefied through Linds Method|0|
+Class 9 Chemistry|Gases|Set 06|0.5 mole of nitrogen gas and 0.5 mole of carbon monoxide gas at STP have same______?|Value of a|Mass|Atoms|Both B and C|3|
+Class 9 Chemistry|Gases|Set 06|Which of the following statements is true about plasma______?|It may be the first state of matter|It is not a phase transition|It is a conductor of electricity|All of the above|3|
+Class 9 Chemistry|Gases|Set 06|The weakest (in strength) of the following intermolecular forces is______?|Hydrogen bonding|Vander Waals force|Forces among the polar molecules|Ionic bond|1|
+Class 9 Chemistry|Gases|Set 06|Which of these gases diffuse more quickly than oxygen ?|H2S|NO|Cl2|N2O|1|
+Class 9 Chemistry|Gases|Set 06|Linds method is employed for______?|Separation of gases|Expansion of gases|Compression of gases|Liquefaction of gases|3|
+Class 9 Chemistry|Gases|Set 06|The non-ideal behaviour results chiefly from______?|Intermolecular attraction and infinite volume|Elastic collisions and finite volume|Intermolecular attractions and finite volume|Intermolecular attraction only|2|
+Class 9 Chemistry|Gases|Set 06|The processes of effusion and diffusion are best understand by______?|Daltons law|Avogadros law|Grahams law|Charles law|2|
+Class 9 Chemistry|Gases|Set 06|Hydrogen effuses four times more rapidly than volume of an unknown gas molar mass of unknown gas should be______?|16 gmol-1|32 gmol-1|48 gmol-1|64 gmol-1|1|
+Class 9 Chemistry|Gases|Set 06|The kinetic molecular theory of gases was put forward in 1738 by ______?|Boltzman|Maxell|Clausius|Bernoulli|3|
+Class 9 Chemistry|Gases|Set 06|Which one is not the partial pressure of oxygen in the lungs ?|0.1526 atm|116 mm of Hg|116 torr|1 atm|3|
+Class 9 Chemistry|Gases|Set 06|One mole of an ideal gas at 546.5 K under 2 atm pressure has a volume of______?|22.414 m3|44.828 dm3|22.414 dm3|11.212 cm3|2|
+Class 9 Chemistry|Gases|Set 06|If 1/V is plotted on X-axis and pressure on Y-axis at constant temperature what should appear ______?|Straight line parallel to x-axis|Straight line parallel to y-axis|Straight line|Curve|2|
+Class 9 Chemistry|Gases|Set 06|The solid particles only posses______?|Translational motion|Vibrational motion|Rotational motion|All of above motions|1|
+Class 9 Chemistry|Gases|Set 06|Which state of matter has the lowest density ?|Gas|Liquid|Solid|Plasma|0|
+Class 9 Chemistry|Gases|Set 06|What is the simplest form of matter ?|Gas|Liquid|Solid|Semi solid|0|
+Class 9 Chemistry|Gases|Set 06|Critical temperature for different gases is different and depends upon______?|Size of molecule|Shape of molecule|Intermolecular attractions|All of the above|3|
+Class 9 Chemistry|Gases|Set 06|The diffusion of gases at absolute zero will be______?|Unchanged|Slightly decreased|Slightly increased|Zero|3|
+Class 9 Chemistry|Gases|Set 07|At constant temperature the pressure of an ideal gas is doubled its density becomes______?|Half|Double|Same|None|1|
+Class 9 Chemistry|Gases|Set 07|The introduction of Kelvin scale in thermodynamic is according to______?|Boyles law|Charles law|Daltons law|Grahams law|1|
+Class 9 Chemistry|Gases|Set 07|Which one has the lowest density at room temperature ?|Ne|N2|NH3|CO|2|
+Class 9 Chemistry|Gases|Set 07|Under what conditions the gases deviate from the ideal behavior ?|High temperature|Low temperature|High pressure|B and C|3|
+Class 9 Chemistry|Gases|Set 07|Ideal gasses have all the following characteristics except ?|Absence of intermolecular forces|Collisions among the molecules of an ideal gas are perfectly elastic|The molecules occupy no space|All of the above are correct|2|
+Class 9 Chemistry|Gases|Set 07|Which of the following is not considered as an intermolecular force between molecules ?|Coordinate covalent bonds|Hydrogen bonds|Debye forces|London dispersion forces|0|
+Class 9 Chemistry|Gases|Set 07|What is the relative rate of effusion of CO and CO2 ?|CO is 1.25 times faster than CO2|CO is 3.75 times faster than CO2|CO is 1.25 times faster than CO|Both diffuse at the same rate|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|The amount of heat absorbed when one mole of a liquid is changed into gas at its boiling point is______?|Molar heat of sublimation|Molar heat of fusion|Molar heat of vapourization|Latent heat of that liquid|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|If a physical and chemical change takes place at a constant pressure then the heat change during the process is called______?|Heat of transition|Heat of fusion|Enthalpy change|All of above|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|The number amino acid units for each turn of helix on average are______?|21|23|25|27|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|Which solids are called true solids ______?|Metallic|Amorphous|Crystalline|Vitreous|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|The viscosity of solids is______?|Infinite|Negligible|Medium|No concept of viscosity in solid|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|Crystalline solids can be identified easily from their ______?|Sharp melting point|Definite geometry|Transition temperature|Colour|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|A malleable solid is one which can be______?|Converted into wires|Converted into thin sheets|Melted easily|All of the above|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Crystallites are present in______?|crystalline solids|amorphous solids|liquid crystals|all of the above|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Molar heat of vaporization of water is______?|40.7 KJ/mole|40.7 J/mole|40.7 cal/mole|40.7 Kcal/mole|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|Liquid gets the shape of the container when it is poured into it. Which one of the following reasons justifies it ?|Liquid do not have definite shape|Liquid do not have definite volume|Lieuid is highly compressible|Liquid molecules can slide over each other|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|The number of formula units in 29.25g of common salt______?|6.022 x 1023|3.01 x 1023|2 x NA|4 x 6.022 x 1023|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Rising of a wetting liquid in a capillary tube is due to______?|Surface tension|Cohesive forces|Adhesive forces|viscosity|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|The boiling point increases down the zero group element due to______?|Ion dipole forces|London forces|Hydrogen bonding|Dipole dipole forces|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|When water freezes at 0 deg C its density decreases due to______?|Change of bond angles|Cubic structure of ice|Empty space present in the structure of ice|Change of bond length|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|The conversion of vapours back into their liquid state is called______?|crystallization|evaporization|vaporization|condensation|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|Steam causes more sever burn than the boiling water because it possesses ______?|Latent heat of fusion|Latent heat of vaporization|Latent heat of sublimation|All of the above|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|The density of water may be______?|Equal to that of ice|Greater than that of ice|Less than that of ice|All are possible|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Which one is a conductor but is not malleable ?|Iron|Graphite|Silver|Platinum|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Which one of the following does not show hydrogen bonding?|Water|Ethyl alcohol|Phenol|Diethyl ether|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|Which one is false for evaporation ?|Surface phenomenon|Continuous|Exothermic|Cause cooling|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|When the atoms of third layer are arranged in such a way that they directly lie above the atoms of first layer then this arrangement is called______?|ABAB (hexagonal)|ABCABC (Cubic)|Orthor hombic|Rhombohedral|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|Which has strongest bonding in the solid state ?|Hydrogen Chloride (HCI)|Chlorine (Cl2)|Xenon(Xe)|Sodium Chloride (NaCI)|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|All the enthalpy changes are______?|Negative|Positive|May or may not be A or B|none|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|The pressure during the molar heat of fusion is kept______?|0 atmosphere|one atmosphere|2 atmosphere|10 atmosphere|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Isomorphic substances have ______?|Same physical and chemical properties|Same physical and different chemical properties|Different physical and same chemical properties|Different physical and chemical properties|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|Bucky balls is an allotropic from of______?|Sulphur|Carbon|Silica|Tin|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|The phenomenon in which a compound exists in two or more crystalline forms is called ______?|Isomorphism|Polymorphism|Anisotropy|Allotropy|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Boiling points of hydrocarbons increase with the increase in number of carbon atoms. It is mainly due to______?|More strength of H-bonding|More strength of London forces|Less polarizability|All of the above|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Amorphous substances posses______?|No definite geometry|No definite heat of fusion|No sharp melting points|All of the above|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|A solid may be made up of______?|Atoms|Ions|Molecules|A, B, and C|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|If we provide very high amount of heat to a liquid its boiling point will______?|increase|remains constant|decrease|there will be no boiling|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Which one of the following has highest volatility______?|Diethyl ether|Ethyl alcohol|Water|Ethylene glycol|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|During which process empty spaces between particles become minimum ?|ionization|condensation|fusion|evaporation|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Table salt crystallizes with a______?|Face centered cubic lattice|body centered cubic lattice|simple cubic lattice|othorhombic lattice|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Vapour pressure is not affected by______?|Surface area|temperature|intermolecular forces|atmospheric pressure|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|The ttractive forces between the partial positive end of one molecule and partial negative end of other molecule are called______?|Dipole-dipole forces|Ion dipole-dipole forces|London dispersion forces|Debye forces|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|Formation of vapours from the surface of a liquid is called______?|vapourization|evaporation|condensation|cracking|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|The quantity of heat required to convert one mole of liquid into its vapours at its boiling point is called molar heat of______?|vaporization|evaporation|crystallization|sublimation|0|
+Class 9 Chemistry|Liquids and Solids|Set 07|Forces of attraction which may be present between all kinds of atoms and molecules are ______?|intramolecular|intermolecular|van der Waal|Dipole-induced dipole|2|
+Class 9 Chemistry|Liquids and Solids|Set 07|Hydrogen bonding is involved in______?|Solubility|Cleansing action of detergents|Biological molecules|All|3|
+Class 9 Chemistry|Liquids and Solids|Set 07|Liquid crystal is discovered by ______?|William Crooks|Fredrack Reinitzer|J.J Thomson|Bravis|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|Vapour pressure of water at 100 deg C is______?|55 mm Hg|760 mm Hg|355 mm Hg|1489 mm Hg|1|
+Class 9 Chemistry|Liquids and Solids|Set 07|In order to mention the boiling point of water at 110 deg C the external pressure should be ?|Between 760 torr and 1200 torr|Between 200 torr and 760 torr|765 torr|any value of pressure|0|
+Class 9 Chemistry|Liquids and Solids|Set 08|When substance moves from a solid to a liquid state all of the following changes occur except______?|Molecules become more disordered|K.E of the molecules decreases|Intermolecular forces become weaker|Molecule become further separated|1|
+Class 9 Chemistry|Liquids and Solids|Set 08|Which of the following has strongest intermolecular forces of attraction ?|Hydrogen (H2)|Chlorine (Cl2)|lodine (I2)|Methane (CH4)|2|
+Class 9 Chemistry|Solutions|Set 08|The relative lowering of vapour pressure is directly proportional to molality if the solution is______?|concentrated|dilute|saturated solution|all of the above|1|
+Class 9 Chemistry|Solutions|Set 08|ppm means______?|parts of solute in 1000 parts of solvent|parts of solvent in 1000 parts of solute|parts of solute in one million parts of solution|parts of solvent in one million parts of solute|2|
+Class 9 Chemistry|Solutions|Set 08|Hydration is a process in which______?|Molecules are surrounded by solvent molecules|Ions are surrounded by solvent molecules|Both ions and molecules are surrounded by solvent molecules|Both ions and molecules are surrounded by water molecules|3|
+Class 9 Chemistry|Solutions|Set 08|Beckmanns apparatus is used to measure______?|boiling point elevation|depression in freezing point|lowering of vapour pressure|lowering of osmotic pressure|1|
+Class 9 Chemistry|Solutions|Set 08|The determination of correct molecular weight from Raoults law is applicable to______?|a volatile solute in dilute solution|a non-electrolyte & non volatile solute in concentrated solution|a non-electrolyte & non volatile solute in concentrated solute|non volatile solute in a dilute solution|3|
+Class 9 Chemistry|Solutions|Set 08|Concentration of solute molecule when they are in equilibrium with solid substance at particular temperature is called______?|saturated solution|solubility|unsaturated solution|super saturated solution|1|
+Class 9 Chemistry|Solutions|Set 08|The solution which distils over with change in composition______?|ideal solution|zeotropic solution|azeotropic solution|non-ideal solution|1|
+Class 9 Chemistry|Solutions|Set 08|If the volume of solution is equal to sum of volumes of its all components then the solution______?|will be an ideal solution|will be non-ideal solution|will show deviations from Raoults law|both b & c|0|
+Class 9 Chemistry|Solutions|Set 08|10ml of alcohol dissolve in 90ml of water unit of concentration used is______?|% w/w|% w/v|% v/v|% v/w|2|
+Class 9 Chemistry|Solutions|Set 08|The component of solution which is in smaller amount is called______?|solvent|solute|phase|ion|1|
+Class 9 Chemistry|Solutions|Set 08|Every sample of matter with uniform properties and fixed composition is called______?|solute|solvent|solution|phase|3|
+Class 9 Chemistry|Solutions|Set 08|Which of the following substance do not show continuous solubility curve ?|KCIO4|Na2SO4. 10H2O|K2Cr2O7|PbCl2|1|
+Class 9 Chemistry|Solutions|Set 08|Which has the minimum freezing point ?|One Molal NaCI|One molal KCI solution|One molal CaCI2|One molal urea solution|2|
+Class 9 Chemistry|Solutions|Set 08|The molal boiling point constant is the ration of the elevation of boiling point to______?|Molarity|Molality|More fraction of solvent|Mole fraction of solute|1|
+Class 9 Chemistry|Solutions|Set 08|Which of the following unit of concentration is independent of temperature ?|Molarity|Molality|Mole fraction|all|1|
+Class 9 Chemistry|Solutions|Set 08|Which one of the following salt does not hydrolyzed______?|Na2SO4|AlCl3|CuSO4|NH4Cl|0|
+Class 9 Chemistry|Solutions|Set 08|Water of crystallization can be removed by______?|drying|heating|evaporation|All of the above|1|
+Class 9 Chemistry|Solutions|Set 08|1 molar solution of glucose in water contains weight of glucose______?|180g/dm3|170g/dm3|190g/dm3|195g/dm3|0|
+Class 9 Chemistry|Solutions|Set 08|Solution of Na2SO4 will be______?|basic|acidic|neutral|cannot be presicted without data|2|
+Class 9 Chemistry|Solutions|Set 08|The compounds in which water molecules are added are called______?|Hydrated ions|double salts|hydrates|complexes|2|
+Class 9 Chemistry|Solutions|Set 08|Boiling point elevations can be measured by______?|Beckmanns method|Landsbergers method|Linds method|none of the above|1|
+Class 9 Chemistry|Solutions|Set 08|Solubility of KCIO3 gives______?|continuous and falling solubility curve|discontinuous and falling solubility curve|continuous and rising solubility curve|discontinuous and rising solubility curve|2|
+Class 9 Chemistry|Solutions|Set 08|Mixtures which distill over without change in composition called______?|zeotropic mixture|azeotropic mixture|amphoteric mixture|ideal solution|1|
+Class 9 Chemistry|Solutions|Set 08|The relative lowering of vapour pressure is______?|equal to the mole fraction of solvent|equal to the mole fraction of solute|directly proportional to the mole fraction of solute|both B & C|3|
+Class 9 Chemistry|Solutions|Set 08|In partially miscible liquids the two layers are______?|saturated solutions of each liquid|unsaturated solutions of each liquid|normal solution of each liquid|no layer formation takes place|0|
+Class 9 Chemistry|Solutions|Set 08|Number of moles in 1 kg of solvent is called______?|normality|molarity|molality|mole fraction|2|
+Class 9 Chemistry|Solutions|Set 08|Solution with maximum concentration of solute at given temperature is called______?|Super saturated solution|unsaturated solution|saturated solution|dilute solution|2|
+Class 9 Chemistry|Solutions|Set 08|Homogeneous mixture of two or more than two compounds is called______?|solution|compound|radical|ion|0|
+Class 9 Chemistry|Solutions|Set 08|When common salt is dissolved in water ?|Boiling point of water decrease|Boiling point of water increase|Boiling point of water remains same|None of the above|1|
+Class 9 Chemistry|Solutions|Set 08|Which of the following are the conditions of colligative properties______?|Non-electrolye solute|Non-volatile solute|Dilute solution|All of the above|3|
+Class 9 Chemistry|Solutions|Set 08|Which of the following is an example of liquid in gas solution?|Opals|Dust particles in smoke|Paints|Fog|3|
+Class 9 Chemistry|Solutions|Set 08|Which of the following solutions of H2SO4 is more concentrated ?|1 Molar solution|1 molal solution|1 normal solution|all have same concentration|0|
+Class 9 Chemistry|Electrochemistry|Set 08|The reduction potential Zn is______?|0.76|-0.76|-0.55|0.55|1|
+Class 9 Chemistry|Electrochemistry|Set 08|In K2Cr2O7 the oxidation number of chromium is______?|7|6|-7|-6|1|
+Class 9 Chemistry|Electrochemistry|Set 08|Apparent charge on atom in molecule is______?|valency|coordination number|oxidation number|charge number|2|
+Class 9 Chemistry|Electrochemistry|Set 08|In alkaline battery the anode is made up of______?|MnO2|Zn|AgO2|cadmium|1|
+Class 9 Chemistry|Electrochemistry|Set 08|Density of H2SO4 in lead accumulator is______?|1.25g/cm3|1.3g/cm3|1.20g/cm3|1.15g/cm3|0|
+Class 9 Chemistry|Electrochemistry|Set 08|Secondary cell is______?|rechargeable|non rechargeable|electrolytic cell|Daniel cell|0|
+Class 9 Chemistry|Electrochemistry|Set 08|Greater value of standard reduction potential greater will be tendency______?|to get oxidized|to get reduced|to accept electrons|both B and C|3|
+Class 9 Chemistry|Electrochemistry|Set 08|The element that act as anode always have ______ position in electrochemical cell?|higher|lower|in middle|no effect of position|0|
+Class 9 Chemistry|Electrochemistry|Set 08|Electrode potential of Zn is______?|oxidation|reduction|oxidation-reduction|depends on the nature of the coupled electrode|3|
+Class 9 Chemistry|Electrochemistry|Set 08|Potential of SHE is considered as______?|zero|unity|constant|multiple of 1|0|
+Class 9 Chemistry|Electrochemistry|Set 08|E0red of an element cab be calculated by comparing it with ______?|New electrode of same element|SHE|1M solution of ions of respective element|2M solution of HCI|1|
+Class 9 Chemistry|Electrochemistry|Set 08|Salt bridge transfers______?|electrons|anion|current|ions|3|
+Class 9 Chemistry|Electrochemistry|Set 08|Right half cell contains ______ electrode?|A1|Zn|Cu|Fe|2|
+Class 9 Chemistry|Electrochemistry|Set 08|Decrease in oxidation number is called______?|oxidation|reduction|oxidation-reduction|all of above represent same entity|1|
+Class 9 Chemistry|Electrochemistry|Set 08|Reaction at anode is called______?|oxidation|reduction|redox|decomposition|0|
+Class 9 Chemistry|Electrochemistry|Set 08|In electrolytic solution conductance of electricity is due to ______?|free electrons|ions|metals|electrodes|1|
+Class 9 Chemistry|Electrochemistry|Set 09|The degree of dissociation of week electrolyte increases as______?|Pressure increases|Dilution decreases|Dilution increases|None|2|
+Class 9 Chemistry|Electrochemistry|Set 09|Which of the following is true in the case of Zn-Cu cell ?|The flow of electrons takes place from copper to zinc|E0red of copper electrode is less than that of zinc electrode|Zinc acts as an anode and copper as cathode|All are correct|2|
+Class 9 Chemistry|Electrochemistry|Set 09|Which of the following cell is not rechargeable ?|Lead storage battery|Silver oxide cell|Fuel cell|Ni-Cd cell|1|
+Class 9 Chemistry|Electrochemistry|Set 09|Stronger the oxidizing agent greater is the______?|Oxidation potential|Reduction potential|Redox potential|emf of cell|1|
+Class 9 Chemistry|Electrochemistry|Set 09|The half cells are interconnected through______?|wire|salt bridge|electric circuit|no connection exists|1|
+Class 9 Chemistry|Electrochemistry|Set 09|Percentage of sulfuric acid in lead accumulator is______?|40%|25%|30%|50%|2|
+Class 9 Chemistry|Electrochemistry|Set 09|Voltaic cell is a______?|irreversible cell|reversible cell|alkaline cell|all of the above|3|
+Class 9 Chemistry|Electrochemistry|Set 09|Capacity of one lead accumulator cell is______?|1.5 volts|2 volts|3 volts|1 volts|1|
+Class 9 Chemistry|Electrochemistry|Set 09|Lead accumulators are______?|secondary cell|primary cell|voltaic cell|both A & C|3|
+Class 9 Chemistry|Electrochemistry|Set 09|Greater value of standard reduction potential smaller will be tendency______?|to form positive ions|to form negative ions|gain electrons|all are possible|0|
+Class 9 Chemistry|Electrochemistry|Set 09|In galvanic cell Zn acts as an anode so its value of standard reduction potential in comparison to coupled electrode would be______?|greater|lesser|sum of reduction and oxidation potentials|none|0|
+Class 9 Chemistry|Electrochemistry|Set 09|List of elements based on hydrogen scale is called______?|periodic table|groups|periods|electrochemical series|3|
+Class 9 Chemistry|Electrochemistry|Set 09|Chemical used in salt bridge is______?|KOH|KCI|KNO3|KBr|1|
+Class 9 Chemistry|Electrochemistry|Set 09|H2 gas in SHE is filled at pressure of______?|760mm of Hg|750mm of Hg|780mm of Hg|800mm of Hg|0|
+Class 9 Chemistry|Electrochemistry|Set 09|Voltaic cell can be recharged by______?|by addition of fresh solution|by replacing external circuit with external source of electricity|by removal of solution|by heating it|1|
+Class 9 Chemistry|Electrochemistry|Set 09|Zn(s)/Zn+2(aq) 1M / / Cu+2(aq) 1M/Cu(s) is representation of reaction in______?|Daniel cell|Downs cell|Voltaic cell|Nelsons cell|2|
+Class 9 Chemistry|Electrochemistry|Set 09|For the measurement of standard electrode potential Zn is dipped in______?|1 M ZnO solution|1 M ZnSO4 solution|1.5 M ZnSO4 solution|0.1 M ZnSO4 solution|1|
+Class 9 Chemistry|Electrochemistry|Set 09|In Galvanic cell electrons flow from anode to cathode through______?|external electric circuit|salt bridge|movement of ions|all of the above|0|
+Class 9 Chemistry|Electrochemistry|Set 09|In electrolytic cell electricity carries______?|spontaneous reaction|non-wpontaneous reaction|neutralization|all of above|1|
+Class 9 Chemistry|Electrochemistry|Set 09|Electricity in voltaic cell is produced due to______?|neutralization|oxidation|reduction|both B & C|3|
+Class 9 Chemistry|Electrochemistry|Set 09|Molten NaCl conducts electricity due to the presence of______?|Free electrons|Free molecules|Free ions|Atoms of Na and Cl|2|
+Class 9 Chemistry|Electrochemistry|Set 09|In a galvanic cell______?|Chemical energy is converted into electricity|Chemical energy is converted into heat|Electrical energy is converted into chemical energy|Electrical energy is converted into heat|0|
+Class 9 Chemistry|Electrochemistry|Set 09|In an electrolytic cell current flows ?|From cathode to anode in outer circuit|From anode to cathode outside the cell|From cathode to anode inside the cell|both B & C|1|
+Class 9 Chemistry|Electrochemistry|Set 09|Which has maximum oxidation number ?|N|Cr|S|Mn|3|
+Class 9 Chemistry|Electrochemistry|Set 09|If electricity is passed through CuSO4 solution by using Pt electrode then which of the following possible change occurs ?|H2 is deposited at cathode|Colour of the solution becomes fade|Cu is deposited at anode|All are possible|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|For determining the order of reaction we use______?|Refractometric method|Dilatometric method|Optical activity method|Half life method|3|
+Class 9 Chemistry|Reaction Kinetics|Set 09|End name of enzyme is______?|yl|ase|one|al|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Co-enzymes are______?|Non proteineous|Proteineous|sugars|lipids|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|A catalyst can not effect______?|Products|Chemical equilibrium|Reactants|both A & B|3|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Each catalyst has______?|Specificity|Special structure|Its own Ea|all of above|3|
+Class 9 Chemistry|Reaction Kinetics|Set 09|The substances that reduces the effectiveness of a catalyst are called ______?|Promoters|Poisoning catalysts|Inhibitors|pro-catalysts|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Greater the conc. Of reactant______?|Greater will be dx/dt|Lesser will be dx/dt|dx/dt will be moderate|any of above|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Energy required to form transition state is called ______?|Ea|P.E|V|K.E|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Activated complex is formed due to______?|Pressure|Effective collision|Ineffective collisions|Temperature|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Which order of reaction obeys the relation t1/2 = 1/Ka______?|First order|Second order|Third order|Zero order|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Rate of reaction when concentration of reactants are taken as unity is called______?|Arrhenius constant|Molecularity|Specific rate constant|Ideal rate constant|2|
+Class 9 Chemistry|Reaction Kinetics|Set 09|When a graph is plotted between 1/T on X-axis and log k on y-axis a straight line is obtained with a negative slope which has two end in______?|I and II quadrant|II and III quadrant|III and IV quadrant|II and IV quadrant|3|
+Class 9 Chemistry|Reaction Kinetics|Set 09|In rate expression the concentration of reactants is negative. It shows______?|Concentration of reactant does not change|Concentration of product increases|Concentration of reactant decreases|Concentration of reactant increases|2|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Sum of exponents of molar concentration is called______?|Order of reaction|Molecularity|Rate of reaction|Average of reaction|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|On increasing the temperature the rate of reaction increases mainly because______?|The activation energy of the reaction increases|Concentration of the reacting molecules increases|Collision frequency increases|None of these|2|
+Class 9 Chemistry|Reaction Kinetics|Set 09|The addition of a catalyst to the reaction system______?|Increases the rate of forward reaction only|Increases the rate of reverse reaction|Increases the rate of forward but decreases the rate of backward reaction|Increases the rate of forward as well as backward reaction equally|3|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Which of the following type of reaction is 3rd order reaction______?|2N2O5 = 2N2O4 + O3|NO + O3 ? NO2 + O2|2FeCl3 + 6KI ? 2FeI2 + 6KCl + I2|None of these|2|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Which statement is incorrect about catalyst______?|it is used in smaller amount|decrease activation energy|specific in action|it affects specific rate constant|3|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Energy of activation for backward reaction is less than forward reaction for ______ reactio?|Endothermic|Exothermic|Moderate|Fast|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|When the reaction completes in more than one steps rate of reaction will be determined by______?|Fast step|Slowest step|All steps|Molecularity of the reaction|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|A substance which increases the reactivity of enzyme is called______?|Promoters|Inhibitors|Stimulators|Non-activators|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|An enzyme has its specificity due to______?|Substrate|Structure|Temperature|Pressure|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Biocatalytical proteins are______?|Enzymes|Substrate|Lipids|any of above|0|
+Class 9 Chemistry|Reaction Kinetics|Set 09|When catalysts and reactants are in more than one phase it is______?|Homogeneous catalysis|Heterogeneous catalysis|Catalysis|Ea|1|
+Class 9 Chemistry|Reaction Kinetics|Set 09|Anything which increases rate of reaction without being involved in the reaction______?|Promoter|Catalyst|Inhibitor|All of the above|1|
+Class 9 Chemistry|Reaction Kinetics|Set 10|Which of the following will have very high rate of reaction ?|Double decomposition reaction|Neutralization reaction|Ionic reactions|all of above|3|
+Class 9 Chemistry|Reaction Kinetics|Set 10|Radiations are absorbed in______?|Spectrophotometer method|Dilatometric method|Optical relation method|Refractometric method|0|
+Class 9 Chemistry|Reaction Kinetics|Set 10|For 3rd order reaction the hhalf life is inversely proportional to initial concentration of reactants______?|Single|Square|Cube|Raise to power four|1|
+Class 9 Chemistry|Reaction Kinetics|Set 10|Rate of disappearance of reactant is equal to______?|Rate of reaction|Rate of formation of product|Energy released during reaction|A and B|0|
+Class 9 Chemistry|Reaction Kinetics|Set 10|Unit of rate of reaction is______?|Moles dm-3 sec-1|Moles dm-3|Moles sec-1|Mol-1 dm3 sec-1|0|
+Class 9 Chemistry|Reaction Kinetics|Set 10|Spontaneous reactions are______?|Moderate|Slow|Fast|not natural|2|
+Class 9 Chemistry|Reaction Kinetics|Set 10|The value of activation energy is primarily determined by______?|Temperature|Effective collision|Concentration of reactants|Chemical nature of reactants and products|1|
+Class 9 Chemistry|Reaction Kinetics|Set 10|The specific rate constant of a first order reaction depends on the______?|Time|Concentration of the reactant|Temperature|Concentration of the product|2|
+Class 9 Chemistry|Reaction Kinetics|Set 10|The rate of reaction______?|Increases as the reaction proceeds|Decreases as the reaction proceeds|Remains the same as the reaction proceeds|May decrease or increase as the reaction proceeds|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Ka<10-3 means______?|Very strong base|Very weak acid|Very strong acid|Very strong salt|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Idea of pH and pOH was put forward by______?|Gibbs|Einstein|Sorenson|Chadwick|2|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|When the value of Kc is very small then______?|reaction is at start|product conc. Is maximum|reactant conc. Is minimum|reaction is completed|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|In case of gases Kc is replaced by______?|Ka|Kb|Kp|K|2|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|At start of reaction the concentration of reactants is______?|high|low|according to Kc|constant|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Chemical equilibrium state is______?|dynamic state|static state|free state|unidirectional state|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Which set of solutes will form a buffer when dissolved in water to make 1 litter of solution ?|0.0002M HCI|0.2 mole of NaCI with 0.2 mole of HNO3|0.4 mole of CH3COOH with 0.4 mole of NaOH|0.4 mole of NH3 with 0.2 mole of HCI|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Which of following is not a base______?|KOH|NH3|PH3|BF3|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|In which of the following equilibria will Kc and Kp have the same value ?|PCI5 = PCI3 + Cl2|N2 + 3H2 = 2NH|2CO + O2 = CO2|N2 + O2 = 2NO|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Sodium benzoate and benzoic acid are mixed in equimolar ration to form buffer if pKa is 2 what will be the pH ?|0|1|2|any one|2|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Kc value has______?|No units|Units|Both A & B|None|2|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Conjugated base of a weak acid is______?|weak|strong|moderately weak|unstable|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Solution having the property of a very little change in pH on adding a small amount of strong acid or base is called______?|buffer solution|normal solution|standard solution|neutral solution|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Which one of the following is a buffer solution ?|brine|blood|glue|solution of CuSO4|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Equilibrium state is achieved quickly by the addition of ______?|reactants|acid|base|catalyst|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|By decreasing the pressure the reaction will go to that direction where______?|volume is decreased|volume increased|heat absorbed|no. of moles of specie decreased|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Solubility of any salt can be determined from______?|Ka|Kb|Kc|Ksp|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Addition of CH3COOH and CH3COONa gives in water______?|Standard solution|buffer solution|acidic buffer solution|both B & C|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|When sparingly soluble salt is in equilibrium with molar concentration of its oppositely charged ion when the product is called______?|common ion effect|solubility product|dissociation constant|dissociation constant for an acid|1|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Any substance which accepts H+ is base favours the concept______?|Lowrys|Lewis|Arrhenius|None of these|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Negative log of mular concentration of H+ ions is called______?|pH|pOH|pKa|pKw|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|By the addition of base in waterpH will be______?|more than 7|less than 7|equal to 7|no effect|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Catalyst used to speed up the reaction of ammonia synthesis is______?|V2O5|V2O5 and Pt|Fe|Pieces of Fe crystals are embedded in fused mixture of MgO Al2O3 and SiO2|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Rate expression for ammonia synthesis is______?|Kc=x2/(a-x)(b-x)|Kc=x2/v(a-x)|Kc=4x2/(a-2x)2(b-x)|Kc=4x2v2/(a-x)(b-3x)3|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Unit of Kc is______?|moles2dm+6|moles-2dm+6|moles+2dm-6|Kc may or may not have units|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Conversion of reactant into product in unit time is called______?|rate of forward reaction|rate of backward reaction|rate constant|rate co-efficient|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Reaction which proceeds in both directions is called______?|reversible|irreversible|spontaneous|non-spontaneous|0|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Which one of the following aqueous solutions will be basic ?|NaCI|Na2SO4|Na2CO3|FeCl3|2|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|For a reaction involving only gases at 25?C the equilibrium constant can be expressed in terms of molarity Ke or partial pressure Kp. Which is true about the numerical value of Kp ?|Kc is generally greaer than Kp|Kc is generally less than Kp|Kc is generally equal to Kp|Kc is equal to Kp if the total moles of reactants and products are equal|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|Which of the following will not change the concentration of ammonia at the equilibrium ?|Increase of pressure|Increase of volume|Addition of catalyst|Decrease of temperature|2|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|AgCl dissolved with conc (2x10-2) Ksp will be______?|3.6 x 10-6|3.6 x 10-5|7.2 x 10-6|4 x 10-4|3|
+Class 9 Chemistry|Chemical Equilibrium|Set 10|The pH of 10-3 mol dm-3 of an aqueous solution of H2SO4 is______?|3|2.7|2|1.5|1|
+Class 9 Chemistry|Thermochemistry|Set 10|______ is study about energy of a chemical system ?|thermochemistry|thermodynamics|chemical kinetics|stoichiometry|0|
+Class 9 Chemistry|Thermochemistry|Set 10|Unit of heat in SI system is______?|J|KCaL|Cal|GJ|0|
+Class 9 Chemistry|Thermochemistry|Set 10|Total energy of a system is______?|P.E + K.E|P.E + heat energy|K.E + heat energy|P.E + mechanical energy|0|
+Class 9 Chemistry|Thermochemistry|Set 10|CuSO4 + Zn?ZnSO4+Cu is______?|Spontaneous reaction|Non-spontaneous reaction|Endothermic|Exothermic|0|
+Class 9 Chemistry|Thermochemistry|Set 10|State function the macroscopic property of system depends upon______?|path of reaction|initial state|final state|initial and final state|3|
+Class 9 Chemistry|Thermochemistry|Set 10|When enthalpy of reactants is higher than product then reaction will be______?|endothermic|spontaneous|non-spontaneous|exothermic|3|
+Class 9 Chemistry|Thermochemistry|Set 10|Enthalpy of combustion for food fuel and other compounds can be measured accurately by______?|glass calorimeter|bomb calorimeter|thermometer|manometer|1|
+Class 9 Chemistry|Thermochemistry|Set 10|Enthalpy change can be______?|calculated by Hess law|can be measured by calorimeter|both A and B|none|2|
+Class 9 Chemistry|Thermochemistry|Set 10|Two fundamental ways to transfer energy are______?|pressure and temperature|pressure and volume|heat and work|heat and volume|2|
+Class 9 Chemistry|Thermochemistry|Set 11|Most of thermodynamic parameters are______?|system|surrounding|phase|state functions|3|
+Class 9 Chemistry|Thermochemistry|Set 11|Enthalpy of a reaction can be measured by ______?|glass calorimeter|manometer|Barometer|thermometer|0|
+Class 9 Chemistry|Thermochemistry|Set 11|Which one of the following is a state function ______?|pressure|temperature|enthalpy|all of the above|3|
+Class 9 Chemistry|Thermochemistry|Set 11|Pumping of water uphill is______?|spontaneous process|non-spontaneous process|irreversible process|reversible process|1|
+Class 9 Chemistry|Thermochemistry|Set 11|Reaction in which heat evolves is called ______?|endothermic|spontaneous|non-spontaneous|exothermic|3|
+Class 9 Chemistry|Thermochemistry|Set 11|Anything which depends upon initial and final state of a system is______?|environment|surrounding|state function|enthalpy|2|
+Class 9 Chemistry|Thermochemistry|Set 11|The environment in which a system is studied is ______?|State function|phase|surrounding|state|2|
+Class 9 Chemistry|Thermochemistry|Set 11|A reaction has values of ?H and ?S which are both positive. The reaction ______?|Is spontaneous|Spontaneity is temperature dependent|Has an increasing free energy|Is non-spontaneous|3|
+Class 9 Chemistry|Thermochemistry|Set 11|If internal energy of the system is increased ______?|Change in state of the system is increased|Temperature of the ystem may rise|Chemical reaction may take place|All|3|
+Class 9 Chemistry|Thermochemistry|Set 11|Which one is not state function ______?|Internal energy|Enthalpy|Gibbs free energy|Work|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|Isotopes differs in______?|arrangement of electrons in orbitals|position in the periodic table|properties depend upon mass|chemical properties|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one does not give borax bead test______?|Copper sulphate|Barium sulphate|Cobalt sulphate|Nickel sulphate|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|Industrial materials thermal power stations are coated with______?|Polyester resins|Epoxy paints|polyamide resins|Polyvinyl chloride|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|The common name of propane -1 3-dioic acid is______?|Oxalic acid|Succinic acid|Malonic acid|Fumaric acid|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one does not exhibit aldol condensation______?|Ethanal|Acetone|Benzaldehyde|Butanone|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|The process of fermentation involves all the enzymes except______?|Diastase|Invertase|Zymase|Sucrase|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one of the following is not a good leaving group ?|HSO4-|Cl-|OH-|Br-|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|When toluene reacts with chlorine in sunlight the first major product is______?|Benzy1 chloride|Benzal dichloride|O-chlorotoluene|O-chlorotoluene and P-chlorotoluene|0|
+Class 9 Chemistry|Diagnostic Test|Set 11|Vinyl acetylene combines with hydrochloric acid produces______?|Diviny1 acetylene|Ethylidine dichloride|Chloroprene|1 - 3 - 3 - trichloro butane|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|A great variety of the organic compounds is due to its property of carbon______?|Show tetravalency|Exhibit catenation|Show isomerism|Can form multiple bonds|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|In the complex [Cr(OH)3(H2O)3] the coordination number is ______?|2|3|4|6|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|When chlorine is passed through hot solution of caustic soda the reaction is said as______?|Displacement|Reduction|Disproportionation reaction|Double displacement reaction|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Chemical composition of cinnabar is______?|FeS2|HgS|PbS|ZnS|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one is not the use of silicones______?|Lubricant|Water repellent film|Rubber sheet|Medicine|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|Keeping in view the size of atom which is in correct order______?|Mg > Sr|Ba > Mg|Lu > Ce|CI > 1|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|Nitrates of which pair gives different products on thermal decomposition______?|Na K|Mg Ca|Li Na|Li Ca|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which is true about Zn-Cu galvanic cell ?|Reduction occurs at anode|K+ ion transfer from salt bridge to left beaker of ZnSO4|Oxidation occurs at cathode|Anode is negatively charged|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|Stronger is the oxidizing agent greater is the______?|Oxidation potential|Redox potential|e.m.f of cell|standard reduction potential|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|18g glucose is dissolved in 90g water the relative lowering in vapour pressure is equal to ______?|8|5.1|6|one/fifty one|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|For which system does the equilibrium constant Kc has unit of (concentration)-1______?|N2+3H2 2NH3|H2+I2 2HI|2NO2 N2H4|PCI5 PCI3+CI2|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Atomic radius can be determined by______?|X - ray diffraction|Spectrophotometer|Optical microscope|Electron microscope|0|
+Class 9 Chemistry|Diagnostic Test|Set 11|Bohrs model is contradicted by______?|Plancks theory|Dual nature of matter|Heisenbergs uncertainty principle|All of these|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which of the following is pseudo solid______?|CaF2|NaCl|Glass|Diamond|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Plasma is used in______?|Fluorescent bulb|Neon signs|Lasers|All of these|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|A real gas obeying vander waals equation will resemble the ideal gas if______?|Both a and b are small|Both a and b are large|a is small and b is large|a is large and b is small|0|
+Class 9 Chemistry|Diagnostic Test|Set 11|A safe and more reliable method for drying the crystal is______?|Hot air currents|folds of filter paper|oven|Vacuum desiccator|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|A limiting reactant is one which______?|is taken in lesser quantity in grams as compared to other reactants|is taken in lesser quantity in volume as compared to other reactants|gives the maximum amount of the product which is required|gives the minimum amount of the product under consideration|3|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which element has same isotopes like palladium______?|Nickel|Calcium|Cadmium|Tin|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|The mass of one mole of electron is______?|1.008|0.55|0.184|1.637|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|Chlorination of water may be harmful if the water contains______?|Ammonia|Dissolved oxygen|Carbon dioxide|All|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one of the following fertilizers provides the nitrogen and phosphorus to the plant ?|Urea|Calcium superphosphate|Diammonium phosphate|Potassium nitrate|0|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which of the following is not a fatty acid ?|Propanoic acid|Acetic acid|Phthalic acid|Butanoic acid|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|For industrial preparation of CH3CHO catalytic promoter is______?|PdCl2|Cu2Cl2|CuCl2|PbCl2|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|Ethy1 chloride on reduction in the presence of Zn/HCI produces______?|n. butane|Ethanol|Ethane|Diethy1 ether|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|When CO2 is made to react with ethy1 magnesium iodide in dry ether followed by acid hydrolysis yields______?|Carboxylic acid|Ethanoic acid|Propanoic acid|Butanoic acid|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one of the following will be sulphonated readily ?|Chlorobenzene|Toluene|Nitrobenzene|Benzene|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|When benzene is heated in air with V2O5 at 450 deg C yields______?|Phenol|Maleic anhydride|Glyoxal|Benzoic acid|1|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which one of the following looks odd______?|H2SO4|KMnO4|H2S|K2CrO4|2|
+Class 9 Chemistry|Diagnostic Test|Set 11|The most paramagnetic element is______?|Iron|Cobalt|Chromium|Manganese|0|
+Class 9 Chemistry|Diagnostic Test|Set 11|Which molecule has the highest bond energy among the halogens______?|Fluorine|Chlorine|Iodine|Bromine|1|
+Class 9 Chemistry|Diagnostic Test|Set 12|The most reactive allotropic form of phosphorus is______?|White|Redox potential|Black|Violet|0|
+Class 9 Chemistry|Diagnostic Test|Set 12|Which is carnalite______?|KCI|NaCI|KCI MgCl2 6H2O|Na2CO3. 10H2O|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|Which is the unit of (K) rate constant for zero order reaction ?|s-1|mol dm-3 s-1|mol-1 dm3 s-1|mol-2 dm6 s-1|1|
+Class 9 Chemistry|Diagnostic Test|Set 12|Which of the following can be used in laptops ?|Silver oxide battery|Fuel cell|Nickel cadmium cell|Lead accumulator|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|Which of the following solution has the highest boiling point ?|5.85% NaCl Solution|18.0 % glucose solution|6.0 % urea solution|All have same boiling point|0|
+Class 9 Chemistry|Diagnostic Test|Set 12|Solubility product of AgCl is 2.0 x 10-10 mol2 dm-6. Maximum Concentration of Ag+1 ions in the solution is______?|2.0 x 10-10 mol dm-3|1.414 x 10-5 mol dm-3|1.0 x 10-10 mol dm-3|1.0 x 10-5 mol dm-3|1|
+Class 9 Chemistry|Diagnostic Test|Set 12|For a given process the heat changes at constant pressure (qp) and at constant volume (qv) are related to each other as______?|qp = qv|qp < qv|qp > qv|qp = qv / 2|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|Which specie has unpaired electrons in antibonding molecular orbitals______?|O2+2|N2-2|B2|O2-2|1|
+Class 9 Chemistry|Diagnostic Test|Set 12|Quantum number values for 3p orbitals are______?|n=3 l=2|n=3 l=0|n=3 l=1|n=3 l=3|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|Only London dispersion forces are present among the______?|Molecules of water in liquid state|Atoms of helium in gaseous state at high temperature|Molecules of hydrogen chloride gas|Molecules of solid iodine|3|
+Class 9 Chemistry|Diagnostic Test|Set 12|The molecules of CO2 in dry ice form______?|Ionic crystal|Covalent crystal|Molecular crystal|Any type of crystal|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|Equal masses of methane and oxygen are mixed in empty container at 250?(C) The fraction of total pressure exerted by oxygen is______?|one / seventeen|sixteen / seventeen|one / three|two / three|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|A method of separation of components from its solution using Distribution law is ______?|Sublimation|Crystallisation|Solvent extraction|Distillation|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|The type of filtering media used for filtration depending upon______?|Nature of reactants|Nature of crucible|Nature of product|Nature of precipitate|3|
+Class 9 Chemistry|Diagnostic Test|Set 12|Water absorber used in combustion analysis is______?|50% KOH|Lime water|CaCl2|Mg (CIO4)2|3|
+Class 9 Chemistry|Diagnostic Test|Set 12|Which of the following set has all species isoelectronic______?|F - Cl - Br|Li+1 - Na+1 - K+1|F - Ne - Na+|H+ - H- - H|2|
+Class 9 Chemistry|Diagnostic Test|Set 12|The volume occupied by 1.4g CO at S.T.P is______?|22.4 dm3|2.24 dm3|1.12 cm3|1.12 dm3|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Addition of 2% gypsum in cement______?|Triggers hydration|Triggers hydrolysis|Prevents rapid hardening|all of the above|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one can form complex ?|Na|Cr|Li|K|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Second ionization potential of alkali metals are very high due to______?|being s-block elements|inert gas configurations|ns1 electronic configuration|being metals|1|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Magnesium metal does not burn in the vessel containing______?|N2|O2|N2 and O2|Ne|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Sodium is not observed in +2 oxidation state because of its______?|high first ionization potential|high second ioniation potential|high ionic radius|high electronegativity|1|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one of the following pairs shown diagonal relationship in the periodic table ?|Sodium and Lithium|Lithium and magnesium|Lithium and beryllium|Boron and Beryllium|1|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one of the following alkali metals forms only normal oxide when it reacts with O2 ?|Lithium|Sodium|Potassium|Rubidium|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Gypsum is applied to the soil as a source of______?|Ca and P|S and P|Ca and S|we could not apply|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|In diaphragm cell hydrogen is discharged by the reduction of______?|Water|HCI|Na+|NaCl|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one of the following carbonate is water insoluble ?|Na2CO3|K2CO3|(NH4)2CO3|CaCO3|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one of the following substances conducts electricity by the movement of ions ?|Graphite|Copper|Molten sodium chloride|Mercury|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|The ore CaSO4.H2O has the general name______?|Gypsum|Dolomite|Calcite|Plaster of Paris|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which of the following sulphates is not soluble in water ?|Sodium sulphate|Potassium sulphate|Zinc sulphate|Barium sulphate|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Nitrates of which pair of elements give different products on thermal decomposition ?|Na K|Mg Ca|Li Na|Li Ca|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which element is necessary for normal leaf development ?|Si|Ba|Mg|Ca|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|The word Alkali means______?|Base|Basic salt|Ashes|Spirit|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one is least ionic in nature and decompose on heating ?|LiOH|NaOH|KOH|CsOH|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one is natron ?|Na2CO3|Na2CO3.10H2O|Na2CO3.H2O|NaHCO3|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which ion will have maximum value of heat of hydration ?|A1+3|Cs+|Ba+|Mg+2|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Electrolysis of dilute solution of NaCl results at the anode______?|sodium|hydrogen|chlorine|oxygen|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Carnalite has chemical formula______?|KCI|KCI.MgCl2.6H2O|Na2B4O7.10H2O|CaCO3.MgCO3|1|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|NaOH is named as caustic soda because______?|It corrodes the organic tissues|It is used in soda water|It reacts with chlorine gas|It reacts with fats to form soap|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|First ionization potential of alkaline earth metal is greater than alkali metals because______?|They are more reactive|They have greater atomic radii|They have smaller atomic sizes|All|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Alkali and alkaline earth metals impart colours when heated over burner. It is due to______?|Smaller electronegativity of alkali metals|Smaller ionic radius of these metals|De-excitation of electrons from higher energy levels to low energy level|Excitation of electrons from low energy levels to higher energy levels|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|In diaphragm cell level of brine in anode compartment is kept slightly higher which prevents______?|Hydroxide ions to reach anode|Chlorine gas to mix|Cathode to decay|All of the above|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|The deliquescence is a property in which a solid______?|Absorbs moisture and remains solid|Absorbs moisture and turns to liquid form|Loses water of crystallization|Increases the number of water of crystallization|1|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one of the following gives white precipitate with aqueous solution of BaCl2?|NaHCO3|NaNO3|Na2CO3|Na2CrO4|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Crystals of Na2CO3. 10H2O when exposed to air______?|Lose water and remain solid|Gain water and remain solid|Gain water and become liquid|Remains unchanged|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Ammonia may be prepared by heating ammonium chloride with______?|Water|NaCl|Aqueous sodium hydroxide|H2SO4|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Downs cell is used to prepare______?|Sodium carbonate|Sodium bicarbonate|Sodium metal|Sodium hydroxide|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|The element cesium bears resemblance with______?|Ca|Cr|Both of the above|None of the above|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Which one of the following is not an alkali metal ?|Francium|Caesium|Rubidium|Radium|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 12|Carbonates of lithium are not stable like that of sodium due to______?|Low electronegativity|Low electropositivity|Low charge density|Not known yet|1|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 13|Li is different from its family members due to______?|small size|high charge density|less electropositivity|all of the above|3|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 13|The oxides of beryllium BeO is______?|Acidic|Basic|Amphoteric|Neutral|2|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 13|Formula of Chile saltpetre is______?|NaNO3|CaCO3|Ba (NO3)2|NH4Cl|0|
+Class 9 Chemistry|S-BLOCK ELEMENTS|Set 13|A elements are named as alkali metals because______?|Their oxides are basic|Their oxide and hydroxides are water soluble|Both A & B|They are found in earth|2|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|In which compound nitrogen has maximum oxidation state______?|N2O|NO2|HNO2|HNO3|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Oxygen does not react with all except______?|Alkali|Acid|Water|Metals|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|FeSO4 forms brown ring with______?|N2O3|NO2|NO|N2O|2|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|The gas which cannot be dried by conc. H2SO4 ?|SO2|H2S|CO2|C2H4|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which of the elements show passivity when treated with conc. HNO3?|Fe|A|Cr|All of the above|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|The element of group VIA which is a non-metal is______?|S|Se|Te|Po|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which one of the following compounds usually smells like garlic ?|P2O3|P2O5|H3PO3|All have same smell|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|The composition of brown ring in nitrate test is______?|FeSO4.No|FeSO4.No2|FeSO4.No3|FeSO4.N2o|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which one of the following is not the use of graphite ?|Lead pencils|Abrasive|Lubricant|Electrode of electrolytic cell|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which of the following does not contain phosphorus ?|Yolk of egg|Bone|Nerves|Steel|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which one of following is not a property of pure quartz ?|Coloured solid|Brittle|Hard|All of above|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Phosphene gas will be produced if phosphorous acid is subjected to______?|Oxidation|Reduction|Decomposition|Both b & c|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|The most electronegative element among the following is______?|Sb|N|As|P|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which one of the followings possesses melting point below 0 deg C?|Nitrogen|Phosphorus|Carbon|Bismuth|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|When sulphuric acid is treated with ethanol sulphuric acid behaves like______?|an acid|a dehydrating agent|an oxidizing agent|as sulphonating agent|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Arsenic oxides are removed by passing through______?|Ferric hydroxide|Sodium hydroxide|Calcium hydroxide|Aluminium hydroxide|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Oxygen and sulphur resemble in all except______?|Electronic conviguration of valence shell electrons|Show allotropy|Polymeric|Show same oxidation state|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|The chemical composition of cinnabar is______?|ZnS|PbS|HgS|FeS|2|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which allotropic form of phosphorous is the most stable ?|White|black|red|Violet|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|All the elements in group VIA are ______ in nature?|hygroscopic|metals|polymeric|all of above|2|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Phosphoric acid is a weak acid and its basicity is______?|1|3|zero|2|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|P2O5 is a hygroscopic powder which sublimes at______?|260 deg C|360 deg C|630 deg C|620 deg C|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Phosphorous acid upon thermal decomposition yields phosphoric acid and______?|Phosphine|Phosphorus|Water|Phosphorus pentoxide|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Acetic anhydride can be obtained by treating ethyl alcohol with______?|P2O5|H2SO4|Both A and B|PCI5|2|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Allotropic form of phosphorus that is poisonous is______?|White|Red|Black|Violet|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Phosphorus is a Greek word and it means______?|Light bearing|Fire|Impure|Tetrahedral|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which of the following will give phosphoric acid one reaction with water______?|PCI5|P2O3|P2O5|All of the above|3|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|SO3 is not absorbed in water directly because______?|Reaction is exothermic|It is insoluble in water|Dilute acid is produced|All of above|0|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Compounds of nitrogen and phosphorus are mostly______?|ionic|covalent|polar|all varieties are possible|1|
+Class 9 Chemistry|Group VA and VIA Elements|Set 13|Which of the following is different with respect to physical appearance ?|Arsenic|Phosphorus|Antimony|Bismuth|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which element can form tripositive ion ?|Beryllium|Carbon|Silicon|Aluminium|3|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Boric acid cannot be used______?|As antiseptic in medicine|For washing eyes|In soda bottles|For enamel and glazes|2|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Identify the correct statement regarding CO______?|it combines with H2O to form carbonic acid|it reacts with red blood cells of haemoglobin|it is powerful oxidizing agent|it is used to prepare aerated drinks|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|CO2 is gas while SiO2 is solid at room temperature?|carbon is non-metal while silicon is semi-metal|CO2 is an independent molecule while SiO2 has network covalent structure|CO2 forms multiple bond while silicon does not form multiple bonds|Silicon has all sigma bonds|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which of the following is not a use of silicon ?|Lubricants|Hydraulic brakes|Antifreeze|Water repellent|2|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Aqueous solution of borax above 62 deg C gives crystals of______?|Na2B4O7.4H2O|Na2B4O7.5H2O|Na2B4O7.2H2O|Na2B4O7.10H2O|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|The process of aluminium extraction is called______?|Hall process|Thermite process|Haber process|Contact process|0|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which one of the following is not a semiconductor ?|Si|Ge|Se|Sn|3|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Tincal is a mineral of______?|A1|Si|B|C|2|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which of the following shows inert pair effect ?|boron|carbon|silicon|tin|3|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|The metal which is used in thermite process because of its activity is______?|iron|copper|aluminium|zinc|2|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which of the following does not give Borax bead test ?|Cu|Cr|Ni|A1|3|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Substance which is found in dried up lakes of Tibet and California is______?|Tincal|Boric acid|Calcium carbonate|Colemanite|0|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Boron in soil has been considered micronutrient for______?|Soil porocity|Proper growth of plants|Alkalinity of soil|All|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which of the following is metasilicic acid ?|H2SnO3|H2SiO3|H3AsO4|H3SbO4|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 13|Which of the following will decompose to produce litharge______?|Pb2O|Pb3O4|PbO2|All of the above|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|If temperature of gallium arsenide is increased then its conductivity will______?|decrease|increase|remains constant|first decreases then increases|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|The coloured glassy mass in borax bead test is due to the formation of______?|metal borate|metal meta borate|metal boride|metal silicate|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Boron is non metal while other elements of IIIA group are metals. This is because______?|it has small size|it has high nuclear charge|it forms molecular addition compounds|all of the above|3|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Silicon differ from silica by a group of______?|Ch3|OH|OCH3|O2|0|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Because of its ability to combine with both oxygen and nitrogen aluminium metal is used______?|As nitrometer|To remove air bubbles from molten metal|To produce alloy|As insulator|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Orthoboric acid is 2.6% soluble in water at 40?C and ______at 107 deg C.|26%|27%|37%|<2.6%|2|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|In network of silica (SiO2) each silicon atom is surrounded by ______ atoms of osygen?|4|2|1|6|0|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Which electronic configuration corresponds to an element of group IIIA ?|1s2 2s2 2p3|1s2 2s2 2p6 3s2 3p1|1s2 2s2 2p4|1s2 2s2 2p6 3s2 3p6 4s2 3d1|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Aluminium oxide is______?|Acidic oxide|Basic oxide|Amphoteric oxide|It does not exists|2|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Special features of borate glass is that it is______?|Heat resistant|Low melting|Used to prepare chemical garden|Green in colour|0|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Borax is a white crystalline solid and it is______?|More soluble in cold water|More soluble in hot water|Insoluble in water|Soluble only in organic solvents|1|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|One of the outstanding features of boron is its ability to form______?|Molecular addition compounds|Molecular crystals|Semiconductors|Ionic compounds|0|
+Class 9 Chemistry|Group III A and IVA Elements|Set 14|Boron is non-netal whereas A1 is metal. It is due to______?|Small size|High nuclear charge|Both A and B|No authorized justification yet|2|
+Class 9 Chemistry|Transition Elements|Set 14|Any process of chemical decay of metals due to the action of surrounding medium is called______?|activation|enameling|corrosion|coating|2|
+Class 9 Chemistry|Transition Elements|Set 14|In the production of wrought iron Mg Si and P are removed in the form of______?|oxides|silicates|slag|carbonates|2|
+Class 9 Chemistry|Transition Elements|Set 14|When the central atom of coordination compound is sp3d2 hybridization the expected geometry will be______?|tetrahedral|square planar|trigonal bipyramidal|octahedral|3|
+Class 9 Chemistry|Transition Elements|Set 14|In complex compounds the oxidation number is written in______?|English|Greek|Roman numeral|Hebrew|2|
+Class 9 Chemistry|Transition Elements|Set 14|The central atom along with ligands is called______?|complex ion|coordination sphere|ligand|complex compound|1|
+Class 9 Chemistry|Transition Elements|Set 14|The species which donate two electron pairs in a coordination compound is called______?|ligand|mono-dentate ligand|poly-dentate ligand|bi-dentate ligand|3|
+Class 9 Chemistry|Transition Elements|Set 14|When a compound of transition element is dissolved in a solution of salt then it produces______?|simples ions|complex ions|double salts|strong anions|1|
+Class 9 Chemistry|Transition Elements|Set 14|When light is exposed to transition element then electrons jump from lower orbitals to higher orbitals in______?|orbitals of f-subshell|orbitals of d-subshell|orbitals of p-subshell|both A & B|3|
+Class 9 Chemistry|Transition Elements|Set 14|Compounds attracted by applied strong magnetic field are called______?|diamagnetic|paramagnetic|good conductor|ferromagnetic|1|
+Class 9 Chemistry|Transition Elements|Set 14|The location of transition elements is in between______?|lanthanides & actinides|s and p block elements|chalcogens and halogens|d and f block elements|1|
+Class 9 Chemistry|Transition Elements|Set 14|K2 (Cu(CN)4) which one is correct______?|Potassium tetra cyano cupperate|Co-ordination number is 2|Ligand is positively charged|Central atom is present in avionic sphere|3|
+Class 9 Chemistry|Transition Elements|Set 14|Which of the following is typical transition metal ?|Sc|Y|Cd|Co|3|
+Class 9 Chemistry|Transition Elements|Set 14|When an active metal like Al comes in contact with less active element like Cu then it produces______?|dry cell|galvanic cell|electrolytic cell|A and B|1|
+Class 9 Chemistry|Transition Elements|Set 14|Which is sold as fertilizer ______?|CaSiO3|Na2SiO3|Ca3(PO4)2|MnSiO3|2|
+Class 9 Chemistry|Transition Elements|Set 14|With impurities like P and S the open hearth furnace is lined with ?|SiO2|Fe2O3|FeO|CaO MgO|3|
+Class 9 Chemistry|Transition Elements|Set 14|In pig iron the concentration of C-atom is ______?|0.12 - 0.25%|2.5 - 4.5%|2.0 - 4.0%|0.25 - 2.5%|1|
+Class 9 Chemistry|Transition Elements|Set 14|Geometry of the complex compounds usually depends upon ______?|type of ligands|types of hybridization in the elements of ligands|hybridization of central metal|All of above|2|
+Class 9 Chemistry|Transition Elements|Set 14|The compound or complex ion which has a ring in its structure______?|polydentate ligand|chelate|monodentate ligand|hydrate|1|
+Class 9 Chemistry|Transition Elements|Set 14|Which of the following can form a chealate______?|ammine|oxalato|carbonyl|cyano|1|
+Class 9 Chemistry|Transition Elements|Set 14|The specie which donates electrons to central metal atom in coordination sphere is called______?|anion|cation|Ligand is positively charged|acid|2|
+Class 9 Chemistry|Transition Elements|Set 14|Non-stoichiometric compounds of transition elements are called______?|hydrates|hydrides|binary compounds|interstitial compounds|3|
+Class 9 Chemistry|Transition Elements|Set 14|The oxidation state of transition elements is usually ______?|variable|constant|single|infinite|0|
+Class 9 Chemistry|Transition Elements|Set 14|The correct electronic configuration of Cr is______?|[Ar]4s23d4|[Ar] 4s23d4|[Ar]4s03d5|[Ar]4s13d5|3|
+Class 9 Chemistry|Transition Elements|Set 14|Pure metal______?|corrode slowly|corrode rapidly|does not corrode easily|none of these|2|
+Class 9 Chemistry|Transition Elements|Set 14|The melting points and boiling points upto meddle of 3d- series ______?|increases|decreases|remain same|no regular trend|0|
+Class 9 Chemistry|Transition Elements|Set 14|The leements in which d or f orbitals are in the process of completion are______?|outer transition elements|inner transition elements|typical transition elements|transition elements|3|
+Class 9 Chemistry|Transition Elements|Set 14|Group VIB of transition elements contains______?|Zn Cd Hg|Fe Ru Os|Cr Mo W|Mn Te Re|2|
+Class 9 Chemistry|Transition Elements|Set 14|The oxidation number of central metal atom in [Ni(CO)4] is______?|0|2|4|6|2|
+Class 9 Chemistry|Transition Elements|Set 14|Coordination number of the transition element in [Pt Cl NO2 (NH3)4]2- is______?|2|6|4|8|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|The anhydride of HCIO4 is______?|Cl2O|Cl2O6|ClO2|Cl2O7|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|In which compound of Xenon the oxidation state of Xenon is + 6?|XeF4|XeOF4|XeOF2|Na4XeO6|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|Which of the following is the weakest reducing agent ?|HF|HBr|HC|HI|0|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|Fluorine can react with______?|Xe|Kr|Rn|All of the above|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|Which of the following statements is incorrect about halogens ?|All are non-metals|All the halogens have electronic conviguration ns2p5|They have high electron attinity and ionization energy|All the halogens react with noble gases to form their halides|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|Which of the halogen has highest electronegativity ?|Fluorine|Chlorine|Bromine|Iodine|0|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|Which of the following oxides of iodine is used for quantitative analysis of CO ?|I2O4|I4O2|I2O5|All are equally useful|2|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 14|Bleaching powder is an example of______?|Normal salt|Double salt|Mixed salt|Complex|2|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which is the strongest acid ?|HCIO|HCIO2|HCIO3|HCIO4|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which of the following represents the correct electronic configuration of VII A group elements in the ground state ?|ns2p2|ns2p4|ns2p5|ns2p6|2|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which one of the following is the weakest acid in water______?|HF|HCI|HBr|HI|0|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which of the following statements is incorrect about fluorine______?|fluorine is restricted to -1 oxidation state|fluorine follows octet rule and as well as extended octet rule|fluorine has lowest dissociation energy among the halogens|both B and C|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|The colour of chlorine gas is______?|pale yellow|freenish yellow|reddish brown|grayish black|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which is the paramagnetic oxide of chlorine ?|Cl2O7|Cl2O6|ClO2|all|2|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which one of the following halogens is present in Teflon______?|I2|Br2|Cl2|F2|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Indicate the correct statement______?|Cl2 is the strongest oxidizing agent|I2 is a volatile solid|Br2 is more reactive than Cl2|Cl2 is insoluble in water|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Photographic plates are coated with a thin film of ______?|AgNO3|AgI|AgCl|AgBr|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which of the following is not use of compounds of Fluorine______?|SbF3 is used for manufacture of pottery|Sodium fluoroacetate is a rat poison|Cu F2 is used in ceramic industry|None of the above|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Bleaching powder is not used for bleaching______?|Cotton|Costly fabrics|Linen|Paper pulb|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|The chemical formula of sodium hypochlorite is______?|NaCLO|NaClO2|NaClO3|NaClO4|0|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Which of the halogen can displace other three elements ?|Flourine|Chlorine|Iodine|Bromine|0|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Consider the following reaction- 3Cl2 + 6NaOH ? NaClO3 + 5NaCl + 3H2O This reaction is______?|Displacement reaction|Double displacement reaction|Disproportionation reaction|Reduction reaction|2|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Consider the following reaction- 2KCIO3 + H2C2O4 + H2SO4 ? K2SO4 + 2H2O + 2CO2 + Oxide Which oxide of chlorine is produced in the above reaction ?|Cl2O|ClO2|Cl2O6|Cl2O7|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Bromine can be liberated from KBr solution by the action of ______?|Iodine solution|Chlorine|NaCl|Ki|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|The halogen having highest electron affinity is______?|Fluorine|Chlorine|Bromine|Iodine|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|The halogen which reacts very slowly with halogen is______?|Fluorine|Chlorine|Bromine|Iodine|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|The halogen which reacts spontaneously with gold (Au) to form Au+3 is ______?|F2|Cl2|Br2|I2|1|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|The most powerful oxidizing agent among the halogens is______?|F2|Cl2|Br2|I2|0|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Vander Waals forces are stronger in______?|F2|Cl2|Br2|I2|3|
+Class 9 Chemistry|The Halogens and The Noble Gases|Set 15|Among the halogens the rare element is______?|Fluorine|Chlorine|Astatine|Iodine|2|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Ozone hole is substantial depletion of ozone in every year during______?|Aug - Nov|Sep - Nov|Nov - Dec|Dec - Jan|1|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following is used as water disinfectant to avoid the formation of toxic compounds______?|Cl2|O3|ClO2|both B & C|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|A single chlorine free radical can destroy how many ozone molecules ?|10|100|10000|100000|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following factors help to measure quallity of water ?|DO|BOD|COD|all of the above|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following gases is the main cause of acid rain ?|CO|NO2|both a & b|none of the above|1|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following is not primary pollutant______?|SO3|CO|NO|H2SO4|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|The yellow colour in photochemical smog is due to presence of______?|dinitrogen oxide|nitrogen dioxide|chlorine gas|chlorine dioxide|1|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Major cause of SO2 on global scale is______?|volcanoes|electric sparks|combustion|all|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following is not a secondary pollutant______?|ozone|carbonic acid|sulphuric acid|carbon dioxide|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Requirement of macronutrient per acre of the land is______?|5 to 200 kg|20-200 kg|200-400 kg|30-400 kg|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following is not a heavy industry ?|iron|fertilizer|paper|none|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Pollutants have adverse effect over______?|Biosphere|Ecosystem|Both a & b|Hydrosphere|1|
+Class 9 Chemistry|Environmental Chemistry|Set 15|The main product of bacterial action is______?|Nox|NO2|N2O3|NO|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|The percentage of suspended solid waste in raw water is removed by coagulation is______?|60|70|80|90|2|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which one of the following makes the bulk of hydrospheres content ?|oceans|glaciers & icecaps|fresh water lakes and ponds|All have equal distribution|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which substance can be used for disinfecting water ?|KMnO4|Alums|Ozone|All|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|The main pollutant of leather tanneries in the waste water is______?|chromium III|chromium IV|chromium V|chromium VI|1|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Newspaper can be recycled again and again how many times ?|2|3|4|5|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|In the purification of portable water the coagulant used is______?|alum|nickel sulphate|copper sulphate|barium sulphate|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which statement is wrong ?|the amount of ozone layer is greater in the region close to the equator|ozone acts as filter for UV radiations|in the equatorial region it acts as pollutant|CFCs play effective role in removing O3 in the stratosphere|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following air pollutants is more dangerous for ozone layer ?|CFC|CO2|CO|Oxides of nitrogen|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|In which of the following layer of atmosphere there is more thickness of ozone layer ?|troposphere|stratosphere|mesosphere|photosphere|1|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following is not a condition for the formation of smog ?|sufficient NO|sunlight|less movement of air|winds|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Hypochlorous acid is used for disinfecting the water it reacts with the dissolved ammonia producing______?|NH2Cl|NHCI2|NCI2|all of the above|3|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Residence time of methane in the atmosphere is______?|3 - 7 days|2 -3 days|3 - 7 years|2 - 3 years|2|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Three elements needed for the healthy growth of plants are______?|N P K|N K C|N S P|N Ca P|0|
+Class 9 Chemistry|Environmental Chemistry|Set 15|Which of the following is a macro nutrient ?|boron|iron|copper|carbon|3|
+Class 9 Chemistry|Common Chemical Industries|Set 15|Which one of the following statement is correct for urea ?|it is a synthetic fertilizer|it is a natural fertilizer|it provides micronutrients to the plants|it is an inorganic water soluble compound|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The sequence of zones in the rotary kiln are as______?|dry zone burning zone decomposition zone cooling zone|cooling zone burning zone decomposition zone dry zone|burning zone cooling zone decomposition zone|dry zone decomposition zone burning zone cooling zone|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which one of the following raw material is not present in the cement ?|lime stone|gypsum|KNO3|iron oxide|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Phosphorus helps in the growth of______?|root|leave|stem|seed|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|What is clinker ?|roasted calcareous material|roasted argillaceous material|roasted calcareous and argillaceous material|roasted gypsum|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The potassium present in plant help the plant to______?|form starch sugar and fibrous material|ripen the seeds and fruits|increase the resistance against disease|all the above statements are correct|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which one of the following is an inorganic fertilizer ?|manure|urea|ammonium nitrate|All|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The nutrients which are required in very small amount for the normal growth of plants are called______?|nitrogenous fertilizers|micronutrients|phosphorus fertilizer|all of the above|1|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Argillaceous material does not include______?|vlay|marine shells|slate|blast furnace slag|1|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which of the following potassium fertilizers are more useful for horticultural crops tobacco & potatoes ?|KCI|KNO3|K2SO4|KMnO4|1|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which of the following fertilizers is not useful for paddy rice ?|urea|DAP|Ammonium sulphate|Ammonium nitrate|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which of the following is the most suitable catalyst for ammonia synthesis ?|Pt|ZnO + Cr2O3|Fe in fused mixture of Al2O3 + SiQ2 + MgO|All of the above|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which of the following is macronutrient ?|Cu|Cl|H|Zn|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which of the following is incorrect statement about nitrogen importance ?|It enhances plant growth|It is involved in the synthesis of protein and nucleic acids|it accelerates fruits and flowers growth|It is involved in the chlorophyll synthesis|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The important function of burning zone in the rotary kilm is ______?|to dry the moisture of slurry|to decompose lime stone to unslaked lime|combination of different oxides like CaO SiO2 Fe2O3 and Al2O3|to reduce the impurities|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The composition of mixture of clay and lime stone in the raw for cement material is ______?|75% lime stone and 25% clay|25% lime stone and 75% clay|15% lime stone and 55% clay|55% lime stone and 15% clay|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which sequence of steps is correct for the manufacture of cement ?|crushing heating mixing grinding|crushing mixing heating grinding and mixing|crushing grinding mixing heating|mixing heating grinding crushing|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Cement is a mixture of so many compounds roasted in rotary kiln. Which substances has greater percentage ?|Lime (CaO)|Silica (SiO2)|Alumina (Al2O3)|Magnesia (MgO)|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Cement is a mixture of______?|clay and clinker|clay lime stone and gypsum|lime stone and gypsum|lime stone and clay|1|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The percentage of nitrogen in urea is______?|36%|46%|56%|66%|1|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which one of the following set of raw material is most suitable for manufacture of urea ?|CH4 N2 and CO2|H2 N2 and CO|H2 CO2 and H2O|H2O N2 and H2|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|How many zones through which the charge passes in a rotary kiln ?|4|3|2|5|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Which of the following processes is used for the synthesis of cement ?|dry process|wet process|both|none|2|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Calcarious material includes______?|lime stone|marble|chalk|all of the above|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|DAP (Diammonium hydrogen phosphate) contains ______ plant nutrients?|60%|65%|70%|75%|3|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The cooling of molten urea by air in the tower is called______?|prilling|evaporation|condensation|crystallization|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|Addition of urea to the soil is ______ reaction?|endothermic|exothermic|both a and b|no heat energy is involved|1|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The fertilizers which provide single nutrient from NPK are called ______ fertilizer?|straight|compound|both a and b|none of the above|0|
+Class 9 Chemistry|Common Chemical Industries|Set 16|The fertility of the soil is improved by______?|Rotation of the crops|Adding lime to the acid salts|Adding manure and growing legumes|All|3|
+Class 9 Chemistry|Macromolecules|Set 16|Nucleic acids direct the synthesis of______?|Glucose|Triglycerides|Proteins|All|2|
+Class 9 Chemistry|Macromolecules|Set 16|Rate of enzymatic reaction is directly proportional to the concentration of______?|Enzyme|Substrate|Enzyme and substrate|Enzyme and product|1|
+Class 9 Chemistry|Macromolecules|Set 16|Enzynies that catalyze the transfer of groups within molecule are called______?|Isomerases|Lyases|Transferases|Ligases|0|
+Class 9 Chemistry|Macromolecules|Set 16|Orgosterol is______?|Orgocalciferol|Vitamin D2|Sterol|all of the above|2|
+Class 9 Chemistry|Macromolecules|Set 16|Lipopolysaccharides are examples of______?|Derived lipids|Simple lipids|Compound lipids|Not a type of lipids|2|
+Class 9 Chemistry|Macromolecules|Set 16|Animal fats are located particularly in______?|Skeleton tissues|Cardiac tissues|Connective tissues|Adipose tissues|3|
+Class 9 Chemistry|Macromolecules|Set 16|All proteins yield ______ upon complete hydrolysis?|Nitrogen|Amino acids|Carbon and hydrogen|Sulphur|1|
+Class 9 Chemistry|Macromolecules|Set 16|Amylose is______?|Soluble in water|Insoluble in water|Soluble in alcohol|Partially soluble in alcohol|0|
+Class 9 Chemistry|Macromolecules|Set 16|Nylon is obtained by heating______?|Acrylic acid|Epichlorohydrin|Vinyl chloride|Adipic acid with hexamethylene diamine|3|
+Class 9 Chemistry|Macromolecules|Set 16|Carbohydrates are polyhydroxy compounds of______?|Glucose|Glyceraldehydes|Oligosaccharides|Aldehydes and ketones|3|
+Class 9 Chemistry|Macromolecules|Set 16|Polyester resins are the product of the reaction of______?|Dihydric alcohol and dicarboxylic aromatic acids|Polyamines with aliphatic dicarboxylic acids|Styrene in the presence of catalyst|Epichlorohydrin with diphenylol propane|0|
+Class 9 Chemistry|Macromolecules|Set 16|A polymer in which three different monomers combine called______?|Copolymer|Terpolymer|Homopolymer|Biopolymer|1|
+Class 9 Chemistry|Macromolecules|Set 16|The nitrogenous base different in RNA as compared to DNA is______?|Cytosine|Thymine|Adenine|Guanine|1|
+Class 9 Chemistry|Macromolecules|Set 16|The mechanism by which the genetic information can be duplicated is called______?|Duplication|Transcription|Replication|Mutation|2|
+Class 9 Chemistry|Macromolecules|Set 16|Nucleic acids were first demonstrated in______?|Pus cells|Sperm heads|1872|all of the above|0|
+Class 9 Chemistry|Macromolecules|Set 16|Enzyme proved useful in cancer treatment is______?|Lactic dehydrogenase|Alkaline phosphatase|L-asparaginase|Cellulase|2|
+Class 9 Chemistry|Macromolecules|Set 16|Enzymes from the same organism which catalyze same reaction but are chemically and physically distinct from each other are called______?|Oxidoreductases|Hydrolases|Isoenzymes|Isomerases|2|
+Class 9 Chemistry|Macromolecules|Set 16|Saponification is the hydrolysis of fat or oil with an______?|Acid|Alkali|Enzyme and alkali|Enzyme and acid|1|
+Class 9 Chemistry|Macromolecules|Set 16|Triglycerides are easily hydrolyzed by enzymes called______?|Lyases|Ligases|Lipases|Hydrolases|2|
+Class 9 Chemistry|Macromolecules|Set 16|Animal and vegetable fats are______?|Glycerols|Fatty acids|Triesters formed from glycerol and fatty acids|Tetraesters formed from glycerol and fatty acids|2|
+Class 9 Chemistry|Macromolecules|Set 16|Lipids are soluble in______?|Organic solvents|Organic and inorganic solvents|Inorganic solvents|Solubility has nothing to do with lipids|0|
+Class 9 Chemistry|Macromolecules|Set 16|Protein attached to some non protein group is called______?|Derived protein|Sample protein|Proteoses|Conjugated protein|3|

@@ -1,0 +1,900 @@
+Class 10 Physics|Physics|Set 01|Semi-conductors with donor atoms and free electrons belong to the type______?|n|p|mix|any of above|0|
+Class 10 Physics|Physics|Set 01|The especially designed semiconductor diodes used as indicator lamps in electronic circuits are______?|The switch|The light emitting diode|The photo diodes|Solar cells.|1|
+Class 10 Physics|Physics|Set 01|The device or circuit used for conversion of A.C. into D.C. is called______?|An amplifier.|A rectifier|Filtering circuit|Converter.|1|
+Class 10 Physics|Physics|Set 01|The semiconductor diode can be used as a rectifier because ______?|It has low resistance to the current flow when forward biased & high resistance when reverse biased.|It has low resistance to the current flow when forward biased.|It has high resistance to the current flow when reverse biased|Its conductivity increases with rise of temperature.|0|
+Class 10 Physics|Physics|Set 01|Thermions are______?|protons|positrons|electrons|photons|2|
+Class 10 Physics|Physics|Set 01|Which one of the following has the greatest energy gap ?|insulator|conductor|semi conductor|any of above|0|
+Class 10 Physics|Physics|Set 01|The velocity of an oscillating charge as it moves to and fro along a wire is always______?|constant|zero|changing|infinite|2|
+Class 10 Physics|Physics|Set 01|Identify the correct statement about minority carriers______?|holes in n-type and free electrons in p-type|holes in n-type and p-type|free electrons in n-type and holes in p-type|free electrons in n-type and p-type|0|
+Class 10 Physics|Physics|Set 01|In n-p-n transistor, p works as______?|collector|emitter|base|any of above|2|
+Class 10 Physics|Physics|Set 01|p-n junction when reversed biased acts as a______?|capacitor|inductor|on switch|off switch|3|
+Class 10 Physics|Physics|Set 01|Semi-conductor germanium and silicon are______?|pentavalent|trivalent|divalent|tetravalent|3|
+Class 10 Physics|Physics|Set 01|Electrons present in p-type material due to thermal pair generation are______?|majority carriers|minority carriers|dual carriers|blockers|1|
+Class 10 Physics|Physics|Set 01|The velocity of laser light is______?|Less than ordinary light|More than ordinary light|Equal to ordinary light|Different for different colours or frequency|2|
+Class 10 Physics|Physics|Set 01|Reflecting mirrors in laser is used to______?|Further stimulation|Lasing more|For producing more energetic lasers|All|0|
+Class 10 Physics|Physics|Set 01|In He-Ne laser the lasing action is produced by______?|Ne only|He-Ne both|Electrons of He|Electrons Ne|0|
+Class 10 Physics|Physics|Set 01|The metastable state for an atom in laser light is______?|10-4 sec|10-5 sec|10-3 sec|10-8 sec|2|
+Class 10 Physics|Physics|Set 01|In laser production the state in which more atoms are in the upper state than in the lower one is called______?|Metal stable state|Normal state|Inverted population|All the above|2|
+Class 10 Physics|Physics|Set 01|In normal state of energy the incident high energy photons will be______?|Stimulated|Absorbed|Cause X-ray emission|Cause laser production|1|
+Class 10 Physics|Physics|Set 01|Electron cannot exist in the nucleus it is confirmed by observing that______?|It does emit radiation|Its size as compare to proton and neutron is very small|No antiparticle of electron is present|The velocity of electron must be very high according to uncertainty principle|3|
+Class 10 Physics|Physics|Set 01|Wave-like characteristic of electron is demonstrated by______?|Line spectrum of atoms|Production of x-rays.|Diffraction by crystalline solids|Photoelectric effect|2|
+Class 10 Physics|Physics|Set 01|UV radiation can be produced by______?|Heating the filament|Electron excitation in the gas|Ionization of atoms|All the above|1|
+Class 10 Physics|Physics|Set 01|X-rays are diffracted by a crystal but not by a diffraction grating because______?|The ions in a crystal are well arranged|The lines in a diffraction grating cannot reflect X-rays.|The penetration power of X-rays is high in a diffraction grating|The wavelengths of X-rays are of the same order of magnitude as the separation between atoms in a crystal|3|
+Class 10 Physics|Physics|Set 01|Maximum frequency in the spectrum from X-ray tube is directly proportional to the______?|Number of incident electron i.e. filament current|The kinetic energy of the incident electron i.e. the potential difference through which they are accelerated|The soft target which can easily emit electrons|All of above are correct|1|
+Class 10 Physics|Physics|Set 01|The minimum wavelength of X-rays produced by the bombardment of electrons on the screen of a television set where the accelerating potential is 2.0K V will be______?|6.2 x 10-10m|9.1 x 10-18m|3.11 x 10-10m|4 x 10-10m|0|
+Class 10 Physics|Physics|Set 01|The characteristic X-rays spectrum is due to______?|The illumination of the target metal by ultra-violet radiation|The bombardment of the target by protons|The bombardment of target by electrons|The absorption of radiation by the target metal|2|
+Class 10 Physics|Physics|Set 01|The minimum wavelength of X-rays can further be reduced by ______?|Reducing the pressure or cooling the target|Increasing the temperature of the filament.|Using a target element of higher atomic number|Increasing the potential difference between the cathode and the target|3|
+Class 10 Physics|Physics|Set 01|Radiation produced from TV picture tube is______?|B-rays|X-rays|Far infrared|Infrared|1|
+Class 10 Physics|Physics|Set 01|In an X-ray tube electrons each of charge e are accelerated through V potential difference allowed to hit a metal target. The wavelength of the X-rays emitted is______?|he/ev|he/Vc|eV/h|impossible to predict|0|
+Class 10 Physics|Physics|Set 01|Quality of X-rays depends upon ______ A-filament current B-accelerating voltage C-material of the target ?|A & B|B & C|A & C|A B & C|1|
+Class 10 Physics|Physics|Set 01|When X-rays are passed through successive aluminum sheets what happens to their thickness ?|increases|it decreases|it remains same|sometimes increases and sometimes decreases|2|
+Class 10 Physics|Physics|Set 01|Radiation with wavelength longer than red lights______?|ultraviolet rays|X-rays|infra red radiation|visible radiation|2|
+Class 10 Physics|Physics|Set 01|Reverse process of photoelectric effect is______?|pair production|Compton effect|annihilation of matter|X-rays production|3|
+Class 10 Physics|Physics|Set 01|The penetrating power of X-rays depends on their______?|applied voltage|frequency|source|all of the above|1|
+Class 10 Physics|Physics|Set 01|Bracket series is obtained when all transition of electron terminate on______?|4th orbit|5th orbit|3rd orbit|2nd orbit|0|
+Class 10 Physics|Physics|Set 01|Ground state energy of the 4th orbit in a H-atom is______?|13.60 eV|3.40 eV|0.85 eV|1.51 eV|2|
+Class 10 Physics|Physics|Set 01|Which one of following postulate is in accordance with the Rutherfords model ?|continuous spectra for atoms|discrete spectra for atoms|either continuous nor discrete|no spectrum|0|
+Class 10 Physics|Physics|Set 01|When we excite some atoms by heat collision or electrical discharge they will______?|radiate electromagnetic energy with a continuous distribution of wavelength|absorb particular wavelengths when white light is incident on them|radiate electromagnetic energy of discrete characteristic wavelength|emit either invisible or visible light|2|
+Class 10 Physics|Physics|Set 01|In obtaining an X-ray photograph of our hand we use the principle of______?|photo electric effect|ionization|shadow photograph|any of above|2|
+Class 10 Physics|Physics|Set 01|Photon of highest frequency will be absorbed when transition takes place from______?|1st to 5th orbit|2nd to 5th orbit|3rd to 5th orbit|4th to 5th orbit|0|
+Class 10 Physics|Physics|Set 01|The radiations emitted form hydrogen filled discharge tube show______?|band spectrum|line spectrum|continuous spectrum|absorption spectrum|1|
+Class 10 Physics|Physics|Set 01|Total number of series in hydrogen spectrum is______?|three|four|five|six|2|
+Class 10 Physics|Physics|Set 01|X-ray are______?|of unknown nature|high energy electrons|high energy photons|radio isotopes|2|
+Class 10 Physics|Physics|Set 01|Hydrogen atom does not emit X-rays because ______?|its energy levels are too close to each other|its energy levels are too far apart|it is too small in size|it has a single electron|3|
+Class 10 Physics|Physics|Set 01|Excited atoms return to their ground state in______?|10-10s|10-8s|10-6s|10-9s|1|
+Class 10 Physics|Physics|Set 01|In hydrogen spectrum which one of the following series lies in the ultraviolet region ?|Balmer series|Pfund series|Bracket series|Lymann series|3|
+Class 10 Physics|Physics|Set 01|Ratio of the weight of H-atom to that of an electron is approximately______?|18.336|1836|18360|183.6|1|
+Class 10 Physics|Physics|Set 02|Electron moves in the orbit as______?|Simple vibratory motion|Standing wave motion|Vibratory motion like up and down|S.H.M likes the sound|1|
+Class 10 Physics|Physics|Set 02|Compton effect proves the______?|Photon theory of light|Dual nature of light|Wave nature of light|Uncertain nature of light|0|
+Class 10 Physics|Physics|Set 02|The energy radiated is directly proportional to the fourth power of Kelvins temperature is______?|Karl-Weins law|Rayleigh-Jeans law|Stephens law|Plancks|2|
+Class 10 Physics|Physics|Set 02|For confinement of electron in a box of radius 10-14m the electron, speed should be______?|107m/sec|Should be greater than the speed of light.|Be zero|Not be wave-like|1|
+Class 10 Physics|Physics|Set 02|The uncertainty in momentum & position is due to its______?|Property of matter and radiation|Two-dimensional motion|Emission of the certain wavelength|Very high velocity|0|
+Class 10 Physics|Physics|Set 02|A three-dimensional image is obtained by______?|Electron microscope|Scanning electron microscope|Magnetic imaging|None of the above|1|
+Class 10 Physics|Physics|Set 02|In the electron microscope, electric & magnetic fields are used as______?|Electromagnetic gun|Source of electromagnetic waves|Deflecting charged particle|Converging source of electrons|3|
+Class 10 Physics|Physics|Set 02|In an electron microscope, we use energetic particles because of______?|Penetrating power is high|Kinetic energy is large|Wavelength is very short|All the above reasons|2|
+Class 10 Physics|Physics|Set 02|If a diffraction grating is placed in the path of a light beam it reveals______?|Wave property|Particle property|Energy particle|Electromagnetic wave property|0|
+Class 10 Physics|Physics|Set 02|In Davisson-Germer experiment the diffracted proton from crystal shows______?|Particle property|Wave property|Light property|Quantum property|1|
+Class 10 Physics|Physics|Set 02|A photon of wavelength 900nm behaves like a particle of mass______?|5.53 x 10-36kg|0 kg.|2.46 x 10-36kg|1.84 x 10-44kg|2|
+Class 10 Physics|Physics|Set 02|If n number of the photon is striking on a metal surface then total momentum exerted is______?|p|n|0|None|0|
+Class 10 Physics|Physics|Set 02|If a photon is reflected from the mirror then the change in momentum of each photon is______?|Zero|Double|Half|1|1|
+Class 10 Physics|Physics|Set 02|If the wavelength of incident radiation is increased in photoemission then______?|The maximum kinetic energy of the photoelectrons increases|The minimum kinetic energy of the photoelectrons decreases|The minimum kinetic energy of the photoelectrons increases|The average kinetic energy of the photoelectrons decreases|3|
+Class 10 Physics|Physics|Set 02|In a photoelectric effect monochromatic light is incident on a metal surface. If the incident light of twice the intensity but of same wavelength the kinetic energy of the emitted electron______?|Becomes double|Remains same|Becomes half|First increases then decrease because of the curvilinear graph|1|
+Class 10 Physics|Physics|Set 02|After traveling through a vacuum a photon of light entering into some transparent denser medium. Thus the energy of light______?|Increases because wavelength decreases|Decreases because speed decreases|Remains same|Increases then decrease|2|
+Class 10 Physics|Physics|Set 02|A photon is______?|A unit of energy|A positively charged particle|A quantum of electromagnetic radiation|A unit of wavelength|2|
+Class 10 Physics|Physics|Set 02|Davison Germer experiment indicates______?|Interference|Polarization|Electron diffraction|Refraction|2|
+Class 10 Physics|Physics|Set 02|In Compton scattering, the change in wavelength is maxed if______?|The angle of scattering is 90 deg|The angle of scattering is 60 deg|The angle of scattering is 180 deg|The angle of scattering is 0|2|
+Class 10 Physics|Physics|Set 02|The name of the photon for quantum of light was proposed by______?|Ampere|Plank|Thomson|Einstein|3|
+Class 10 Physics|Physics|Set 02|As the temperature of black body is raised the wavelength corresponding to maximum intensity______?|shifts towards longer wavelength|shifts towards shorter wavelength|remain the same|shifts towards longer as well as shorter wavelengths|1|
+Class 10 Physics|Physics|Set 02|Rest mass of a photon is______?|infinite|zero|very small|1.67 x 10-27 kg|1|
+Class 10 Physics|Physics|Set 02|If a material object moves with speed of light its mass becomes ______?|equal to its rest mass|double of its rest mass|infinite|zero|2|
+Class 10 Physics|Physics|Set 02|The existence of Ether wind was experimentally rejected by______?|equal to its rest mass|double of its rest mass|infinite|zero|2|
+Class 10 Physics|Physics|Set 02|Stopping potential for a metal surface in case of photoelectric emission depends on______?|the threshold frequency for the metal surface|the intensity of incident light|the frequency of incident light and work function of the metal surface|all of the above|2|
+Class 10 Physics|Physics|Set 02|The linear momentum of an X-ray photon of wavelength 0.1A is______?|6.625x1023N-s|66.25x1023N-s|662.5x1023N-s|data is insufficient|0|
+Class 10 Physics|Physics|Set 03|Linear momentum of a photon is______?|zero|hv/c2|hv/c|c2/hv|0|
+Class 10 Physics|Physics|Set 03|An observer shoots parallel to a meter stick at very high (relativistic) speed and finds that the length of meter stick is______?|greater than one meter|less than one meter|one meter|a foolish question|1|
+Class 10 Physics|Physics|Set 03|Mark the wrong statement ?|a frame of reference which is either at rest or moves with a constant velocity is called an inertial frame of reference|an un-accelerated frame of reference is called an inertial frame of reference|all the frames of reference in uniform rectilinear motion are equivalent|Newtons laws of motion are valid in an accelerated (non inertial) frame of reference|3|
+Class 10 Physics|Physics|Set 03|0.001 kg mass will be equivalent to______?|2.50 GWh|25.00 GWh|0.26 GWh|250 GWh|1|
+Class 10 Physics|Physics|Set 03|The relativistic energy E is equivalent to relativistic mass given by______?|Ec2|E/c2|E/c|c2/E|1|
+Class 10 Physics|Physics|Set 04|When a body is moving along a circular path it covers a certain angle in a given interval of time. Such type of motion is______?|Vibratory motion|Linear motion|Rotatory motion|Angular motion|3|
+Class 10 Physics|Physics|Set 04|How many days would be in a year if the distance between the earth and the sun were reduced to half of its present value (assuming circular orbit) ?|365 days|730 days|329 days|129 days|3|
+Class 10 Physics|Physics|Set 04|If a body of mass 10 kg is allowed to fall freely, its weight becomes______?|0|89N|9.8 N|10N|0|
+Class 10 Physics|Physics|Set 04|A body of 2 kg is suspended from the ceiling of an elevator moving up with an acceleration g. Its apparent weight in the elevator will be______?|9.8 N|19.6 N|129.4 N|39.2 N|3|
+Class 10 Physics|Physics|Set 04|Minimum number of communication satellites required to cover the whole earth is______?|4|3|2|5|1|
+Class 10 Physics|Physics|Set 04|A satellite moving around the earth constitutes______?|An inertial frame of reference|Non-inertial frame|Neither inertial nor non-inertial|Both inertial and non-inertial|1|
+Class 10 Physics|Physics|Set 04|The planet nearest to the earth is______?|Venus|Mercury|Uranus|Sun|0|
+Class 10 Physics|Physics|Set 04|Who discovered the inverse square law for gravity ?|Einstein|Galileo|Newtons|Plank|2|
+Class 10 Physics|Physics|Set 04|If we whirl a stone at the end of a string in the vertical circle, it is likely to break when the stone is______?|At the highest point|At the lowest point|At any point during motion|At the point where gravity is not acting|1|
+Class 10 Physics|Physics|Set 04|What is the outward force acting on a mass of 10 kg when rotating at one end an inelastic string 10m long at speed of 1m/s ?|1N|10N|2N|100N|0|
+Class 10 Physics|Physics|Set 04|A cyclist cycling around a circular racing track skids because______?|the centripetal force upon him is less than limiting friction|the centripetal force upon him is greater than limiting friction|the centripetal force upon him is equal to the limiting friction|the friction between the tyres of the cycle and road vanishes|1|
+Class 10 Physics|Physics|Set 04|The angular speed for daily rotation of the earth in rad S-1 is______?|7.3 x 10 radians/second|7.3 x 5 radians/second|3.7 x 10 7.3 x 5 radians/second|7.3 x 10-5 radians/second|3|
+Class 10 Physics|Physics|Set 04|A body can have constant velocity when it follows a______?|Elliptical path|Circular path|Parabolic path|Rectilinear path|3|
+Class 10 Physics|Physics|Set 04|If a car moves with a uniform speed of 2 ms-1 in a circle of radius 0.4. Its angular speed is______?|4 rad. S-1|5 rad. S-1|1.6 rad. S-1|2.8 ms-1|1|
+Class 10 Physics|Physics|Set 04|In case of planets the necessary acceleration is provided by______?|Gravitational force|Frictional force|Coulomb force|Centripetal force|0|
+Class 10 Physics|Physics|Set 04|The span of the broad jump depends upon______?|Mass of the jumper|Height of jump|Angle of projection|None|2|
+Class 10 Physics|Physics|Set 04|A stone is whirled in a vertical circle at the end of a string. When the stone is at the highest position the tension in the string is______?|Maximum|Zero|Equal to the weight of the stone|Less than the weight of the stone|2|
+Class 10 Physics|Physics|Set 04|When a body moves in a circle of radius r with linear speed V its centripetal force is______?|mV/r2|mV/r|mV2/r|mV2/r2|2|
+Class 10 Physics|Physics|Set 04|Centripetal force performs______?|Maximum work|Minimum work|Negative work|No work|3|
+Class 10 Physics|Physics|Set 04|When a body is whirled in a horizontal circle by means of a string the centripetal force is supplied by______?|Mass of a body|Velocity of body|The tension in the string|Centripetal acceleration|2|
+Class 10 Physics|Physics|Set 04|The direction of the linear velocity of a body moving in a circle is______?|along the axis of rotation|along the tangent|directed towards the centre|directed away from the centre|1|
+Class 10 Physics|Physics|Set 04|One radian is equal to______?|67.3 deg|57.3 deg|87.3 deg|60 deg|1|
+Class 10 Physics|Physics|Set 04|According to Einstein, the gravitational interaction is possible between______?|material objects only|material objects and electromagnetic radiation only|electromagnetic radiations|none of the above|1|
+Class 10 Physics|Physics|Set 04|The radius of geostationary orbit from the centre of the earth is nearly______?|42000km|36000km|24000 km|18000 km|0|
+Class 10 Physics|Physics|Set 05|Geostationary satellite completes one rotation around the earth in______?|3 hours|6 hours|12 hours|24 hours|3|
+Class 10 Physics|Physics|Set 05|The critical speed of an artificial satellite is______?|8 Kms-1|8.1 Kms-1|7.9 Kms-1|8 ms-1|2|
+Class 10 Physics|Physics|Set 05|A hoop and disc have same mass and radius. Their rotational K.E are related by an equation______?|K.E hoop = K.E disc|K.E hoop = 2K.E disc|K.E hoop = 1/2K.E disc|K.E hoop = 4K.E disc|1|
+Class 10 Physics|Physics|Set 05|The rotational K.E of the hoop is equal to the______?|its translational K.E|half than its translational K.E|double than its translational K.E|four times than its translational K.E|0|
+Class 10 Physics|Physics|Set 05|Radiations are used for the treatment of skin of a patient is______?|Alpha rays|Gamma rays|Beta rays|X-rays|1|
+Class 10 Physics|Physics|Set 05|The maximum safe limit dose for persons working in a nuclear power station is ______?|1 rem per week|5 rem per week|4 rem per week|3 rem per week|1|
+Class 10 Physics|Physics|Set 05|Which of the following will be a better shield against gamma rays ?|Ordinary water|Heavy water|Lead|Aluminum|2|
+Class 10 Physics|Physics|Set 05|A device for producing high-velocity nuclei is ______?|Cloud chamber|Linear accelerator|A mass spectrograph|Wilson cloud chamber|1|
+Class 10 Physics|Physics|Set 05|Pair production can take place only with______?|X-rays|Gamma rays|UV-rays|IR-rays|1|
+Class 10 Physics|Physics|Set 05|Pair production cannot take place in a vacuum as ______?|Mass is not conserved|Energy is not conserved|Momentum is not conserved|The chargee is not conserved|2|
+Class 10 Physics|Physics|Set 05|Alpha particles possess greater penetration power than that of beta particles due to its______?|Smaller ionization power|Greater ionization power|Neither greater nor smaller ionization power|Same ionization power|0|
+Class 10 Physics|Physics|Set 05|Beta particles ionize an atom______?|Due to the electrostatic force of attraction|Due to the electrostatic force of repulsion|Due to a direct collision|Due to the gravitational force|1|
+Class 10 Physics|Physics|Set 06|Why gamma rays are used to kill bacteria to sterilize surgical equipment etc ?|Chargeless|Massless|Highly penetrating|All of above|2|
+Class 10 Physics|Physics|Set 06|The charge on beta particle is______?|1|-1|+2|-2|0|
+Class 10 Physics|Physics|Set 06|The most useful tracer is______?|Sr-90|I-131|CA-41|C-14|3|
+Class 10 Physics|Physics|Set 06|Average distance covered by alpha particles in the air before its ionizing power ceases is called its______?|Trajectory|Range|Firing level|Limit|1|
+Class 10 Physics|Physics|Set 06|CFC is used in ______?|Refrigeration|Aerosol spray|Plastic foam industry|All of above|3|
+Class 10 Physics|Physics|Set 06|An alpha particle can produce fluorescence in______?|ZnS|Barium platinocyanide|Calcium tungstate|All of above|3|
+Class 10 Physics|Physics|Set 06|Geiger counter is suitable for ______?|Fast counting|Extremely fast counting|Slow counting|All situations|2|
+Class 10 Physics|Physics|Set 06|The penetration power of alpha particle as compared to beta particle is______?|10 times more|100 times more|100 times less|10 times less|1|
+Class 10 Physics|Physics|Set 06|An alpha particle in a single encounter______?|Loses a small fraction of its energy|Losses most of its energy|Loses no energy at all|Loses all of its energy|1|
+Class 10 Physics|Physics|Set 06|Alpha particle ionizes an atom______?|Through direct collision|Through electrostatic attraction|Through electrostatic repulsion|All of above|2|
+Class 10 Physics|Physics|Set 06|The charge on alpha particles is______?|Plus one|Plus two|Minus two|Minus one|1|
+Class 10 Physics|Physics|Set 06|Various types of cancer are treated by______?|Cobalt-60|Strontium-90|Carbon-14|Nickel-63|0|
+Class 10 Physics|Physics|Set 06|The path of alpha particle is______?|Rectilinear|Curved|Zig-zag or erratic|Elliptical|2|
+Class 10 Physics|Physics|Set 06|During an encounter with an atom alpha particle knocks out ______?|Protons|Electrons|Neutrons|Nothing|1|
+Class 10 Physics|Physics|Set 06|Pair production takes place in the vicinity of a heavy nucleus so that______?|Net energy is conserved|Net charge is conserved|Net momentum is conserved|All of the above|3|
+Class 10 Physics|Physics|Set 06|If one or more of the neutrons emitted during fission cab be used to build up further fission then the reaction is self-sustained and is known as ______?|Fission reaction|Fusion reaction|Chain reaction|Chemical reaction|2|
+Class 10 Physics|Physics|Set 06|Radioactive materials can be identified by measuring their______?|Hardness|Density|Mass|Half life|3|
+Class 10 Physics|Physics|Set 06|Ina liquid metal fast breeder reactor, the type of uranium used is______?|92U235|92U238|92U234|92U239|1|
+Class 10 Physics|Physics|Set 06|During the fission process a large amount of______?|Heat energy is released|Nuclear energy is released|Chemical energy is released|Light energy is released|1|
+Class 10 Physics|Physics|Set 06|The unit of radioactivity curie is equal to______?|3.74 x 109 disintegration per sec|3.70 x 1010 disintegration per sec|3.55 x 1010 disintegration per sec|3.60 x 1010 disintegration per sec|1|
+Class 10 Physics|Physics|Set 06|An alpha particle is emitted from 88Ra226. What is the mass and atomic number of the daughter nucleus ?|224 - 84|220 - 80|222 - 86|226 - 87|2|
+Class 10 Physics|Physics|Set 06|Sum of the masses of constituent nucleons as compared to the mass of the resultant nucleus is______?|Smaller|Greater than 82|Same|Sometimes smaller some times greater|1|
+Class 10 Physics|Physics|Set 06|A mass spectrograph (spectrometer) sorts out______?|Molecules|Ions|Elements|Isotopes|2|
+Class 10 Physics|Physics|Set 06|Nuclei having the same mass number but different atomic number are______?|Isotopes|Isobars|Isotones|Isomers|1|
+Class 10 Physics|Physics|Set 06|Mass of neutron is______?|1.67 x 10-31 kg|1.67 x 10-27 kg|9.1 x 10-31 kg|1.67 x 10-19 kg|1|
+Class 10 Physics|Physics|Set 06|A particle having the mass of an electron and the charge of a proton is called a______?|Antiproton|Positron|Gamma rays|Photon|1|
+Class 10 Physics|Physics|Set 06|The charge on neutron is______?|Plus 1.6 x 10-19C|Zero|Minus 1.6 x 10-19C|No definite charge|1|
+Class 10 Physics|Physics|Set 06|The charge on an electron was determine by ______?|Ampere|Maxwell|Millikan|Thomson|2|
+Class 10 Physics|Physics|Set 06|The fission chain reaction in a nuclear reactor can be controlled by introducing ______?|Iron rods|Graphite rods|Cadmium rods|Platinum rods|2|
+Class 10 Physics|Physics|Set 06|Average energy required to remove one nucleon from the nucleus is called______?|Binding energy per nucleon|Energy of decay|Destruction energy|All of above|0|
+Class 10 Physics|Physics|Set 06|The diameter of an atom is approximately______?|10-12m|10-11m|10-10m|10-14m|2|
+Class 10 Physics|Physics|Set 06|The bombardment of nitrogen with alpha particles will produce______?|Neutron|Proton|Electron|Positron|1|
+Class 10 Physics|Physics|Set 06|Mass defect per nucleon is ______?|The binding energy of the nucleus|Packing fraction|The average energy of the nucleus|All of above are one and the same thing|1|
+Class 10 Physics|Physics|Set 06|Nuclear forces exist between ______?|Proton-proton|Proton-neutron|Neutron-neutron|All of the above|3|
+Class 10 Physics|Physics|Set 06|Transuranic elements have an atomic number______?|Greater than 72|Greater than 82|Greater than 92|Greater than 102|2|
+Class 10 Physics|Physics|Set 06|The energy liberated when one atom of U-235 undergoes fission reaction is______?|200MeV|40MeV|30MeV|20MeV|0|
+Class 10 Physics|Physics|Set 06|Radioactivity is a ______ (A) Spontaneous activity (B) Chemical property______?|A & B|B & C|C & A|A B & C|2|
+Class 10 Physics|Physics|Set 06|Electrons______?|Can exist inside the nucleus|Cannot exist inside the nucleus|Can exist both inside and outside the nucleus|Do not know|3|
+Class 10 Physics|Physics|Set 06|Neutron and proton are commonly known as______?|Nucleon|Meson|Boson|Quartz|0|
+Class 10 Physics|Physics|Set 06|Antimatter consists of ______?|Antiproton|Antineutron|Positron|All of above|3|
+Class 10 Physics|Physics|Set 06|For chain reaction to build up the size of the radioactive target should be______?|Greater than the critical size|Less than the critical size|Equal to the critical size|All of above can build up a change reaction|0|
+Class 10 Physics|Physics|Set 06|One AMU is equal to______?|1.66 x 10-27kg|166 x 10-15ng|166 x 10-20g|All of above|3|
+Class 10 Physics|Physics|Set 06|During fusion of hydrogen into helium______?|Energy is absorbed|Energy is released|Mass is increased due to energy absorption|Mass is reduced due to the energy released|1|
+Class 10 Physics|Physics|Set 06|In the nucleus of uranium, the number of neutrons will be ______?|92|235|143|Different for different isotopes|3|
+Class 10 Physics|Physics|Set 06|According to which one of following law the density of atom is uniform ?|J.J.Thomson model|Rutherfords model|Bohrs model|All of the above laws contradict the statement|0|
+Class 10 Physics|Physics|Set 07|An inductor may store energy in ______?|Its electric field|Its coils|Its magnetic field|Both electric and magnetic fields|2|
+Class 10 Physics|Physics|Set 07|Two identical coaxial circular loops carry equal currents in the same direction. If the loops approach each other the current in______?|Each increase|Each decrease|Each remains the same|One increases whereas that in the other decreases|1|
+Class 10 Physics|Physics|Set 07|The phase angle between the voltage and the current in an AC circuit consisting of a resistance is______?|Zero|45 deg|90 deg|180 deg|0|
+Class 10 Physics|Physics|Set 07|Choose the correct statement. In the case of AC circuit ohms law holds for______?|Peak values of voltage and current|Effective values of voltage and current|Instantaneous values of voltage and current|All of the above|3|
+Class 10 Physics|Physics|Set 07|At resonance the value of the power factor in an L-C-R series circuit is______?|Zero|2|1|Not definite|2|
+Class 10 Physics|Physics|Set 07|A choke is used as a resistance in______?|DC circuit|AC circuits|Both AC and DC circuit|Full wave rectifier circuit|1|
+Class 10 Physics|Physics|Set 07|The frequency of a circuit consisting of a capacitance C and a resistor R is______?|C/R|R/C|1/RC|1/ 2RC|2|
+Class 10 Physics|Physics|Set 07|What is the self-inductance of a coil in which an induced emf of 2V is set up when the current changes at the rate of 4 As-1 ?|0.5 mH|0.5H|2.0H|8.0H|1|
+Class 10 Physics|Physics|Set 07|When a pure inductor of inductance L and a pure capacitor of capacitance C are connected in parallel to a sinusoidal potential difference V the potential difference across both L & C will be______?|Same|Different|At L will be more than at C|At L will be less than at C|0|
+Class 10 Physics|Physics|Set 07|Ammeter connected in an AC circuit measures______?|The exact value of the current|RMS value of the current|The net value of the current|The peak value of the current|1|
+Class 10 Physics|Physics|Set 07|If a glass plate is inserted in between the plate of a capacitor in series with a lighted bulb the brightness of the bulb______?|Remains same|Brightness increases|Brightness decreases|No light|1|
+Class 10 Physics|Physics|Set 07|When A.C current passes through a capacitor then the current relationship will be______?|The current lead voltage by phase angle is 90 degrees|The voltage leads current by phase angle is 90 degrees|The current lead voltage by phase angle is 45 degrees|The voltage leads current by phase angle is 45 degrees|0|
+Class 10 Physics|Physics|Set 07|pure resistor circuit the voltage and current are______?|Lagging each other|They are at 90? phase difference|They have zero phase difference|No phase difference|2|
+Class 10 Physics|Physics|Set 07|To find the r.m.s value of an alternating current mathematically we need to have ______?|Mean value of I2|Square root of mean value of I2|Square root of I2|Square of 1/2|1|
+Class 10 Physics|Physics|Set 07|Electromagnetic waves emitted from antenna are______?|Stationary|Longitudinal|Transverse|All the above|2|
+Class 10 Physics|Physics|Set 07|Electromagnetic waves transport______?|Energy|Momentum|Mass|Heat|0|
+Class 10 Physics|Physics|Set 07|The direction of propagation of an electromagnetic waves is______?|Perpendicular to electric field|Perpendicular to both electric and magnetic field|Perpendicular to magnetic field|Parallel to electric and magnetic field|1|
+Class 10 Physics|Physics|Set 07|A changing magnetic flux produces around itself an induced______?|Magnetic field|Electric field|Electromagnetic force|Artificial gravitational field|2|
+Class 10 Physics|Physics|Set 08|The value of the steady current which when flowing through the same resistor produces heat at the same rate as the mean rate of heat produced by the alternating current is______?|Average current|Sinusoidal current|r.m.s current|Net current|2|
+Class 10 Physics|Physics|Set 08|If capacitance of L-C circuit is made four times then frequency of the circuit becomes______?|Twice|One half|Four times|None|1|
+Class 10 Physics|Physics|Set 08|Waves emitted from the antenna are______?|Sound waves|Electromagnetic waves|Radio waves|Modulated waves|1|
+Class 10 Physics|Physics|Set 08|An electromagnetic wave consists of ______?|Electric and magnetic fields moving parallel to each other|Magnetic field moving with velocity of light in space|Electric field moving with velocity of light|Electric and magnetic fields moving perpendicular to each other|3|
+Class 10 Physics|Physics|Set 08|An alternating current or voltage______?|fluctuates off and on|varies in magnitude alone|changes its direction again and again|changes its magnitude harmonically and reverses its direction of flow after regularly recurring intervals|2|
+Class 10 Physics|Physics|Set 08|A moving coil galvanometer of resistance 100? gives half scale deflection for a current of 20mA. What will be the potential difference across it ?|4 volt|5 volt|2 volt|0.4 volt|2|
+Class 10 Physics|Physics|Set 08|Heating a magnet will ______?|weaken it|strengthen it|reverse its polarity|demagnetize it completely|0|
+Class 10 Physics|Physics|Set 08|Galvanometer is a very sensitive device with______?|very low damping|very high damping|no damping at all|radial field disintegration|0|
+Class 10 Physics|Physics|Set 08|When an electron moving with a uniform speed in a vacuum enters a magnetic field in a direction perpendicular to the field the subsequent path of the electron is ______?|a straight line parallel to the field|a parabola in a plane perpendicular to the field|a circle in a plane perpendicular to the field|a straight line along its initial direction|2|
+Class 10 Physics|Physics|Set 08|The effective way to increase the sensitivity of a moving coil galvanometer is to______?|use a very long and fine suspension|use a coil of very large area|use a coil with very large number of turns|use a very strong magnetic field|3|
+Class 10 Physics|Physics|Set 08|An ammeter measures the total current flowing through a circuit when it is connected______?|in series with the circuit|in parallel with circuit|in series with any of the parallel resistances in the circuit|in parallel with any of the series resistances in the circuit|0|
+Class 10 Physics|Physics|Set 08|While measuring the unknown resistance the help of slide wire bridge a greatest accuracy can be achieved when______?|a most sensitive galvanometer is used|a steady voltage cell is used|the balance point is close to the middle of the wire|a high resistance box is used in one of its gap|2|
+Class 10 Physics|Physics|Set 08|Minimum current required to produce a deflection of 1 mm on a scale at a distance of 1 meter is______?|0.1 A|1:00 AM|current sensitivity|1 m A|2|
+Class 10 Physics|Physics|Set 08|The sensitivity of a galvanometer is given by______?|C/BAN|CAN/B|BAN/C|ABC/N|0|
+Class 10 Physics|Physics|Set 08|The charged particle enters the uniform magnetic field in such a way that its initial velocity is not perpendicular to the field the orbit will be______?|a circle|a spiral|an ellipse|helix|3|
+Class 10 Physics|Physics|Set 08|Magnetic flux and flux density are related by______?|magnetic flux = flux density / area|magnetic flux = flux density x area|flux density = magnetic flux area|flux density = magnetic flux x area|1|
+Class 10 Physics|Physics|Set 08|A magnetic compass will be deflected if it is kept near a______?|charge in motion|charge at rest|both|none|0|
+Class 10 Physics|Physics|Set 08|When a particle of charge q and mass m enters into a uniform magnetic field B moving with a velocity v perpendicular to the direction for the field it describes a circular path of radius______?|R=qB/mV|R=mV/qB|R=qmV/B|R=qmB/V|1|
+Class 10 Physics|Physics|Set 08|If a current carrying solenoid is suspended freely it will______?|be rotating|come to rest in N-S direction|vibrating like galvanometer needle|comes to rest after rotation|1|
+Class 10 Physics|Physics|Set 08|A particle of mass m charge q and speed V enters a uniform magnetic radius r. The radius r of the circle is______?|independent mass m|directly proportional to m|directly proportional to q|directly proportional to B|3|
+Class 10 Physics|Physics|Set 08|A wheat stone bridge is said to be balanced when______?|maximum current flows through the galvanometer branch|minimum current flows through the galvanometer branch|potential difference across galvanometer branch is maximum|potential difference across galvanometer branch is zero|3|
+Class 10 Physics|Physics|Set 08|A galvanometer basically is an instrument used to ______?|detect current in a circuit|measure current flowing through a circuit|measure voltage across a circuit|measure potential difference between two points in a circuit|0|
+Class 10 Physics|Physics|Set 08|Coil of a galvanometer is suspended in a radial magnetic field so that the deflecting torque on the coil is always______?|BINA cosa|BINA sina|BINA tana|BINA|3|
+Class 10 Physics|Physics|Set 08|A sensitive galvanometer gives full-scale deflection with 100 mV. If the resistance of the galvanometer is 50? the maximum current that can flow through safely is______?|2.0 mA|20 mA|200 mA|0.2 mA|0|
+Class 10 Physics|Physics|Set 08|In a multi range ammeter as the range increases ______?|shunt value decreases|shunt value increases|shunt value remains the same|none of the above|0|
+Class 10 Physics|Physics|Set 08|Which one of the following is not an electromechanical instrument ?|galvanometer|voltmeter|ammeter|AC transformer and DC generator|3|
+Class 10 Physics|Physics|Set 08|When the coil of the galvanometer is in equilibrium then the deflecting couple is______?|zero|equal to the restoring couple|greater than the restoring couple|smaller than the restoring couple|1|
+Class 10 Physics|Physics|Set 08|An electron enters a region where the electric field E is perpendicular to the magnetic field B. It will suffer no deflection if______?|E = BeV|B = eE/V|E = BV|E = BeV/2|2|
+Class 10 Physics|Physics|Set 08|The standard vector symbol for flux density is ______?|M|L|H|B|1|
+Class 10 Physics|Physics|Set 08|SI unit of flux density is______?|NA-1m-1|NAm-1|NmA-1|NmA-2|0|
+Class 10 Physics|Physics|Set 08|The relationship between Tesla and smaller unit Gauss of magnetic induction is given by______?|1T = 103 G|1T = 10-4 G|1T = 10-2 G|1T = 104 G|3|
+Class 10 Physics|Physics|Set 08|Which one of the following material is most suitable for making core of an electromagnet ?|air|steel|Cu-Ni alloy|soft iron|3|
+Class 10 Physics|Physics|Set 08|A magnetic field______?|always exerts a force on a charged particle|never exerts a force on a charged particles|exerts a force if the charged particle is moving in the direction of the magnetic field lines|exerts a force if the charged particle is moving perpendicular to the magnetic field lines|3|
+Class 10 Physics|Physics|Set 08|Two parallel wires carrying currents in the opposite directions______?|repel each other|attract each other|have no effect upon each other|they cancel out their individual magnetic fields|0|
+Class 10 Physics|Physics|Set 08|What is the value of the current in a wire of 10cm long at the right angle to a uniform magnetic field of 0.5 Weber/m2 when the force acting on the wire is 5N ?|1A|10A|100A|1000A|2|
+Class 10 Physics|Physics|Set 08|Magnetic force acting on a unit positive charge moving perpendicular to the magnetic field with a unit velocity is called______?|magnetic flux|magnetic field intensity|magnetic induction|self inductance|2|
+Class 10 Physics|Physics|Set 10|Which one of the following bulbs has the least resistance ?|100 watt|200 watt|300 watt|60 watt|2|
+Class 10 Physics|Physics|Set 10|A fuse is placed in series with the circuit to protect against______?|high power|high voltage|high current|over heating|3|
+Class 10 Physics|Physics|Set 11|Electrical energy is converted to heat at the rate of______?|IRt|I2R|I2Rt|VIt|1|
+Class 10 Physics|Physics|Set 11|Electrical energy is measured in______?|watt|horse power|kilo watt|kilowatt hour|3|
+Class 10 Physics|Physics|Set 11|The resistance of a conductor at absolute zero (OK) is______?|zero almost|infinite almost|no prediction at all|may increase or decrease|0|
+Class 10 Physics|Physics|Set 11|The graphical representation of Ohms law is______?|hyperbola|ellipse|parabola|straight line|3|
+Class 10 Physics|Physics|Set 11|In liquids and gases the current is due to the motion______?|negative charges|positive charges|both negative and positive charges|neutral particles|2|
+Class 10 Physics|Physics|Set 11|An electric iron is marked 20 volts 500W. The units consumed by it in using if for 24 hours will be______?|12|24|5|1100|0|
+Class 10 Physics|Physics|Set 11|Resistance of a wire on increasing its temperature will______?|increase with rise in temperature|decrease with rise in temperature|will remain same|depends upon altitude of experimentation|0|
+Class 10 Physics|Physics|Set 11|Three bulbs are rating 40W 60W and 100W designed to work on 220V mains. Which bulb will burn most brightly if they are connected in series across 220 V mains ?|40 W bulb|60 W blub|100 W blub|all will burn equally brightly|0|
+Class 10 Physics|Physics|Set 11|Internal resistance is the resistance offered by______?|source of EMF|conductor|resistor|capacitor|0|
+Class 10 Physics|Physics|Set 11|Which one is the best material for making connecting wires ?|iron|tungsten|silver|copper|3|
+Class 10 Physics|Physics|Set 11|Resistance of a super conductor is ______?|finite|infinite|zero|changes with every conductor|2|
+Class 10 Physics|Physics|Set 11|How much heat does a 40 W bulb generates in one hour ?|144000J|144J|1.44J|14J|0|
+Class 10 Physics|Physics|Set 11|One kilowatt hour is the amount of energy delivered during ______?|one second|one day|one minute|one hour|3|
+Class 10 Physics|Physics|Set 11|When same current passes for same time through a thick and thin wire______?|more heat is produced in thick wire|more heat is produced in thin wire|no heat is produced in wire|less heat is produced in thick wire|1|
+Class 10 Physics|Physics|Set 11|A wire of uniform area of cross-section A length L and resistance R is cut into two parts. Resistivity of each part ______?|remains the same|is doubled|is halved|becomes zero|0|
+Class 10 Physics|Physics|Set 11|Resistance of a conductor depends upon______?|nature of conductor|dimension of conductor|physical state of the conductor|all of above|3|
+Class 10 Physics|Physics|Set 11|All electrical appliances are connected in parallel to each other between the main line and neutral wire to get ______?|same current|same current and potential difference|different current but same potential difference|different current and potential differences|2|
+Class 10 Physics|Physics|Set 11|Why should a resistance be introduced in a circuit in series deliberately ?|to increase current|to decrease current|to control current|just to give a good look to circuit|1|
+Class 10 Physics|Physics|Set 11|If 1 ampere current flows through 2m long conductor the charge flow through it in 1 hour will be______?|3600C|7200C|1C|2C|0|
+Class 10 Physics|Physics|Set 11|Which one of the following materials is useful for making bulb filaments ?|constantan|nichrome|copper|tungsten|3|
+Class 10 Physics|Physics|Set 11|In the following figure, the terminal potential is ______ ?|zero|2V|12V|36V|0|
+Class 10 Physics|Physics|Set 11|Specific resistance of a wire______?|will depend on its length|will depend on its radius|will depend on the type of material of the wire|will depend on none of the above|2|
+Class 10 Physics|Physics|Set 11|There are three bulbs of 60W 100W and 200W which bulb has thickest filament ?|100W|200W|60W|all|1|
+Class 10 Physics|Physics|Set 11|Circuit which gives continuously varying potential is called ______?|complex network|wheat stone bridge|potential divider|all of above|2|
+Class 10 Physics|Physics|Set 11|Reciprocal of resistivity is called______?|resistance|inductance|conductivity|flexibility|2|
+Class 10 Physics|Physics|Set 11|Resistance of an ideal insulator is ______?|infinite|zero|finite|depends upon nature|0|
+Class 10 Physics|Physics|Set 11|An immersion heater of 400 watts kept on for 5 hours will consume electrical power of ______?|2KWh|20KWh|6KWh|12KWh|0|
+Class 10 Physics|Physics|Set 11|Thermocouples convert______?|heat energy into electrical energy|heat energy into light energy|heat energy into mechanical energy|mechanical energy into heat energy|0|
+Class 10 Physics|Physics|Set 11|Three equal resistors connected in series with a source of e m f together dissipate 10 W of power each. What will be the power dissipated if the same resistors are connected in parallel across the same source of e m f ?|40 W|90W|100W|120W|1|
+Class 10 Physics|Physics|Set 11|Production of heat due to an electric current flowing through a conductor is given by ______?|Joule effect|Joule Thomsons effect|Comptons effect|Feed back effect|0|
+Class 10 Physics|Physics|Set 11|A wire having very high value of conductance is said to be______?|very good conductor|moderately good conductor|an insulator|no specific criterion available|0|
+Class 10 Physics|Physics|Set 11|The current through a metallic conductor is due to the motion of ______?|free electrons|protons|neutrons|still under controversy|0|
+Class 10 Physics|Physics|Set 13|linear expansion occurs in______?|solid|liquid|both|none|0|
+Class 10 Physics|Physics|Set 13|The unit of coefficient of linear expansion or volume expansion is______?|K|K-1|K -2|none|1|
+Class 10 Physics|Physics|Set 13|The formula of inter-conversion of centigrade and Fahrenheit scale is______?|c-32/9|f -32/9 =c/5|f-32/9=c/9|none|1|
+Class 10 Physics|Physics|Set 13|Name the branch of science which deals with the study of sound and sound waves?|Aeronautics|Acoustics|Aerostatics|Aetiology|1|
+Class 10 Physics|Physics|Set 13|Which one of the following is massless?|Proton|Electron|Neutron|Photon|3|
+Class 10 Physics|Physics|Set 13|The first book of Physics was written by______?|Kelvin|Newton|Aristotle|Faraday|2|
+Class 10 Physics|Physics|Set 13|Study of living science relates with______?|Physical science|Biological science|Just living science|Organ science|1|
+Class 10 Physics|Physics|Set 13|The physics of moving charge particles is known as______?|Plasma physics|Electro-static's|Electro-magnetic|Electro-dynamics|3|
+Class 10 Physics|Physics|Set 13|The branch of physics which deals with the living things is called______?|biological sciences|physical sciences|cell systems|elementary physics|0|
+Class 10 Physics|Physics|Set 13|The branch of Physics which deals with properties of gravitational?|Field theory|Acoustics|Hydro dynamic|Optics|0|
+Class 10 Physics|Physics|Set 13|The Branch of Physics deals with highly energetic ions is called______?|Elementary articles|Article physics|Ionic physics|Plasma physics|3|
+Class 10 Physics|Physics|Set 13|The most fundamental of all sciences which provides basic principles and fundamental laws to other branches of science is______?|biology|physics|information technology|chemistry|1|
+Class 10 Physics|Physics|Set 13|Which branch of science plays an important role in engineering?|Biology|Chemistry|Physics|All of these|2|
+Class 10 Physics|Physics|Set 13|Physics is one of the branches of______?|Physical sciences|Biological sciences|Social science|Life sciences branch|0|
+Class 10 Physics|Physics|Set 13|The branch of science which deals with the properties of matter and energy is called______?|Biology|Geography|Physics|Chemistry|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|The initial permeability of an iron rod is______?|the highest permeability of the iron rod|the lowest permeability of the iron rod|the permeability at the end of the iron rod|the permeability almost in non-magnetised state|3|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|The magnetic reluctance of a material______?|decreases with increasing cross sectional area of material|increases with increasing cross-sec-tional area of material|does not vary with increasing cross-sectional area of material|any of the above|0|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|In a simple magnetic field the strength of magnet flux______?|is constant and has same value in energy part of the magnetic field|increases continuously from initial value to final value|decreases continuously from initial value to final value|first increases and then decreases till it becomes zero|3|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|The bar magnet has______?|the dipole moment|monopole moment|A. and B. both|none of the above|0|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|How does the magnetic compass needle behave in a magnetic field ?|It assures a position right angle to magnetic field|It starts rotating|It assures a position which follows a line of magnetic flux|None of the above|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|Which of the following type of materials are not very important for engineering applications ?|Ferromagnetic|Paramagnetic|Diamagnetic|None of the above|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|The stray line of magnetic flux is defined as______?|a line vertical to the flux lines|the mean length of a ring shaped coil|a line of magnetic flux in a non-uniform field|a line of magnetic flux which does not follow the designed path|3|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|Which of the following materials are diamagnetic ?|Silver|Copper|Silver and copper|Iron|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|For which of the following materials the saturation value is the highest ?|Ferromagnetic materials|Paramagnetic materials|Diamagnetic materials|Ferrites|3|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|The attraction capacity of electromagnet will increase if the______?|core length increases i|core area increases|flux density decreases|flux density increases|3|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|Temporary magnets are used in______?|loud-speakers|generators|motors|all of the above|3|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|For which of the following materials the net magnetic moment should be zero ?|Diamagnetic materials|Ferrimagnetic materials|Antiferromagnetic materials|Antiferrimagnetic materials|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|Core of an electromagnet should have______?|low coercivity|high susceptibility|both of the above|none of the above|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|Main causes of noisy solenoid are______?|strong tendency of fan out of laminations at the end caused by repulsion among magnetic lines of force|uneven bearing surface, caused by dirt or uneven wear between moving and stationary parts|both of above|none of the above|2|
+Class 10 Physics|Magnetism and Electromagnetism|Set 05|Magnetism of a magnet can be destroyed by______?|heating|hammering|by inductive action of another magnet|by all above methods|3|
+Class 10 Physics|Electromagnetic Induction|Set 05|The alternating current has frequency of 106 Hz in such a way that time period for completion of cycle is______?|1Hzs|1.5Hzs|106sec|1sec|0|
+Class 10 Physics|Electromagnetic Induction|Set 05|Self inductance of a coil depends upon______?|current flowing|number of turns per unit length|voltage produce|all|3|
+Class 10 Physics|Electromagnetic Induction|Set 05|Energy stored in a magnetic field is given by______?|LI2|L2I/2|LI2/2|IL2|2|
+Class 10 Physics|Electromagnetic Induction|Set 05|For electroplating we use______?|A D.C source|an A.C source|any source|all of the above|0|
+Class 10 Physics|Electromagnetic Induction|Set 05|The only difference between construction of D.C generator and A.C generator is that of______?|carbon brushes|coil|commutator|magnetic field|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|If the secondary coil has Ns turns and the primary Np turns the relation between secondary and primary voltages is given by______?|Vs/Vp = Np/Ns|Vs/Vp = Ns/Np|Vp/Vs = Ns/Np|Vp/Vs = Np/Ns|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|A metal rod of 25 cm length is moving at a speed of 0.5/sec in direction perpendicular to 0.25T magnetic field. Emf produced in the rod is______?|0 volt|3.125 volt|31.25 volt|0.03125 volt|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|The self-inductance of a solenoid is increased when a soft iron core is inserted into it. This is because the soft iron core______?|Decreases the resistance of the solenoid|Reduces the effect of eddy current|Improves the flux linkage between the turns of the coil|Increases the mutual inductance between the solenoid and the core|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|An aeroplane of wingspan 10m flies from the equator towards the North Pole. The wings are perpendicular to the vertical component of the earths magnetic field (B = 4x10-5T). At maximum speed an emf of 96mV is induced across the wing tips. The maximum speed of the aeroplane is______?|150msec-1|384msec-1|38.4msec-1|200msec-1|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Non inductive resistances are used in decreasing______?|Mutual inductance|Self inductance|Magnetic fields|Heating effect|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Which one of the following devices does not function like an electric motor ?|Galvanometer|Ammeter|Voltmeter|Transformer|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|For long distance transmission the transformer used is______?|Step down|Input voltage and output voltage remain same|Step up|Amplifier is used|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|Lagging of changes in the magnetization of a substance behind changes in the magnetic field as the magnetic field is varied is known as magnetic______?|Retaintivity|Permeability|Flux|Hysteresis|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|When the motor is at its maximum speed then back emf will be______?|Maximum|Zero|Intermediate values|No back emf|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|Transformer works on the principle of______?|Lenzs law|Faradays law|Mutual induction|Law of conservation of power|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|An electric current induced within the body of a conductor when that conductor either moves through a non uniform magnetic field or in a region where there is a change in magnetic flux is called______?|Induced current|Eddy current|Back emf|None of the above|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|The out put voltage of a transformer is 3 times the input voltage then turns ratio will be______?|3-Jan|3|1|6|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Long distance transmission is easy for______?|D.C voltage|A.C voltage|Half A.C voltage|Half D.C voltage|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Magnetic compass needle will be deflecting if it is kept near______?|Static charge|Soft iron|Semi-conductor|Accelerating charge|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|A.C can not be used for______?|producing heat|producing light|Magnetizing iron|Producing magnetic field|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|A small coil lies inside a large coil. The two coils are horizontal concentric and carry currents in opposite directions. The large coil will experience______?|A torque about horizontal axis|A torque about vertical axis|An upward force along the axis|No resultant force|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|The emf induced in a conductor of unit length moving with unit velocity at right angles to a magnetic field is equal to______?|Magnetic flux density|Torque|Mutual induction|Motional emf|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|The emf induced in a coil by a changing magnetic flux may have unit as______?|ms-1A|ms-2A-1|kgms2A-1|kgm2s-1A-1|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|Power loss in actual transformer is due to______?|Small output|Eddy currents and magnetic hysterias|Soft iron core|Back emf|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Which of the following uses electric energy and does not convert it into any other form ?|transformer|motor|D.C generator|A.C generator|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|Inductors acts as a short circuit for______?|AC|DC|Both A and B|none of these|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|If the coil is wound on an iron core the flux through it will______?|decrease|become zero|remain the same|increase|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|Which of the following works on torque on the current carrying conductor placed in magnetic field ?|galvanometer|ammeter|voltmeter|all of the above|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|A.C cannot be used for______?|producing heat|producing light|magnetizing and electroplating|all the above|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|Which one of the following functions like a motor ?|galvanometer|ammeter|voltmeter|all of above|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|emf induced in a circuit according to Faradays law depends on the______?|maximum magnetic flux|rate of change of magnetic flux|change in magnetic flux|initial magnetic flux|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Weber is the unit of______?|Magnetic field intensity|magnetic induction|magnetic flux|self-inductance|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|A dynamo converts______?|mechanical energy into electrical energy|electrical energy into mechanical energy|magnetic energy into mechanical energy|magnetic energy into electrical energy|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|cmf generated by A.C dynamo depends upon______?|number of turns in the coil|magnetic field strength|frequency of rotation|all of above|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|Current produced by moving the loop of wire across a magnetic field is called______?|A.C current|D.C current|induced current|mean square current|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|The practical illustration of the phenomenon of mutual induction is______?|A.C generator|D.C dynamo|induction coil|transformer|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|Which circuit element(s) will oppose the change in circuit current ?|Resistance only|Inductance only|Capacitance only|Inductance and capacitance|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|A coil is wound on iron core which carries current I. The self-induced voltage in the coil is not affected by______?|variation in coil current|variation in voltage to the coil|change of number of turns of coil|the resistance of magnetic path|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|A crack in the magnetic path of an inductor will result in______?|unchanged inductance|increased inductance|zero inductance|reduced inductance|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|The co-efficient of coupling between two air core coils depends on______?|self-inductance of two coils only|mutual inductance between two coils only|mutual inductance and self inductance of two coils|none of the above|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|Current changing from 8 A to 12 A in one second induced 20 volts in a coil. The value of inductance is______?|5 mH|10 mH|5 H|10 H|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|A coil induces 350 mV when the current changes at the rate of 1 A/s. The value of inductance is______?|3500 mH|350 mH|250 mH|150 mH|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|Find the force acting on a conductor 3m long carrying a current of 50 amperes at right angles to a magnetic field having a flux density of 0.67 tesla|100 N|400 N|600 N|1000 N|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|An average voltage of 10 V is induced in a 250 turns solenoid as a result of a change in flux which occurs in 0.5 second. The total flux change is______?|20 Wb|2 Wb|0.2 Wb|0.02 Wb|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|Two 300 uH coils in series without mutual coupling have a total inductance of______?|300 uH|600 uH|150 uH|75 uH|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|Which of the fpllowing inductor will have the least eddy current losses ?|Air core|Laminated iron core|Iron core|Powdered iron core|0|
+Class 10 Physics|Electromagnetic Induction|Set 06|A 500 turns solenoid develops an average induced voltage of 60 V. Over what time interval must a flux change of 0.06 Wb occur to produce such a voltage ?|0.01 s|0.1 s|0.5 s|5 s|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|A coil with negligible resistance has 50V across it with 10 mA. The inductive reactance is______?|50 ohms|500 ohms|1000 ohms|5000 ohms|3|
+Class 10 Physics|Electromagnetic Induction|Set 06|A conductor carries 125 amperes of current under 60 deg to a magnetic field of 1.1 tesla. The force on the conductor will be nearly______?|50 N|120 N|240 N|480 N|1|
+Class 10 Physics|Electromagnetic Induction|Set 06|A conductor 2 meters long moves at right angles to a magnetic field of flux density 1 tesla with a velocity of 12.5 m/s. The induced e.m.f. in the conductor will be______?|10 V|15 V|25V|50V|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|Two coils have self-inductances of 10 H and 2 H, the mutual inductance being zero. If the two coils are connected in series, the total inductance will be______?|6 H|8 H|12 H|24 H|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|Lenz's law is a consequence of the law of conservation of______?|induced current|charge|energy|induced e.m.f.|2|
+Class 10 Physics|Electromagnetic Induction|Set 06|In case all the flux from the current in coil 1 links with coil 2, the co-efficient of coupling will be______?|2.0|1.0|0.5|zero|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|A 200 turn coil has an inductance of 12 mH. If the number of turns is increased to 400 turns, all other quantities (area, length etc.) remaining the same, the inductance will be______?|6 mH|14 mH|24 mH|48 mH|3|
+Class 10 Physics|Electromagnetic Induction|Set 07|The self inductances of two coils are 8 mH and 18 mH. If the co-efficients of coupling is 0.5, the mutual inductance of the coils is______?|4 mH|5 mH|6 mH|12 mH|2|
+Class 10 Physics|Electromagnetic Induction|Set 07|In case of an inductance, current is proportional to______?|voltage across the inductance|magnetic field|both A. and B.|neither (A) nor (B)|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|For a purely inductive circuit which of the following is true ?|Apparent power is zero|Relative power is.zero|Actual power of the circuit is zero|Any capacitance even if present in the circuit will not be charged|2|
+Class 10 Physics|Electromagnetic Induction|Set 07|An e.m.f. of 16 volts is induced in a coil of inductance 4H. The rate of change of current must be______?|64 A/s|32 A/s|16 A/s|4 A/s|3|
+Class 10 Physics|Electromagnetic Induction|Set 07|Two coils have inductances of 8 mH and 18 mH and a co-efficient of coupling of 0.5. If the two coils are connected in series aiding, the total inductance will be______?|32 mH|38 mH|40 mH|48 mH|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|The core of a coil has a length of 200 mm. The inductance of coil is 6 mH. If the core length is doubled, all other quantities, remaining the same, the inductance will be______?|3 mH|12 mH|24mH|48mH|0|
+Class 10 Physics|Electromagnetic Induction|Set 07|Which of the following is unit of inductance ?|Ohm|Henry|Ampere turns|Webers/metre|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|Which of the following circuit elements will oppose the change in circuit current ?|Capacitance|Inductance|Resistance|All of the above|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|A laminated iron core has reduced eddy-current losses because______?|more wire can be used with less D.C. resistance in coil|the laminations are insulated from each other|the magnetic flux is concentrated in the air gap of the core|the laminations are stacked vertfcally|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|The magnitude of the induced e.m.f. in a conductor depends on the______?|flux density of the magnetic field|amount of flux cut|amount of flux linkages|rate of change of flux-linkages|3|
+Class 10 Physics|Electromagnetic Induction|Set 07|Which of the following is not a unit of inductance ?|Henry|Coulomb/volt ampere|Volt second per ampere|All of the above|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|Mutually inductance between two magnetically-coupled coils depends on______?|permeability of the core|the number of their turns|cross-sectional area of their common core|all of the above|3|
+Class 10 Physics|Electromagnetic Induction|Set 07|The law that the induced e.m.f. and current always oppose the cause producing them is due to______?|Faraday|Lenz|Newton|Coulomb|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|If current in a conductor increases then according to Lenz's law self-induced voltage will______?|aid the increasing current|tend to decrease the amount of cur-rent|produce current opposite to the in-creasing current|aid the applied voltage|2|
+Class 10 Physics|Electromagnetic Induction|Set 07|Air-core coils are practically free from______?|hysteresis losses|eddy current losses|both (A) and (B)|none of the above|2|
+Class 10 Physics|Electromagnetic Induction|Set 07|The property of coil by which a counter e.m.f. is induced in it when the current through the coil changes is known as______?|self-inductance|mutual inductance|series aiding inductance|capacitance|0|
+Class 10 Physics|Electromagnetic Induction|Set 07|The direction of induced e.m.f. can be found by______?|Laplace's law|Lenz's law|Fleming's right hand rule|Kirchhoff s voltage law|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|An open coil has______?|zero resistance and inductance|infinite resistance and zero inductance|infinite resistance and normal inductance|zero resistance and high inductance|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|The inductance of a coil will increase under all the following conditions except______?|when more length for the same number of turns is provided|when the number of turns of the coil increase|when more area for each turn is provided|when permeability of the core increases|0|
+Class 10 Physics|Electromagnetic Induction|Set 07|As per Faraday's laws of electromagnetic induction, an e.m.f. is induced in a conductor whenever it______?|lies perpendicular to the magnetic flux|lies in a magnetic field|cuts magnetic flux|moves parallel to the direction of the magnetic field|2|
+Class 10 Physics|Electromagnetic Induction|Set 07|In an iron cored coil the iron core is removed so that the coil becomes an air cored coil. The inductance of the coil will______?|increase|decrease|remain the same|initially increase and then decrease|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|Both the number of turns and the core length of an inductive coil are doubled. Its self-inductance will be______?|unaffected|doubled|halved|quadrupled|1|
+Class 10 Physics|Electromagnetic Induction|Set 07|Higher the self-inductance of a coil______?|lesser its weber-turns|lower the e.m.f. induced|greater the flux produced by it|longer the delay in establishing steady current through it|3|
+Class 10 Physics|Electromagnetic Induction|Set 07|Which of the following circuit element stores energy in the electromagnetic field ?|Inductance|Condenser|Variable resistor|Resistance|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|In a series L-C circuit at the resonant frequency the______?|current is maximum|current is minimum|impedance is maximum|voltage across C is minimum|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|In any A.C. circuit always______?|apparent power is more than actual power|reactive power is more than apparent power|actual power is more than reactive power|reactive power is more than actual power|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Time constant of a capacitive circuit______?|increases with the decrease of capacitance and decrease of resistance|increases with the decrease of capacitance and increase of resistance|increases with the increase of capacitance and decrease of resistance|increase with increase of capacitance and increase of resistance|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Inductance of coil______?|is unaffected by the supply frequency|decreases with the increase in supply frequency|increases with the increase in supply frequency|becomes zero with the increase in supply frequency|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|In a purely inductive circuit______?|actual power is zero|reactive power is zero|apparent power is zero|none of above is zero|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Time constant of an inductive circuit______?|increases with increase of inductance and decrease of resistance|increases with the increase of inductance and the increase of resistance|increases with the decrease of inductance and decrease of resistance|increases with decrease of inductance and increase of resistance|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Magnitude of current at resonance in R-L-C circuit______?|depends upon the magnitude of R|depends upon the magnitude of L|depends upon the magnitude of C|depends upon the magnitude of R, Land C|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|The time constant of a series R-C circuit is given by______?|R/C|RC2|RC|R2C|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Pure inductive circuit takes power from the A.C. line when______?|applied voltage decreases but current increases|applied voltage increases but current decreases|both applied voltage and current increase|both applied voltage and current decrease|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Which of the following circuit component opposes the change in the circuit voltage ?|Inductance|Capacitance|Conductance|Resistance|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Power factor of electric bulb is______?|zero|lagging|leading|unity|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Time constant of a circuit is the time in seconds taken after the application of voltage to each______?|25% of maximum value|50% of maximum value|63% of maximum value|90% of the maximum value|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|The safest value of current the human body can carry for more than 3 second is______?|4 mA|9 mA|15 mA|25 mA|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|If resistance is 20 Q. and inductance is 27 in a R-L series circuit, then time constant of this circuit will be______?|0.001 s|0.1 s|10 s|100 s|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|If a sinusoidal wave has frequency of 50 Hz with 30 A r.m.s. current which of the following equation represents this wave______ ?|42.42 sin 3141|60 sin 25 t|30 sin 50 t|84.84 sin 25 t|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|Which of the following coil will have large resonant frequency ______?|A coil with large resistance|A coil with low resistance|A coil with large distributed capacitance|A coil with low distributed capacitance|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|In an AC. circuit, a low value of kVAR compared with kW indicates______?|low efficiency|high power factor|unity power factor|maximum load current|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|The input of an A.C. circuit having power factor of 0.8 lagging is 40 kVA The power drawn by the circuit is______?|12 kW|22 kW|32 kW|64 kW|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|A pure inductance connected across 250 V, 50 Hz supply consumes 100 W. This consumption can be attributed to______?|the big size of the inductor|the reactance of the inductor|the current flowing in the inductor|the statement given is false|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|The effective resistance of an iron-cored choke working on ordinary supply frequency is more than its true resistance because of______?|iron loss in core|skin effect|increase in temperature|capacitive effect between adjacent coil turns|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|The ratio of active power to apparent power is known as factor______?|demand|load|power|form|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|The apparent power drawn by an A.C. circuit is 10 kVA and active power is 8 kW. The reactive power in the circuit is______?|4 kVAR|6 kVAR|8 kVAR|16 kVAR|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|A parallel AC. circuit in resonance will______?|have a high voltage developed across each inductive and capacitive section|have a high impedance|act like a resistor of low value|have current in each section equal to the line current|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|In AC. circuits, laminated iron is invariably used in order to______?|reduce eddy current loss|increase heat radiation|make assembly cheap and easier|reduce circuit permeability|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 07|All definitions of power factor of a series R-L-C circuit are correct except______?|ratio of net reactance and impedance|ratio of kW and kVA|ratio of J and Z|ratio of W and VA|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The purpose of a parallel circuit resonance is to magnify______?|current|voltage|power|frequency|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Wire-wound resistors are unsuitable for use at high frequencies because they______?|create more electrical noise|are likely to melt under excessive eddy current heat|consume more power|exhibit unwanted inductive and capacitive effects|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Aphasoris______?|a line which represents the magnitude and phase of an alternating quantity|a line representing the magnitude and direction of an alternating quantity|a coloured tag or band for distinction between different phases of a 3-phase supply|an instrument used for measuring phases of an unbalanced 3-phase load|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Capacitive susceptance is a measure of______?|reactive power in a circuit|the extent of neutralisation of reactive power in a circuit|a purely capacitive circuit's ability to pass current|a purely capacitive circuit's ability to resist the flow of current|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|What will be the phase angle between two alternating waves of equal frequency, when one wave attains maximum value the other is at zero value______ ?|0 deg|45 deg|90 deg|180 deg|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a parallel R-C circuit, the current always______the applied voltage?|lags|leads|remains in phase with|none of the above|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Which of the following refers to a parallel circuit ?|The current through each element is same|The voltage across element is in proportion to it's resistance value|The equivalent resistance is greater than any one of the resistors|The current through any one element is less than the source current|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a sine wave the slope is constant______?|between 0 deg and 90 deg|between 90 deg and 180 deg|between 180 deg and 270 deg|no where|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In an A.C. circuit power is dissipated in______?|resistance only|inductance only|capacitance only|none of the above|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Skin effect occurs when a conductor carries current at______ frequencies|very low|low|medium|high|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The power is measured in terms of decibles in case of______?|electronic equipment|transformers|current transformers|auto transformers|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|At ______ frequencies the parallel R-L circuit behaves as purely resistive|low|very low|high|very high|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|At very low frequencies a series R-C circuit behaves as almost purely______?|resistive|inductive|capacitive|none of the above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The frequency of domestic power supply in Pakistan is______?|200 Hz|100 Hz|60 Hz|50 Hz|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a three-phase supply floating neutral is undesirable because it way give rise to______?|high voltage across the load|low voltage across the load|unequal line voltages across the load|minimun voltage across the load|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The r.m.s. value of half wave rectified sine wave is 200 V. The r.m.s. value of full wave rectified AC. will be______?|282.8 V|141.4 V|111 V|100 V|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Which of the following waves has the highest value of peak factor ______?|Square wave|Sine wave|Half wave rectified sine wave|Triangular wave|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The inductance of a coil can be increased by______?|increasing core length|decreasing the number of turns|decreasing the diameter of the former|choosing core material having high relative permeability|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The phosphors for which of the following pair are 180 deg out of phase for VL, VC and VR______?|Vc and VR|VL and VR|Vc and VL|none of the above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The r.m.s. value of pure cosine function is______?|0.5 of peak value|0.707 of peak value|same as peak value|zero|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Ohm is unit of all of the following except______?|inductive reactance|capacitive reactance|resistance|capacitance|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The equation of 50 Hz current sine wave having r.m.s. value of 60 A is______?|60 sin 25 t|60 sin 50 t|84.84 sin 3141|42.42 sin 314 t|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The power factor of a D.C. circuit is always______?|less than unity|unity|greater than unity|zero|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a pure inductive circuit if the supply frequency is reduced to 1/2, the current will______?|be reduced by half|be doubled|be four times as high|be reduced to one fourth|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a pure capacitive circuit if the supply frequency is reduced to 1/2, the current will______?|be reduced by half|be doubled|be four times at high|be reduced to one fourth|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|An A.C. voltage is impressed across a pure resistance of 3.5 ohms in parallel with a pure inductance of impedance of 3.5 ohms?|the current through the resistance is more|the current through the resistance is less|both resistance and inductance carry equal currents|none of the above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The product of apparent power and cosine of the phase angle between circuit voltage and current is|true power|reactive power|volt-amperes|instantaneous power|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|A pure capacitor connected across an A.C. voltage consumed 50 W. This is due to______?|the capacitive reactance in ohms|the current flowing in capacitor|the size of the capacitor being quite big|the statement is incorrect|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|When an alternating current passes through an ohmic resistance the electrical power converted into heat is______?|apparent power|true power|reactive power|none of the above|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In each of the three coils of a three phase generator, an alternating voltage having an r.m.s. value of 220 V is induced. Which of the following values is indicated by the voltmeters ______?|220 V|220V3V|220/V3 V|none of the above|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The power factor at resonance in R-L- C parallel circuit is______?|zero|0.08 lagging|0.8 leading|unity|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a pure inductive circuit______?|the current is in phase with the voltage|the current lags behind the voltage by 90 deg|the current leads the voltage by 90 deg|the current can lead or lag by 90 deg|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In the case of an unsymmetrical alternating current the average value must always be taken over______?|unsymmetrical part of the wave form|the quarter cycle|the half cycle|the whole cycle|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The transient currents are associated with the______?|changes in the stored energy in the inductors and capacitors|impedance of the circuit|applied voltage to the circuit|resistance of the circuit|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a pure resistive circuit______?|current lags behind the voltage by 90 deg|current leads the voltage by 90 deg|current can lead or lag the voltage by 90 deg|current is in phase with the voltage|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a circuit containing R, L and C, power loss can take place in______?|C only|L only|R only|all above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The r.m.s. value of alternating current is given by steady (D.C.) current which when flowing through a given circuit for a given time produces______?|the more heat than produced by A.C. when flowing through the same circuit|the same heat as produced by A.C. when flowing through the same circuit|the less heat than produced by A.C. flowing through the same circuit|none of the above|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The time constant of the capacitance circuit is defined as the time during which voltage______?|falls to 36.8% of its final steady value|rises to 38.6% of its final steady value|rises to 63.2% of its final steady value|none of the above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The square waveform of current has following relation between r.m.s. value and average value?|r.m.s. value is equal to average value|r.m.s. value of current is greater than average value|r.m.s. value of current is less than average value|none of the above|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a loss-free R-L-C circuit the transient current is______?|oscillating|square wave|sinusoidal|non-oscillating|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Power factor of the system is kept high______?|to reduce line losses|to maximise the utilization of the capacities of generators, lines and transformers|to reduce voltage regulation of the line|due to all above reasons|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Power factor of the following circuit will be zero______?|resistance|inductance|capacitance|both B. and C.|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Pure inductive circuit______?|consumes some power on average|does not take power at all from a line|takes power from the line during some part of the cycle and then returns back to it during other part of the cycle|none of the above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In a highly capacitive circuit the______?|apparent power is equal to the actual power|reactive power is more than the apparent power|reactive power is more than the actual power|actual power is more than its reactive power|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|In series resonant circuit, increasing inductance to its twice value and reducing capacitance to its half value______?|will change the maximum value of current at resonance|will change the resonance frequency|will change the impedance at resonance frequency|will increase the selectivity of the circuit|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Capacitive reactance is more when______?|capacitance is less and frequency of supply is less|capacitance is less and frequency of supply is more|capacitance is more and frequency of supply is less|capacitance is more and frequency of supply is more|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|For a frequency of 200 Hz, the time period will be______?|0.05 s|0.005 s|0.0005 s|0.5 s|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Capacitors for power factor correction are rated in______?|kW|kVA|kV|kVAR|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|The r.m.s. value of a sinusoidal A.C. current is equal to its value at an angle of______degrees?|90|60|45|30|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 08|Form Factor is the ratio of______?|average value/r.m.s. value|average value/peak value|r.m.s. value/average value|r.m.s. value/peak value|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|For a sine wave with peak value Emax ______ 8.30. the average value is?|0.636 Emax|0.707 Emax|0.434 EWc|lAUEmax|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|For a sine wave with peak value Imax the r.m.s. value is______?|0.5 Imax|0.707|0.9|1.414 Lmax|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|Form factor for a sine wave is______?|1.414|0.707|1.11|0.637|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The r.m.s. value and mean value is the same in the case of______?|triangular wave|sine wave|square wave|half wave rectified sine wave|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|For the same peak value, which of the following wave has the least mean value ?|half wave rectified sine wave|triangular wave|sine wave|square wave|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|Two waves of the same frequency have opposite phase when the phase angle between them is______?|360 deg|180 deg|90 deg|0 deg|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|A heater is rated as 230 V, 10 kW, A.C. The value 230 V refers to______?|average voltage|r.m.s. voltage|peak voltage|none of the above|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The voltage of domestic supply is 220V. This figure represents______?|mean value|r.m.s. value|peak value|average value|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|If two sinusoids of the same frequency but of different amplitudes and phase angles are subtracted, the resultant is______?|a sinusoid of the same frequency|a sinusoid of half the original frequency|a sinusoid of double the frequency|not a sinusoid|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The reactance offered by a capacitor to alternating current of frequency 50 Hz is 20 Q. If frequency is increased to 100 Hz, reactance becomes______ohms?|2.5|5|10|15|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The period of a wave is______?|the same as frequency|time required to complete one cycle|expressed in amperes|none of the above|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The form factor is the ratio of______?|peak value to r.m.s. value|r.m.s. value to average value|average value to r.m.s. value|none of the above|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|A sine wave has a frequency of 50 Hz. Its angular frequency is ______ radian/second.|100 n|50 jt|25 JT|5 n|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The double energy transient occur in the______?|purely inductive circuit|R-L circuit|R-C circuit|R-L-C circuit|3|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|Power factor of the following circuit will be unity|inductance|capacitance|resistance|both A. and B.|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|Power factor of an inductive circuit is usually improved by connecting capacitor to it in______?|parallel|series|either A. or (b)|none of the above|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|All the rules and laws of D.C. circuit also apply to A.C. circuit containing______?|capacitance only|inductance only|resistance only|all above|2|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The best place to install a capacitor is______?|very near to inductive load|across the terminals of the inductive load|far away from the inductive load|any where|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|In a series resonant circuit, the impedance of the circuit is______?|minimum|maximum|zero|none of the above|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The phase difference between voltage and current wave through a circuit element is given as 30 deg . The essential condition is that|both waves must have same frequency|both waves must have identical peak values|both waves must have zero value at the same time|none of the above|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|For the same peak value which of the following wave will 'have the highest r.m.s. value?|square wave|half wave rectified sine wave|triangular wave|sine wave|0|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The peak value of a sine wave is 200 V. Its average value is______?|127.4 V|141.4 V|282.8 V|200V|1|
+Class 10 Physics|A.C. Fundamentals, Circuits and Circuit Theory|Set 09|The period of a sine wave is ______ seconds. Its frequency is|20 Hz|30 Hz|40 Hz|50 Hz|3|
+Class 10 Physics|Basic Electrical|Set 09|One newton meter is same as______?|one watt|one joule|five joules|one joule second|1|
+Class 10 Physics|Basic Electrical|Set 09|Conductance : mho :: ______?|resistance : ohm|capacitance : henry|inductance : farad|lumen : steradian|0|
+Class 10 Physics|Basic Electrical|Set 09|Which of the following can have negative temperature coefficient ______?|Compounds of silver|Liquid metals|Metallic alloys|Electrolytes|3|
+Class 10 Physics|Basic Electrical|Set 09|When a voltage of one volt is applied, a circuit allows one micro ampere current to flow through it. The conductance of the circuit is______?|1 n-mho|106 mho|1 milli-mho|none of the above|0|
+Class 10 Physics|Basic Electrical|Set 09|Nichrome wire is an alloy of______?|lead and zinc|chromium and vanadium|nickel and chromium|copper and silver|2|
+Class 10 Physics|Basic Electrical|Set 09|If/, R and t are the current, resistance and time respectively, then according to Joule's law heat produced will be proportional to______?|I2Rt|I2Rf|I2R2t|I2R2t*|0|
+Class 10 Physics|Basic Electrical|Set 09|A thermistor has______?|positive temperature coefficient|negative temperature coefficient|zero temperature coefficient|variable temperature coefficient|2|
+Class 10 Physics|Basic Electrical|Set 09|With three resistances connected in parallel, if each dissipates 20 W the total power supplied by the voltage source equals______?|10 W|20 W|40 W|60 W|3|
+Class 10 Physics|Basic Electrical|Set 09|The number of electrons in the outer most orbit of carbon atom is______?|3|4|6|7|1|
+Class 10 Physics|Basic Electrical|Set 09|Voltage dependent resistors are used______?|for inductive circuits|to supress surges|as heating elements|as current stabilizers|1|
+Class 10 Physics|Basic Electrical|Set 09|Voltage dependent resistors are usually made from______?|Charcoal|Silicon Carbide|Nichrome|Graphite|1|
+Class 10 Physics|Basic Electrical|Set 09|All good conductors have high______?|conductance|resistance|reluctance|thermal conductivity|0|
+Class 10 Physics|Basic Electrical|Set 09|are the materials having electrical conductivity much less than most of the metals but much greater than that of typical insulators______?|Varistors|Thermistor|Semi-conductors|Variable resistors|2|
+Class 10 Physics|Basic Electrical|Set 09|An open resistor, when checked with an ohm-meter reads______?|zero|infinite|high but within tolerance|low but not zero|1|
+Class 10 Physics|Basic Electrical|Set 09|A rheostat differs from potentiometer in the respect that it______?|has lower wattage rating|has higher wattage rating|has large number of turns|offers large number of tapping|1|
+Class 10 Physics|Basic Electrical|Set 09|The condition for the validity under Ohm's law is that______?|resistance must be uniform|current should be proportional to the size of the resistance|resistance must be wire wound type|temperature at positive end should be more than the temperature at negative end|0|
+Class 10 Physics|Basic Electrical|Set 09|When current flows through heater coil it glows but supply wiring does not glow because______?|current through supply line flows at slower speed|supply wiring is covered with insulation layer|resistance of heater coil is more than the supply wires|supply wires are made of superior material|2|
+Class 10 Physics|Basic Electrical|Set 09|Temperature co-efficient of resistance is expressed in terms of______?|ohms/ deg C|mhos/ohm deg C|ohms/ohm deg C|mhos/ deg C|2|
+Class 10 Physics|Basic Electrical|Set 09|Two copper conductors have equal length. The cross-sectional area of one conductor is four times that of the other. If the conductor having smaller cross-sectional area has a resistance of 40 ohms the resistance of other conductor will be______?|160 ohms|80 ohms|20 ohms|10 ohms|3|
+Class 10 Physics|Basic Electrical|Set 09|Ohm's law is not applicable to______?|semi-conductors|D. C. circuits|small resistors|high currents|0|
+Class 10 Physics|Basic Electrical|Set 09|Which method can be used for absolute measurement of resistances ______?|Lorentz method|Releigh method|Ohm's law method|Wheatstone bridge method|0|
+Class 10 Physics|Basic Electrical|Set 09|Three 6 ohm resistors are connected to form a triangle. What is the resistance between any two corners ______?|3/2 Q|6 Q|4 Q|8/3 Q|2|
+Class 10 Physics|Basic Electrical|Set 09|Three identical resistors are first connected in parallel and then in series. The resultant resistance of the first combination to the second will be______?|9 times|1/9 times|1/3 times|3 times|1|
+Class 10 Physics|Basic Electrical|Set 09|International ohm is defined in terms of the resistance of______?|a column of mercury|a cube of carbon|a cube of copper|the unit length of wire|0|
+Class 10 Physics|Basic Electrical|Set 09|A substance whose molecules consist of dissimilar atoms is called______?|semi-conductor|super-conducto|compound|insulator|2|
+Class 10 Physics|Basic Electrical|Set 09|A field of force can exist only between______?|two molecules|two ions|two atoms|two metal particles|1|
+Class 10 Physics|Basic Electrical|Set 09|When resistance element of a heater fuses and then we reconnect it after removing a portion of it, the power of the heater will______?|decrease|increase|remain constant|none of the above|1|
+Class 10 Physics|Basic Electrical|Set 10|Copper wire of certain length and resistance is drawn out to three times its length without change in volume, the new resistance of wire becomes______?|1/9 times|3 times|9 times|unchanged|2|
+Class 10 Physics|Basic Electrical|Set 10|74. Sparking occurs when a load is switched off because the circuit has high______?|resistance|inductance|capacitance|impedance|1|
+Class 10 Physics|Basic Electrical|Set 10|Switching of a lamp in house produces noise in the radio. This is because switching operation produces______?|arcs across separating contacts|mechanical noise of high intensity|both mechanical noise and arc between contacts|none of the above|0|
+Class 10 Physics|Basic Electrical|Set 10|For testing appliances, the wattage of test lamp should be______?|very low|low|high|any value|2|
+Class 10 Physics|Basic Electrical|Set 10|Bulbs in street lighting are all connected in______?|parallel|series|series-parallel|end-to-end|0|
+Class 10 Physics|Basic Electrical|Set 10|When electric current passes through a bucket full of water, lot of bubbling is observeD. This suggests that the type of supply is______?|A. C.|D. C.|any of above two|none of the above|1|
+Class 10 Physics|Basic Electrical|Set 10|In the case of direct current______?|magnitude and direction of current remains constant|magnitude and direction of current changes with time|magnitude of current changes with time|magnitude of current remains constant|0|
+Class 10 Physics|Basic Electrical|Set 10|Two lamps 100 W and 40 W are connected in series across 230 V (alternating). Which of the following statement is correct ?|100 W lamp will glow brighter|40 W lamp will glow brighter|Both lamps will glow equally bright|40 W lamp will fuse|1|
+Class 10 Physics|Basic Electrical|Set 10|In a lamp load when more than one lamp are switched on the total resistance of the load______?|increases|decreases|remains same|none of the above|1|
+Class 10 Physics|Basic Electrical|Set 10|When one leg of parallel circuit is opened out the total current will______?|reduce|increase|decrease|become zero|2|
+Class 10 Physics|Basic Electrical|Set 10|It becomes more difficult to remove______?|any electron from the orbit|first electron from the orbit|second electron from the orbit|third electron from the orbit|3|
+Class 10 Physics|Basic Electrical|Set 10|Whether circuit may be AC. or D. C. one, following is most effective in reducing the magnitude of the current?|Reactor|Capacitor|Inductor|Resistor|3|
+Class 10 Physics|Basic Electrical|Set 10|A glass rod when rubbed with silk cloth is charged because______?|it takes in proton|its atoms are removed|it gives away electrons|it gives away positive charge|2|
+Class 10 Physics|Basic Electrical|Set 10|Two bulbs of 500 W and 200 W rated at 250 V will have resistance ratio as______?|4 : 25|25 : 4|2 : 5|5 : 2|2|
+Class 10 Physics|Basic Electrical|Set 10|When electric current passes through a metallic conductor, its temperature rises. This is due to______?|collisions between conduction electrons and atoms|the release of conduction electrons from parent atoms|mutual collisions between metal atoms|mutual collisions between conducting electrons|0|
+Class 10 Physics|Basic Electrical|Set 10|Resistance of a material always decreases if______?|temperature of material is decreased|temperature of material is increased|number of free electrons available become more|none of the above is correct|2|
+Class 10 Physics|Basic Electrical|Set 10|An electric filament bulb can be worked from______?|D. C. supply only|A. C. supply only|Battery supply only|All above|3|
+Class 10 Physics|Basic Electrical|Set 10|In an electric kettle water boils in 10 m minutes. It is required to boil the boiler in 15 minutes, using same supply mains______?|length of heating element should be decreased|length of heating element should be increased|length of heating element has no effect on heating if water|none of the above|0|
+Class 10 Physics|Basic Electrical|Set 10|A 40 W bulb is connected in series with a room heater. If now 40 W bulb is replaced by 100 W bulb, the heater output will______|decrease|increase|remain same|heater will burn out|1|
+Class 10 Physics|Basic Electrical|Set 10|Which of the following quantities remain the same in all parts of a series circuit ______?|Voltage|Current|Power|Resistance|1|
+Class 10 Physics|Basic Electrical|Set 10|The thickness of insulation provided on the conductor depends on______?|the magnitude of voltage on the conductor|the magnitude of current flowing through it|both A. and (b)|none of the above|0|
+Class 10 Physics|Basic Electrical|Set 10|The insulation on a current carrying conductor is provided______?|to prevent leakage of current|to prevent shock|both of above factors|none of above factors|2|
+Class 10 Physics|Basic Electrical|Set 10|The hot resistance of the bulb's filament is higher than its cold resistance because the temperature co-efficient of the filament is______?|zero|negative|positive|about 2 ohms per degree|2|
+Class 10 Physics|Basic Electrical|Set 10|A closed switch has a resistance of______?|zero|about 50 ohms|about 500 ohms|infinity|0|
+Class 10 Physics|Basic Electrical|Set 10|Two resistances Rl and Ri are connected in series across the voltage source where Rl>Ri. The largest drop will be across______?|Rl|Ri|either Rl or Ri|none of them|0|
+Class 10 Physics|Basic Electrical|Set 10|The four bulbs of 40 W each are connected in series swift a battery across them, which of the following statement is true______?|The current through each bulb in same|The voltage across each bulb is not same|The power dissipation in each bulb is not same|None of the above|0|
+Class 10 Physics|Basic Electrical|Set 10|Three 60 W bulbs are in parallel across the 60 V power line. If one bulb burns open______?|there will be heavy current in the main line|rest of the two bulbs will not light|all three bulbs will light|the other two bulbs will light|3|
+Class 10 Physics|Basic Electrical|Set 10|If a wire conductor of 0.2 ohm resistance is doubled in length, its resistance becomes______?|0.4 ohm|0.6 ohm|0.8 ohm|1.0 ohm|0|
+Class 10 Physics|Basic Electrical|Set 10|If a parallel circuit is opened in the main line, the current______?|increases in the branch of the lowest resistance|increases in each branch|is zero in all branches|is zero in the highest resistive branch|2|
+Class 10 Physics|Basic Electrical|Set 10|The resistance of a few meters of wire conductor in closed electrical circuit is______?|practically zero|low|high|very high|0|
+Class 10 Physics|Basic Electrical|Set 10|A 3 Q resistor having 2 A current will dissipate the power of______?|2 watts|4 watts|6 watts|12 watts|3|
+Class 10 Physics|Basic Electrical|Set 10|The filament of an electric bulb is made of______?|carbon|aluminium|tungsten|nickel|2|
+Class 10 Physics|Basic Electrical|Set 10|In a series circuit with unequal resistances______?|the highest resistance has the most of the current through it|the lowest resistance has the highest voltage drop|the lowest resistance has the highest current|the highest resistance has the highest voltage drop|3|
+Class 10 Physics|Basic Electrical|Set 10|The rating of a fuse wire is always expressed in______?|ampere-hours|ampere-volts|kWh|amperes|3|
+Class 10 Physics|Basic Electrical|Set 10|Insulating materials have the function of______?|preventing a short circuit between conducting wires|preventing an open circuit between the voltage source and the load|conducting very large currents|storing very high currents|1|
+Class 10 Physics|Basic Electrical|Set 10|Varistors are______?|insulators|non-linear resistors|carbon resistors|resistors with zero temperature coefficient|1|
+Class 10 Physics|Basic Electrical|Set 10|Which one of the following does not have negative temperature co-efficient ______?|Aluminium|Paper|Rubber|Mica|0|
+Class 10 Physics|Basic Electrical|Set 10|A resistance having rating 10 ohms, 10 W is likely to be a______?|metallic resistor|carbon resistor|wire wound resistor|variable resistor|2|
+Class 10 Physics|Basic Electrical|Set 10|All of the following are equivalent to watt except______?|(amperes) ohm|joules/seC.|amperes x volts|amperes/volt|3|
+Class 10 Physics|Basic Electrical|Set 10|For which of the following 'ampere second' could be the unit ?|Reluctance|Charge|Power|Energy|1|
+Class 10 Physics|Basic Electrical|Set 10|Which is the best conductor of electricity ______?|Iron|Silver|Copper|Carbon|1|
+Class 10 Physics|Basic Electrical|Set 10|Which of the following materials has a negative temperature co-efficient of resistance?|Copper|Aluminum|Carbon|Brass|2|
+Class 10 Physics|Basic Electrical|Set 10|Which of the following statement is true both for a series and a parallel D. C. circuit?|Elements have individual currents|Currents are additive|Voltages are additive|Power are additive|3|
+Class 10 Physics|Basic Electrical|Set 10|Two resistors are said to be connected in series when______?|same current passes in turn through both|both carry the same value of current|total current equals the sum of branch currents|sum of IR drops equals the applied e.m.f.|0|
+Class 10 Physics|Basic Electrical|Set 10|You have to replace 1500 Q resistor in radio. You have no 1500 Q resistor but have several 1000 Q ones which you would connect______?|two in parallel|two in parallel and one in series|three in parallel|three in series|1|
+Class 10 Physics|Basic Electrical|Set 10|Which of the following material has nearly zero temperature co-efficient of resistance______?|Manganin|Porcelain|Carbon|Copper|0|
+Class 10 Physics|Basic Electrical|Set 10|Current velocity through a copper conductor is______?|the same as propagation velocity of electric energy|independent of current strength|of the order of a few ^.s/m|nearly 3 x 108 m/s|2|
+Class 10 Physics|Basic Electrical|Set 10|A current of 16 amperes divides between two branches in parallel of resistances 8 ohms and 12 ohms respectively. The current in each branch is______?|6.4 A, 6.9 A|6.4 A, 9.6 A|4.6 A, 6.9 A|4.6 A, 9.6 A|1|
+Class 10 Physics|Basic Electrical|Set 10|The resistance of a parallel circuit consisting of two branches is 12 ohms. If the resistance of one branch is 18 ohms, what is the resistance of the other ?|18 Q|36 Q|48 Q|64 Q|1|
+Class 10 Physics|Basic Electrical|Set 10|A light bulb draws 300 mA when the voltage across it is 240 V. The resistance of the light bulb is______?|400 Q|600 Q|800 Q|1000 Q|2|
+Class 10 Physics|Basic Electrical|Set 11|In a circuit a 33 Q resistor carries a current of 2 A. The voltage across the resistor is|33 V|66 v|80 V|132 V|1|
+Class 10 Physics|Basic Electrical|Set 11|An instrument which detects electric current is known as______?|voltmeter|rheostat|wattmeter|galvanometer|3|
+Class 10 Physics|Basic Electrical|Set 11|With rise in temperature the resistance of semi-conductors______?|decreases|increases|first increases and then decreases|remains constant|0|
+Class 10 Physics|Basic Electrical|Set 11|With rise in temperature the resistance of pure metals______?|increases|decreases|first increases and then decreases|remains constant|0|
+Class 10 Physics|Basic Electrical|Set 11|The resistance of a conductor varies inversely as______?|length|area of cross-section|temperature|resistivity|1|
+Class 10 Physics|Basic Electrical|Set 11|Conductance is reciprocal of______?|resistance|inductance|reluctance|capacitance|0|
+Class 10 Physics|Basic Electrical|Set 11|The property of a conductor due to which it passes current is called______?|resistance|reluctance|conductance|inductance|2|
+Class 10 Physics|Basic Electrical|Set 11|Out of the following which is an insulating material______?|Copper|Gold|Silver|Paper|3|
+Class 10 Physics|Basic Electrical|Set 11|Out of the following which is not a poor conductor______?|Cast iron|Copper|Carbon|Tungsten|1|
+Class 10 Physics|Basic Electrical|Set 11|The substances which have a large number of free electrons and offer a low resistance are called______?|insulators|inductors|semi-conductors|conductors|3|
+Class 10 Physics|Basic Electrical|Set 11|Electric pressure is also called______?|resistance|power|voltage|energy|2|
+Class 10 Physics|Basic Electrical|Set 11|Which of the following quantities consists of SI unit as WATT ?|Force|Charge|Current|Power|3|
+Class 10 Physics|Basic Electrical|Set 11|Which of the following has no units?|Permeability|Moment of a magnet|Magnetic susceptibility|Permittivity|2|
+Class 10 Physics|Basic Electrical|Set 11|Which quantity consists of a unit 1KWh ?|Energy|Time|Power|Charge|0|
+Class 10 Physics|Basic Electrical|Set 11|Which quantity should be measured by the voltmeter ?|Current|Voltage|Power|Speed|1|
+Class 10 Physics|Basic Electrical|Set 11|Internal resistance of ideal current source is ?|zero|infinite|finite|100 ohms|1|
+Class 10 Physics|Basic Electrical|Set 11|Internal resistance of ideal voltage source is ?|zero|infinite|finite|100 ohms|0|
+Class 10 Physics|Basic Electrical|Set 11|Capacitor does not allow the sudden change of ?|current|voltage|power|None of the above|1|
+Class 10 Physics|Basic Electrical|Set 11|Inductor does not allow the sudden change of|current|voltage|power|None of the above|0|
+Class 10 Physics|Basic Electrical|Set 11|Power dissipation in ideal inductor is|Maximum|Minimum|Zero|A finite value|2|
+Class 10 Physics|Basic Electrical|Set 11|Which of the following are the passive elements?|Resistor|Bulb|Both|None of these.|2|
+Class 10 Physics|Basic Electrical|Set 11|If 1 A current flows in a circuit, the number of electrons flowing through this circuit is|0.625 x 1019|1.6 x 1019|1.6 x 10-19|0.625 x 10-19|0|
+Class 10 Physics|Basic Electrical|Set 11|The resistivity of the conductor depends on|area of the conductor.|length of the conductor.|type of material.|none of these.|2|
+Class 10 Physics|Basic Electrical|Set 11|How many coulombs of charge flow through a circuit carrying a current of 10 A in 1 minute?|10|60|600|1200|2|
+Class 10 Physics|Basic Electrical|Set 11|Instantaneous power in inductor is proportional to the|product of the instantaneous current and rate of change of current.|square of instantaneous current.|square of the rate of change of current.|Temperature of the inductor.|0|
+Class 10 Physics|Basic Electrical|Set 11|The voltage induced in an inductor is represented as,|product of its inductance and current through it.|ratio of its inductance to the current through it.|ratio of the current through it to its inductance.|product of its inductance and rate of change of current through it.|3|
+Class 10 Physics|Basic Electrical|Set 11|Magnetic flux has the unit of|Newton|Ampere-turn|Weber|Tesla|2|
+Class 10 Physics|Basic Electrical|Set 11|If P is the power of a star connected system then what will be power of an equivalent delta connected system?|P|3P|P/3|None of the above|1|
+Class 10 Physics|Basic Electrical|Set 11|Which of the followings is/are active element?|Voltage source|Current source|Both|None of these.|2|
+Class 10 Physics|Network Theorems|Set 11|Superposition theorem can be applied only to circuits having______?|resistive elements|passive elements|non-linear elements|linear bilateral elements|3|
+Class 10 Physics|Network Theorems|Set 11|Kirchhoffs voltage law is related to______?|junction currents|battery e.m.fs.|IR drops|both B. and C.|3|
+Class 10 Physics|Network Theorems|Set 11|To determine the polarity of the voltage drop across a resistor, it is necessary to know______?|value of current through the resistor|direction of current through the resistor|value of resistor|e.m.fs. in the circuit|1|
+Class 10 Physics|Network Theorems|Set 11|"Any number of current sources in parallel may be replaced by a single current source whose current is the algebraic sum of individual source currents and source resistance is the parallel combination of individual source resistances". This statement is associated with:|Thevenin's theorem|Millman's theorem|Maximum power transfer theorem|None of the above|1|
+Class 10 Physics|Network Theorems|Set 11|A passive network is one which contains______?|only variable resistances|only some sources of e.m.f. in it|only two sources of e.m.f. in it|no source of e.m.f. in it|3|
+Class 10 Physics|Network Theorems|Set 11|Which of the following is the passive element?|Capacitance|Ideal current source|Ideal voltage source|All of the above|0|
+Class 10 Physics|Network Theorems|Set 11|A star circuit has element of resistance R/2. The equivalent delta elements will be______?|R/6|fi?|2R|4R|1|
+Class 10 Physics|Network Theorems|Set 11|The number of independent equations to solve a network is equal to______?|the number of chords|the number of branches|sum of the number of branches and chords|sum of number of branches, chords and nodes|0|
+Class 10 Physics|Network Theorems|Set 11|Millman's theorem yields______?|equivalent resistance|equivalent impedance|equivalent voltage source|equivalent voltage or current source|3|
+Class 10 Physics|Network Theorems|Set 11|A network which contains one or more than one source of e.m.f. is known as______?|linear network|non-linear network|passive network|active network|3|
+Class 10 Physics|Network Theorems|Set 11|The circuit has resistors, capacitors and semi-conductor diodes. The circuit will be known as______?|non-linear circuit|linear circuit|bilateral circuit|none of the above|0|
+Class 10 Physics|Network Theorems|Set 11|For maximum transfer of power, internal resistance of the source should be______?|equal to load resistance|less than the load resistance|greater than the load resistance|none of the above|0|
+Class 10 Physics|Network Theorems|Set 11|Efficiency of power transfer when maximum transfer of power c xerosis|100%|80%|75%|50%|3|
+Class 10 Physics|Network Theorems|Set 11|The resistance LM will be______?|6.66 Q|12 Q|18Q|20Q|0|
+Class 10 Physics|Network Theorems|Set 11|Thevenin resistance Rth is found|by removing voltage sources along with their internal resistances|by short-circuiting the given two terminals|between any two 'open' terminals|between same open terminals as for Etk|3|
+Class 10 Physics|Network Theorems|Set 11|Kirchhoffs current law is applicable to only|junction in a network|closed loops in a network|electric circuits|electronic circuits|0|
+Class 10 Physics|Network Theorems|Set 11|While calculating Rth in Thevenin's theorem and Norton equivalent|all independent sources are made dead|only current sources are made dead|only voltage sources are made dead|all voltage and current sources are made dead|0|
+Class 10 Physics|Network Theorems|Set 11|The superposition theorem requires as many circuits to be solved as there are______?|sources, nodes and meshes|sources and nodes|sources|nodes|2|
+Class 10 Physics|Network Theorems|Set 11|In Thevenin's theorem, to find Z|all independent current sources are short circuited and independent voltage sources are open circuited|all independent voltage sources are open circuited and all independent current sources are short circuited|all independent voltage and current sources are short circuited|all independent voltage sources are short circuited and all independent current sources are open circuited|3|
+Class 10 Physics|Network Theorems|Set 11|A closed path made by several branches of the network is known as______?|branch|loop|circuit|junction|1|
+Class 10 Physics|Network Theorems|Set 11|A terminal where three on more branches meet is known as______?|node|terminus|combination|anode|0|
+Class 10 Physics|Network Theorems|Set 12|A non-linear network does not satisfy______?|superposition condition|homogeneity condition|both homogeneity as well as superposition condition|homogeneity, superposition and associative condition|2|
+Class 10 Physics|Network Theorems|Set 12|The circuit whose properties are same in either direction is known as______?|unilateral circuit|bilateral circuit|irreversible circuit|reversible circuit|1|
+Class 10 Physics|Network Theorems|Set 12|If resistance across LM in Fig. 2.30 is 15 ohms, the value of R is______?|10 Q|20 Q|30 Q|40 Q|2|
+Class 10 Physics|Network Theorems|Set 12|Kirchhoff s voltage law applies to circuits with______?|nonlinear elements only|linear elements only|linear, non-linear, active and passive elements|linear, non-linear, active, passive, time varying as wells as time-in-variant elements|3|
+Class 10 Physics|Network Theorems|Set 12|Kirchhoff s law is applicable to______?|passive networks only|a.c. circuits only|d.c. circuits only|both a.c. as well d.c. circuits|3|
+Class 10 Physics|Network Theorems|Set 12|A capacitor is generally a______?|bilateral and active component|active, passive, linear and nonlinear component|linear and bilateral component|non-linear and active component|2|
+Class 10 Physics|Network Theorems|Set 12|"Maximum power output is obtained from a network when the load resistance is equal to the output resistance of the network as seen from the terminals of the load". The above statement is associated with______?|Millman's theorem|Thevenin's theorem|Superposition theorem|Maximum power transfer theorem|3|
+Class 10 Physics|Network Theorems|Set 12|For a voltage source:|terminal voltage is always lower than source e.m.f.|terminal voltage cannot be higher than source e.m.f.|the source e.m.f. and terminal voltage are equal|None|1|
+Class 10 Physics|Network Theorems|Set 12|The concept on which Superposition theorem is based on______?|reciprocity|duality|non-linearity|linearity|3|
+Class 10 Physics|Network Theorems|Set 12|According to Kirchhoffs voltage law, the algebraic sum of all IR drops and e.m.fs. in any closed loop of a network is always______?|negative|positive|determined by battery e.m.fs.|zero|3|
+Class 10 Physics|Network Theorems|Set 12|Which of the following is a bilateral element?|Constant current source|Constant voltage source|Capacitance|None of the above|2|
+Class 10 Physics|Network Theorems|Set 12|Between the branch voltages of a loop the Kirchhoff s voltage law imposes______?|non-linear constraints|linear constraints|no constraints|none of the above|1|
+Class 10 Physics|Network Theorems|Set 12|The superposition theorem is applicable to______?|linear, non-linear and time variant responses|linear and non-linear resistors only|linear responses only|none of the above|2|
+Class 10 Physics|Network Theorems|Set 12|In a series parallel circuit, any two resistances in the same current path must be in______?|series with each other|parallel with each other|series with the voltage source|parallel with the voltage source|0|
+Class 10 Physics|Network Theorems|Set 12|For high efficiency of transfer of power, internal resistance of the source should be______?|equal to the load resistance|less than the load resistance|more than the load resistance|none of the above|1|
+Class 10 Physics|Network Theorems|Set 12|Kirchhoff s law is not applicable to circuits with______?|lumped parameters|passive elements|distributed parameters|non-linear resistances|2|
+Class 10 Physics|Network Theorems|Set 12|Which of the following is non-linear circuit parameter?|Inductance|Condenser|Wire wound resistor|Transistor|3|
+Class 10 Physics|Network Theorems|Set 12|An ideal voltage source should have______?|large value of e.m.f.|small value of e.m.f.|zero source resistance|infinite source resistance|2|
+Class 10 Physics|Network Theorems|Set 12|Kirchhoff s current law states that|net current flow at the junction is positive|Hebraic sum of the currents meeting at the junction is zero|no current can leave the junction without some current entering it.|total sum of currents meeting at the junction is zero|1|
+Class 10 Physics|Network Theorems|Set 12|A linear resistor having 0 < R < deg o is a______?|current controlled resistor|voltage controlled resistor|both current controlled and voltage controlled resistor|none of the above|2|
+Class 10 Physics|Network Theorems|Set 12|Application of Norton's theorem to a circuit yields:______?|equivalent current source and impedance in parallel|equivalent current source and impedance in series|equivalent impedance|equivalent current source|0|
+Class 10 Physics|Network Theorems|Set 12|An ideal voltage source has______?|zero internal resistance|open circuit voltage equal to the voltage on full load|terminal voltage in proportion to current|terminal voltage in proportion to load|0|
+Class 10 Physics|Network Theorems|Set 12|If the energy is supplied from a source, whose resistance is 1 ohm, to a load of 100 ohms the source will be______?|a voltage source|a current source|both of above|none of the above|0|
+Class 10 Physics|Series-parallel Circuits|Set 12|The first goal to accomplish in analyzing a complex series-parallel circuit is to______?|solve for all the voltage drops|solve for the total current and resistance|equate all series components|equate all parallel components|1|
+Class 10 Physics|Series-parallel Circuits|Set 12|The positive (+) and negative (-) ends of the battery are called ______?|circuit diagram|battery knobs|battery terminals|battery sides|2|
+Class 10 Physics|Series-parallel Circuits|Set 12|When a Wheatstone bridge is in a balanced condition, the center voltmeter in the bridge will read______?|twice the source voltage|half the source voltage|zero volts|the same as the source voltage|2|
+Class 10 Physics|Series-parallel Circuits|Set 12|In a series-parallel circuit, individual component power dissipation are calculated using______?|individual component parameters|a percent of the total power depending on resistor ratios|total current squared multiplied by the resistor values|a percent of the voltage division ratio squared|0|
+Class 10 Physics|Series-parallel Circuits|Set 12|In a series-parallel circuit consisting of R1 and R2 in series and connected in parallel with R3, if R1 opens, then R2's voltage will:______?|increase|remain the same|decrease|cannot tell|2|
+Class 10 Physics|Series-parallel Circuits|Set 12|The current flowing through an unloaded voltage divider is called the______?|bleeder current|load current|resistor current|voltage current|0|
+Class 10 Physics|Series-parallel Circuits|Set 12|With 21 V applied, if R1 = 5 ohms, R2 = 35 ohms, and R3 = 14 ohms, what is the current of R2 if R1 is series connected with parallel circuit R2 and R3?|200 mA|400 mA|600 mA|800 mA|1|
+Class 10 Physics|Series-parallel Circuits|Set 12|If R1 is in series with parallel connected to R2 and R3, what happens to total current if R2 opens?|cannot tell|remains the same|increases|decreases|3|
+Class 10 Physics|Series-parallel Circuits|Set 12|A Wheatstone bridge can be used to determine an unknown______?|current|voltage|resistance|power|2|
+Class 10 Physics|Series-parallel Circuits|Set 12|A device able to supply electrical energy is a ______?|nonconductor|battery|conductor|microwave|1|
+Class 10 Physics|Series-parallel Circuits|Set 12|On which of the following voltage range settings will a voltmeter present the minimum load on a circuit?|1 V|50 V|500 V|1,000 V|3|
+Class 10 Physics|Parallel Circuits|Set 12|There is a total of 800 mA of current into four parallel resistors. The currents through three of the resistors are 40 mA, 70 mA, and 200 mA. The current through the fourth resistor is______?|490 mA|800 mA|310 mA|0 A|0|
+Class 10 Physics|Parallel Circuits|Set 12|If one of the resistors in a parallel circuit is removed, the total resistance______?|decreases|increases|remains the same|doubles|1|
+Class 10 Physics|Parallel Circuits|Set 12|The following currents are measured in the same direction in a three-branch parallel circuit: 200 mA, 340 mA, and 700 mA. The value of the current into the junction of these branches is______?|200 mA|540 mA|1.24 A|900 mA|2|
+Class 10 Physics|Parallel Circuits|Set 12|Four resistors are connected in parallel. Fifteen mA flows through resistor R. If the second resistor is 2R, the third resistor 3R, and the fourth resistor 4R, the total current in the circuit is______?|60 mA|15 mA|135 mA|31.25 mA|3|
+Class 10 Physics|Parallel Circuits|Set 12|In a certain three-branch parallel circuit, R1 has 12 mA through it, R2 has 15 mA through it, and R3 has 25 mA through it. After measuring a total of 27 mA, you can say that______?|R3 is open|R1 is open|R2 is open|the circuit is operating properly|0|
+Class 10 Physics|Parallel Circuits|Set 12|A sudden increase in the total current into a parallel circuit may indicate______?|a drop in source voltage|an open resistor|an increase in source voltage|either a drop in source voltage or an open resistor|2|
+Class 10 Physics|Parallel Circuits|Set 12|In a five-branch parallel circuit, there are 12 mA of current in each branch. If one of the branches opens, the current in each of the other four branches is______?|48 mA|12 mA|0 A|3 mA|1|
+Class 10 Physics|Parallel Circuits|Set 12|Five light bulbs are connected in parallel across 110 V. Each bulb is rated at 200 W. The current through each bulb is approximately______?|2.2 A|137 mA|1.8 A|9.09 A|2|
+Class 10 Physics|Parallel Circuits|Set 12|Three lights are connected in parallel across a 120 volt source. If one light burns out______?|the remaining two will glow dimmer|the remaining two will glow brighter|the remaining two will not light|the remaining two will glow with the same brightness as before|3|
+Class 10 Physics|Parallel Circuits|Set 12|When an additional resistor is connected across an existing parallel circuit, the total resistance______?|remains the same|decreases by the value of the added resistor|increases by the value of the added resistor|decreases|3|
+Class 10 Physics|Parallel Circuits|Set 12|The currents into a junction flow along two paths. One current is 4 A and the other is 3 A. The total current out of the junction is______?|1 A|7 A|unknown|the larger of the two|1|
+Class 10 Physics|Parallel Circuits|Set 12|If there are a total of 120 mA into a parallel circuit consisting of three branches, and two of the branch currents are 40 mA and 10 mA, the third branch current is______?|50 mA|70 mA|120 mA|40 mA|1|
+Class 10 Physics|Parallel Circuits|Set 12|The power dissipation in each of four parallel branches is 1.2 W. The total power dissipation is______?|1.2 W|4.8 W|0.3 W|12 W|1|
+Class 10 Physics|Magnetic Circuit|Set 12|Those magnetic materials are best suited for making armature and transformer cores which have ______ permeability and ______ hystersis loss|high, high|low, high|high, low|low, low|2|
+Class 10 Physics|Magnetic Circuit|Set 12|A material for good magnetic memory should have______?|low hysteresis loss|high permeability|low retentivity|high retentivity|3|
+Class 10 Physics|Magnetic Circuit|Set 12|If the area of hysteresis loop of a material is large, the hysteresis loss in this material will be______?|zero|small|large|none of the above|2|
+Class 10 Physics|Magnetic Circuit|Set 13|The initial rate of rise of current through a coil of inductance 10 H when suddenly connected to a D.C. supply of 200 V is______Vs|50|20|0.05|500|1|
+Class 10 Physics|Magnetic Circuit|Set 13|The rate of rise of current through an inductive coil is maximum______?|at 63.2% of its maximum steady value|at the start of the current flow|after one time constant|near the final maximum value of current|1|
+Class 10 Physics|Magnetic Circuit|Set 13|Permanent magnets are normally made of______?|alnico alloys|aluminium|cast iron|wrought iron|0|
+Class 10 Physics|Magnetic Circuit|Set 13|The unit of magnetic flux is______?|henry|weber|ampereturn/weber|ampere/metre|1|
+Class 10 Physics|Magnetic Circuit|Set 13|Point out the wrong statement. Magnetic leakage is undesirable in electric machines because it______?|lowers their power efficiency|increases their cost of manufacture|leads to their increased weight|produces fringing|0|
+Class 10 Physics|Magnetic Circuit|Set 13|An air gap is usually inserted in magnetic circuits to______?|increase m.m.f.|increase the flux|prevent saturation|none of the above|2|
+Class 10 Physics|Magnetic Circuit|Set 13|In a magnetic material hysteresis loss takes place primarily due to______?|rapid reversals of its magnetisation|flux density lagging behind magnetising force|molecular friction|it high retentivity|3|
+Class 10 Physics|Magnetic Circuit|Set 13|Hysteresis loss least depends on______?|volume of material|frequency|steinmetz coefficient of material|ambient temperature|3|
+Class 10 Physics|Magnetic Circuit|Set 13|The unit of reluctance is______?|metre/henry|henry/metre|henry|1/henry|3|
+Class 10 Physics|Magnetic Circuit|Set 13|Reciprocal of reluctance is______?|reluctivity|permeance|permeability|susceptibility|1|
+Class 10 Physics|Magnetic Circuit|Set 13|The property of a material which opposes the creation of magnetic flux in it is known as______?|reluctivity|magnetomotive force|permeance|reluctance|3|
+Class 10 Physics|Magnetic Circuit|Set 13|Silicon steel is used in electrical machines because it has______?|low coercivity|low retentivity|low hysteresis loss|high coercivity|2|
+Class 10 Physics|Magnetic Circuit|Set 13|A ferrite core has less eddy current loss than an iron core because______?|ferrites have high resistance|ferrites are magnetic|ferrites have low permeability|ferrites have high hysteresis|0|
+Class 10 Physics|Magnetic Circuit|Set 13|Laminated cores, in electrical machines, are used to reduce______?|copper loss|eddy current loss|hysteresis loss|all of the above|1|
+Class 10 Physics|Magnetic Circuit|Set 13|While comparing magnetic and electric circuits, the flux of magnetic circuit is compared with which parameter of electrical circuit ?|E.m.f.|Current|Current density|Conductivity|1|
+Class 10 Physics|Magnetic Circuit|Set 13|The unit of retentivity is______?|weber|weber/sq. m|ampere turn/meter|ampere turn|1|
+Class 10 Physics|Magnetic Circuit|Set 13|Conductance is analogous to______?|permeance|reluctance|flux|inductance|0|
+Class 10 Physics|Magnetic Circuit|Set 13|Hard steel is suitable for making permanent magnets because______?|it has good residual magnetism|its hysteresis loop has large area|its mechanical strength is high|its mechanical strength is low|0|
+Class 10 Physics|Magnetic Circuit|Set 13|Those materials are well suited for making permanent magnets which have ______ retentivity and ______ coercivity|low, high|high, high|high, low|low, low|1|
+Class 10 Physics|Magnetic Circuit|Set 13|Conductivity is analogous to______?|retentivity|resistivity|permeability|inductance|2|
+Class 10 Physics|Magnetic Circuit|Set 13|When both the inductance and resistance of a coil are doubled the value of______?|time constant remains unchanged|initial rate of rise of current is doubled|final steady current is doubled|time constant is halved|0|
+Class 10 Physics|Magnetic Circuit|Set 13|Energy stored by a coil is doubled when its current is increased by percent______?|25|50|41.4|100|2|
+Class 10 Physics|Magnetic Circuit|Set 13|Relative permeability of vacuum is______?|1|1 H/m|1/4JI|4n x 10-' H/m|0|
+Class 10 Physics|Magnetic Circuit|Set 13|Permeability in a magnetic circuit corresponds to______ in an electric circuit|resistance|resistivity|conductivity|conductance|2|
+Class 10 Physics|Magnetic Circuit|Set 13|The relative permeability of a ferromagnetic material is______?|less than one|more than one|more than 10|more than 100 or 1000|3|
+Class 10 Physics|Semiconductor Theory|Set 13|At absolute temperature, an intrinsic semiconductor has______?|A few free electrons|Many holes|Many free electrons|No holes or free electrons|3|
+Class 10 Physics|Semiconductor Theory|Set 13|A reverse biased pn junction has resistance of the order of______?|O|kO|MO|None of the above|2|
+Class 10 Physics|Semiconductor Theory|Set 13|A reverse bias pn junction has______?|Very narrow depletion layer|Almost no current|Very low resistance|Large current flow|1|
+Class 10 Physics|Semiconductor Theory|Set 13|The barrier voltage at a pn junction for germanium is about______?|5 V|3 V|Zero|0.3 V|3|
+Class 10 Physics|Semiconductor Theory|Set 13|The random motion of holes and free electrons due to thermal agitation is called______?|Diffusion|Pressure|Ionisation|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 13|A hole and electron in close proximity would tend to______?|Repel each other|Attract each other|Have no effect on each other|None of the above|1|
+Class 10 Physics|Semiconductor Theory|Set 13|The battery connections required to forward bias a pn junction are______?|+ve terminal to p and -ve terminal to n|-ve terminal to p and +ve terminal to n|-ve terminal to p and -ve terminal to n|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 13|In the depletion region of a pn junction, there is a shortage of______?|Acceptor ions|Holes and electrons|Donor ions|None of the above|1|
+Class 10 Physics|Semiconductor Theory|Set 13|A pn junction acts as a______?|Controlled switch|Bidirectional switch|Unidirectional switch|None of the above|2|
+Class 10 Physics|Semiconductor Theory|Set 13|In an intrinsic semiconductor, the number of free electrons______?|Equals the number of holes|Is greater than the number of holes|Is less than the number of holes|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 13|When the temperature of an extrinsic semiconductor is increased, the pronounced effect is on______?|Junction capacitance|Minority carriers|Majority carriers|None of the above|1|
+Class 10 Physics|Semiconductor Theory|Set 13|The leakage current across a pn junction is due to______?|Minority carriers|Majority carriers|Junction capacitance|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 13|With forward bias to a pn junction , the width of depletion layer______?|Decreases|Increases|Remains the same|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 13|At room temperature, an intrinsic semiconductor has______?|Many holes only|A few free electrons and holes|Many free electrons only|No holes or free electrons|1|
+Class 10 Physics|Semiconductor Theory|Set 13|At room temperature, an intrinsic silicon crystal acts approximately as______?|A battery|A conductor|An insulator|A piece of copper wire|2|
+Class 10 Physics|Semiconductor Theory|Set 13|A forward biased pn junction diode has a resistance of the order of______?|O|kO|MO|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 13|In a semiconductor, current conduction is due to______?|Only holes|Only free electrons|Holes and free electrons|None of the above|2|
+Class 10 Physics|Semiconductor Theory|Set 13|The impurity level in an extrinsic semiconductor is about______of pure semiconductor ?|10 atoms for 108 atoms|1 atom for 108 atoms|1 atom for 104 atoms|1 atom for 100 atoms|1|
+Class 10 Physics|Semiconductor Theory|Set 13|The resistivity of pure germanium under standard conditions is about______?|6 x 104 cm|60 x cm|3 x 106 cm|6 x 10-4 cm|1|
+Class 10 Physics|Semiconductor Theory|Set 13|The most commonly used semiconductor is______?|Germanium|Silicon|Carbon|Sulphur|1|
+Class 10 Physics|Semiconductor Theory|Set 13|A pentavalent impurity has______Valence electrons?|3|5|4|6|1|
+Class 10 Physics|Semiconductor Theory|Set 13|Addition of trivalent impurity to a semiconductor creates many______?|Holes|Free electrons|Valence electrons|Bound electrons|0|
+Class 10 Physics|Semiconductor Theory|Set 13|As the doping to a pure semiconductor increases, the bulk resistance of the semiconductor______?|Remains the same|Increases|Decreases|None of the above|2|
+Class 10 Physics|Semiconductor Theory|Set 13|A hole in a semiconductor is defined as______?|A free electron|The incomplete part of an electron pair bond|A free proton|A free neutron|1|
+Class 10 Physics|Semiconductor Theory|Set 13|A trivalent impurity has______valence electrons?|4|5|6|3|3|
+Class 10 Physics|Semiconductor Theory|Set 14|The strength of a semiconductor crystal comes from______?|Forces between nuclei|Forces between protons|Electron-pair bonds|None of the above|2|
+Class 10 Physics|Semiconductor Theory|Set 14|A semiconductor is formed by ______bonds?|Covalent|Electrovalent|Co-ordinate|None of the above|0|
+Class 10 Physics|Semiconductor Theory|Set 14|The resistivity of a pure silicon is about ______?|100 O cm|6000 O cm|3 x 105 O m|6 x 10-8 O cm|1|
+Class 10 Physics|Semiconductor Theory|Set 14|When a pentavalent impurity is added to a pure semiconductor, it becomes______?|An insulator|An intrinsic semiconductor|p-type semiconductor|n-type semiconductor|3|
+Class 10 Physics|Semiconductor Theory|Set 14|An n-type semiconductor is______?|Positively charged|Negatively charged|Electrically neutral|None of the above|2|
+Class 10 Physics|Semiconductor Theory|Set 14|Addition of pentavalent impurity to a semiconductor creates many______?|Free electrons|Holes|Valence electrons|Bound electrons|0|
+Class 10 Physics|Semiconductor Theory|Set 14|When a pure semiconductor is heated, its resistance______?|Goes up|Goes down|Remains the same|Can't say|1|
+Class 10 Physics|Semiconductor Theory|Set 14|A semiconductor has generally______valence electrons?|2|3|6|4|3|
+Class 10 Physics|Semiconductor Theory|Set 14|A semiconductor has ______ temperature coefficient of resistance?|Positive|Zero|Negative|None of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode utilizes ______ characteristics for its operation?|forward|reverse|both forward and reverse|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|There is a need of transformer for______?|half-wave rectifier|centre-tap full-wave rectifier|bridge full-wave rectifier|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|The disadvantage of a half-wave rectifier is that the______?|components are expensive|diodes must have a higher power rating|output is difficult to filter|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode has ______ breakdown voltage?|undefined|sharp|zero|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|A series resistance is connected in the zener circuit to______?|properly reverse bias the zener|protect the zener|properly forward bias the zener|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|In the breakdown region, a zener didoe behaves like a ______source?|constant voltage|constant current|constant resistance|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode is______ device?|a non-linear|a linear|an amplifying|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|Mains a.c. power is converrted into d.c. power for______?|lighting purposes|heaters|using in electronic equipment|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|The ripple factor of a half-wave rectifier is______?|2|1.21|2.5|0.48|3|
+Class 10 Physics|Semiconductor Diode|Set 14|The maximum efficiency of a half-wave rectifier is ______?|40.6 %|81.2 %|50 %|25 %|0|
+Class 10 Physics|Semiconductor Diode|Set 14|For the same secondary voltage, the output voltage from a centre-tap rectifier is______ than that of bridge rectifier?|twice|thrice|four time|one-half|3|
+Class 10 Physics|Semiconductor Diode|Set 14|A half-wave rectifier has an input voltage of 240 V r.m.s. If the step-down transformer has a turns ratio of 8:1, what is the peak load voltage? Ignore diode drop?|27.5 V|86.5 V|30 V|42.5 V|3|
+Class 10 Physics|Semiconductor Diode|Set 14|______ filter circuit results in the best voltage regulation?|choke input|capacitor input|resistance input|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|A 1,000 V power supply would use______ as a filter capacitor?|paper capacitor|air capacitor|mica capacitor|electrolytic capacitor|0|
+Class 10 Physics|Semiconductor Diode|Set 14|If the PIV rating of a diode is exceeded,______?|the diode conducts poorly|the diode is destroyed|the diode behaves like a zener diode|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|The most widely used rectifier is ______?|half-wave rectifier|centre-tap full-wave rectifier|bridge full-wave rectifier|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|The PIV rating of each diode in a bridge rectifier is ______that of the equivalent center-tap rectifier?|one-half|the same as|twice|four times|0|
+Class 10 Physics|Semiconductor Diode|Set 14|A 10 V power supply would use ______ as filter capacitor?|paper capacitor|mica capacitor|electrolytic capacitor|air capacitor|2|
+Class 10 Physics|Semiconductor Diode|Set 14|______ rectifier has the lowest forward resistance?|solid state|vacuum tube|gas tube|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode is destroyed if it______?|is forward biased|is reverse biased|carrier more than rated current|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|The doping level in a zener diode is______ that of a crystal diode?|the same as|less than|more than|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|When a crystal diode is used as a rectifier, the most important consideration is ______?|forward characteristic|doping level|reverse characteristic|PIC rating|3|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode is always______ connected?|reverse|forward|either reverse or forward|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode has ______?|one pn junction|two pn junctions|three pn junctions|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|A crystal diode utilises ................. characteristic for rectification|reverse|forward|forward or reverse|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|A zener diode is used as ______?|an amplifier|a voltage regulator|a rectifier|a multivibrator|1|
+Class 10 Physics|Semiconductor Diode|Set 14|The knee voltage of a crystal diode is approximately equal to ______?|applied voltage|breakdown voltage|forward voltage|barrier potential|3|
+Class 10 Physics|Semiconductor Diode|Set 14|When the crystal current diode current is large, the bias is ______?|forward|inverse|poor|reverse|0|
+Class 10 Physics|Semiconductor Diode|Set 14|If the temperature of a crystal diode increases, then leakage current ______?|remains the same|decreases|increases|becomes zero|2|
+Class 10 Physics|Semiconductor Diode|Set 14|If the doping level of a crystal diode is increased, the breakdown voltage______?|remains the same|is increased|is decreased|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|The ratio of reverse resistance and forward resistance of a germanium crystal diode is about ______?|1 : 1|100 : 1|1000 : 1|40,000 : 1|3|
+Class 10 Physics|Semiconductor Diode|Set 14|A crystal diode is used as______?|an amplifier|a rectifier|an oscillator|a voltage regulator|1|
+Class 10 Physics|Semiconductor Diode|Set 14|If the arrow of crystal diode symbol is positive w.r.t. bar, then diode is ______biased?|forward|reverse|either forward or reverse|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|The d.c. resistance of a crystal diode is ______ its a.c. resistance?|the same as|more than|less than|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|The forward voltage drop across a silicon diode is about ______?|2.5 V|3 V|10 V|0.7 V|3|
+Class 10 Physics|Semiconductor Diode|Set 14|A crystal diode has______?|one pn junction|two pn junctions|three pn junctions|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|If the doping level in a crystal diode is increased, the width of depletion layer______?|remains the same|is decreased|in increased|none of the above|2|
+Class 10 Physics|Semiconductor Diode|Set 14|A crystal diode is a ______device?|non-linear|bilateral|linear|none of the above|0|
+Class 10 Physics|Semiconductor Diode|Set 14|When the graph between current through and voltage across a device is a straight line, the device is referred to as ______?|linear|active|nonlinear|passive|0|
+Class 10 Physics|Semiconductor Diode|Set 14|The PIV rating of a crystal diode is ______ that of equivalent vacuum diode|the same as|lower than|more than|none of the above|1|
+Class 10 Physics|Semiconductor Diode|Set 14|The leakage current in a crystal diode is due to ______?|minority carriers|majority carriers|junction capacitance|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|IC = [a / (1 - a )] IB +______?|ICEO|ICBO|IC|(1 - a ) IB|0|
+Class 10 Physics|TRANSISTORS|Set 15|The output impedance of a transistor connected in______arrangement is the highest?|common emitter|common collector|common base|none of the above|2|
+Class 10 Physics|TRANSISTORS|Set 15|In a pnp transistor, the current carriers are______?|acceptor ions|donor ions|free electrons|holes|3|
+Class 10 Physics|TRANSISTORS|Set 15|The collector of a transistor is______doped?|heavily|moderately|lightly|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|In a npn transistor,______are the minority carriers?|free electrons|holes|donor ions|acceptor ions|1|
+Class 10 Physics|TRANSISTORS|Set 15|The input impedance of a transistor is______?|high|low|very high|almost zero|1|
+Class 10 Physics|TRANSISTORS|Set 15|The value of a of a transistor is______?|more than 1|less than 1|1|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|The phase difference between the input and output voltages in a common base arrangement is______?|180o|90o|270o|0o|3|
+Class 10 Physics|TRANSISTORS|Set 15|The leakage current in CE arrangement is______that in CB arrangement?|more than|less than|the same as|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|BC 147 transistor indicates that it is made of______?|germanium|silicon|carbon|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|As the temperature of a transistor goes up, the base-emitter resistance______?|decreases|increases|remains the same|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|The most commonly used transistor arrangement is______arrangement?|common emitter|common base|common collector|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|The output impedance of a transistor is______?|high|zero|low|very low|0|
+Class 10 Physics|TRANSISTORS|Set 15|The emitter of a transistor is______doped?|lightly|heavily|moderately|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|The base of a transistor is______doped?|heavily|moderately|lightly|none of the above|2|
+Class 10 Physics|TRANSISTORS|Set 15|At the base-emitter junctions of a transistor, one finds______?|a reverse bias|a wide depletion layer|low resistance|none of the above|2|
+Class 10 Physics|TRANSISTORS|Set 15|The phase difference between the input and output voltages of a transistor connected in common emitter arrangement is______?|0o|180o|90o|270o|1|
+Class 10 Physics|TRANSISTORS|Set 15|The phase difference between the input and output voltages of a transistor connected in common collector arrangement is______?|1800|00|900|2700|1|
+Class 10 Physics|TRANSISTORS|Set 15|The arrow in the symbol of a transistor indicates the direction of______?|electron current in the emitter|electron current in the collector|hole current in the emitter|donor ion current|2|
+Class 10 Physics|TRANSISTORS|Set 15|The most commonly used semiconductor in the manufacture of a transistor is______?|germanium|silicon|carbon|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|The collector-base junction in a transistor has______?|forward bias at all times|reverse bias at all times|low resistance|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|A heat sink is generally used with a transistor to______?|increase the forward current|decrease the forward current|compensate for excessive doping|prevent excessive temperature rise|3|
+Class 10 Physics|TRANSISTORS|Set 15|In a transistor, signal is transferred from a______circuit?|high resistance to low resistance|low resistance to high resistance|high resistance to high resistance|low resistance to low resistance|1|
+Class 10 Physics|TRANSISTORS|Set 15|A transistor is connected in CB mode. If it is not connected in CE mode with same bias voltages, the values of IE, IB and IC will______?|remain the same|increase|decrease|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|IC = [a / (1 - a )] IB + [______ / (1 - a )?|ICBO|ICEO|IC|IE|0|
+Class 10 Physics|TRANSISTORS|Set 15|The voltage gain of a transistor connected in common collector arrangement is______?|equal to 1|more than 10|more than 100|less than 1|3|
+Class 10 Physics|TRANSISTORS|Set 15|The voltage gain in a transistor connected in______arrangement is the highest?|common base|common collector|common emitter|none of the above|2|
+Class 10 Physics|TRANSISTORS|Set 15|The power gain in a transistor connected in______arrangement is the highest?|common emitter|common base|common collector|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|The input impedance of a transistor connected in______arrangement is the highest?|common emitter|common collector|common base|none of the above|1|
+Class 10 Physics|TRANSISTORS|Set 15|In a transistor ______?|IC = IE + IB|IB = IC + IE|IE = IC - IB|IE = IC + IB|3|
+Class 10 Physics|TRANSISTORS|Set 15|Most of the majority carriers from the emitter______?|recombine in the base|recombine in the emitter|pass through the base region to the collector|none of the above|2|
+Class 10 Physics|TRANSISTORS|Set 15|In a transistor, the base current is about______of emitter current?|25%|20%|35 %|5%|3|
+Class 10 Physics|TRANSISTORS|Set 15|A transistor is a______operated device?|current|voltage|both voltage and current|none of the above|0|
+Class 10 Physics|TRANSISTORS|Set 15|A transistor has______?|one pn junction|two pn junctions|three pn junctions|four pn junctions|1|
+Class 10 Physics|TRANSISTORS|Set 15|The element that has the biggest size in a transistor is______?|collector|base|emitter|collector-base-junction|0|
+Class 10 Physics|Digital Electronics|Set 15|The inputs of a NAND gate are connected together. The resulting circuit is ______?|OR gate|AND gate|NOT gate|None of the above|2|
+Class 10 Physics|Digital Electronics|Set 15|The universal gate is ______?|NAND gate|OR gate|AND gate|None of the above|0|
+Class 10 Physics|Digital Electronics|Set 15|What would happen, if smaller logic modules are utilized for performing logical functions associated with FPGA? A. Propagation delay will increase B. FPGA area will increase C. Wastage of logic modules will not be prevented D. Number of interconnected paths in device will decrease ?|A & B|C & D|A & D|B & C|0|
+Class 10 Physics|Digital Electronics|Set 15|Which type of CPLD packaging can provide maximum number of pins on the package due to small size of the pins ?|PLCC|QFP|PGA|BGA|3|
+Class 10 Physics|Digital Electronics|Set 15|In Boolean algebra, the bar sign (-) indicates______?|OR operation|AND operation|NOT operation|None of the above|2|
+Class 10 Physics|Digital Electronics|Set 15|What is/are the configurable functions of each and every IOBs connected around the FPGA device from the operational point of view ?|Input operation|Tristate output operation|Bi-directional I/O pin access|All of the above|3|
+Class 10 Physics|Digital Electronics|Set 15|Which mechanism allocates the binary value to the states in order to reduce the cost of the combinational circuits ?|State Reduction|State Minimization|State Assignment|State Evaluation|2|
+Class 10 Physics|Digital Electronics|Set 15|Digital circuit can be made by the repeated use of______?|OR gates|NOT gates|NAND gates|None of the above|2|
+Class 10 Physics|Digital Electronics|Set 15|When an input signal 1 is applied to a NOT gate, the output is ______?|0|1|Either 0 & 1|None of the above|0|
+Class 10 Physics|Digital Electronics|Set 15|The NAND gate is AND gate followed by______?|NOT gate|OR gate|AND gate|None of the above|0|
+Class 10 Physics|Digital Electronics|Set 15|The only function of NOT gate is to______?|Stop signal|Invert input signal|Act as a universal gate|None of the above|1|
+Class 10 Physics|Digital Electronics|Set 15|The NOR gate is OR gate followed by______?|AND gate|NAND gate|NOT gate|None of the above|2|
+Class 10 Physics|Digital Electronics|Set 15|Which is the correct order of sequence for representing the input values in K-map ?|(00, 01, 10, 11)|(00, 10, 01, 11)|(00, 01, 11, 10)|(00, 10, 11, 01)|0|
+Class 10 Physics|Digital Electronics|Set 15|The inverter is ______?|NOT gate|OR gate|AND gate|None of the above|0|
+Class 10 Physics|Digital Electronics|Set 15|The binary number 10101 is equivalent to decimal number______?|19|12|27|21|3|
+Class 10 Physics|Digital Electronics|Set 16|The fan put of a 7400 NAND gate is______?|2TTL|5TTL|8TTL|10TTL|3|
+Class 10 Physics|Digital Electronics|Set 16|Assuming 8 bits for data, 1 bit for parity, I start bit and 2 stop bits, the number of characters that 1200 BPS communication line can transmit is______?|10 CPS|120 CPS|12CPS|None of the above|2|
+Class 10 Physics|Digital Electronics|Set 16|Excess-3 code is known as______?|Weighted code|Cyclic redundancy code|Self-complementing code|Algebraic code|2|
+Class 10 Physics|Digital Electronics|Set 16|In case of OR gate, no matter what the number of inputs, a______?|1 at any input causes the output to be at logic 1|1 at any input causes the output to be at logic 0|0 any input causes the output to be at logic 0|0 at any input causes the output to be at logic 1|0|
+Class 10 Physics|Digital Electronics|Set 16|A debouncing circuit is______?|an astable MV|a bistable MV|a latch|a monostable MV|2|
+Class 10 Physics|Digital Electronics|Set 16|An AND gate will function as OR if______?|all the inputs to the gates are "1"|all the inputs are '0'|either of the inputs is "1"|all the inputs and outputs are complemented|3|
+Class 10 Physics|Digital Electronics|Set 16|NAND gates are preferred over others because these______?|have lower fabrication area|can be used to make any gate|consume least electronic power|provide maximum density in a chip|1|
+Class 10 Physics|Digital Electronics|Set 16|An OR gate has 6 inputs. The number of input words in its truth table are______?|6|32|64|128|2|
+Class 10 Physics|Digital Electronics|Set 16|Among the logic families, the family which can be used at very high frequency greater than 100 MHz in a 4 bit synchronous counter is______?|TTLAS|CMOS|ECL|TTLLS|2|
+Class 10 Physics|Digital Electronics|Set 16|Positive logic in a logic circuit is one in which______?|logic 0 and 1 are represented by 0 and positive voltage respectively|logic 0 and, -1 are represented by negative and positive voltages respectively|logic 0 voltage level is higher than logic 1 voltage level|logic 0 voltage level is lower than logic 1 voltage level|3|
+Class 10 Physics|Digital Electronics|Set 16|The number of Boolean functions that can be generated by n variables is equal to______?|2n|22 n|2n-1|- 2n|1|
+Class 10 Physics|Digital Electronics|Set 16|The number 1000 would appear just immediately after______?|FFFF (hex)|1111 (binary)|7777 (octal)|All of the above|0|
+Class 10 Physics|Digital Electronics|Set 16|What is the octal equivalent of the binary number : 10111101 ?|675|275|572|573|1|
+Class 10 Physics|Digital Electronics|Set 16|(1(10101)2 is______?|(37)10|( 69)10|(41 )10|- (5)10|0|
+Class 10 Physics|Digital Electronics|Set 16|Consider the representation of six-bit numbers by two's complement, one's complement, or by sign and magnitude: In which representation is there overflow from the addition of the integers 011000 and 011000 ?|Two's complement only|Sign and magnitude and one's complement only|Two's complement and one's complement only|All three representations|3|
+Class 10 Physics|Digital Electronics|Set 16|Digital computers are more widely used as compared to analog computers, because they are______?|less expensive|always more accurate and faster|useful over wider ranges of problem types|easier to maintain|2|
+Class 10 Physics|Digital Electronics|Set 16|The binary code of (21.125)10 is______?|10101.001|10100.001|10101.010|10100.111|0|
+Class 10 Physics|Digital Electronics|Set 16|In which of the following base systems is 123 not a valid number ?|Base 10|Base 16|Base8|Base 3|3|
+Class 10 Physics|Digital Electronics|Set 16|A NAND gate is called a universal logic element because______?|it is used by everybody|any logic function can be realized by NAND gates alone|all the minization techniques are applicable for optimum NAND gate realization|many digital computers use NAND gates|1|
+Class 10 Physics|Digital Electronics|Set 16|Most of the digital computers do not have floating point hardware because______?|floating point hardware is costly|it is slower than software|it is not possible to perform floating point addition by hardware|of no specific reason.|0|
+Class 10 Physics|Analog Electronics|Set 16|In all base driver amplifiers______?|ac collector voltage is 180 deg out of phase with ac base voltage|ac emitter voltage is 180 deg out of phase with ac base voltage|ac collector voltage is in phase with ac base voltage|none of the above|0|
+Class 10 Physics|Analog Electronics|Set 16|The encapsulation of transistor is necessary for______?|preventing radio interference|preventing photo-emission effects|avoiding loss of free electrons|mechanical ruggedness|3|
+Class 10 Physics|Analog Electronics|Set 16|The cascade amplifier is a multistage configuration of______?|CC-CB .|CE-CB|CB-CC|CE-CC|1|
+Class 10 Physics|Analog Electronics|Set 16|The MOSFET switch in its on-state may be considered equivalent to______?|resistor|inductor|capacitor|battery|2|
+Class 10 Physics|Analog Electronics|Set 16|In a common emitter, unbypassed resister provides______?|voltage shunt feedback|current series feedback|negative voltage feedback|positive current feedback|2|
+Class 10 Physics|Analog Electronics|Set 16|A differential amplifier has a differential gain of 20,000 . CMRR=80 dB. The common mode gain is given by______?|2|1|1/2|0|0|
+Class 10 Physics|Analog Electronics|Set 16|MOSFET can be used as a______?|current controlled capacitor|voltage controlled capacitor|current controlled inductor|voltage controlled inductors|1|
+Class 10 Physics|Analog Electronics|Set 16|Which of the following amplifier circuit using junction transistor has the best gain?|Common base|Common emitter|Common collector|All have the same gain|1|
+Class 10 Physics|Analog Electronics|Set 16|The horizontal intercept of dc load line is the same as ideal______?|cut off point|saturation point|operating point|quasi saturation point|0|
+Class 10 Physics|Analog Electronics|Set 16|In a CB amplifier the maximum efficiency could be______?|99%|85%|50%|25%|3|
+Class 10 Physics|Analog Electronics|Set 16|The most commonly used amplifier in sample & hold circuits is______?|A unity gain non-inverting amplifier|A unity gain inverting amplifier|An inverting amplifier with a gain of 10|An inverting amplifiers with a gain of 100|1|
+Class 10 Physics|Analog Electronics|Set 16|The action of JFET in its equivalent circuit can best be represented as a______?|Current controlled Current source|Current controlled voltage source|Voltage controlled voltage source|voltage controlled current source|3|
+Class 10 Physics|Analog Electronics|Set 16|Generally, the gain of a transistor amplifier falls at high frequencies due to the______?|Internal Capacitance of the device|Coupling capacitor at the input|Skin effect|Coupling capacitor at the output|0|
+Class 10 Physics|Analog Electronics|Set 16|The current gain of a bipolar transistor drops at high frequencies because of______?|Transistor capacitances|High current effects in the base|Parasitic inductive elements|The early effect|0|
+Class 10 Physics|Analog Electronics|Set 16|Negative feedback in an amplifier______?|Reduces gain|Increase frequency &phase distortion|Reduces bandwidth|Increases noise|0|
+Class 10 Physics|Analog Electronics|Set 16|Class AB operation is often used in power large signal amplifiers in order to______?|get maximum efficiency|remove even harmonics|overcome a crossover distortion|reducing collector dissipation|2|
+Class 10 Physics|Analog Electronics|Set 16|An n- channel JFET has IDSS=2mA,and Vp=-4v.Its transconductance gm=in mA/V)for an applied gate to source voltage VGS=-2v is______?|0.25|0.5|0.75|1|1|
+Class 10 Physics|Analog Electronics|Set 16|The effective channel length of a MOSFET in a saturation decreases with increase in______?|Gate voltage|Drain voltage|Source voltage|Body voltage|1|
+Class 10 Physics|Analog Electronics|Set 16|A differential amplifier is invariably used in the i/p stage of all OP-amps. This is done basically to provide the OP-amps with a very high______?|CMMR|Bandwidth|Slew rate|Open-loop gain|2|
+Class 10 Physics|Analog Electronics|Set 16|A source follower using an FET usually has a voltage gain which is______?|greater than +100|slightly less than unity but positive|exactly unity but negative|about -10|0|
+Class 10 Physics|Analog Electronics|Set 16|The early effect in a bipolar junction transistor is caused by______?|fast turn-on|fast turn-off|large collector-base reverse bias|large emitter-base forward bias|2|
+Class 10 Physics|Analog Electronics|Set 16|In an op-amp differentiator:______?|the amplitude of output is proportional to rate of change of input|the amplitude of output is proportional to input|output occurs when input is finite and constant|polarity of input and output is the same|0|
+Class 10 Physics|Analog Electronics|Set 16|In deriving ac equivalent circuit for an amplifier circuit, we short circuit______?|all resistors|all transistors|all inductors|all capacitors|3|
+Class 10 Physics|Analog Electronics|Set 16|When a transistor is connected in common emitter mode, it with have______?|negligible input resistance and high output resistance|high input resistance and low output resistance|medium input resistance and high output resistance|low input resistance as well as output resistance|2|
+Class 10 Physics|Analog Electronics|Set 16|In a transistor leakage current mainly depends on______?|doping of base|size of emitter|rating of transistor|temperature|3|
+Class 10 Physics|Analog Electronics|Set 16|Voltage Series feedback also called series-shunt feedback) results in______?|Increase in both input & output impedances|Decreases in both input & output impedances|Increase in input impedance & decreases in output impedance|Decrease in input impedance & increase in output impedance|2|
+Class 10 Physics|Analog Electronics|Set 16|To prevent a DC return between source and load, it is necessary to use______?|resistor between source and load|inductor between source and load|capacitor between source and load|either A. or B.|2|
+Class 10 Physics|Analog Electronics|Set 16|An ideal OP-AMP is an ideal______?|Current controlled Current source|Current controlled voltage source|Voltage controlled voltage source|voltage controlled current source|1|
+Class 10 Physics|Analog Electronics|Set 16|In the differential voltage gain & the common mode voltage gain of a differential amplifier are 48db &2db respectively, then its common mode rejection ratio is______?|23dB|25dB|46dB|50dB|2|
+Class 10 Physics|Analog Electronics|Set 16|A 741-type OP-AMP has a gain-bandwidth product of 1MHz. A non-inverting amplifier using this op-amp & having a voltage gain of 20db will exhibit -3db bandwidth of______?|50 KHz|100KHz|1000/17 KHz|1000/7.07 KHz|1|
+Class 10 Physics|Analog Electronics|Set 17|Most of the linear ICs are based on the two-transistor differential amplifier because of its______?|input voltage dependent linear transfer characteristic|high voltage gain|high input resistance|high CMRR|3|
+Class 10 Physics|Analog Electronics|Set 17|The bandwidth of an RF tuned amplifier is dependent on______?|Q -factor of the tuned o/p circuit|Q -factor of the tuned i/p circuit|Quiescent operating point|Q-factor of the o/p and i/p circuits as well as quiescent operating point|0|
+Class 10 Physics|Analog Electronics|Set 17|A constant current signal across a parallel RLC circuits gives an o/p of 1.4v at the signal frequency of 3.89KHZ and 4.1KHZ .At the frequency of 4KHZ,the o/p voltage will be______?|1 v|2v|1.4v|2.8v|1|
+Class 10 Physics|Analog Electronics|Set 17|In a p-n junction diode under reverse bias , the magnitude of electric field is maximum at______?|the edge of the depletion region on the p-side|the edge of the depletion region on the n-side|the p-n junction|the center of the depletion region on the n-side|2|
+Class 10 Physics|Analog Electronics|Set 17|A change in the value of the emitter resistance Re in a differential amplifier?|affects the difference mode gain Ad|affects the common mode gain Ac|affects both Ad and Ac|does not effect either Ad and Ac|1|
+Class 10 Physics|Analog Electronics|Set 17|Thermal runaway is not possible in FET because as the temperature of FET increases______?|the mobility decreases|the transconductance increases|the drain current increases|none of the above|0|
+Class 10 Physics|Analog Electronics|Set 17|Which of the following is not associated with a p-n junction?|junction capacitance|charge storage capacitance|depletion capacitance|channel length modulation|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|In alkaline cell the electrolyte is______?|dilute sulphuric acid|concentrated sulphuric acid|NaOH|KOH|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|A typical output of a solar cell is______?|0.1V|0.26 V|1.1 V|2 V|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|A constant-voltage generator has______?|minimum efficiency|minimum current capacity|low internal resistance|high internal resistance|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which of the following factors adversely affects the capacity of the leadacid battery ?|Temperature of surroundings|Specific gravity of electrolyte|Rate of discharge|All of the above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|In a lead-acid battery the energy is stored in the form of______?|charged ions|chemical energy|electrostatic energy|electromagnetic energy|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Satellite power requirement is provided through______?|solar cells|dry cells|nickel-cadmium cells|lead-acid batteries|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Cells are connected in parallel to______?|increase the efficiency|increase the current capacity|increase the voltage output|increase the internal resistance|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which among the following constitutes the major load for an automobile battery ______?|Brake light|Self starter|Parking lights|Spark plugs|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|When the load resistance equals the generator resistance which of the following will be maximum ______?|Current|Efficiency of the circuit|Power in the load resistance|Voltage across the load resistance|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Under normal charging rate, the charging current should be______?|10% of capacity|20% of capacity|30% of capacity|40% of capacity|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|The common impurity in the electrolyte of lead-acid battery is______?|chlorine|dust particles|lead crystals|iron|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Petroleum jelly is applied to the electrical connections to the lead-acid battery______?|prevent local heating|prevent short-circuiting|reduce path resistance|prevent corrosion|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which of the following cell has a. reversible chemical reaction ______?|Lead-acid|Mercury oxide|Carbon-zinc|Silver-oxide|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|When two batteries are connected in parallel, it should be ensured that______?|they have same e.m.f.|they have same make|they have same ampere-hour capacity|they have identical internal resistance|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which of the following has lower specific gravity V______?|Dilute H2S04|Concentrated H2SO4|Water|Any of the above|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which of the following battery is used for air-craft ______?|Lead-acid battery|Nickel-iron battery|Dry cell battery|Silver oxide battery|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|In a battery cover is placed over the element and sealed to the top of the battery container. This is done______?|to reduce evaporation of water from electrolyte|to exclude dirt and foreign matter from the electrolyte|to discharge both of the above functions|to discharge none of the above functions|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Hydrogen evolved during charging produces explosive mixture when it is more than______?|2%|4%|6%|8%|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which of the following primary cells has the highest voltage______ ?|Manganese-alkaline|Carbon-zinc|Lithium|Mercury|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|For a cell to work, which of the following condition(s) become necessary ______?|Two electrodes of different meta's should be inserted in the electrolyte, not touching each other|Electrolyte must chemically react with one of the electrodes|Electrolyte liquid or paste should be conducting|All above three conditions are necessary|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Charging a sulphated battery at high rate results in______?|boiling of electrolyte due to gassing|warping of plates|damage to separators, cell caps covers and battery case due to excessive temperature|all above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Extent of corrosion in the underground metal work depends upon______?|amount of moisture|type of metals|type of soil chemicals|all above factors|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Mercury cell has which of the following characteristics ______?|Flat discharge current-voltage curve|High power to weight ratio|Comparatively longer shelf life under adverse conditions of high temperature and humidity|All of the above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Which of the following primary cells has the lowest voltage______ ?|Lithium|Zinc-chloride|Mercury|Carbon-zinc|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Charging of sulfated battery produces ______ heat|no|very little|less|more|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Weston standard cell at 20 deg C has voltage of ______ volts|0.8|0.9|1.0187|1.5|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|A battery of 6 cells will show a drop of ______ volts from fully charged state to fully discharged state|1.0|1.5|2.4|2.9|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Specific gravity of electrolyte in Edison cell is______?|0.8|0.95|1.1|1.21|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|During the idle period of the battery, strong electrolyte tends to change the active material of the cell into______?|Pb02|PbSC-4|PbO|Pb|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|The body of Edison cell is made of______?|bakelite|rubber|nickel plated steel|aluminium|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|All the electrical connections between the battery and vehicle should be by______?|thin aluminium wires|thin copper wires|rigid cables|flexible cables|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Ampere hour capacity of an industrial battery is based on ______ hours discharge rate|8|12|16|24|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Self charge of a Ni-Fe cell is ______ Edison cell|equal to|less than|more than|much more than|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|The following indicate that battery on charge has attained full charge______?|colour of electrode|gassing|specific gravity|all above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Dry cell is modification of______?|Deniell cell|Leclanche cell|Lead-acid cell|Edison cell|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Excessive charging a battery tends to______?|produce gassing|increase the internal resistance of the battery|to corrode the positive plates into lead peroxide thereby weakening them physically|bring about all above changes|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|In order that a hydrometer may float vertically in electrolyte its C.G. should be______?|lowered|raised|undisturbed|displaced sideways|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Internal resistance of a cell is due to______?|resistance of electrolyte|electrode resistance|surface contact resistance between electrode and electrolyte|all above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|If a lead-acid cell is discharged below 1.8 V the following will happen.______?|Capacity of cell will reduce|Sulphation of plates will occur|Internal resistance will increase|All above will occur|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|In a lead-acid cell, if the specific gravity of sulphuric acid is 1.8, it will require following ratio of acid to water to get mixture of specific gravity of 1.3|6 parts of acid to 4 parts of water|4 parts of acid to 4 parts of water|4 parts of acid to 6 parts of water|4 parts of acid to 8 parts of water|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Cell short circuit results in______?|low sp. gravity electrolyte|abnormal high temperature|reduced gassing on charge|all above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 17|Capacity of dry cells is______?|more when it is supplying current for intermittent periods|more when it is supplying current for continuous periods|unaffected by the type of discharge|none of the above|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Local action in a battery is indicated by______?|excessive gassing under load conditions|excessive drop in the specific gravity of electrolyte even when the cell is on open circuit|both A. and (b)|none of the above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Sulphated cells are indicated by______?|the loss of capacity of the cell|the decrease of the specific gravity|the low voltage of the cell on discharge|all above conditions|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Internal resistance of a cell is reduced by______?|using vent plug to permit gas formed during discharge|increasing the plate area|putting plates very close together|all above methods|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Battery container should be acid resistance, therefore it is made up of______?|glass|plastic|wood|all above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Following will happen if battery charging rate is too high______?|excessive gassing will occur|temperature rise will occur|bulging and buckling of plates will occur|all above will occur|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|During discharge, the active material of both the positive and negative plates is changed to______?|Pb|Pb02|PbO|PbS04|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Persons preparing electrolyte should wear______?|goggles or other face shield|rubber|rubber boots and gloves|all above safety devices|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|The current flow through electrolyte is due to the movement of______?|ions|holes|electrons|none of the above|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|If a battery is wrongly connected on charge following will happen______?|current delivered by the battery will be high|current drawing will be nil|current drawing will be very small|current drawing will be very high|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Life of the batteries is in the following ascending order______?|Lead-acid cell, Edison cell, Nickel cadmium cell|Lead-acid cell, Nickel-cadmium cell, Edison cell|Edison cell, Nickel-cadmium cell, lead-acid cell|Nickel-cadmium cell, Edison cell, lead-acid cell|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Shelf life of a small dry cell is______?|equal to that of large dry cell|less than that of large dry cell|more than that of large dry cell|none of the above|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Level of electrolyte in a cell should be ______ the level of plates|below|equal to|above|none of the above|2|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|______ of electrolyte indicates the state of charge of the battery|colour|mass|viscosity|specific gravity|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Battery charging equipment is generally installed______?|in well ventilated location|in clean and dry place|as near as practical to the battery being charged|in location having all above features|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|48 ampere-hour capacity would deliver a current of______?|48 amperes for 1 hour|24 amperes for 2 hours|8 amperes for 6 hours|6 amperes for 8 hours|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Batteries are charged by______?|rectifiers|engine generator sets|motor generator sets|any one of the above methods|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|In constant-current charging method, the supply voltage from discharged to fully charged condition______?|decreases|increases|remains constant|none of the above|1|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Following will happen if the specific gravity of electrolyte becomes more than 1.23|Loss of capacity|Loss of life|Corrosion of the grids of the plate|All above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Following will occur if level of electrolyte falls below plates______?|capacity of the cell is reduced|life of the cell is reduced|open plates are converted to lead sulphate|all above|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|On overcharging a battery______?|it will bring about chemical change in active materials|it will increase the capacity of the battery|it will raise the specific gravity of the electrolyte|none of the above will occur|3|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|In constant voltage charging method, the charging current from discharged to fully charged condition______?|decreases|increases|remains constant|none of the above|0|
+Class 10 Physics|Electrolysis and Storage of Batteries|Set 18|Each cell has a vent cap______?|to allow gases out when the cell is on charge|to add water to the cell if needed|to check the level of electrolyte|to do all above functions|3|

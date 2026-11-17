@@ -1,0 +1,293 @@
+{
+ "format": 1,
+ "generated": "2026-11-17",
+ "packs": [
+  {
+   "name": "bio10_ch1.txt",
+   "version": 1,
+   "sha256": "5553135c504614737c90d3e338ce124b3858cecb09c0ef87a6741eb67f6ae5ed",
+   "url": "bio10_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "bio10_extra.txt",
+   "version": 1,
+   "sha256": "361774aa8a83ab1342b4c785a7c8bc7af8f7553482aac0e66fafd7ec35d63d28",
+   "url": "bio10_extra.txt",
+   "count": 900
+  },
+  {
+   "name": "bio9_ch1.txt",
+   "version": 1,
+   "sha256": "7a671c1fe3f5b6cd5a36196104a3089f2cd6dffbcb45b168ce9812fd7a093919",
+   "url": "bio9_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "bio9_ch2.txt",
+   "version": 1,
+   "sha256": "7b2cfe3815697782481ce8a445b372c38054d6eeb80a04f58c9599f8656fc6b9",
+   "url": "bio9_ch2.txt",
+   "count": 100
+  },
+  {
+   "name": "bio9_ch3.txt",
+   "version": 1,
+   "sha256": "1e6234f245d85cdc25d8ccb303e94ff1fa6874de6240b4b7290b995106c1339b",
+   "url": "bio9_ch3.txt",
+   "count": 100
+  },
+  {
+   "name": "bio9_ch4.txt",
+   "version": 1,
+   "sha256": "9b1142269d35155e89a6268985f48a3c334a9f7aada334e9899cbc99f3cfc083",
+   "url": "bio9_ch4.txt",
+   "count": 100
+  },
+  {
+   "name": "bio9_ch5.txt",
+   "version": 1,
+   "sha256": "d92e2e88921f29c6fea5f0e7c3a9f1f977c09b1c2e3fe42d4c2d2167433a2618",
+   "url": "bio9_ch5.txt",
+   "count": 100
+  },
+  {
+   "name": "bio9_extra.txt",
+   "version": 1,
+   "sha256": "387501fd5088a43a3bffa64880b41110640b1da7d09d113baa1bf1312a6c4a68",
+   "url": "bio9_extra.txt",
+   "count": 500
+  },
+  {
+   "name": "bioE_cell.txt",
+   "version": 1,
+   "sha256": "a9fa237498c62010a54e1821c7fec2e4330a6f82f59a017e868c8dd4c2782728",
+   "url": "bioE_cell.txt",
+   "count": 50
+  },
+  {
+   "name": "bioE_coord.txt",
+   "version": 1,
+   "sha256": "36df0282bb217799023adef80de6fdb960a7205c511c7f373fbfde15cd329a18",
+   "url": "bioE_coord.txt",
+   "count": 50
+  },
+  {
+   "name": "bioE_homeo.txt",
+   "version": 1,
+   "sha256": "52923dcdc2565930ba91aca7657eb2b271c11e5dd2bc31f35b7dd0fee29351a8",
+   "url": "bioE_homeo.txt",
+   "count": 50
+  },
+  {
+   "name": "bioE_mol.txt",
+   "version": 1,
+   "sha256": "441e6a246aae148f457269db6e34b9d51d705b2a9c27dce39138d378b74b1ae9",
+   "url": "bioE_mol.txt",
+   "count": 50
+  },
+  {
+   "name": "chem10_ch1.txt",
+   "version": 1,
+   "sha256": "7c4c331029698367a90268a659d54c2f48df1450dda8c13773b44bc54efb2f93",
+   "url": "chem10_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "chem10_extra.txt",
+   "version": 1,
+   "sha256": "72ec5b2aa8a932d731acd8d605d8e9fd090151d31f7b504b3b85f694e980c39d",
+   "url": "chem10_extra.txt",
+   "count": 606
+  },
+  {
+   "name": "chem9_ch1.txt",
+   "version": 1,
+   "sha256": "4f1f7a882d6614fbbfae3351160d5d78ef2879cb4a1e2e81c33e26de6f68d6fc",
+   "url": "chem9_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "chem9_ch2.txt",
+   "version": 1,
+   "sha256": "faa371d647343967e7e5e9f0ad4cbecdbe6d796387ee8008af7712f1ca831326",
+   "url": "chem9_ch2.txt",
+   "count": 100
+  },
+  {
+   "name": "chem9_extra.txt",
+   "version": 1,
+   "sha256": "5c87894868c86cce0afe795f00b3c0465dea94df14b4d0feb408134bb1d48f6c",
+   "url": "chem9_extra.txt",
+   "count": 800
+  },
+  {
+   "name": "eng10.txt",
+   "version": 1,
+   "sha256": "f406e1218d72e099d95e293339e83c4a6ecdef0391a17521b91b6e8f3ceae406",
+   "url": "eng10.txt",
+   "count": 660
+  },
+  {
+   "name": "eng9_ch1.txt",
+   "version": 1,
+   "sha256": "6d438802aa7df0c2c4450ffa15a59b11e6226c47811bc125cfe70a52e008f34e",
+   "url": "eng9_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "eng9_extra2.txt",
+   "version": 1,
+   "sha256": "b8dc136f73ad6027073c08042eb65a3b4a1f06cf41faed4be37424066f258617",
+   "url": "eng9_extra2.txt",
+   "count": 900
+  },
+  {
+   "name": "eng_extra.txt",
+   "version": 1,
+   "sha256": "1283e05aa8aa40b66352a9fe723a588f691591bed61e228ff97c4ad4fd08da7e",
+   "url": "eng_extra.txt",
+   "count": 100
+  },
+  {
+   "name": "entry_biology2.txt",
+   "version": 1,
+   "sha256": "2a737b909f95368ff7ebc437bce5801b7b2c5a049071c288594172a855423051",
+   "url": "entry_biology2.txt",
+   "count": 800
+  },
+  {
+   "name": "entry_english2.txt",
+   "version": 1,
+   "sha256": "85dc1e3932328a7add80ee53112f5a41c824a4cc442c7cdd1f1ff7e8ea92eba2",
+   "url": "entry_english2.txt",
+   "count": 180
+  },
+  {
+   "name": "entry_math2.txt",
+   "version": 1,
+   "sha256": "22a7c25acb2b5fa6414fdebe0156fa84c4037b23b0bdb0505003ce56f853f141",
+   "url": "entry_math2.txt",
+   "count": 80
+  },
+  {
+   "name": "job_extra.txt",
+   "version": 1,
+   "sha256": "2521e518333d1a4da4baef093dff3a58231129c46bb47563bf63a8d6611c0400",
+   "url": "job_extra.txt",
+   "count": 100
+  },
+  {
+   "name": "math10.txt",
+   "version": 1,
+   "sha256": "613651f8e7f85e797bb6764f8ba696d5aaf3c35a1268e9907aa5a8f78780603c",
+   "url": "math10.txt",
+   "count": 761
+  },
+  {
+   "name": "math9.txt",
+   "version": 1,
+   "sha256": "f7212be27093c29978192a8fa0b36092d07ee91e9aac7dc89e3db9db707bc4d9",
+   "url": "math9.txt",
+   "count": 230
+  },
+  {
+   "name": "pak_computer.txt",
+   "version": 1,
+   "sha256": "36beca742aae37c1571b37e6da6db19fe85239c840080701bc749caec5b62a31",
+   "url": "pak_computer.txt",
+   "count": 1000
+  },
+  {
+   "name": "pak_eds.txt",
+   "version": 1,
+   "sha256": "5f6988642b1ec23499823f747f61ecb72a087986824cb49e05ae6ce0052b7095",
+   "url": "pak_eds.txt",
+   "count": 1000
+  },
+  {
+   "name": "pak_english.txt",
+   "version": 1,
+   "sha256": "c1666dd5e9d7155fe711b7e3841a643e6dceaf78007c17ec4d2bf6b1bfb6e3ba",
+   "url": "pak_english.txt",
+   "count": 1000
+  },
+  {
+   "name": "pak_gk.txt",
+   "version": 1,
+   "sha256": "ba05b46f98eac4fc0437ab263f301454030d37b0fd22d277691aadd9b0f662e5",
+   "url": "pak_gk.txt",
+   "count": 500
+  },
+  {
+   "name": "pak_gk2.txt",
+   "version": 1,
+   "sha256": "e954430c4ae3c259c6bfe0ad33db90952f6fb15467d40c73deb2a3ca28294ee1",
+   "url": "pak_gk2.txt",
+   "count": 500
+  },
+  {
+   "name": "pak_islamic.txt",
+   "version": 1,
+   "sha256": "c7a299fc49eb7a5776a692494886b9da939b7c77b47a74ad043afd99806289f9",
+   "url": "pak_islamic.txt",
+   "count": 1000
+  },
+  {
+   "name": "pak_math.txt",
+   "version": 1,
+   "sha256": "bd9e1ff9143616577261b1ac21c5978e43aecb61012ca6b7d47b5c89dd3e6ffc",
+   "url": "pak_math.txt",
+   "count": 1000
+  },
+  {
+   "name": "pak_pakstudy.txt",
+   "version": 1,
+   "sha256": "de66c580de1cafdcf8abe3f0f285cae0f3d4a73bdef6e588e7d2a0a277bbb1f9",
+   "url": "pak_pakstudy.txt",
+   "count": 500
+  },
+  {
+   "name": "pak_pakstudy2.txt",
+   "version": 1,
+   "sha256": "a97fc8d95cd538d9e12d89ca6fbcfe0bf07014520995b1bccc0c6cd87f2c37b0",
+   "url": "pak_pakstudy2.txt",
+   "count": 500
+  },
+  {
+   "name": "phy10_ch1.txt",
+   "version": 1,
+   "sha256": "576b3fcb9ff6c3f6929e7c70cb9c1728be78622a846f6105d05caa84760db400",
+   "url": "phy10_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "phy10_extra.txt",
+   "version": 1,
+   "sha256": "404bf59b98c7dd8d197c1c4e58d062d2ff584272c92cd6fbdb8467c4f973e887",
+   "url": "phy10_extra.txt",
+   "count": 900
+  },
+  {
+   "name": "phy9_ch1.txt",
+   "version": 1,
+   "sha256": "13721f427c81f4afe432c0cf72c90cc310f501aacc554d037e97fa1e53359d12",
+   "url": "phy9_ch1.txt",
+   "count": 100
+  },
+  {
+   "name": "phy9_ch2.txt",
+   "version": 1,
+   "sha256": "e2b4d022ed4e8257024223a51e61c3bb88cae264b763f39c0b68a4bc1e3f45a6",
+   "url": "phy9_ch2.txt",
+   "count": 100
+  },
+  {
+   "name": "phy9_extra.txt",
+   "version": 1,
+   "sha256": "e8ac81bdf85529e62cab9efaccc8eb78bf334ce398d5180b4d4a7bbc957717e4",
+   "url": "phy9_extra.txt",
+   "count": 800
+  }
+ ]
+}

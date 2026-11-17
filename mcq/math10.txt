@@ -1,0 +1,761 @@
+Class 10 Mathematics|Volumes|Set 01|If the volume and surface area of a sphere is numerically the same then it's radius is______?|1 unit|2 units|3 units|4 units|2|
+Class 10 Mathematics|Volumes|Set 01|A right cylinder and a right circular cone have the same radius and the same volume. The ratio of the height of the cylinder to that of the cone is______?|3: 5|2: 5|3: 1|1: 3|3|
+Class 10 Mathematics|Volumes|Set 01|The radius of a circular cylinder is the same as that of a sphere. Their volumes are equal. The height of the cylinder is______?|4/3 times its radius|2/3 times its radius|Equal to it's radius|Equal to it's diameter|0|
+Class 10 Mathematics|Volumes|Set 01|The number of solid spheres each of diameter 6 cm, that could be moulded to form a solid metal cylinder of height 45 cm and diameter 4 cm is?|3|4|5|6|2|
+Class 10 Mathematics|Volumes|Set 01|The length of the wire of 0.2mm radius that can be drawn after melting a solid copper sphere of diameter 18cm?|24.3 m|243 m|2430 m|24300 m|3|
+Class 10 Mathematics|Volumes|Set 01|The radius of a wire is decreased to one -third if volume remains the same length will increase|1 Time|3 times|6 times|9 times|3|
+Class 10 Mathematics|Volumes|Set 01|A metal sheet 27 cm long 8cm broad and 1 cm thick is melted into a cube. The difference between the surface areas of two solids is______?|284 cm2|286 cm2|296 cm2|300 cm2|1|
+Class 10 Mathematics|Volumes|Set 01|A wooden box of dimensions 8m x 7m x 6m is to carry rectangular boxes of dimensions 8cm x 7cm x 6cm. The maximum number of boxes that can be carried in 1 wooden box is?|1200000|1000000|9800000|7500000|1|
+Class 10 Mathematics|Volumes|Set 01|If the length, breadth and the height of a cuboid are in the ratio 6: 5: 4 and if the total surface area is 33300 cm2, then length breadth and height in cms, are respectively?|90, 85, 60|85, 75, 60|90, 75, 70|90, 75,60|3|
+Class 10 Mathematics|Volumes|Set 01|The surface area of a cube is 726m2, its volume is?|1300 m3|1331 m3|1452 m3|1542 m3|1|
+Class 10 Mathematics|Volumes|Set 01|The height of two right circular cones are in the ratio 1:2 and their perimeters of their bases are in the ratio 3:4, the ratio of their volume is______?|3:8|9:16|9:32|9:64|2|
+Class 10 Mathematics|Volumes|Set 01|Surface area of two spheres are in the ratio 1:4 what is the ratio of their volumes?|1:64|1:8|1:4|8:1|1|
+Class 10 Mathematics|Volumes|Set 01|The diameters of two spheres are in the ratio 1:2 what is the ratio of their volumes?|3:4|9:16|1:8|4:3|2|
+Class 10 Mathematics|Volumes|Set 01|The diameters of two spheres are in the ratio 1:2 what is the ratio of their surface area?|1:2|1:4|2:1|4:1|1|
+Class 10 Mathematics|Volumes|Set 01|The sides of a cube are in the ratio 1:2 the ratio of their volume is______?|1:2|1:4|1:8|2:1|2|
+Class 10 Mathematics|Volumes|Set 01|A rectangular field 30 m long and 20 m broad. How much deep it should be dug so that from the earth taken out, a platform can be formed which is 8 m long, 5.5 m broad and 1.5 m high where as the earth taken out is increase by 10/5?|12 cm|10 cm|18 cm|24 cm|1|
+Class 10 Mathematics|Volumes|Set 01|Calculate the number of bricks, each measuring 25 cm * 15 cm * 8 cm required to construct a wall of dimensions 10 m * 4 m * 5 m when 10% of its volume is occupied by mortar?|4000|5000|6000|7000|2|
+Class 10 Mathematics|Volumes|Set 01|If in a box of dimensions 6 m * 5 m * 4 m smaller boxes of dimensions 60 cm * 50 cm * 40 cm are kept in it, then what will be the maximum number of the small boxes that can be kept in it?|500|1000|900|600|1|
+Class 10 Mathematics|Volumes|Set 01|A brick measures 20 cm * 10 cm * 7.5 cm how many bricks will be required for a wall 25 m * 2 m * 0.75 m?|24000|23000|22000|25000|3|
+Class 10 Mathematics|Volumes|Set 01|In digging a pond 20 m * 10 m * 5 m the volumes of the soil extracted will be______?|100 cu.m|1000 cu.m|10000 cu.m|2000 cu.m|1|
+Class 10 Mathematics|Volumes|Set 01|If the height of a cone is increased by 100% then its volume is increased by______?|100%|200%|300%|400%|0|
+Class 10 Mathematics|Volumes|Set 01|A cylinder and a cone have a same height and same radius of the base. The ratio between the volumes of the cylinder and cone is______?|1:3|3:1|1:2|2:1|1|
+Class 10 Mathematics|Volumes|Set 01|The length of the longest rod that can fit in a cubical room of 4 m side is?|8.66 m|5.196 m|6.928 m|7.264 m|2|
+Class 10 Mathematics|Volumes|Set 01|The area of the cardboard(in cm2) needed to make a box of size 25 cm * 15 cm * 8 cm will be______?|1390 cm2|695 cm2|1280 cm2|1220 cm2|0|
+Class 10 Mathematics|Volumes|Set 01|A tank 3 m long, 2 m wide and 1.5 m deep is dug in a field 20 m long and 14 m wide. If the earth dug out is evenly spread out over the field, the level of the field will raise by nearly?|0.299 cm|0.29 cm|2.98 cm|4.15 cm|2|
+Class 10 Mathematics|Volumes|Set 01|A river 2m deep and 45 m wide is flowing at the rate of 3 kmph the amount of water that runs into the sea per minute is?|4500 M3|27000 M3|3000 M3|2700 M3|0|
+Class 10 Mathematics|Volumes|Set 01|The dimensions of an open box are 52, 40 and 29 cms. Its thickness is 2 cms. If 1 cm3 of metal used in the box weighs 0.5 gms, the weight of the box is______?|8.56 kg|7.76 kg|7.756 kg|6.832 kg|3|
+Class 10 Mathematics|Volumes|Set 01|A room is 15m long, 4m broad and 3m height. Find the cost of white washing its four walls at 50p per m2 ?|Rs.60|Rs.57|Rs.55|Rs.52|1|
+Class 10 Mathematics|Volumes|Set 01|How many meters of carpet 50cm, wide will be required to cover the floor of a room 30m * 20m?|1000|600|2400|1200|3|
+Class 10 Mathematics|Volumes|Set 01|A rectangular courtyard, the sides of which are in the ratio of 4:3, cost Rs.600 for paving at 50 p per m2; find the length of the diagonal of the courtyard?|25 m|35 m|45 m|50 m|3|
+Class 10 Mathematics|Volumes|Set 01|If the sides of a cube are in the ratio 4:3. What is the ratio of their diagonals?|4:3|16:9|64:27|3:4|0|
+Class 10 Mathematics|Volumes|Set 01|Three cubes of metal whose edges are 9, 12 and 15 cm respectively, are melted and one new cube is made. Find the edge of the new cube?|21 cm|19 cm|32 cm|18 cm|3|
+Class 10 Mathematics|Volumes|Set 01|The ratio between the radii of two spheres is 1:3. Find the ratio between their volumes?|27:1|1:27|1:9|9:1|1|
+Class 10 Mathematics|Volumes|Set 01|How many shots of 1cm radius can be prepared from a sphere of 3cm radius?|36|64|27|16|2|
+Class 10 Mathematics|Volumes|Set 01|Find the ratio between whole surfaces of a sphere and a hemisphere?|3:4|4:3|3:1|1:3|1|
+Class 10 Mathematics|Volumes|Set 01|The area of a base of a cone is 30 cm2. If the height of the cone is 6cm, find its volume?|120 cm3|40 cm3|50 cm3|60 cm3|3|
+Class 10 Mathematics|Volumes|Set 01|Find the ratio of the curved surfaces of two cylinders of same heights if their radii are in the ratio 1:2.|1:2|2:1|1:4|4:1|0|
+Class 10 Mathematics|Volumes|Set 01|Two cylinders are of the same height. Their radii are in the ratio 1: 3. If the volume of the first cylinder is 40 cc. Find the volume of the second cylinder?|360 cc|60 cc|300 cc|36 cc|0|
+Class 10 Mathematics|Volumes|Set 01|Find the expenditure on digging a well 14m deep and of 3m diameter at Rs.15 per cubic meter?|Rs.1185|Rs.1285|Rs.1385|Rs.1485|3|
+Class 10 Mathematics|Volumes|Set 01|The radius of a cylindrical vessel is 7cm and height is 3cm. Find the whole surface of the cylinder?|308 sq cm|220 sq cm|440 sq cm|132 sq cm|2|
+Class 10 Mathematics|Volumes|Set 01|The areas of the two spheres are in the ratio 1: 4. The ratio of their volume is?|1:4|1:16|1:8|1:64|2|
+Class 10 Mathematics|Volumes|Set 01|The volumes of two cubes are in the ratio 27: 125, what shall be the ratio of their surface areas?|6:25|3:5|9:25|16:25|2|
+Class 10 Mathematics|Volumes|Set 01|What is the length of the longest pole which can be kept in a room 12 m long, 4 m broad and 3 m high?|10 cm|12 cm|15 cm|13 cm|3|
+Class 10 Mathematics|Volumes|Set 01|Find the length of the wire required to go 15 times round a square field containing 69696 m2.|15840 m|16840 m|15820 m|15640 m|0|
+Class 10 Mathematics|Volumes|Set 01|The edges of three iron cubes are 6cm; 8cm; 10cm respectively. A new cube was made by melting them. Find the edge of the new cube?|8 cm|12 cm|14 cm|10 cm|1|
+Class 10 Mathematics|Volumes|Set 01|The area of the floor of a room is 20 m2 that of a longer wall 15 m2 and of the shorter wall 12 m2, find the edge of the new cube?|450 m3|100 m2|60 m3|400 m3|2|
+Class 10 Mathematics|Volumes|Set 01|If the sides of two cubes are in the ratio 3: 1 the ratio of their total surface area is?|3:1|8:1|9:1|12:1|2|
+Class 10 Mathematics|Volumes|Set 01|The edges of a cuboid are respectively 3cm, 4cm and 12 cm. Find the length of the diagonal of cuboid.|5 cm|19 cm|13 cm|144 cm|2|
+Class 10 Mathematics|Volumes|Set 01|The edges of a cuboid are 4 cm, 5 cm and 6 cm. Find the volume of the cuboid?|120 cm3|120 cm2|148 cm2|15 cm3|1|
+Class 10 Mathematics|Volumes|Set 01|The edges of cuboid are 4 cm; 5 cm and 6 cm. Find its surface area?|120 cm2|148 cm2|74 cm2|15 cm2|1|
+Class 10 Mathematics|Volumes|Set 02|The edge of three cubes of metal is 3 dm, 4 dm and 5 dm. They are melted and formed into a single cube. Find the edge of the new cube?|3 dm|4 dm|5 dm|6 dm|3|
+Class 10 Mathematics|Volumes|Set 02|How many cubes of edge 2 dm can be cut out of a meter cube?|50|64|216|125|3|
+Class 10 Mathematics|Volumes|Set 02|The volume of a cube is 1728 cc. Find its surface.|864 cm2|648 cm2|486 cm2|468 cm2|0|
+Class 10 Mathematics|Volumes|Set 02|The surface of a cube is 24sq cm. Find its volume?|8 cc|16 cc|32 cc|64 cc|0|
+Class 10 Mathematics|Volumes|Set 02|The edge of a cube is 2a cm. Find its surface?|6a2 cm2|8a2 cm2|12a2 cm2|24a2 cm2|3|
+Class 10 Mathematics|Volumes|Set 02|A solid consists of a circular cylinder with an exact fitting right circular cone placed on the top. The height of the cone is h. If the total volume of the solid is three times the volume of the cone then the height of the cylinder is______?|2h|4h|2h/3|3h/2|2|
+Class 10 Mathematics|Volumes|Set 02|If the radius of the sphere is doubled then it's volume is increased by?|100 %|200 %|700 %|800 %|2|
+Class 10 Mathematics|Volumes|Set 02|The curved surface area of a cylindrical pillar is 264 m2 and its volume is 924 m3. Find the ratio of its diameter to its height.|3 : 7|7 : 3|6 : 7|7 : 6|1|
+Class 10 Mathematics|Volumes|Set 02|A cistern of capacity 8000 litres measures externally 3.3 m by 2.6 m by 1.1 m and its walls are 5 cm thick. The thickness of the bottom is______?|90 cm|1 dm|1 m|1.1 cm|1|
+Class 10 Mathematics|Volumes|Set 02|A large cube is formed from the material obtained by melting three smaller cubes of 3, 4 and 5 cm side. What is the ratio of the total surface areas of the smaller cubes and the large cube?|2 : 1|3 : 2|25 : 18|27 : 20|2|
+Class 10 Mathematics|Volumes|Set 02|Surface area of a sphere is 2464 cm2. If its radius is doubled, then the surface area of ______?the new sphere will be|4920 cm2|4727 cm2|9856 cm2|19712 cm2|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in______?|6 hours|6 2/3 hours|7 hours|7 1/2 hours|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A cistern can be filled by a tap in 4 hours while it can be emptied by another tap in 9 hours. If both the taps are opened simultaneously, then after how much time will the cistern get filled?|4.5 hrs|5 hrs|6.5 hrs|7.2 hrs|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A tap can fill a tank in 6 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?|3 hrs 15 min|3 hrs 45 min|4 hrs|4 hrs 15 min|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?|15 min|20 min|27.5 min|30 min|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:|81 min.|108 min.|144 min.|192 min.|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A cistern is normally filled in 8 hours but takes two hours longer to fill because of a leak in its bottom. If the cistern is full the leak will empty it in.|16 hrs|20 hrs|25 hrs|40 hrs|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|One top can fill a cistern in 2 hours and another can empty the cistern in 3 hours. How long will they take to fill the cistern if both the taps are opened?|5 Hours|6 Hours|7 Hours|8 Hours|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A top can fill a cistern in 8 hours and another can empty it in 16 hours. If both the taps are opened simultaneously the time (in hours) to fill the tank is|8|10|16|24|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours. C is closed A and B can fill the remaining par in 7 hours. The number of hours taken by C alone to fill the tank is?|10|12|14|16|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B can fill a cistern in 37 1/2 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the pipe B is turned off after?|5 min|9 min|10 min|15 min|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is?|60 gallons|100 gallons|120 gallons|180 gallons|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full is______?|6 hrs|6 2/3 hrs|7 hrs|7 1/2 hrs|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A large tanker can be filled by two pipes A and B in 60 and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?|15 min|20 min|27.5 min|30 min|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B can fill a tank in 15 min and 20 min respectively. Both the pipes are opened together but after 4 min, pipe A is turned off. What is the total time required to fill the tank?|10 min 20 sec|11 min 45 sec|12 min 30 sec|14 min 40 sec|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A tank is filled in 5 hours by three pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank?|20 hrs|25 hrs|35 hrs|Cannot be determined|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill tank in 36 min, then the slower pipe alone will be able to fill the tank in?|81 min|108 min|144 min|192 min|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B together can fill a cistern in 4 hours. Had they been opened separately, then B would have taken 6 hours more than A to fill cistern. How much time will be taken by A to fill the cistern separately?|1 hr|2 hrs|6 hrs|8 hrs|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 1/3 hours to fill the tank. The leak can drain all the water of the tank in?|4 1/3 hrs|7 hrs|8 hrs|14 hrs|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B can separately fill a cistern in 60 min and 75 min respectively. There is a third pipe in the bottom of the cistern to empty it. If all the three pipes are simultaneously opened, then the cistern is full in 50 min. In how much time, the third pipe alone can empty the cistern?|90 min|100 min|110 min|120 min|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Pipes A and B can fill a tank in 5 and 6 hours respectively. Pipe C can empty it in 12 hours. If all the three pipes are opened together, then the tank will be filled in?|1 13/17 hours|2 8/11 hours|3 9/17 hours|4 1/2 hours|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Pipe A can fill a tank in 5 hours, pipe B in 10 hours and pipe C in 30 hours. If all the pipes are open, in how many hours will the tank be filled?|2|2.5|3|3.5|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A water tank is two-fifth full. Pipe A can fill a tank in 10 minutes and pipe B can empty it in 6 minutes. If both the pipes are open, how long will it take to empty or fill the tank completely?|6 min. to empty|6 min. to full|9 min. to empty|9 min. to full|0|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, then how long will it take to fill the tank?|12 min|15 min|25 min|50 min|0|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A tank is filled in eight hours by three pipes A, B and C. Pipe A is twice as fast as pipe B, and B is twice as fast as C. How much time will pipe B alone take to fill the tank?|24 hours|28 hours|32 hours|36 hours|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Pipe A can fill a tank in 6 hours. Due to a leak at the bottom, it takes 9 hours for the pipe A to fill the tank. In what time can the leak alone empty the full tank?|16 hours|15 hours|18 hours|17 hours|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Pipe A can fill a tank in 16 minutes and pipe B cam empty it in 24 minutes. If both the pipes are opened together after how many minutes should pipe B be closed, so that the tank is filled in 30 minutes?|20|24|23|None of these|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes can fill a tank in 18 minutes and 15 minutes. An outlet pipe can empty the tank in 45 minutes. If all the pipes are opened when the tank is empty, then how many minutes will it take to fill the tank?|12|13|11|10|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Three pipes of same capacity can fill a tank in 8 hours. If there are only two pipes of same capacity, the tank can be filled in______?|17 hours|12 hours|16 hours|24 hours|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A cistern has three pipes, A, B and C. The pipes A and B can fill it in 4 and 5 hours respectively and C can empty it in 2 hours. If the pipes are opened in order at 1, 2 and 3 A.M. When will the cistern be empty?|3 PM|7 PM|4 PM|5 PM|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Pipes A and B can fill a cistern in 8 and 24 minutes respectively. They are opened an alternate minutes. Find how many minutes, the cistern shall be full?|6 min|12 min|19 min|10 min|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A pipe can fill a cistern in 20 minutes whereas the cistern when fill can be emptied by a leak in 28 minutes. When both pipes are opened, find when the cistern will be full?|60 min|80 min|70 min|48 min|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A cistern which could be filled in 9 hours takes one hour more to be filled owing to a leak in its bottom. If the cistern is full in what time will the leak empty it?|45 hrs|60 hrs|75 hrs|90 hrs|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|pipes P and Q would fill a cistern 18 and 24 minutes respectively. Both pipes being opened, find when the first pipe must be turned off so that the cistern may be just filled in 12 minutes?|after 12 mins|after 9 mins|after 8 1/2 mins|after 10 mins|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes function simultaneously the reservoir will be filled in 12 hours. One pipe fills reservoir 10 hours faster than the other. How many hours does the faster pipe take to fill the reservoir?|25 hrs|28 hrs|20 hrs|35 hrs|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes can separately fill a tank in 20 and 30 hours respectively. Both the pipes are opened to fill the tank but when the tank is full, a leak develops in the tank through which one-third of water supplied by both the pipes goes out. What is the total time taken to fill the tank?|18 hrs|16 hrs|15 hrs|12 hrs|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|An outlet pipe can empty 2/3 rd of a cistern in 12 minutes. In 8 minutes, what part of the cistern will be emptied?|4/9|2/3|4/7|1/6|0|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|A leak in the bottom of a tank can empty the full tank in 6 hours. An inlet pipe fills water at the rate of 4 liters per minute. When the tank is full in inlet is opened and due to the leak the tank is empties in 8 hours. The capacity of the tank is?|5260 liters|5760 liters|5846 liters|6970 liters|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B can separately fill a tank in 12 and 15 minutes respectively. A third pipe C can drain off 45 liters of water per minute. If all the pipes are opened, the tank can be filled in 15 minutes. What is the capacity of the tank?|480 liters|540 liters|600 liters|675 liters|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 02|Two pipes A and B can fill a cistern in 12 and 15 minutes respectively. Both are opened together but after 3 minutes A is turned off. After how much more time will the cistern be filled?|3 1/4 min|5 1/4 min|8 1/4 min|9 1/4 min|2|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|Two pipes A and B can fill a tank in 4 and 5 hours respectively. If they are turned up alternately for one hour each, the time taken to fill the tank is?|2 hrs 15 min|4 hrs 24 min|5 hrs|3 hrs|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|A cistern is filled by a tap in 3 1/2 hours. Due to leak in the bottom of the cistern, it takes half an hour longer to fill the cistern. If the cistern is full how long will it take the leak to empty it?|7 hours|8 hours|14 hours|28 hours|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|Two taps can separately fill a cistern 10 minutes and 15 minutes respectively and when the waste pipe is open, they can together fill it in 18 minutes. The waste pipe can empty the full cistern in?|7 min|13 min|23 min|9 min|3|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|A cistern has a leak which would empty the cistern in 20 minutes. A tap is turned on which admits 4 liters a minute into the cistern, and it is emptied in 24 minutes. How many liters does the cistern hold?|480 liters|600 liters|720 liters|800 liters|0|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|Two pipes P and Q can fill a cistern in 12 and 15 minutes respectively. Both are opened together, but at the end of 3 minutes the first is turned off. How much longer will the cistern take to fill?|9 1/4 min|11 1/4 min|7 1/4 min|8 1/2 min|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|Two pipes A and B can separately fill a tank in 2 minutes and 15 minutes respectively. Both the pipes are opened together but 4 minutes after the start the pipe A is turned off. How much time will it take to fill the tank?|9 min|10 min|11 min|12 min|1|
+Class 10 Mathematics|Pipes and Cisterns|Set 03|Two pipes A and B can fill a cistern in 20 and 30 minutes respectively, and a third pipe C can empty it in 40 minutes. How long will it take to fill the cistern if all the three are opened at the same time?|19 1/7 min|15 1/7 min|17 1/7 min|7 1/7 min|2|
+Class 10 Mathematics|Probability|Set 03|In a drawer there are 4 white socks, 3 blue socks and 5 grey socks. Two socks are picked randomly. What is the possibility that both the socks are of same color?|4/11|1|2/33|19/66|3|
+Class 10 Mathematics|Probability|Set 03|What is probability of drawing two clubs from a well shuffled pack of 52 cards?|13/51|1/17|1/26|13/17|1|
+Class 10 Mathematics|Probability|Set 03|What are the chances that no two boys are sitting together for a photograph if there are 5 girls and 2 boys?|1/21|4/7|2/7|5/7|3|
+Class 10 Mathematics|Probability|Set 03|A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is______?|1/13|2/13|1/26|1/52|2|
+Class 10 Mathematics|Probability|Set 03|From a pack of cards two cards are drawn one after the other, with replacement. The probability that the first is a red card and the second is a king is______?|1/26|3/52|15/26|11/26|0|
+Class 10 Mathematics|Probability|Set 03|Out of 10 persons working on a project, 4 are graduates. If 3 are selected, what is the probability that there is at least one graduate among them?|1/6|5/8|3/8|5/6|3|
+Class 10 Mathematics|Probability|Set 03|The probability that A speaks truth is 3/5 and that of B speaking truth is 4/7. What is the probability that they agree in stating the same fact?|18/35|12/35|17/35|19/35|0|
+Class 10 Mathematics|Probability|Set 03|In a party there are 5 couples. Out of them 5 people are chosen at random. Find the probability that there are at the least two couples?|5/21|5/14|9/14|16/21|0|
+Class 10 Mathematics|Probability|Set 03|The probability of a lottery ticket being a prized ticket is 0.2. When 4 tickets are purchased, the probability of winning a prize on at least one ticket is______?|0.4869|0.5904|0.6234|0.5834|1|
+Class 10 Mathematics|Probability|Set 03|10 books are placed at random in a shelf. The probability that a pair of books will always be together is______?|1/10|9/10|1/5|3/10|2|
+Class 10 Mathematics|Probability|Set 03|What is the probability that a leap year has 53 Sundays and 52 Mondays?|0|1/7|2/7|5/7|1|
+Class 10 Mathematics|Probability|Set 03|Out of 15 consecutive numbers, 2 are chosen at random. The probability that they are both odds or both primes is______?|10/17|10/19|46/105|Cannot be determined|3|
+Class 10 Mathematics|Probability|Set 03|A bag contains five white and four red balls. Two balls are picked at random from the bag. What is the probability that they both are different color?|4/9|5/9|7/9|8/9|1|
+Class 10 Mathematics|Probability|Set 03|A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If two marbles are picked at random, what is the probability that they are either blue or yellow?|3/22|4/21|2/21|1/14|2|
+Class 10 Mathematics|Probability|Set 03|A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If three marbles are picked at random, what is the probability that they are all blue?|1/455|2/455|1/91|4/455|0|
+Class 10 Mathematics|Probability|Set 03|A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If four marbles are picked at random, what is the probability that none is blue?|17/91|33/91|51/91|65/91|1|
+Class 10 Mathematics|Probability|Set 03|A box contains nine bulbs out of which 4 are defective. If four bulbs are chosen at random, find the probability that at least one bulb is good.|6/63|2/63|125/126|1/126|2|
+Class 10 Mathematics|Probability|Set 03|A box contains nine bulbs out of which 4 are defective. If four bulbs are chosen at random, find the probability that all the four bulbs are defective.|62/63|125/126|1/63|1/126|3|
+Class 10 Mathematics|Probability|Set 03|Three 6 faced dice are thrown together. The probability that exactly two dice show the same number on them is -.|5/9|5/12|1/36|7/12|1|
+Class 10 Mathematics|Probability|Set 03|Three 6 faced dice are thrown together. The probability that no two dice show the same number on them is______?|7/12|5/9|1/36|5/12|1|
+Class 10 Mathematics|Probability|Set 03|Three 6 faced dice are thrown together. The probability that all the three show the same number on them is -.|1/216|1/36|5/9|5/12|1|
+Class 10 Mathematics|Probability|Set 03|A basket has 5 apples and 4 oranges. Three fruits are picked at random. The probability that at least 2 apples are picked is______?|25/42|9/20|10/23|41/42|0|
+Class 10 Mathematics|Probability|Set 03|A bag contains 7 green and 8 white balls. If two balls are drawn simultaneously, the probability that both are of the same colour is -.|8/15|2/5|3/5|7/15|3|
+Class 10 Mathematics|Probability|Set 03|If six persons sit in a row, then the probability that three particular persons are always together is______?|1/20|3/10|1/5|4/5|2|
+Class 10 Mathematics|Probability|Set 03|If a card is drawn from a well shuffled pack of cards, the probability of drawing a spade or a king is______?|19/52|17/52|5/13|4/13|3|
+Class 10 Mathematics|Probability|Set 03|If four coins are tossed, the probability of getting two heads and two tails is______?|3/8|6/11|2/5|4/5|0|
+Class 10 Mathematics|Probability|Set 03|If two dice are thrown together, the probability of getting an even number on one die and an odd number on the other is______?|1/4|1/2|3/4|3/5|1|
+Class 10 Mathematics|Probability|Set 03|Out of first 20 natural numbers, one number is selected at random. The probability that it is either an even number or a prime number is______?|1/2|16/19|4/5|17/20|3|
+Class 10 Mathematics|Probability|Set 03|If a number is chosen at random from the set {1, 2, 3, ...., 100}, then the probability that the chosen number is a perfect cube is______?|1/25|1/2|4/13|1/10|0|
+Class 10 Mathematics|Probability|Set 03|A coin is tossed live times. What is the probability that there is at the least one tail?|31/32|1/16|1/2|1/32|0|
+Class 10 Mathematics|Probability|Set 03|The probability that a number selected at random from the first 50 natural numbers is a composite number is______?|21/25|17/25|4/25|8/25|1|
+Class 10 Mathematics|Mensuration|Set 03|The sector of a circle has radius of 21 cm and central angle 135o. Find its perimeter?|91.5 cm|93.5 cm|94.5 cm|92.5 cm|0|
+Class 10 Mathematics|Mensuration|Set 03|The length of a rectangle is two - fifths of the radius of a circle. The radius of the circle is equal to the side of the square, whose area is 1225 sq.units. What is the area (in sq.units) of the rectangle if the rectangle if the breadth is 10 units?|140|156|175|214|0|
+Class 10 Mathematics|Mensuration|Set 03|Find the area of a rhombus whose side is 25 cm and one of the diagonals is 30 cm?|225 sq.m|360 sq.m|600 sq.m|480 sq.m|2|
+Class 10 Mathematics|Mensuration|Set 03|The ratio of the volumes of two cubes is 729 : 1331. What is the ratio of their total surface areas?|81 : 121|9 : 11|729 : 1331|27 : 12|0|
+Class 10 Mathematics|Mensuration|Set 03|A metallic sphere of radius 12 cm is melted and drawn into a wire, whose radius of cross section is 16 cm. What is the length of the wire?|45 cm|18 cm|90 cm|None of these|3|
+Class 10 Mathematics|Mensuration|Set 03|The volumes of two cones are in the ratio 1 : 10 and the radii of the cones are in the ratio of 1 : 2. What is the length of the wire?|2 : 5|1 : 5|3 : 5|4 : 5|0|
+Class 10 Mathematics|Mensuration|Set 03|The radius of a wheel is 22.4 cm. What is the distance covered by the wheel in making 500 resolutions.|252 m|704 m|352 m|808 m|1|
+Class 10 Mathematics|Mensuration|Set 03|The dimensions of a room are 25 feet * 15 feet * 12 feet. What is the cost of white washing the four walls of the room at Rs. 5 per square feet if there is one door of dimensions 6 feet * 3 feet and three windows of dimensions 4 feet * 3 feet each?|Rs. 4800|Rs. 3600|Rs. 3560|Rs. 4530|3|
+Class 10 Mathematics|Mensuration|Set 03|A cube of side one meter length is cut into small cubes of side 10 cm each. How many such small cubes can be obtained?|10|100|1000|10000|2|
+Class 10 Mathematics|Mensuration|Set 03|The parameter of a square is equal to the perimeter of a rectangle of length 16 cm and breadth 14 cm. Find the circumference of a semicircle whose diameter is equal to the side of the square. (Round off your answer to two decimal places)?|23.57 cm|47.14 cm|84.92 cm|94.94 cm|0|
+Class 10 Mathematics|Mensuration|Set 03|A 25 cm wide path is to be made around a circular garden having a diameter of 4 meters. Approximate area of the path is square meters is______?|3.34|2|4.5|5.5|0|
+Class 10 Mathematics|Mensuration|Set 03|The circumferences of two circles are 264 meters and 352 meters. Find the difference between the areas of the larger and the smaller circles.|4192 sq m|4304 sq m|4312 sq m|4360 sq m|2|
+Class 10 Mathematics|Mensuration|Set 04|The parameter of a square is double the perimeter of a rectangle. The area of the rectangle is 480 sq cm. Find the area of the square.|200 sq cm|72 sq cm|162 sq cm|Cannot be determined|3|
+Class 10 Mathematics|Mensuration|Set 04|The area of a square is 4096 sq cm. Find the ratio of the breadth and the length of a rectangle whose length is twice the side of the square and breadth is 24 cm less than the side of the square.|18 : 5|7 : 16|5 : 14|None of these|3|
+Class 10 Mathematics|Mensuration|Set 04|A wire in the form of a circle of radius 3.5 m is bent in the form of a rectangule, whose length and breadth are in the ratio of 6 : 5. What is the area of the rectangle?|60 cm2|30 cm2|45 cm2|15 cm2|1|
+Class 10 Mathematics|Mensuration|Set 04|What will be the cost of building a fence around a square plot with area equal to 289 sq ft, if the price per foot of building the fence is Rs. 58?|Rs. 3944|Rs. 3828|Rs. 4176|None of these|3|
+Class 10 Mathematics|Mensuration|Set 04|An order was placed for the supply of a carpet whose breadth was 6 m and length was 1.44 times the breadth. What be the cost of a carpet whose length and breadth are 40% more and 25% more respectively than the first carpet. Given that the ratio of carpet is Rs. 45 per sq m?|Rs. 3642.40|Rs. 3868.80|Rs. 4216.20|Rs. 4082.40|3|
+Class 10 Mathematics|Mensuration|Set 04|The length of a rectangular floor is more than its breadth by 200%. If Rs. 324 is required to paint the floor at the rate of Rs. 3 per sq m, then what would be the length of the floor?|27 m|24 m|18 m|21 m|2|
+Class 10 Mathematics|Mensuration|Set 04|The length of a rectangular plot is thrice its breadth. If the area of the rectangular plot is 867 sq m, then what is the breadth of the rectangular plot?|8.5 m|17 m|34 m|51 m|1|
+Class 10 Mathematics|Mensuration|Set 04|The area of the square formed on the diagonal of a rectangle as its side is 108 1/3 % more than the area of the rectangle. If the perimeter of the rectangle is 28 units, find the difference between the sides of the rectangle?|8|12|6|2|3|
+Class 10 Mathematics|Mensuration|Set 04|The ratio of the length and the breadth of a rectangle is 4 : 3 and the area of the rectangle is 6912 sq cm. Find the ratio of the breadth and the area of the rectangle?|1 : 96|1 : 48|1 : 84|1 : 68|0|
+Class 10 Mathematics|Mensuration|Set 04|Find the area of a parallelogram with base 24 cm and height 16 cm.|262 cm2|384 cm2|192 cm2|131 cm2|1|
+Class 10 Mathematics|Mensuration|Set 04|Find the area of trapezium whose parallel sides are 20 cm and 18 cm long, and the distance between them is 15 cm.|225 cm2|275 cm2|285 cm2|315 cm2|2|
+Class 10 Mathematics|Mensuration|Set 04|The perimeter of a triangle is 28 cm and the inradius of the triangle is 2.5 cm. What is the area of the triangle?|25 cm2|42 cm2|49 cm2|None of these|3|
+Class 10 Mathematics|Mensuration|Set 04|If the sides of a triangle are 26 cm, 24 cm and 10 cm, what is its area?|120 cm2|130 cm2|312 cm2|315 cm2|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the roots of quadratic equation: 3x2 - 7x - 6 = 0?|-6, 3|3, -2/3|-5, 2|-9, 2|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the roots of quadratic equation: x2 + x - 42 = 0?|-6, 7|-8, 7|14, -3|-7, 6|3|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the roots of quadratic equation: 2x2 + 5x + 2 = 0?|-2, -1/2|4, -1|4, 1|-2, 5/2|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. a2 - 13a + 42 = 0, II. b2 - 15b + 56 = 0 to solve both the equations to find the values of a and b?|If a > b|If a >= b|If a < b|If a <= b.|3|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. a3 - 988 = 343, II. b2 - 72 = 49 to solve both the equations to find the values of a and b?|If a > b|If a >= b|If a < b|If a <= b|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. 9a2 + 18a + 5 = 0, II. 2b2 + 13b + 20 = 0 to solve both the equations to find the values of a and b?|If a > b|If a >= b|If a < b|If a <= b|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. x2 + 11x + 30 = 0, II. y2 + 15y + 56 = 0 to solve both the equations to find the values of x and y?|If x < y|If x > y|If x <= y|If x >= y|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. x2 + 9x + 20 = 0, II. y2 + 5y + 6 = 0 to solve both the equations to find the values of x and y?|If x < y|If x > y|If x <= y|If x >= y|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. x2 + 5x + 6 = 0, II. y2 + 9y +14 = 0 to solve both the equations to find the values of x and y?|If x < y|If x > y|If x <= y|If x = y or the relationship between x and y cannot be established.|3|
+Class 10 Mathematics|Quadratic Equations|Set 04|I. a2 + 8a + 16 = 0, II. b2 - 4b + 3 = 0 to solve both the equations to find the values of a and b?|If a < b|If a <= b|If the relationship between a and b cannot be established|If a > b|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|(i). a2 + 11a + 30 = 0, (ii). b2 + 6b + 5 = 0 to solve both the equations to find the values of a and b?|If a < b|If a <= b|If the relationship between a and b cannot be established|If a > b|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|(i). a2 - 9a + 20 = 0, (ii). 2b2 - 5b - 12 = 0 to solve both the equations to find the values of a and b?|If a < b|If a <= b|If the relationship between a and b cannot be established|If a >= b|3|
+Class 10 Mathematics|Quadratic Equations|Set 04|(i). a2 - 7a + 12 = 0, (ii). b2 - 3b + 2 = 0 to solve both the equations to find the values of a and b?|if a < b|if a <= b|if the relationship between a and b cannot be established.|if a > b|3|
+Class 10 Mathematics|Quadratic Equations|Set 04|A man could buy a certain number of notebooks for Rs.300. If each notebook cost is Rs.5 more, he could have bought 10 notebooks less for the same amount. Find the price of each notebook?|10|8|15|7.50|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the quadratic equations whose roots are the reciprocals of the roots of 2x2 + 5x + 3 = 0?|3x2 + 5x - 2 = 0|3x2 + 5x + 2 = 0|3x2 - 5x + 2 = 0|3x2 - 5x - 2 = 0|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the value of a/b + b/a, if a and b are the roots of the quadratic equation x2 + 8x + 4 = 0?|15|14|24|26|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|If a and b are the roots of the equation x2 - 9x + 20 = 0, find the value of a2 + b2 + ab?|-21|1|61|21|2|
+Class 10 Mathematics|Quadratic Equations|Set 04|The sum of the square of the three consecutive even natural numbers is 1460. Find the numbers?|18, 20, 22|20, 22, 24|22, 24, 26|24, 26, 28|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|One root of the quadratic equation x2 - 12x + a = 0, is thrice the other. Find the value of a?|29|27|28|7|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|The sum of the squares of two consecutive positive integers exceeds their product by 91. Find the integers?|9, 10|10, 11|11, 12|12, 13|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|If the roots of the equation 2x2 - 5x + b = 0 are in the ratio of 2:3, then find the value of b?|3|4|5|6|0|
+Class 10 Mathematics|Quadratic Equations|Set 04|The sum and the product of the roots of the quadratic equation x(power 2) + 20x + 3 = 0 are?|10, 3|-10, 3|-20, 3|-10, -3|2|
+Class 10 Mathematics|Quadratic Equations|Set 04|If the roots of a quadratic equation are 20 and -7, then find the equation?|x2 + 13x - 140 = 0|x2 - 13x + 140 = 0|x2 - 13x - 140 = 0|x2 + 13x + 140 = 0|2|
+Class 10 Mathematics|Quadratic Equations|Set 04|The roots of the equation 3x2 - 12x + 10 = 0 are?|rational and unequal|complex|real and equal|irrational and unequal|3|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the roots of the quadratic equation: 2x2 + 3x - 9 = 0?|3, -3/2|3/2, -3|-3/2, -3|3/2, 3|1|
+Class 10 Mathematics|Quadratic Equations|Set 04|Find the roots of the quadratic equation: x2 + 2x - 15 = 0?|-5, 3|3, 5|-3, 5|-3, -5|0|
+Class 10 Mathematics|Basic Statistics|Set 04|What is the mean of the data set {2, 4, 6, 8, 10}?|4|5|6|7|2|
+Class 10 Mathematics|Basic Statistics|Set 04|The listing of the data in order of numerical magnitude is called: ______?|Raw data|Arrayed data|Discrete data|Continuous data|1|
+Class 10 Mathematics|Basic Statistics|Set 04|In the plural sense, statistic means______?|Methods|Data|Science|Meteorology|1|
+Class 10 Mathematics|Basic Statistics|Set 04|Who give the concept of standard deviation and CV?|R.A Fisher|John Tukey|Karl Pearson|All of the above|2|
+Class 10 Mathematics|Basic Statistics|Set 04|Which of the following statement is not true?|SE cannot be zero|SE cannot be one|SE cannot be negative|All of these|0|
+Class 10 Mathematics|Basic Statistics|Set 04|The term variance introduced by ______?|Ronald Fisher|Karl Pearson|John Tukey|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 04|Which hypothesis tell us weather test is one tail or 2 tail?|simple hypothesis|null hypothesis|all of the above|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 04|The data obtained very first are called:______?|Primary data|Secondary data|Raw data|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 04|If any statistical tool apply on primary data it becomes a______?|Primary data|Secondary data|Raw data|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 04|Single numerical fact is called______?|Point|Data|Datum|Statistic|2|
+Class 10 Mathematics|Basic Statistics|Set 04|The collection of numerical facts is called______?|Data|Datum|Statistic|Raw|0|
+Class 10 Mathematics|Basic Statistics|Set 05|When there is 0 in our dataset which mean we cannot calculate?|GM|HM|AM|Both A and B|3|
+Class 10 Mathematics|Basic Statistics|Set 05|Founder of statistics is______?|R A Fisher|Smith|Karl pearson|Neyman|2|
+Class 10 Mathematics|Basic Statistics|Set 05|Another name of word population is______?|Individuals|Whole|Universe|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 05|Which sampling technique is appropriate when there is homogeneity in population?|Simple random sampling|Stratified sampling|Cluster sampling|Systematic sampling|0|
+Class 10 Mathematics|Basic Statistics|Set 05|Which sampling method we will apply if there is no sampling frame?|Systematic sampling|Cluster sampling|Simple random sampling|Stratified sampling|1|
+Class 10 Mathematics|Basic Statistics|Set 05|When the word random variable use in statistics it must have?|Variable|Probability distribution|Values|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 05|Which mean is most effected by extreme values?|GM|AM|HM|Median|1|
+Class 10 Mathematics|Basic Statistics|Set 05|If x is 4 and the distribution is 2, 3, 4, 5, 6, the sum of squared deviations from the x will be______?|8|10|6|12|1|
+Class 10 Mathematics|Basic Statistics|Set 05|A contractor employs 20 male, 15 female and 5 children in his factory. Male wages are Rs. 10 per day, female Rs. 8 per day, and children Rs. 3 per day. The weighted x of wages paid per day will be______?|3.86|8.37|9.21|10.63|1|
+Class 10 Mathematics|Basic Statistics|Set 05|In a week the prices of a bag of rice were 350 ,280, 340, 290, 320, 310, 300. The range is______?|60|90|70|100|2|
+Class 10 Mathematics|Basic Statistics|Set 05|If a distribution has two modes then this distribution is called______?|Uni-Modal|Bi-Modal|Tri-Modal|Multi-Modal|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The Geometric Mean of -2, 4, 03, 6, 0 will be______?|-3|0|3|Cannot be Computed|3|
+Class 10 Mathematics|Basic Statistics|Set 05|In a frequency distribution the last cumulative frequency is 500. Q3 must lie in______?|275th item|375th item|150th item|175th item|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The average monthly production of a factory for the first 8 months is 2,500 units, and for the next 4 months the production was 1,200 units. The average monthly production of the year will be______?|2066.55 units|5031.10 units|4021.12 units|3012.11 units|0|
+Class 10 Mathematics|Basic Statistics|Set 05|Find the median of the following datA. 160, 180, 200, 280, 300, 320, 400?|140|300|180|280|3|
+Class 10 Mathematics|Basic Statistics|Set 05|In a frequency distribution the last cumulative frequency is 300, Median shall lie in______?|140th item|130th item|160th item|150th item|3|
+Class 10 Mathematics|Basic Statistics|Set 05|Given the N values in a series, the geometric mean is______?|The third root of the product of N values|The square root of the product of N values|The fourth root of the product of N values|The Nth root of the product of N values|3|
+Class 10 Mathematics|Basic Statistics|Set 05|The sum of squared deviation is least from______?|Median|Mean|Mode|Standard Deviation|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The average of first n natural numbers is______?|n+12|n2|All of the above|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 05|Sum of deviations will be zero if it is taken from______?|Mean|Mode|Median|Standard Deviation|0|
+Class 10 Mathematics|Basic Statistics|Set 05|The calculation of mean and variance is based on______?|Small values only|Large values only|Extreme values only|All values|3|
+Class 10 Mathematics|Basic Statistics|Set 05|The degree of peakedness is called______?|Dispersion|Skewness|Symmetry|Kurtosis|3|
+Class 10 Mathematics|Basic Statistics|Set 05|Quartile Coefficient of skewness lies between______?|0 and 1|-1 and +1|-1 and 0|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 05|If the third moment about mean is zero then distribution is______?|Mesokurtic|Positively Skewed|Symmetrical|Negatively Skewed|2|
+Class 10 Mathematics|Basic Statistics|Set 05|______ is used to criterion of consistency i.e for consistence performance?|Range|Standard Deviation|Coefficient of Variation|Mean Deviation|2|
+Class 10 Mathematics|Basic Statistics|Set 05|The variance of a constant is______?|Zero|Constant|a|None|0|
+Class 10 Mathematics|Basic Statistics|Set 05|Var(2X+3) is______?|5 Var(X)|4 Var(X)|4 Var(X)+3|5 Var(X)+3|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The standard deviation is always ______ than mean deviation?|Greater|Less|Equal|None|0|
+Class 10 Mathematics|Basic Statistics|Set 05|The measure of Dispersion can never be______?|Positive|Negative|0|1|1|
+Class 10 Mathematics|Basic Statistics|Set 05|If mean is 25 and standard deviation is 5 then C.V (Coefficient of variation) is______?|100%|25%|20%|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 05|The first moment about means is always______?|Zero|1|Negative|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 05|Lack of symmetry is called______?|Absolute Dispersion|Relative Dispersion|Skewness|Non of these|2|
+Class 10 Mathematics|Basic Statistics|Set 05|If right tail is longer than left tail then distribution is called ______?|Negatively Skewed|Positively Skewed|All of above|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 05|______is based on all observations of data?|Median|Mode|Mean|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 05|In uni-model distribution, if mode is less than mean______?|Symmetrical|Normal|Positively Skewed|Negatively Skewed|2|
+Class 10 Mathematics|Basic Statistics|Set 05|The Coefficient of Skewness is always zero for ______ distribution?|Symmetrical|Skewed|All of above|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 05|Second moment about mean is______?|Standard Deviation|Variance|Coefficient of Variation|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 05|______is used to compare the variation or dispersion in two or more sets of data even though they are measured in different units?|Range|Standard Deviation|Coefficient of Variation|Mean Deviation|2|
+Class 10 Mathematics|Basic Statistics|Set 05|Standard deviation is calculated from the Harmonic Mean (HM) ______?|Always|Sometimes|Never|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 05|Variance remains unchanged by change of______?|Origin|Scale|Both|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 05|The sum of squared deviations of a set of n values from their mean is______?|Zero|Maximum|Least|None|2|
+Class 10 Mathematics|Basic Statistics|Set 05|The measure of dispersion is changed by a change of______?|Origin|Scale|Algebraic Signs|None|1|
+Class 10 Mathematics|Basic Statistics|Set 05|A measure of dispersion is always ______?|Zero|Positive|Negative|Infinity|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The algebraic sum of deviations from mean is______?|Maximum|Zero|Minimum|Undefined|1|
+Class 10 Mathematics|Basic Statistics|Set 05|You asked five of your classmates about their height. On the basis of this information, you stated that the average height of all students in your university or college is 67 inches. This is an example of ?|Descriptive statistics|Inferential Statistics|Parameter|Population|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The height of a student is 60 inches. This is an example of______?|Qualitative data|Categorical data|Continuous data|Discrete data|2|
+Class 10 Mathematics|Basic Statistics|Set 05|In statistics, a sample means______?|A portion of the sample|A portion of the population|all the items under investigation|none of the above|1|
+Class 10 Mathematics|Basic Statistics|Set 05|The mean deviation of the values, 18, 12, 15 is______?|6|Zero|3|2|3|
+Class 10 Mathematics|Basic Statistics|Set 05|Which of these is a relative measure of dispersion______?|Standard Deviation|Variance|Coefficient of Variation|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 05|Which one is the not measure of dispersion?|The Range|50th Percentile|Inter-Quartile Range|Variance|1|
+Class 10 Mathematics|Basic Statistics|Set 06|In statistics, conducting a survey means______?|Collecting information from elements|Making mathematical calculations|Drawing graphs and pictures|None of the above|0|
+Class 10 Mathematics|Basic Statistics|Set 06|Statistic is a numerical quantity, which is calculated from?|Population|Sample|Data|Observations|1|
+Class 10 Mathematics|Basic Statistics|Set 06|When data are collected in a statistical study for only a portion or subset of all elements of interest we are using?|A sample|A Parameter|A Population|Both b and c|0|
+Class 10 Mathematics|Basic Statistics|Set 06|In descriptive statistics, we study______?|The description of decision making process|The methods for organizing, displaying, and describing data|How to describe the probability distribution|None of the above|1|
+Class 10 Mathematics|Basic Statistics|Set 06|In inferential statistics, we study______?|the methods to make decisions about population based on sample results|how to make decisions about mean, median, or mode|how a sample is obtained from a population|None of the above|0|
+Class 10 Mathematics|Basic Statistics|Set 06|A constant variable can take values______?|Zero|Fixed|Not fixed|Nothing|1|
+Class 10 Mathematics|Basic Statistics|Set 06|A chance variation in an observational process is______?|Dispersion/ Variability|Measurement error|Random error|Instrument error|2|
+Class 10 Mathematics|Basic Statistics|Set 06|Population census is conducted through______?|Sample survey|Accounting|Investigation|Complete enumeration|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Life of a T.V picture tube is a______?|Discrete variable|Continuous variable|Qualitative variable|Constant|1|
+Class 10 Mathematics|Basic Statistics|Set 06|The grouped data is also called______?|Raw data|Primary data|Secondary data|Qualitative data|2|
+Class 10 Mathematics|Basic Statistics|Set 06|The first hand and unorganized form of data is called______?|Secondary data|Organized data|Primary data|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 06|Which of these represent qualitative data______?|Height of a student|Liking or disliking of (500) persons of a product|Income of a government servant in a city|Yield from a wheat plot|1|
+Class 10 Mathematics|Basic Statistics|Set 06|Sum of dots when two dice are rolled is______?|a discrete variable|a continuous variable|a constant|a qualitative variable|0|
+Class 10 Mathematics|Basic Statistics|Set 06|If a distribution is abnormally tall and peaked, then is can be said that the distribution is______?|Leptokurtic|Pyrokurtic|Platykurtic|Mesokurtic|0|
+Class 10 Mathematics|Basic Statistics|Set 06|If the standard deviation of a population is 9, the population variance is______?|9|3|21|81|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Which of the following is not a measure of central tendency ?|Percentile|Quartile|Standard deviation|Mode|2|
+Class 10 Mathematics|Basic Statistics|Set 06|The mean of a distribution is 23, the median is 24, and the mode is 25.5. It is most likely that this distribution is______?|Positively Skewed|Symmetrical|Asymptotic|Negatively Skewed|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Which of the following describe the middle part of a group of numbers ?|Measure of Variability|Measure of Central Tendency|Measure of Association|Measure of Shape|1|
+Class 10 Mathematics|Basic Statistics|Set 06|The mean of a distribution is 14 and the standard deviation is 5. What is the value of the coefficient of variation ?|60.4%|48.3%|35.7%|27.8%|2|
+Class 10 Mathematics|Basic Statistics|Set 06|You asked five of your classmates about their height. On the basis of this information, you states the average height of all student in your university or college is 67 inches. This is an example of______?|Descriptive statistics|Inferential Statistics|Parameter|Population|1|
+Class 10 Mathematics|Basic Statistics|Set 06|making a entrance slip in service hospital is the method of collection of data by______?|Registration|Entry|Correspondents|none of these|0|
+Class 10 Mathematics|Basic Statistics|Set 06|Results obtained by counting are______?|Continuous|Discrete|Both (a) and (b)|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 06|Eyes color of employees is the example of______?|Continuous variable|Constant variable|Discrete variable|Attribute|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Data published by Bureau of statistics in its publications are ______?|Secondary data|Discrete data|Continuous data|None|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Data regarding opinions of consumers about some product obtained through lady workers are ______?|Cheapest method|Existing Sources|Primary|Secondary|1|
+Class 10 Mathematics|Basic Statistics|Set 06|Continuous variable can assume ______ value?|All possible|Constant|Accuracy|Specific|0|
+Class 10 Mathematics|Basic Statistics|Set 06|Usually measurements give rise to ______ data?|Discrete|Specific|Continuous|Constant|2|
+Class 10 Mathematics|Basic Statistics|Set 06|Data being used by an agency which is originally collected by them are ______ data?|Quantitative|Primary|Discrete|Secondary|1|
+Class 10 Mathematics|Basic Statistics|Set 06|Dependence of difference on statistics is for______?|Two reasons|Short run|Three reasons|Natural Sciences|2|
+Class 10 Mathematics|Basic Statistics|Set 06|Statistics laws are true for______?|Short run|Long run|Medium period|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 06|Statistical Laws are valid in the ______?|Long run|Plural sense|indefinite|Short run|0|
+Class 10 Mathematics|Basic Statistics|Set 06|The word statistics is at present used in ______?|Two ways|Four ways|Six ways|Three way|3|
+Class 10 Mathematics|Basic Statistics|Set 06|A characteristics that does not change is called______?|variable|Attribute|Constant|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 06|______ used the word statistics for the first time during one of his lectures at a German university?|Fisher|unavoidable|Feet|Achenwall|3|
+Class 10 Mathematics|Basic Statistics|Set 06|______ statistics deals with collection, presentation and analysis of data?|Inferential|Descriptive|Collection|Two|1|
+Class 10 Mathematics|Basic Statistics|Set 06|Most of the recent developments in statistics arose to meet the needs of ______?|Biology|Three reasons|Hands|Physics|0|
+Class 10 Mathematics|Basic Statistics|Set 06|Statistics Laws are true______?|In each case|Average|Facts|Field|1|
+Class 10 Mathematics|Basic Statistics|Set 06|A Constant can assume ______ value?|One|Four|More than value|Resindent|0|
+Class 10 Mathematics|Basic Statistics|Set 06|______ data are collected for the first time.|Research|Statistical|Secondary|Primary|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Age of a shopkeeper is the example of______?|Qualitative|Quantitative data|Variable data|Continuous data|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Identify the attribute?|Blood group|Blood Pressure|Temperature of room|Religions of people of a country|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Proportion becomes percentage when multiplied by______?|1/10|1/1000|1/100|100|3|
+Class 10 Mathematics|Basic Statistics|Set 06|Marital status of an individual is the example of______?|Attribute|Discrete variable|Continuous variable|Constant|0|
+Class 10 Mathematics|Basic Statistics|Set 06|Which branch of statistics deals with the techniques that are used to organize, summarize, and present the data?|Advance Statistics|Descriptive Statistics|Inferential Statistics|Bayesian Statistics|1|
+Class 10 Mathematics|Basic Statistics|Set 06|The middle value of an ordered array of numbers is the______?|Mode|Mean|Median|Mid Point|2|
+Class 10 Mathematics|Basic Statistics|Set 06|The weights of students in a college/school is a______?|Discrete Variable|Continuous Variable|Qualitative Variable|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 06|The number of accidents in a city during 2012 is______?|Discrete variable|Continuous variable|Qualitative variable|Constant|0|
+Class 10 Mathematics|Basic Statistics|Set 06|The data which have already been collected by some one are called______?|Raw data|Array data|Secondary data|Fictitious data|2|
+Class 10 Mathematics|Basic Statistics|Set 06|Primary data and ______ data are same?|Grouped|Secondary data|Ungrouped|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 06|A parameter is a measure which is computed from______?|Population data|Sample data|Test statistics|None of these|0|
+Class 10 Mathematics|Basic Statistics|Set 07|Questionnaire survey method is used to collect______?|Secondary data|Qualitative variable|Primary data|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 07|Arithmetic Mean is______affected by extreme values?|Not|Highly|Less|None of these|1|
+Class 10 Mathematics|Basic Statistics|Set 07|The sum of values divided by their number is called______?|Median|Harmonic Mean|Mean|Mode|2|
+Class 10 Mathematics|Basic Statistics|Set 07|The sum of squares of deviation is least if measure from______?|Mean|Mode|Median|Variance|0|
+Class 10 Mathematics|Basic Statistics|Set 07|In Statistics, a population consists of:______?|All People living in a country|All People living in the are under study|All subjects or objects whose characteristics are being studied|None of the above|2|
+Class 10 Mathematics|Basic Statistics|Set 07|The Number of road accidents is the example of______?|variable|Constant|Discrete variable|Continuous variable|2|
+Class 10 Mathematics|Basic Statistics|Set 07|Major area of statistics today is concerned with drawing of conclusions from______?|Samples|Primary|Two|Complete study|0|
+Class 10 Mathematics|Basic Statistics|Set 07|Statistics has handicap dealing with______?|Constant|Variable|Quantitative data|Qualitative data|3|
+Class 10 Mathematics|Basic Statistics|Set 07|Village Patwari collecting the data about cotton crops is the example of______?|variable|Constant|Primary data|Secondary data|2|
+Class 10 Mathematics|Basic Statistics|Set 07|The data collected by NADRA to issue National Identity cards are______?|Official data|un-official data|Primary data|Secondary data|2|
+Class 10 Mathematics|Basic Statistics|Set 07|Census reports used as a source of data is______?|Primary source|secondary source|Organized data|none|1|
+Class 10 Mathematics|Basic Statistics|Set 07|A numerical value calculated from sample is called______?|Mathematics|Economics|Statistic|None of these|2|
+Class 10 Mathematics|Basic Statistics|Set 07|In natural Sciences, statistics______.|Has no role|Average|Plays an Important role|Study|2|
+Class 10 Mathematics|Basic Statistics|Set 07|Statistics tests the law of ______?|Other sciences|physics|Business|Literary subjects|0|
+Class 10 Mathematics|Basic Statistics|Set 07|Use of Statistics in planning is ______?|Useless|Various Methods|Unavoidable|Samples|2|
+Class 10 Mathematics|Basic Statistics|Set 07|Statistics is the backbone of______?|Economics|Mathematics|Research|Computer|2|
+Class 10 Mathematics|Basic Statistics|Set 07|The word statistics is defined as______?|Singular Sense|Plural Sense|Singular as well as plural sense|Non of these|2|
+Class 10 Mathematics|Basic Statistics|Set 07|Statistics are ______ expressed?|Descriptive|Ability|Qualitatively|Quantitatively|3|
+Class 10 Mathematics|Statistical Inference|Set 07|We use non parametric tests when the data is______?|Qualitative|Ranked|Both a and b|None of these|2|
+Class 10 Mathematics|Statistical Inference|Set 07|An alternative non parametric test of ANOVA?|Sign test|Wilcoxon sign rank test|Median test|Kruskal Wallis test|3|
+Class 10 Mathematics|Statistical Inference|Set 07|In hypothesis testing probability of (alpha +beta) =1?|Increase|Decrease|Yes|No|3|
+Class 10 Mathematics|Statistical Inference|Set 07|The non parametric equivalent of an unpaired samples t-test______?|Kruskal Wallis Test|Mann-Whitney U test|Wilcoxon signed rank test|Sign test|1|
+Class 10 Mathematics|Statistical Inference|Set 07|When testing for randomness, we can use______?|Sign test|None of these|Runs test|D Mann-Whitney U test|2|
+Class 10 Mathematics|Statistical Inference|Set 07|Which of the following test is most likely assessing this null hypothesis: Ho The number of violations per apartment in the population of all city apartments is binomially distributed with a probability of success in any one trial of P=0.3 dd ?|The Mann-Whitney test|The Kruskal-Wallis test|The Wilcoxon Signed Rank test|The Kolmogorove-Simirnor test|3|
+Class 10 Mathematics|Statistical Inference|Set 07|Which of the following test must be two-sided ?|Sign test|Wilcoxon Signed Rank|Kruskal-Wallis|Runs test|0|
+Class 10 Mathematics|Statistical Inference|Set 07|The Wilcoxon, Rank-Sum test used to compares______?|Any number of populations|A sample mean to the population mean|Two populations|Three populations|2|
+Class 10 Mathematics|Statistical Inference|Set 07|Comparing the times to failure of radar transponders made by firms A, B, and C based on an airline's sample experience with the three types of instruments one may use______?|Kolmogorov-Smirnor test|Wilcoxon Rank-Sum test|Spearman Rank Correlation test|Kruskal-Wallis test|3|
+Class 10 Mathematics|Statistical Inference|Set 07|In testing for the difference between two populations, it is possible to use______?|The Wilcoxon Rank-Sum test|The Sign test|None of the above|Either of the above|3|
+Class 10 Mathematics|Statistical Inference|Set 07|The Runs test results in rejecting the null hypothesis of randomness when______?|There is an unusually large number of runs|There is an unusually small number of runs|None of these|Either of the above|3|
+Class 10 Mathematics|Statistical Inference|Set 07|The critical value of a test statistic is determined from______?|The sampling distribution of the statistics assuming Null Hypothesis|calculations based on many actual repetitions of the same Experiment|The sampling distribution of the statistic assuming Alternative Hypothesis.|Non of these|2|
+Class 10 Mathematics|Statistical Inference|Set 07|condition for applying Central Limit Theorem (CLT) which approximate the sampling distribution of the mean with a normal distribution is ?|n > 30|N(1 - p) > 5|2 n 5|N < 30|0|
+Class 10 Mathematics|Statistical Inference|Set 07|For t distribution, increasing the sample size, the affect will be on ?|Standard Error of the Means|The t-ratio|Degrees of Freedom|All Above|3|
+Class 10 Mathematics|Statistical Inference|Set 07|Analysis of Variance (ANOVA) is a test for equally of______?|Variances|Proportions|Only two parameters|Means|0|
+Class 10 Mathematics|Statistical Inference|Set 07|If we reject the null hypothesis, we might be making______?|Unpredictable|A correct Decision|Type-II Error|Type-Error|2|
+Class 10 Mathematics|Statistical Inference|Set 07|Parameter is a ______ quantity?|Constant|Variable|All of above|Non of these|0|
+Class 10 Mathematics|Statistical Inference|Set 07|The values that separate the region of rejection and acceptance region are called ______?|Critical value|Confidence limits|Confidence boundaries|None of these|0|
+Class 10 Mathematics|Statistical Inference|Set 07|If n = 400 and P=.69 then 90% C.I for P is ______?|652 and . 728|.314 and .652|.798 and .745|None of these|0|
+Class 10 Mathematics|Statistical Inference|Set 07|E(x1 - x2)= ______?|ux - x2|u1 - u2|6x - x2|6x2 - x2|1|
+Class 10 Mathematics|Statistical Inference|Set 07|______ is the process of using sample information to reach?|Population|Biased|Unbiased|Increase|2|
+Class 10 Mathematics|Statistical Inference|Set 07|______ is an estimate expressed by a single value?|C.I.|Point estimator|Parameter|Point estimate|3|
+Class 10 Mathematics|Statistical Inference|Set 07|Sample variance S2 is unbiased estimator of population variance 26 because ______?|E(S2) = s2|E(u) = X|E(P) = P|Ux = u|2|
+Class 10 Mathematics|Statistical Inference|Set 07|Sample proportion P is ______ estimator?|Biased|Parameter|Unbiased|None of these|2|
+Class 10 Mathematics|Statistical Inference|Set 07|if Var(T2)______?|Efficient|Sufficient|Unbiased|Consistent|0|
+Class 10 Mathematics|Statistical Inference|Set 07|A set of jointly sufficient statistic is defined to be minimal sufficient if and only if______?|It is a function of some other set of sufficient statistics.|It is a function of every other set of sufficient|It is a function of any sufficient statistics in the set.|It is not a function of every other set of sufficient statistics.|1|
+Class 10 Mathematics|Statistical Inference|Set 07|Which of the following test use Rank Sums______?|Kruskal-Wallis and Wilcoxon tests|Runs test|Chi-Square and sign test|F test|0|
+Class 10 Mathematics|Statistical Inference|Set 07|Wilcoxon Rank-Sum test can be of______?|Lower tailed|Upper tailed|Either of the above|None of the above|2|
+Class 10 Mathematics|Statistical Inference|Set 07|When using the sign test, if two scores are tied, then______?|We count them|We discard them|We depends upon the scores|non of these|1|
+Class 10 Mathematics|Statistical Inference|Set 07|In a Wilcoxon Rank-Sum test______?|Ties within one sample may affect the decision|Ties always affect the decision|Ties never affect the decision|Ties between the two sample may affect the decision|0|
+Class 10 Mathematics|Statistical Inference|Set 07|The Spearman Rank-Correlation test requires that the______?|Data must be measured on the same scale|Data should be of ordinal scale at least|Data must be distribution at least approximately as a t-distribution|Data must be from two independent samples|1|
+Class 10 Mathematics|Statistical Inference|Set 07|To perform a Runs test for randomness the data must be______?|Divided into at least two classifications|Divided into exactly two classifications|Quantitative|Qualitative|1|
+Class 10 Mathematics|Statistical Inference|Set 08|Three brands of coffee are rated for tasted on a scale of 1 to 10. Six persons are asked to rate each brand so that there is a total of 18 observations.The appropriate test to tasted equally good is______?|One way analysis of variance (ANOVA)|Spearman Rank difference|Wilcoxon Rank-Sum test|Kruskal-Wallis test|3|
+Class 10 Mathematics|Statistical Inference|Set 08|The sign test assumes that the______?|Samples are independent|Samples have same mean|Sample are dependent|The Wilcoxon Signed Rank test is used|2|
+Class 10 Mathematics|Statistical Inference|Set 08|The Mann-Whitney U test is preferred to a t-test when______?|Sample are dependent|The assumption of normality is not met|Sample sizes are small|Data are paired|1|
+Class 10 Mathematics|Statistical Inference|Set 08|Which of the following is a true statement for comparing the t distribution with standard normal ?|Greater the degree of freedom, the more the t-distribution resembles the standard normal distribution|The Normal Curve is symmetrical whereas the t-distribution are slightly skewed.|The proportion of area beyond a specific value of "t" is less than the proportion of normal curve|Non of these|0|
+Class 10 Mathematics|Statistical Inference|Set 08|The t distribution are______?|Symmetrical|None of these|Same as Normal Curve|Skewed|0|
+Class 10 Mathematics|Statistical Inference|Set 08|Which of the following is an assumption underlying the use of the t-distribution ?|The sample are drawn from a normally distributed population.|The variance of the population is known|All above|s (sample standard deviation) is an unbiased estimate of the population variance.|0|
+Class 10 Mathematics|Statistical Inference|Set 08|Consistency of an estimator can be checked by comparing______?|Standard Deviation|Mean|mean Square Error|Variance|3|
+Class 10 Mathematics|Statistical Inference|Set 08|Criteria to check a point estimator to be good are______?|Consistency|All Above|Unbiasedness|Efficiency|1|
+Class 10 Mathematics|Statistical Inference|Set 08|The first and starting point in test Hypothesis is ______?|stating H1|stating Ho|L of significance|Test statistics|1|
+Class 10 Mathematics|Statistical Inference|Set 08|Type II error is committed when the null hypothesis is ______?|Rejected when it is true|Rejected when it is false|Accepted when it is true|Accepted when it is false|3|
+Class 10 Mathematics|Statistical Inference|Set 08|The hypothesis which is being tested is called ______?|Composite hypothesis|Alternative hypothesis|Null hypothesis|Simple hypothesis|2|
+Class 10 Mathematics|Statistical Inference|Set 08|The Estimation and testing of hypothesis are main branches of ______?|Sampling|Probability distribution|Regression|Statistical Inference|3|
+Class 10 Mathematics|Statistical Inference|Set 08|______ is a value of sample statistics?|Estimate|Estimator|Probability|Numerical|0|
+Class 10 Mathematics|Statistical Inference|Set 08|Sampling Error decrease by ______ the sample size?|Increase|Decrease|Sampling|Population|3|
+Class 10 Mathematics|Statistical Inference|Set 08|Since E(X) ______X is said to be unbiased estimator of the population mean?|Q|X|Ux|u|3|
+Class 10 Mathematics|Statistical Inference|Set 08|A______ is the specific value of the statistic used to estimate the population parameter?|Point estimator|C.I.|Estimator|None of these|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Each trial in Binomial distribution has:______?|One Outcome|Two Outcome|Three Outcome|Four Outcome|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|In which distribution successive trials are without replacement:______?|Hypergeometric distribution|Binomial distribution|Poisson distribution|Geometric distribution|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|In hypergeometric distribution, the trial are:______?|Independent|Dependent|Collectively Exhaustive|None|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The mean of hypergeometric distribution is:______?|Nk/N|N-k/n|nN/k|n+k/N|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Which of the following is not the property of binomial distribution ?|n is fixed|Has two outcomes|Trials are independent|Probability of success varies from trial to trial|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|In a binomial probability distribution it is impossible to find______?|P(X < 0)|P(X = 0)|P(X > 0)|p(0 <= X<= n)|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The probability of success changes from trial to trial in:______?|Binomial distribution|Geometric distribution|Sampling distribution|Hypergeometrical distribution|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The mean and the variance are equal in______?|All probability distribution|The hypergeometric distribution|The binomial distribution|The Poisson distribution|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|If mean of the binomial probability distribution is 4.8, then variance of this distribution is :______?|-2.3|5.3|-4.8|2.3|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|When 'n' becomes very large, binomial distribution tends to ______?|Poisson dist|Standard dist|Normal dist|Hyper-geometric distribution|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|For a binomial distribution with n = 15 as p changes from. 50 toward. 05 the distribution will______?|Become more positively skewed|Become more negatively skewed|Become symmetrical|All of the above.|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|In a binomial distribution, n = 10 p= 3/5, its mean is:______?|6|1|2/5|None of these|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Which of the following case is true for hyper geometric distribution______?|Probability remains constant for all the trials.|Probability changes from trial to trial|Successive trial are dependent|Both (b) & (c) but not (a)|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The binomial distribution is symmetrical when:______?|P > q|P = 1/2|Probability of success & probability of failure are equal|Both (b) & (c) but not (a)|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Binomial probability distribution is denoted by b(x ; n, p), is defined as ______?|{nx}px qn-x|{nx}px(1 - P)x-n|nCxpnqnx|{nx}p(1 - P)x|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Binomial word discovered at the end of ______?|14th century|12th century|10th century|17th century|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|There are ______ parameter in Binomial distribution?|n, q|n, p, q|q, p|n, p|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The experiment is repeated a ______ number of times?|Times|Fixed|Expansion|Trial|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|If p= 0.1 and n = 400 then mean ______?|60|30|20|40|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|If mean and variance are not equal then distribution ______?|None|Symmetrical|Skewed|Equal|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|(q + p) has variance is ______?|6 pq|npq|7 pq|3 pq|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Binomial distribution is positively skewed when ______?|p > q|P = q|p < q|P/q|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|In binomial experiment, the experiment is repeated ______?|n; fixed number of times|a large number times|n; where n < 0|n = 100|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|In binomial distribution with ______ trials mean is np and variance is npq?|Dependent|Independent|Linear|Equal|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The mean and variance of binomial distribution are ______?|Unequal|Equal|Symmetrical|None|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Mean of the binomial distribution is ______?|Pq|nP|xm|Non of these|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The mean of a binomial distribution is always:______?|Equal to variance|Less than variance|Greater than varince|None of these|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Binomial distribution is symmetrical when P=______?|n|x|q|1 - P|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Binomial distribution has ______ parameter?|4|3|2|6|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|If in a binomial distribution n = 1 then E(X) is:______?|q|p|0|1|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The mean, median and mode for binomial distribution will be equal when:______?|p= 0.5|P 0.5|p = 1|None of these|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|Binomial distribution is negatively skewed when:______?|p=0|p>1/2|p=1/2|p=1/3|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The variance of binomial distribution is always:______?|Less than mean|Equal to mean|Greater than mean|Equal to standard deviation|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 08|The successive trials are with replacement in:______?|Hpergeometric distribution|Binomial distribution|Geometric distribution|None of these|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|Which of the following is not a condition of the binomial distribution ?|Only 2 possible outcomes|Have constant probability|Must have at least 3 trials|Trials must be independent|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|if in a binomial probability distribution mean and variance are 6 and 2.4 respectively, then the parameters of this distribution are:______?|n = 10, p = 6/10|n = 50, p = 6/50|n = 10, p = 3/5|n = 10, p = 2/5|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|In a binomial distribution, n = 20 and p = 3/5, then variance of this distribution ______?|60|12|4.8|0|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|Variance of binomial distribution is always:______?|Less than mean|Greater than mean|Equal to mean|Less than equal to mean|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|What is the variance of binomial distribution ______?|n p|np (1 - p)|np/q|nq/p|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|The sum of p and q is always:______?|0|2|1|None of these|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|The binomial distribution is positively skewed when:______?|p > q|p < q|p = q|both (a) and (b|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|If 5 dice are rolled 96 times then N. =______?|5|96|5/96|96/5|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|If a Binomial experiment is repeated 'N' times then binomial frequency distribution is. ______?|N.{nx}px qn-x|N p q|N.{n/x}px qn-x|N.{n/x}p qn-x|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|For a binomial distribution?|n must assume a number between 1 and 20 or 25|p must be a multiple of 10|There must be at least 3 possible outcomes|None of these|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|If ______ then the distribution is positively skewed?|p < q|q/p|p > q|p > 1/2|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|Which of the following is not a requirement for binomial distribution ?|Constant Probability of Success|Only two possible outcomes|A fixed number of trials|Equally likely outcomes|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|If u = 5 and S.D. = 2.5 then Binomial distribution are ______?|Unequal|Wrong|Fair|None of these|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|Binomial distribution is used when ______ is large?|nP|nq|p|n|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|Binomial distribution is used when n is ______?|Large|Small|Zero|Normal|0|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|The hypergeometric probability distribution is used rather than the binomial or Poisson when the sampling is performed ?|With replacement|With out replacement from an infinite population|With out replacement from a finite population|With replacement from a finite population|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|In a binomial distribution the probability of ______ changes from trial to trial?|Failure|Experiment|Success|Out come|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|When X denotes the number of success in binomial experiment, it is called ______?|Random variable|Binomial random variable|Continuous random variable|Both (b) and (c) but not (a)|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|In binomial experiment successive trials are ______?|Dependent|Independent|May be inependent or dependent|None of these|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|In binomial experiment, the successive trials are ______?|Dependent|independent|Related|constant|1|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|In the binomial experiment, the outcomes of each trial maybe classified into ______?|Success|Failure|Success or Failure|None of these|2|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|A binomial random variable can assume values from ______ to n?|6|3|2|0|3|
+Class 10 Mathematics|Binomial And Hyper-geometric Probability|Set 09|In binomial distribution the probability of success remains ______ from trial to trial?|Constant|Varies|Four|Probability|0|
+Class 10 Mathematics|Normal Distribution|Set 09|The Normal Curve is asymptotic to the?|None|X-axis|Y-axis|Along Y=X|1|
+Class 10 Mathematics|Normal Distribution|Set 09|If Y=5X + 10 and X is N(10,25), then mean of Y is ?|135|50|70|60|3|
+Class 10 Mathematics|Normal Distribution|Set 09|Which of the following parameter control the relative flatness of normal distribution?|None|Mode|Standard Deviation|Mean|2|
+Class 10 Mathematics|Normal Distribution|Set 09|The value maximum ordinate of a standard normal curve at Z = 0 is:______?|1|0.5|0.3989|None of these|2|
+Class 10 Mathematics|Normal Distribution|Set 09|Total area under the normal curve is______?|100|1|50%|1%|1|
+Class 10 Mathematics|Normal Distribution|Set 09|Normal distribution is ______ distribution?|Symmetrical|non-symmetrical|+ vely skewed|-vely skewed|0|
+Class 10 Mathematics|Normal Distribution|Set 09|Area to the right of (z=0) is the area for ______ values of z?|Zero|Negative|Positive|None of these|2|
+Class 10 Mathematics|Normal Distribution|Set 09|The standardized normal variate z means______ away from the mean?|Mean|S.D.|Variance|None of these|1|
+Class 10 Mathematics|Normal Distribution|Set 09|In a normal distribution, what is the z score associated with the mode ?|-1|0|+1|None of these|1|
+Class 10 Mathematics|Normal Distribution|Set 09|Normal distribution is the distribution of ______?|Discrete r.v.|Continuous r.v.|Qualitative variable|Quantitative variable|1|
+Class 10 Mathematics|Normal Distribution|Set 09|In normal distribution, mean ______= Mode?|Quartile|Mean deviation|Median|S.D.|2|
+Class 10 Mathematics|Normal Distribution|Set 09|Area of normal distribution total is equal to ______?|Two|One|Four|Three|1|
+Class 10 Mathematics|Normal Distribution|Set 09|If n >= 30 and ______ then binomial approaches to normal distribution?|q/p|p = q|pq|p = n|1|
+Class 10 Mathematics|Normal Distribution|Set 09|The ______ order moments about mean are all zero?|None|Four|Add|Even|2|
+Class 10 Mathematics|Normal Distribution|Set 09|In a normal distribution quartile deviation is ______ (S.D.)?|.2745|.3789|.79079|.6745|3|
+Class 10 Mathematics|Normal Distribution|Set 09|Shape of normal curve can be related to______?|Bell|Circle|L|Rectangle|0|
+Class 10 Mathematics|Normal Distribution|Set 09|We use normal distribution when "n" is______?|Small|None|Fixed|Large|3|
+Class 10 Mathematics|Normal Distribution|Set 09|The area under the normal distribution curve outside the interval of z=1 and z=3.09 is______?|0.1477|0.1597|0.3413|None of These|1|
+Class 10 Mathematics|Normal Distribution|Set 09|The normal distribution is______?|Platykurtic|Leptokurtic|Mesoukurtic|None of these|2|
+Class 10 Mathematics|Normal Distribution|Set 09|P95 means ______?|The central 95% area|The point above above which95% area lies|The point above below which 95% area lies|Both (a) and (b) but not (c)|2|
+Class 10 Mathematics|Normal Distribution|Set 09|As the normal distribution is symmetrical, its mean, median and mode are:______?|Coincide|Not equal|Different|None of These|0|
+Class 10 Mathematics|Normal Distribution|Set 09|In a standard normal distribution z = 0 corresponds to ______?|Mean|S.D.|M.D.|Q.D.|0|
+Class 10 Mathematics|Normal Distribution|Set 09|100% of values lies in the limits are equal to ______?|40 and 60|20 and 70|20 and 30|20 and 80|3|
+Class 10 Mathematics|Normal Distribution|Set 09|Normal distribution has ______?|1 parameter|2 parameter|3 parameter|4 parameter|1|
+Class 10 Mathematics|Normal Distribution|Set 09|Normal distribution has ______shaped?|u-shaped|Bell shaped|T-shaped|Normal shaped|1|
+Class 10 Mathematics|Normal Distribution|Set 09|In normal distribution u2 = S2 and u4 =______?|3S2|3S|3S4|4S2/x|2|
+Class 10 Mathematics|Normal Distribution|Set 09|The quartile deviation is ______ (S.D.) is normal dist?|.6734|.7879|.6745|.4567|2|
+Class 10 Mathematics|Normal Distribution|Set 10|Normal distribution has ______ parameter?|Three|Two|Four|One|1|
+Class 10 Mathematics|Normal Distribution|Set 10|Normal distribution is a probability distribution of ______ random variable?|Continuous|Constant|Discrete|Normal|0|
+Class 10 Mathematics|Probability|Set 10|If A and B are mutually exclusive then?|P(AorB) =0|P(AandB)=0|P(AnorB)=0|P(AeitherB)=0|1|
+Class 10 Mathematics|Probability|Set 10|Two mutually exclusive events are ______?|Dependent|Independent|Overlapped|None of These|0|
+Class 10 Mathematics|Probability|Set 10|In a Poisson probability distribution ______?|The mean and variance of the distribution are same (equal)|The probability of success is always greater than 5|The number of trials is always less than 5|it always contains a contingency table|0|
+Class 10 Mathematics|Probability|Set 10|Which of the following is not a correct statement about a Probability ______?|It must have a value between 0 and 1|It can be reported as a decimal or a fraction|A value near 0 means that the event is not likely to occur/happens|It is the collection of several experiment|3|
+Class 10 Mathematics|Probability|Set 10|The special rule of multiplication of probability, the events must be ______?|Independent|Mutually exclusive|Bayesian|Empirical|0|
+Class 10 Mathematics|Probability|Set 10|if you roll a pair of dice, what is the probability that (at least) one of the dice is a 4 or the sum of the dice is 7 ?|4/36|13/36|21/36|15/36|3|
+Class 10 Mathematics|Probability|Set 10|. If the occurrence of one event means that another cannot happen, then the events are ______?|Independent|Mutually Exclusive|Bayesian|Empirical|1|
+Class 10 Mathematics|Probability|Set 10|5C5 is equal to ______?|5|5x5|1|None of these|2|
+Class 10 Mathematics|Probability|Set 10|The product of first 'n' natural numbers is ______?|1.2.3.4,.........|1.2.3......(n-2) (n-1) (n)|n. (n-1) (n-2)..............3.2.1.0|None of these|1|
+Class 10 Mathematics|Probability|Set 10|If in a coin P(H) = 2P(T) then prob. of head is ______?|1/3|2/3|1/2|0|1|
+Class 10 Mathematics|Probability|Set 10|The probability of getting at least one head when two balance coins are tossed once ______?|1/4|2/4|3/4|4/4|2|
+Class 10 Mathematics|Probability|Set 10|The probability of getting exactly three tails when three balanced coins are tossed once ______?|1/8|2/8|5/8|7/8|0|
+Class 10 Mathematics|Probability|Set 10|The probability that the sum is odd if two dice are thrown:______?|18/36|9/36|6/36|12/36|0|
+Class 10 Mathematics|Probability|Set 10|A fair coin toss the total events in sample space equal______?|7|16|36|6|3|
+Class 10 Mathematics|Probability|Set 10|A box containing 12 balls of color 6 red and 6 white. A ball of white selected ball finds the probability of white______?|7/12|6/12|12/12|4/12|1|
+Class 10 Mathematics|Probability|Set 10|The probability of drawing an even number in a toss of a balanced die ______?|1/6|2/6|3/6|6/6|2|
+Class 10 Mathematics|Probability|Set 10|The probability of drawing a picture card out of 52 cards is : ______?|13/52|12/52|16/52|3/52|1|
+Class 10 Mathematics|Probability|Set 10|The probability of an event cannot be ______?|Positive|Zero|None of these|Negative|3|
+Class 10 Mathematics|Probability|Set 10|If an event consists of only one sample point is called ______?|Appeared|Exactly|Space|Elementary event|3|
+Class 10 Mathematics|Probability|Set 10|The picture cards having in total fifty two cards is equal______?|16|24|12|Non of these|2|
+Class 10 Mathematics|Probability|Set 10|______ are said to be exhaustive if they constitute the entire sample space?|Equally|Events|Outcomes|Objects|0|
+Class 10 Mathematics|Probability|Set 10|Events occurring together without affecting each other are called:______?|Dependent events|Independent events|Equally likely events|Mutually Exclusive events|1|
+Class 10 Mathematics|Probability|Set 10|The possibility of total outcome in a coin equal to ______?|Fifty %|Twenty %|60%|30%|0|
+Class 10 Mathematics|Probability|Set 10|If the events have same chance of occurrence they are called:______?|Equally likely events|Exhaustive events|Mutually Exhaustive events|dependent events|0|
+Class 10 Mathematics|Probability|Set 10|If the occurrence of excludes the occurrence of the other is called ______?|Mutually exclusive|Exchaustive|Likely|Probability|2|
+Class 10 Mathematics|Probability|Set 10|A set of events is said to be independent if probability of head on tossing a coin is ______?|1/2|2/3|1|3/4|0|
+Class 10 Mathematics|Probability|Set 10|Two event are said to be equally likely is ______?|As any other|both event occurs|One occurs|not both occurs|0|
+Class 10 Mathematics|Probability|Set 10|A subset of the sample space is called ______?|Sample point|Set|Event|Space|2|
+Class 10 Mathematics|Probability|Set 10|Which of the following is not an example of a discrete probability distribution ?|The sale or purchase price of a house|The number of bedrooms in a house|Whether or no t a home has a swimming pool in it.|Non of these|1|
+Class 10 Mathematics|Probability|Set 10|In special rule of addition of probability, the events are Always:______?|Independent events|Mutually Exclusive events|Bayesian|Empirical|1|
+Class 10 Mathematics|Probability|Set 10|The joint probability is ______?|The likelihood of two events happening together|The likelihood of two events happening given that another event has already ha|Based on two mutually exclusive events|Also called Prior probability|0|
+Class 10 Mathematics|Probability|Set 10|If a card is chosen from a standard deck of cards, what is the probability of getting a five or a seven ?|4/52|1/26|8/52|1/169|2|
+Class 10 Mathematics|Probability|Set 10|In which approach to probability the outcomes are equally likely to occur ?|Classical Probability|Subjective Probability|Relative Frequency|Independent|0|
+Class 10 Mathematics|Probability|Set 10|If 'A' denotes the males of a town and 'B' denotes the females of that town, then A and B are:______?|Equal sets|Over lapping sets|Non- overlapping sets|None of these|2|
+Class 10 Mathematics|Probability|Set 10|A coin is so weighted that P (T) = 2P(H) then P(H) is ______?|1/2|1|2/3|1/3|3|
+Class 10 Mathematics|Probability|Set 10|The probability of getting exactly two heads when two balanced coins are toss once______?|1/4|2/4|3/4|4/4|0|
+Class 10 Mathematics|Probability|Set 10|The square bracket is an finite G. Series is obtained by formula ______?|1/1-rn|a/1-r|a/1-rn|a/(1-r)n|2|
+Class 10 Mathematics|Probability|Set 10|The probability of drawing a diamond card out of 52 cards is ______?|13/52|1/2|4/52|0|0|
+Class 10 Mathematics|Probability|Set 10|All experiments have ______ properties in common?|Four|Three|Two|One|2|
+Class 10 Mathematics|Probability|Set 10|A experiment repeated number of time one by one is called ______?|Random|Raw data|Introduce|Specified|0|
+Class 10 Mathematics|Probability|Set 10|A list of sample ______ is called sample space?|Events|Subset|Piont|Distinct|2|
+Class 10 Mathematics|Probability|Set 10|The probability of even/odd numbers when a fair die is rolled is______?|1/6|2/6|1/36|3/6|3|
+Class 10 Mathematics|Probability|Set 10|when a three die rolled the sample space consists of ______?|6 outcomes|24 outcomes|216 outcomes|Non of these|2|
+Class 10 Mathematics|Probability|Set 10|The probability of a save event is equal to ______?|Two|Three|Four|One|3|
+Class 10 Mathematics|Probability|Set 10|An events that contains the finite number point the sample space is called ______?|Finite|Random|Continuous|values|1|
+Class 10 Mathematics|Probability|Set 10|If two events can both occur at the same time then they are referred as:______?|Dependent events|Mutually Exclusive events|Exclusive events|Independent events|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 10|Mean deviation, Variance and Standard Deviation of the values 4,4,4,4,4,4 is______?|4|8|2|0|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 10|The variance of 5 numbers is 10. If each number is divided by 2, then variance of new number is______?|20|5|2.5|0|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Lowest value of variance can be______?|1|-1|3|0|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If the standard deviation of the values 2,4,6,8 is 2.33, then the standard deviation of the values 4,6,8,10 is______?|0|2.58|4.66|2.33|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If Y=-8X - 5 and SD of X is 3, then SD of Y is______?|8|3|24|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The shape of the symmetrical distribution is ______?|U- Shaped|J- Shaped|Bell- Shaped|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The sum of absolute deviations from median is ______?|Zero|Positive|Least|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If third moment about mean is equal to zero, then distribution is ______?|Negatively skewed|Symmetrical|positively skewed|None of these|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If variance iv standard deviation is minimum if the deviation taken from______?|Mode|Mean|Average|G.M.|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|______ is the simplest means of dispersion?|Standard deviation|Variation|C.V.|Range|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|First movement about mean is always equal to ______?|S.D.|1|Zero|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The standard deviation is affected by the value of every______?|Relative Dispersion|Observation|Absolute|Items|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Check the consistency used ______?|Coefficient of dispersion|Mean coefficient|Coefficient of variance|Q.D.|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|______ of the distribution which is measured relative to the distribution known as Normal?|Skewed|Flatness|Normal|Moment|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|In symmetrical distribution, the co-efficient of skewness is equal to ______?|-1|+1|0|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Quartile deviation is not capable of manipulation______?|Easy|mathematically|Abjectly|Algebraic|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The measure of relative dispersion is called ______?|Quartile deviation|Mean dervation|Mean coefficient|Coefficient of quartile Deviation|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Second moment about mean is always equal to ______?|S.D.|C.V.|Variance|Square|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The lack of uniformity is called ______?|Lack|variation|X= 5|Skewness|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If y= ax + b the S.D. of y is ______?|Mean Deviation of x|Minimum|S.D. of x|Maximum|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If y= bx + c the range of y is ______?|Range of P|Quartile of X|Range of x|Zero|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|which is poor measure of dispersion in open-end distribution ______?|Quartile- deviation|Semi-inter quartile range|Range|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The frequency distribution mean > Median > Mode is called ______?|Negatively|Symmetrical|+vely|One|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The second moment about mean is ______?|Variance|Mean|S.D.|Mode|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|suppose for 40 observation, the variance is 50. If all the observation are increased by 20, the variance of these increased observation will be______?|50|70|50/20|50-20=30|0|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Standard deviation is always calculated from ______?|Mean|Median|Mode|G.M.|0|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Mean deviation =______ S.D?|2/3|4/5|5/6|6/5|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The sum of the squares of deviations is the least when measured from______?|A.M.|Median|Mode|G.M.|0|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If Skewed distribution the three averages mean, median and mode are ______?|Identical|Different|Zero|None of these|1|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The sum of powers of deviation from mean is zero is called ______?|Mean|Lack|Normal|Skewed|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|First moment about origin is always equal to ______?|A.M.|variance|Zero|None of these|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The ______ in the distribution around which the observation to lie?|Mean|Dispersion|Manner|Central value|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The S.D. and variance are ______ of origine?|Multiplied|Variance|Change|Independent|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Mean deviation is always ______?|Equal to S.D.|More than S.D.|Less than S.D.|Negative|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The correct variance is define as the ______?|varies of data P2/6|S.D. of data h2/12|M.D. of data h2/6|Variance of data h2/12|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Mean deviation is equal to 4/5 of the ______ manipulation?|Quartile deviation|Range|Standard deviation|Variance|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|In grouped data, the range is the difference between ______?|Two extreme class boundaries|Two extreme class frequency|Two extreme class limits|None of these|0|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Relative measure of skewness was introduced by ______?|Rowely|Lack|Karl Person|Mode|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Absolute sum of deviations is minimum from ______?|Coefficient of variance|S.D. of x|Mean|Normal|2|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|If y = bx + a the mean deviation of y is______?|S.D. of y|var (x)|S.D. of x|M.D.of x|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The degree to which numerical data tend to spread about an average value is a______?|Range|variance|Minimum|Dispersion|3|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|Range of 5,5,5,5, is ______?|0|5|25|None of these|0|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|The A.M. is greater than mode is equal to ______?|+vely|Skewness|Negatively|zero|0|
+Class 10 Mathematics|Measures Of Dispersion|Set 11|In a symmetrical distribution mean, median and mode, ______?|Positive|Greater|Less than|Coincide|3|
+Class 10 Mathematics|Presentation Of Data|Set 11|For a given class 30-44 the midpoint will be ______?|30|34|37|35|2|
+Class 10 Mathematics|Presentation Of Data|Set 11|______ paper is needed to show the graphs of frequency distribution?|Ordinary|Graphs|Photo|Chart|0|
+Class 10 Mathematics|Presentation Of Data|Set 11|When in a frequency distribution the maximum frequency occur at one end, then the frequency curve of such distribution is ______?|J- shaped|U- shaped|Bell- shaped|V- shaped|0|
+Class 10 Mathematics|Presentation Of Data|Set 11|The graph obtained by joining the mid points of the tops of adjacent rectangles in histogram is called ______?|Frequency polgon|Ogive|Pie chart|Histgram|0|
+Class 10 Mathematics|Presentation Of Data|Set 11|The lower class boundary of 25-35 will be ______?|20|25|30|35|1|
+Class 10 Mathematics|Presentation Of Data|Set 11|Class mark is the value which divides a class into ______ equal parts?|Four|One|Three|Two|3|
+Class 10 Mathematics|Presentation Of Data|Set 11|Any data collected by the investigator personally from the informants are called ______ data?|Primary|Unofficial|Group data|None of these|0|
+Class 10 Mathematics|Presentation Of Data|Set 11|data classified by methods are called ______ data?|Row data|Grouped data|Quantitative data|None of these|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|A source note foot are the ______?|Top|Bottom|Same|Different|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|The difference between the upper and lower class boundaries of a class are know as ______?|Class interval|class mark|class frequency|Mid point|0|
+Class 10 Mathematics|Presentation Of Data|Set 12|______are used to represent data classified on qualitative?|Vertical bars|Simple bar|Horizontal bars|Pie chart|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|The headings for various columns are said to be ______?|Portions of column|Vertical column|Column table|Column caption|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|Data classified by many ______ said to be Quantitative?|Characteristic|Categories|Affinities|Attributes|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|Frequency table is an arrangement of data by classes together with their ______ class frequencies?|Terms|Alternate class|Same class|Corresponding class|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|Data which have not been arranged in systematic order is called______?|Group data|Tabular data|Raw data|Undefined data|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|Range is the difference between largest and ______?|Lowest|Smallest|Biggest|Middlest|1|
+Class 10 Mathematics|Presentation Of Data|Set 12|A graph consists of ______ lines?|Parallel Line|Smooth curve|Curve|Straight|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|Cumulative frequency is the frequency ______ than the upper class boundary of a class?|Distribution|Curve|Greater|Less|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|if we connect the mid point of rectangles in a histogram with a series of lines, we get ______|Mid point|Interval|Frequency curve|Frequency Polygon|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|The smallest and the largest value of any given class of a frequency distribution are called ______?|Class marks|Class interval|Mid point|Class limit|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|The process of systematic arrangement of data into rows and columns is called ______?|Bar chart|Classification|Tabulation|None of these|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|Class interval size is the different between the upper and lower class______ of a class?|Boundary|Limits|Marks|Class Interval|0|
+Class 10 Mathematics|Presentation Of Data|Set 12|Data which have been arranged in ascending or descending order is called ______ data?|Group data|Classify|Array|ungrouped data|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|______ use the division of a circle into different sectors?|Frequency Polygon|Conversion Graphs|Sector Graph|Line Graph|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|The graphs of the symmetrical distribution is ______?|J- shaped|U- shaped|Bell- shaped|None of these|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|In pie-chart, the arrangement of the angles of the different sectors generally ______?|Anti-clockwise|Arrayed|Clock-wise|Alternative|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|Cumulative frequencies are______?|Increasing|Non- increasing|Decreasing|None of these|0|
+Class 10 Mathematics|Presentation Of Data|Set 12|The class ______ are obtained when we divide the sums of the lower and upper class limits by 2?|Limit|Points|Marks|Class boundary|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|The process of systematic arrangement of data in rows and columns is called ______?|Classification|Tabulation|Frequency|Frequency distribaution|1|
+Class 10 Mathematics|Presentation Of Data|Set 12|There are ______ important bases of classification?|Two|Four|Three|Five|1|
+Class 10 Mathematics|Presentation Of Data|Set 12|Class ______ is the difference between two class limit?|Boundary|Class mark|None of these|Class interval|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|Technical & Trade Journals are the source of ______ data?|Primary|Secondary|Ungroup data|Group data|1|
+Class 10 Mathematics|Presentation Of Data|Set 12|A time series is an arrangement of data according to ______?|Place|Yearly|Time|None|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|A table has at least ______ part?|Two|Three|Four|Five|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|There are ______ important bases of classification of data?|Two|Four|Six|Three|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|The stub is the containing______?|Box head|Column captions|Caption|Row caption|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|A ______ is a heading at the top of the table describing its contents?|Footnote|Head note|Sub note|Title|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|Data arranging into rows and columns are called______?|Frequency distribution|Classification|Table|Tabulation|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|In constructing a histogram which is to be taken along X-axis______?|Class interval|Class frequency|Class boundaries|Class mark|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|We get ______ dividing range by numbers of class interval?|Class boundary|Class marks|Mid point|Number of classes|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|A value get which divides a class into two equal parts is called ______?|Class interval|Open interval|Size|Mid point|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|The relation showing between whole and its components used chart is said to be ______?|Component bar chart|Multiple bar chart|Pie Chart|Simple Bar chart|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|In an open end frequency distribution either the ______ class limit?|First|Second|Last|Middle|0|
+Class 10 Mathematics|Presentation Of Data|Set 12|A graph of cumulative frequency distribution is called ______?|Histrogram|Frequency Polgon|Ogive|None of above|2|
+Class 10 Mathematics|Presentation Of Data|Set 12|In a table, foot note and source notes are ______?|Same|Different|Identical|Non-identical|1|
+Class 10 Mathematics|Presentation Of Data|Set 12|When we add the lower and upper class limits and dividing the sum by, the values so obtained are called class______?|Interval|Histogram|Limits|Marks|3|
+Class 10 Mathematics|Presentation Of Data|Set 12|Data which is not arranged in ascending or descending order is called ______?|Raw|Cumulative frequency|Group|Arrangement|0|
+Class 10 Mathematics|Presentation Of Data|Set 12|A frequent distribution in which class interval size is not the same is called frequency distribution with ______class interval size?|Open-end|Distribution|Componemt|Unequal|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|Shape of possion distribution depends upon?|On random variable X|Its parameter|Mean|Variance|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|If p=q than the shape of binomial distribution?|Positively skewed|Negative skwed|Symmeteric|No shape|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|If p=0.6 and q=0.4 than shape of the binomial distribution?|Positively skewed|Negatively skewed|Symmetric|Bell shaped|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|The number of successes in fixed time interval follows?|Gamma distribution|Binomial distribution|Negative binomial dis|Possion distribution|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|The time interval between two successes follows?|Possion distribution|Exponential distribution|Gamma distribution|Beta distribution|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|Another name of explanatory variable is______?|Independent|Predictor|Controlled|All of above|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|Which of the following statement is true for CDF of the random variable X?|From larger values of x|From smallest upto specific value of x|From zero to specific value of x|None of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|Total Area under the curve in probability of density function is ?|0|-1|1|Infinity|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|E(ax + b) = A E(x) +______?|(C)|E(x)|b E(a)|b|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 12|If E (ax) = ______?|A|a E(x)|x E(a)|Non of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The time taken by an athlete to run a 400 mile race in SAF games ______?|Continuous data|Random|Discrete data|Non of these|0|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The variance of randomvariable of x then var(x) = E[x-E[x]2 = E[______]?|(X - A)2|E(x)|(x - u)2|(x - 4)2|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The basic random numbers are ______?|0 and 1|0,1,2,............9|1,2,3....10|None of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The mathematical exception of x + y is equal to ______?|E(x + 0)|E(x + x)|E(x) + E(y)|E(y)|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Experiment in which outcomes vary from trial to trial ______?|Experiment|Variable|Random experiment|Non of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Random numbers are used for selection of ______?|Random space|Space|Random sample|Non of these|0|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|A random variable is that whose value is determined by the outcome of ______?|Trial|event|Experiment|Random experiment|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Random numbers are also called______?|Random experiment|random Errors|Random digits|None of these|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|A continuous random variable which can assume all possible values on scale in a given ______?|Interval|Point|Time|Sample space|0|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Hourly temperature recorded by weather bureau is the example of ______?|Discrete variable|Qualitative variable|Continuous variable|None of these|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Var (kY)= ______?|k Var (Y)|k2 Var(Y)|Var(Y)|k2|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|If c is non-random variable, the E(C) is______?|Zero|C|1|2|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|For a probability density function (pdf), the probability of a single point is______?|1|2|0|Constant|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Probability of occurrence of an event lies between______?|-1 and 0|0 and 1|-1 and 1|exactly 1|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|For a random variable X, E(X) is______?|Harmonic Mean|Geometric Mean (GM)|Arithmetic Mean (AM)|Non|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The distribution function F(X) is represent by______?|P(X=x)|P(X|P(X>x)|P(X<=x)|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Probability distribution of a random variable is also know as Probability______?|Probability Function|Distribution Function|Probability Distribution|Probability Density Function|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The probability function is always______?|Negative|Non Negative|Positive|None|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|A discrete probability distribution may be represented by______?|A Table|A Graph|A mathematical Equation|All of these|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|If a & b are constants, then Var (a + bX) equal to______?|Var(bX) + a|b2 Var(X)|b Var(x)|None of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|The number of defective bulbs in a lot is example of ______?|Continuous variable|Discrete variable|Function|None of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|A random variable is ______ ?|Not a function|A continuous variable|A function|None of these|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|A function probability that a random variable of x has a value less than is called ______?|Random function|Distribution function|Continuous function|probability function|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|______ are the numbers obtained by some random process?|Two- digit number take|Random table|Pack|Non of these|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Two digit random numbers are ______?|2|10|99|100|1|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|A random variable may be ______?|fixed|continuous|discrete|discrete or continuous|3|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|If E(x) is the expected value of X then E[x - E(x)]= ______?|E(x) - E(x)|E(X) - 0|0|E(x) + E(x)|2|
+Class 10 Mathematics|RANDOM VARIABLE AND PROBABILITY DISTRIBUTIONS|Set 13|Discrete random variable is real valued function defined on a ______ sample space?|Discrete|Variable|Scale|Non of these|0|
+Class 10 Mathematics|Sampling|Set 13|In stratified sampling the strata should be ______?|Nonoverlapped|Overlapped|Same|Not equal|0|
+Class 10 Mathematics|Sampling|Set 13|Determining sample size for stratum is problem of______?|Sampling|Allocation|Estimate|Population|1|
+Class 10 Mathematics|Sampling|Set 13|Collection of information from complete population is called______?|Census|Complete enumeration|Survey|Both A & B|3|
+Class 10 Mathematics|Sampling|Set 13|Sampling error cannot occur in______?|Survey|Sampling|Census|None of these|2|
+Class 10 Mathematics|Sampling|Set 13|Which sampling procedure we prefer if population is heterogenous?|Cluster sampling|Stratified sampling|Simple random sampling|None of these|1|
+Class 10 Mathematics|Sampling|Set 13|Cluster sampling is useful when sampling units are______?|Close another|Far a part|Mixed|None of these|1|
+Class 10 Mathematics|Sampling|Set 13|A sample of 92 observations is taken from an infinite population. The sampling distribution of is approximately ?|Normal because is always approximately normally distributed|Normal because the sample size is small in comparison to the population size|Normal because of the central limit theorem|None of these alternatives is correct.|2|
+Class 10 Mathematics|Sampling|Set 13|The standard deviation of sampling distribution of a statistics is ______?|Standard error of statistics|Sampling error of statistics|Sampling distribution of statistics|None of these|0|
+Class 10 Mathematics|Sampling|Set 13|For a population with any distribution, the form of the sampling distribution of the sample mean is______?|Sometimes normal for all sample sizes|Sometimes normal for large sample sizes|Always normal for all sample sizes|Always normal for large sample sizes|3|
+Class 10 Mathematics|Sampling|Set 13|Convenience sampling is an example of______?|Probabilistic sampling|Stratified sampling|No probabilistic sampling|Cluster sampling|2|
+Class 10 Mathematics|Sampling|Set 13|The process of dividing a heterogeneous______?|Random digit|Stratification|Random Sampling|Cluster|1|
+Class 10 Mathematics|Sampling|Set 13|For a population consisting of 4 members, a sample of size '2' is taken replacement, then the number of all the possible samples are?|4|8|16|32|2|
+Class 10 Mathematics|Sampling|Set 13|Sampling errors are reduced by:______?|Increasing the sample size|Decreasing the sample size|Increasing population s.d.|None of these|0|
+Class 10 Mathematics|Sampling|Set 13|In sampling with replacement be t a sampling unit can selected______?|Only once|More than once|Less than once|None|1|
+Class 10 Mathematics|Sampling|Set 13|A list of sampling ______ is called sampling frame?|Point|w.r.m|w.o.r|unit|2|
+Class 10 Mathematics|Sampling|Set 13|To purchase the fruit, we use the ______ sampling?|Systematic|Cluster|Stratified|Judgment|3|
+Class 10 Mathematics|Sampling|Set 13|Non-random sampling is also called______?|Biased sampling|Non-prob.sampling|Less than sampling|Representative sampling|1|
+Class 10 Mathematics|Sampling|Set 13|A sampling distribution is the probability distribution for which one of the following______?|A sample|A sample statistic|A population|A population parameter|1|
+Class 10 Mathematics|Sampling|Set 13|Selection of s by the students to solve a paper is ______?|Random sampling|Non-random sampling|Prob.Sampling|Sampling with replacement|1|
+Class 10 Mathematics|Sampling|Set 13|Probability distribution of a statistics is called______?|Sampling|Parameter|Data|Sampling distribution|3|
+Class 10 Mathematics|Sampling|Set 13|N - n/N -1 is called ______ population?|Group|Finite|Un-finite|Correction|1|
+Class 10 Mathematics|Sampling|Set 13|The process of selecting sample from the population is called______?|Sampling process|Sampling unit|Sampling|Size|2|
+Class 10 Mathematics|Sampling|Set 14|Sampling error can reduced by ______?|Non-random sampling|Increasing the population|Decreasing the sample size|Increasing the sample size|3|
+Class 10 Mathematics|Sampling|Set 14|Non-sample errors are reduced by:______?|Increasing the sample size|Reduced the amount of data|Decreasing the sample standard deviation|None of these|1|
+Class 10 Mathematics|Sampling|Set 14|For making voters lists in Pakistan we need ______?|Simple random sampling|Systematic sampling|Quota sampling|Census|3|
+Class 10 Mathematics|Sampling|Set 14|Which of the following is impossible in sampling ?|Destructive tests|Heterogeneous data|To make voters lists|None of these|2|
+Class 10 Mathematics|Sampling|Set 14|The sampling error is the______?|Same as the standard error of the mean|Difference between the value of the sample mean and the value of the population mean|Error caused by selecting a bad sample|Standard deviation multiplied by the sample size|1|
+Class 10 Mathematics|Sampling|Set 14|A sample estimate is used to describe a characteristic of a______?|Sample|Data|Population|None|0|
+Class 10 Mathematics|Sampling|Set 14|A sample of 24 observations is taken from a population that has 150 elements. The sampling distribution of is______?|Approximately normal because is always approximately normally distributed|Approximately normal because the sample size is large in comparsion to the population size|Approximately normal because of the central limit theorem|Normal if the population is normally distributed|3|
+Class 10 Mathematics|Sampling|Set 14|Random samples of size 17 are from a population that has 200 elements, a mean of 36, and a standard deviation of 8. which of the following best describes the from of the sampling distribution of the sample mean for this situation ?|Approximately normal because the sample size is small relative to the population size|Approximately normal because of the central limit theorem|Exactly|None of these alternatives is correct|3|
+Class 10 Mathematics|Sampling|Set 14|The difference between statistics and parameter is called:______?|Bias|Standard|Sampling error|both (a) and (b)|2|
+Class 10 Mathematics|Sampling|Set 14|Standard deviation of the sampling distribution of a statistics is called______?|Serious error|Dispersion|Standard error|Difference|2|
+Class 10 Mathematics|Sampling|Set 14|In probability sampling each sampling unit has some______?|Unknown|Large|Small|Know|3|
+Class 10 Mathematics|Sampling|Set 14|There are ______ probability sampling?|Four|Six|Three|Seven|0|
+Class 10 Mathematics|Sampling|Set 14|The smallest individuals which constitute the entire population are called ______?|Sampling frame|Sampling units|Sample pop|Sample design|1|
+Class 10 Mathematics|Sampling|Set 14|In the sampling without replacement a sampling unit can be selected______?|Only Once|More than once|Less than once|None of these|0|
+Class 10 Mathematics|Sampling|Set 14|If the sampled population has a normal distribution, when is the sampling distribution of the sample mean X also a normal distribution ?|Only when the sample size is at least 100.|Only when the sample size is smaller than 30|Always|Only when the sample size is at least 30.|2|
+Class 10 Mathematics|Index Number|Set 14|In CPI household budget method also known as:______?|Simple average of relatives|Average of weights|Weighted average of relatives|All of above|2|
+Class 10 Mathematics|Index Number|Set 14|CPI also named as______?|Household price index|Retail price index|Both a and b|None of these|2|
+Class 10 Mathematics|Index Number|Set 14|Most commonly used index number is______?|Quantity index number|Price index number|Value index number|None of these|1|
+Class 10 Mathematics|Index Number|Set 14|The Laspeyres price index______?|Regards the base year quantities as fixed|Regards the base year price as fixed|Regards the current year quantities as fixed|non of these|0|
+Class 10 Mathematics|Index Number|Set 14|This index measure the change from month to month in the cost of a representative 'basket' of goods and services of the type bought by a typical household?|Laspeyres Price Index|Financial time Index|Paasche Price Index|Retail Price Index|2|
+Class 10 Mathematics|Index Number|Set 14|A simple aggregate quantity index is used to______?|Measure the change in quantity of product|Measure the overall change in price of a range of products|Measure the overall change in quantity of range of product.|Measure the change in price of a product|1|
+Class 10 Mathematics|Index Number|Set 14|An index number is used______?|To measure changes in quantity|To measure changes in price|To measure changes in a variable over time|To measure changes in demand|2|
+Class 10 Mathematics|Index Number|Set 14|Fisher's ideal index number is also obtained by ______?|Taking A.M. of Laspeyre's and Paasche's index|Taking G.M. of Laspeyre's and Paasche's index|Both (a) and (b)|None of these|1|
+Class 10 Mathematics|Index Number|Set 14|Base year quantities are used as weights in ______?|Laspeyre's index|Paasche's index|Fisher's index|None of these|0|
+Class 10 Mathematics|Index Number|Set 14|The Index number are used to measure seasonal and cyclical variations in ______?|Wholesale|Relatives|commodities|Time series|3|
+Class 10 Mathematics|Index Number|Set 14|The weighty system changed with ______?|Yearly|Basely|Timely|Averagely|2|
+Class 10 Mathematics|Index Number|Set 14|Single number which shows ______ changes in a phenomenon is called an Index Number?|Overall|Same|Variation|Capable|0|
+Class 10 Mathematics|Index Number|Set 14|An Index number which measure the change of a ______ is called Aggregative 1. No?|Industrial activity|Retail price|Cost of living|Goods consumed|2|
+Class 10 Mathematics|Index Number|Set 14|The object of Index number also determines its ______?|Index Number|Special purpose|Reliable|Scope|3|
+Class 10 Mathematics|Index Number|Set 14|Average calculated used in index number by ______ method?|Three|Two|Four|One|0|
+Class 10 Mathematics|Index Number|Set 14|G.M. between ______ is called to be Fisher's Index Number?|Paasche's Index Number|Marshall and Laspeyr'es|Laspeyre's and Paasche's|Fisher and Paasche's|2|
+Class 10 Mathematics|Index Number|Set 14|An Index number of an average quality of wheat in Lahore______ Index?|Volume Index Number|value Index Number|Quantity Index Number|Weighted Index Number|2|
+Class 10 Mathematics|Index Number|Set 14|Consumer price Index Number also called ______ is designed to measure changes?|Cost Living Index number|Whole Sale Index number|weighted Index Number|Consumer Index Number|0|
+Class 10 Mathematics|Index Number|Set 14|All Index numbers are not suitable for all ______?|Kind|Chain relative|Purpose|Price|2|
+Class 10 Mathematics|Index Number|Set 14|A scaling factor is used to______?|Change a simple index to a weight index|Convert the Paasche index to a Laspeyres index|Change the base year|change an aggregate index to a weighted index|2|
+Class 10 Mathematics|Index Number|Set 14|The Laspeyres and Paasche index are examples of______?|Aggregate index numbers|Weighted index numbers|Weighted price index only|Weighted quantity index only|1|
+Class 10 Mathematics|Index Number|Set 14|A simple aggregate price index______?|Ignores relative quantities|Compares relative quantities to relative prices|Compares absolute prices to absolute quantities|Compares relative quantities|0|
+Class 10 Mathematics|Index Number|Set 14|The ratio of a new price to the base year price is called the______?|Price decrease|Price absolute|Price increase|Price relative|3|
+Class 10 Mathematics|Index Number|Set 14|The index number of base period is always:______?|100|200|The price of that year|None of these|0|
+Class 10 Mathematics|Index Number|Set 14|Link relative = ______?|Pn/pn-1 x100|Pn/Po x10|Pn/Po x100|None of these|0|
+Class 10 Mathematics|Index Number|Set 14|In Chain base method, the base period is ______?|Fixed|Constant|Change|None of these|2|
+Class 10 Mathematics|Index Number|Set 14|Qon means ______ for the given year?|Price|Commodity|Quantity in current|Quantity Index|3|
+Class 10 Mathematics|Index Number|Set 14|Index Number is an important role in the field of Economic and ______?|Science|Education|Intelligence|Business|3|
+Class 10 Mathematics|Index Number|Set 14|1. Nos. is a ______ for measuring changes in a variable or a group of related variables?|variable|Region of goods|Device|Cost|2|
+Class 10 Mathematics|Index Number|Set 14|Measure the change in quantity of goods are called ______?|Simple 1. No.|Aggregative 1. No.|Appropriate|Quantity Index Number|3|
+Class 10 Mathematics|Index Number|Set 14|Price in proceeding year used in the method is called ______?|Fixed Method|Chain Method|Aggregation Method|Volume|1|
+Class 10 Mathematics|Index Number|Set 14|Weighted Index number can be classified into ______ categories?|Four|Three|Five|Two|3|
+Class 10 Mathematics|Index Number|Set 14|Ratio between given year and base year is called ______ in percentage?|Price relative|Link relative|Retail prices|None of these|0|
+Class 10 Mathematics|Index Number|Set 14|An Index Number calculated for more than one items is called ______?|Sensitive Price Index number|Consumer Index Number|Simple Aggregation 1. Number|Chain Indices|2|
+Class 10 Mathematics|Index Number|Set 14|The index numbers are used to measure seasonal and cyclical variations in ______?|Commodities|Time Series|Whole sale|Realtives|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The median of numbers, 12, 22, 32,__(2n + 1)2 is given by______?|(n2 + 1)|(2n + 1)2|(n + 1)2|(N - 1)2|2|
+Class 10 Mathematics|Measures Of Location|Set 15|A distribution is called ______ distribution if it has two modes?|Uni-modal|Bi-model|Tri-modal|None of these|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The median of F,K,E, Q, U, E, N, C,Y, is ______?|EUP|LEY|EUQ|EFP|2|
+Class 10 Mathematics|Measures Of Location|Set 15|The frequent value of the data if it exists is called ______?|Median|Quartiles|Mode|Deciles|2|
+Class 10 Mathematics|Measures Of Location|Set 15|The mean of 5,5,5,5,5 is ______?|1|5|6|10|2|
+Class 10 Mathematics|Measures Of Location|Set 15|The median of the data 2, 4, 10, 8, 6 is ______?|6|5|10|None of these|1|
+Class 10 Mathematics|Measures Of Location|Set 15|Which of the following is not based upon all the observations ______?|A.M.|G.M.|H.M.|Mode|3|
+Class 10 Mathematics|Measures Of Location|Set 15|If any value in the data is zero, then which of the following average vanishes ______?|A.M.|G.M.|Mode|None of these|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The sum of deviations of observations is zero, when deviations are taken from ______?|Mean|Median|Mode|None of these|0|
+Class 10 Mathematics|Measures Of Location|Set 15|If any value in the data is negative, then it is impossible to calculate ______?|A.M.|Mode|H.M.|G.M.|3|
+Class 10 Mathematics|Measures Of Location|Set 15|G.M. are set of 'n' values product of the nth roots of the ______?|Given value|All +ve, -Ve value|Zero reject|None of these|0|
+Class 10 Mathematics|Measures Of Location|Set 15|Quartiles, deciles are located from an ogive in a way______?|Mode|G.M.|Median|Quarlities|3|
+Class 10 Mathematics|Measures Of Location|Set 15|Average is good if it is easy to ______?|Change|Capable|Understand|Clear|2|
+Class 10 Mathematics|Measures Of Location|Set 15|G.M. of 2,4,8 is ______?|6|4|14/3|8|1|
+Class 10 Mathematics|Measures Of Location|Set 15|Median is always central value even if the data is ______?|Unassigned|Arranged|Continuous|Discrete|1|
+Class 10 Mathematics|Measures Of Location|Set 15|Harmonic mean cannot be calculated if any one of the values in the data is ______?|Zero|Negative|Positive|All sign|0|
+Class 10 Mathematics|Measures Of Location|Set 15|Median is ______ than mean is a positive skewed distribution?|Great|lesser|Equal|None of these|1|
+Class 10 Mathematics|Measures Of Location|Set 15|Sum of obsolete deviations from ______ is least?|Mean|Median|Harmonic|Mode|1|
+Class 10 Mathematics|Measures Of Location|Set 15|We must arrange the data before calculating ______?|Mean|Median|Mode|G.M.|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The mode of the data 2,4,6,6,6,8 is ______?|4|6|8|30|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The arithmetic mean of 10,8,6,4, and 2 is ______?|5|15|6|30|1|
+Class 10 Mathematics|Measures Of Location|Set 15|Coded method of calculation is only used in ______?|Median|Combined mean|A.M.|None of these|2|
+Class 10 Mathematics|Measures Of Location|Set 15|If any value in the data is zero, then it is not possible to have ______?|A.M.|Medain|Mode|H.M.|3|
+Class 10 Mathematics|Measures Of Location|Set 15|Group data formula for mode ______?|1+ fm - f2/f1 - f2 x h|1+ f1 - f2/f2 - fm x h|1 + fm - f1/ (fm - f1) + (fm1 - f2) x h|1+ fm1 - f2/f1 - fm x h|2|
+Class 10 Mathematics|Measures Of Location|Set 15|Deciles means are 1/( )?|1000|10|100|10000|2|
+Class 10 Mathematics|Measures Of Location|Set 15|In moderately skewed distribution if ______?|Mode = 3 median - 2 mean|Mode = 2 median -3 mean|Median = 2 median-3 mean|Mean- mode|0|
+Class 10 Mathematics|Measures Of Location|Set 15|Third quartile = Q3 = ______?|P33|D3|Median|None of these|3|
+Class 10 Mathematics|Measures Of Location|Set 15|Mean is relatively ______ measure?|Stable|manipulation|Change|Group|0|
+Class 10 Mathematics|Measures Of Location|Set 15|______ deviation taken from A.M. is always equal to zero?|Mean|Sum|Average|2.D.|1|
+Class 10 Mathematics|Measures Of Location|Set 15|Median = Q2 = D5 =______?|P25|P55|P75|p50|2|
+Class 10 Mathematics|Measures Of Location|Set 15|If the smallest observation in a data is decreased, the average which is not affected is______?|G.M.|Median|Mean|Harmonic mean|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The sum of square of deviation is least when measured from ______?|Arbitrary value|Mean|Mode|G.M.|1|
+Class 10 Mathematics|Measures Of Location|Set 15|H.M. ______ G.M. ______ A.M?|<|>=|<=|>|0|
+Class 10 Mathematics|Measures Of Location|Set 15|The most frequent value in data is called ______?|Mean|Mode|Median|H.M.|1|
+Class 10 Mathematics|Measures Of Location|Set 15|The arithmetic mean ______ by 10 if 10 is added to all values?|Decease|Smaller|Largest|Increase|3|
+Class 10 Mathematics|Measures Of Location|Set 15|Arithmetic mean is ______ by change of origin and scale of measurement?|Vary|Negative|Affected|Not affected|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|The word regression was first founded by______?|Neyman person|R A Fisher|Sir F Galton|Karl Pearson|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|Response variable is a______?|Fixed|Random variable|Whole|None of above|1|
+Class 10 Mathematics|Sample Linear Regression|Set 15|If (AB) >(A) (B)/n ______ then A and B are?|Independent|Associated|Dis-associated|None of these|1|
+Class 10 Mathematics|Sample Linear Regression|Set 15|If x and y are Independent to each other the coefficient of correlation is ______?|-1|+1|.6|0|3|
+Class 10 Mathematics|Sample Linear Regression|Set 15|Two attributes are associated if expected frequency is ______?|Less than observed|Greater than observed|Equal to observed|None of these|0|
+Class 10 Mathematics|Sample Linear Regression|Set 15|In perfect association the value of coefficient of association is ______?|(0)|+1|-1|non of these|1|
+Class 10 Mathematics|Sample Linear Regression|Set 15|Attributes are ______ if they have some relation?|Disassociation|In consistent|Associated|None of these|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|Richness is not a ______?|Constant|Discreade|Variable|Continuous|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|To cut a population into three classes is called______?|Dichotomy|Capital|Tracheotomy|Attribute|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|The table representing two attributes is called______?|Random table|Contingency table|Dichotomy table|Chi-square table|1|
+Class 10 Mathematics|Sample Linear Regression|Set 15|If bxy = byx = r then ______?|6x < 6y|6y < 6x|6x = 6y|Non of These|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|Correlation coefficient is ______ with respect to x and y?|+vely|Non-normal|Symmetrical|Skewed|2|
+Class 10 Mathematics|Sample Linear Regression|Set 15|In x = 2 ______ 6y the value of y are increasing by one unit then values of x are?|Increasing by 6|Decreasing by 6|No change|Non of these|1|
+Class 10 Mathematics|Sample Linear Regression|Set 15|Correlation coefficient is ______ of origin and unit of measurement?|Origin|Dependence|Independence|None|2|
+Class 10 Mathematics|Sample Linear Regression|Set 16|Correlation is ______ of regression coefficients?|A.M.|G.M.|M.D.|H.M.|1|
+Class 10 Mathematics|Sample Linear Regression|Set 16|If x = 3 then value of regression co-efficient of X or Y is ______?|(3)|(0)|-3|-4|1|
+Class 10 Mathematics|Sample Linear Regression|Set 16|In correlation, both variables are______?|Random|Fixed|Non-random|Experimental|0|
+Class 10 Mathematics|Sample Linear Regression|Set 16|If y = 2 + 6x then value of y intercept is ______?|6|2|0|None|1|
+Class 10 Mathematics|Sample Linear Regression|Set 16|A model is linear if it is linear in the dependent variable and also in ______?|Parameter|Independent variable|Error term|Non of these|0|
+Class 10 Mathematics|Sample Linear Regression|Set 16|The two regression co-efficient always have the ______ sign?|Different|Same|None of these|+ve|1|
+Class 10 Mathematics|Sample Linear Regression|Set 16|If r, between u = x and y = -x is ______?|+1|-1|0|Non of these|1|
+Class 10 Mathematics|Sample Linear Regression|Set 16|Correlation coefficient lies between______?|0 <= r <= 1|0 <= r <= -1|-1 <= r <= 1|1 <= r <= 0|2|
+Class 10 Mathematics|Sample Linear Regression|Set 16|Regression co-efficient is denoted by______?|by|byx|bzx|m|1|
+Class 10 Mathematics|Sample Linear Regression|Set 16|When the two regression lines coincide there r is ______?|Zero|Less than zero|More than zero|Great|0|
+Class 10 Mathematics|Sample Linear Regression|Set 16|The regression co-efficient are ______ origin?|Dependent|Independent|Scale|Both|1|
