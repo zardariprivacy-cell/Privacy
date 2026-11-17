@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -555,6 +555,98 @@
    "status": "Closed",
    "url": "https://scholarships.alkhidmat.org",
    "added": "2026-11-16"
+  },
+  {
+   "name": "JDS Scholarship for Pakistan (Japan)",
+   "scope": "International",
+   "country": "Japan",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani civil servants / government officers (BPS-17 ya upar) — Master ke liye age 25-40, PhD ke liye 25-45 (1 April 2027 tak); sirf sarkari officers, aam students ke liye nahi",
+   "coverage": "Full — tuition, airfare, visa, monthly stipend aur Japan mein rehne ka kharcha (16 Master + 1 PhD seats)",
+   "deadline": "27 November 2026 (5:00 PM PKT)",
+   "deadlineDate": "2026-11-27",
+   "status": "Open now",
+   "url": "https://jds-scholarship.org/country/pakistan/index.html",
+   "added": "2026-11-17"
+  },
+  {
+   "name": "Sabancı University Graduate Scholarships (Turkey)",
+   "scope": "International",
+   "country": "Turkey",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "International students (including Pakistanis) jo Sabancı ke academic graduate programme (thesis Master ya PhD) mein admission lein; scholarship admission ke saath merit par decide hoti hai",
+   "coverage": "Full — 100% tuition waiver (USD 24,500), Master stipend TL 43,500/month, PhD TL 67,500/month, free dormitory, health insurance aur laptop",
+   "deadline": "27 November 2026 (Engineering & Natural Sciences — thesis Master/PhD); Management PhD: 11 December 2026",
+   "deadlineDate": "2026-11-27",
+   "status": "Open now",
+   "url": "https://www.sabanciuniv.edu",
+   "added": "2026-11-17"
+  },
+  {
+   "name": "Yenching Academy Scholarship (Peking University, China)",
+   "scope": "International",
+   "country": "China",
+   "levels": [
+    "Master"
+   ],
+   "who": "International graduates (including Pakistanis) — Bachelor degree ya final year mein hon; English proficiency (IELTS 7.0 / TOEFL iBT 100 ya equivalent); sirf Master in China Studies programme",
+   "coverage": "Full (pehle saal ki fellowship) — tuition, accommodation, monthly stipend, medical insurance, aik round-trip airfare aur research costs (2 saal ka programme)",
+   "deadline": "30 November 2026 (9:00 AM Beijing time — 6:00 AM PKT)",
+   "deadlineDate": "2026-11-30",
+   "status": "Open now",
+   "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+   "added": "2026-11-17"
+  },
+  {
+   "name": "Berea College Scholarship (USA)",
+   "scope": "International",
+   "country": "United States",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "International students (including Pakistanis) — Fall 2027 entry, sirf undergraduate; English test zaroori (IELTS 6.0 / TOEFL iBT 68 / Duolingo 95); koi application fee nahi",
+   "coverage": "Full — Financial Freedom Pledge: tuition, housing, food, fees aur supplies, bina loan ke (4 saal, $285,000+ value); $2,200 enrollment deposit",
+   "deadline": "30 November 2026 (international applicants — koi extension nahi milti)",
+   "deadlineDate": "2026-11-30",
+   "status": "Open now",
+   "url": "https://www.berea.edu",
+   "added": "2026-11-17"
+  },
+  {
+   "name": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP)",
+   "scope": "International",
+   "country": "Several countries",
+   "levels": [
+    "Master"
+   ],
+   "who": "Developing country nationals (including Pakistanis) with professional experience — pehle 44 participating Master programmes mein se kisi aik mein unconditional admission zaroori hai",
+   "coverage": "Full — tuition, monthly living stipend, round-trip airfare, health insurance aur travel allowance (2 saal tak)",
+   "deadline": "Window 1: 18 January – 26 February 2027; Window 2: 29 March – 21 May 2027",
+   "deadlineDate": "2027-02-26",
+   "status": "Opening soon",
+   "url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
+   "added": "2026-11-17"
+  },
+  {
+   "name": "LUMS National Outreach Programme (NOP)",
+   "scope": "Pakistan",
+   "country": "All Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "First-year Intermediate / A-Level students — Matric mein 80%+ marks aur genuine financial need; NOP Summer Coaching Session se selection hoti hai",
+   "coverage": "Full — admission, tuition, registration, lab charges, accommodation, meals aur stipend (LUMS undergraduate programme ke liye)",
+   "deadline": "23 February 2027 (Summer Coaching Session application; documents 25 February 2027 tak)",
+   "deadlineDate": "2027-02-23",
+   "status": "Open now",
+   "url": "https://nop.lums.edu.pk/",
+   "added": "2026-11-17"
   }
  ]
 }
