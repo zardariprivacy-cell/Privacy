@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShopNest — Demo Store</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ===== Header: logo, search form, nav (Course: HTML structure + styled forms) ===== -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="#">Shop<span>Nest</span></a>
+    <form class="search-bar" id="searchForm" role="search">
+      <input type="search" id="searchInput" placeholder="Search products…" aria-label="Search products">
+      <button type="submit" aria-label="Search">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.8-3.8"/></svg>
+      </button>
+    </form>
+    <nav class="main-nav">
+      <a href="#categories">Categories</a>
+      <a href="#products">Products</a>
+      <a href="#newsletter">Offers</a>
+      <button class="cart-btn" id="cartBtn" aria-label="Open cart">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="20" r="1.6"/><circle cx="17" cy="20" r="1.6"/><path d="M3 3h2l2.4 12.2a1.5 1.5 0 0 0 1.5 1.2h7.9a1.5 1.5 0 0 0 1.5-1.2L20.5 7H6"/></svg>
+        <span class="cart-count" id="cartCount">0</span>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<!-- ===== Hero (Course: Mega Project banner) ===== -->
+<section class="hero">
+  <div class="hero-text">
+    <p class="hero-tag">New Season Sale — up to 40% off</p>
+    <h1>Everything you love,<br>delivered to your door.</h1>
+    <p class="hero-sub">Electronics, fashion, home and more — quality picks at honest prices.</p>
+    <a class="hero-cta" href="#products">Shop now</a>
+  </div>
+</section>
+
+<!-- ===== Shop by category (Course: Mega Project box grid — Flexbox/Grid) ===== -->
+<section class="section" id="categories">
+  <h2 class="section-title">Shop by category</h2>
+  <div class="category-grid" id="categoryGrid"></div>
+</section>
+
+<!-- ===== Products (rendered by JavaScript — Course: DOM manipulation) ===== -->
+<section class="section" id="products">
+  <h2 class="section-title">Featured products</h2>
+  <p class="no-results" id="noResults" hidden>No products match your search.</p>
+  <div class="product-grid" id="productGrid"></div>
+</section>
+
+<!-- ===== Newsletter (Course: styling forms) ===== -->
+<section class="newsletter" id="newsletter">
+  <h2>Get offers in your inbox</h2>
+  <p>One email a week. No spam, ever.</p>
+  <form class="newsletter-form" id="newsletterForm">
+    <input type="email" id="newsletterEmail" placeholder="Your email address" aria-label="Email address">
+    <button type="submit">Subscribe</button>
+  </form>
+  <p class="form-msg" id="formMsg" role="status"></p>
+</section>
+
+<!-- ===== Footer ===== -->
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div>
+      <h3>ShopNest</h3>
+      <p>A demo storefront built as a practice project with the Web Development Course method: structure first, then CSS, responsiveness, JavaScript, and hosting.</p>
+    </div>
+    <div>
+      <h4>Shop</h4>
+      <a href="#categories">Categories</a><a href="#products">Products</a><a href="#newsletter">Offers</a>
+    </div>
+    <div>
+      <h4>Help</h4>
+      <a href="#">Track order</a><a href="#">Returns</a><a href="#">Shipping</a>
+    </div>
+    <div>
+      <h4>Company</h4>
+      <a href="#">About</a><a href="#">Careers</a><a href="#">Contact</a>
+    </div>
+  </div>
+  <p class="copyright">© 2026 ShopNest — demo website, no real orders.</p>
+</footer>
+
+<!-- ===== Cart drawer (Course: CRUD app pattern — add / view / remove) ===== -->
+<div class="cart-overlay" id="cartOverlay" hidden></div>
+<aside class="cart-drawer" id="cartDrawer" aria-label="Shopping cart">
+  <div class="cart-head">
+    <h3>Your cart</h3>
+    <button class="cart-close" id="cartClose" aria-label="Close cart">✕</button>
+  </div>
+  <div class="cart-items" id="cartItems"></div>
+  <div class="cart-foot">
+    <div class="cart-total"><span>Subtotal</span><strong id="cartTotal">$0.00</strong></div>
+    <button class="checkout-btn" id="checkoutBtn">Checkout (demo)</button>
+  </div>
+</aside>
+
+<script src="script.js"></script>
+</body>
+</html>
