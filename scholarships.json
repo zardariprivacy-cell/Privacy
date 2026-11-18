@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -647,6 +647,21 @@
    "status": "Open now",
    "url": "https://nop.lums.edu.pk/",
    "added": "2026-11-17"
+  },
+  {
+   "name": "Shenzhen University PhD Scholarship (Liyuan International Scholarship)",
+   "scope": "International",
+   "country": "China",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Non-Chinese citizens with a Master's degree — PhD admission March 2027 intake; supervisor ki recommendation letter zaroori hai",
+   "coverage": "Liyuan International Scholarship: full tuition waiver + CNY 4,000–6,000/month living allowance; supervisor se kam az kam CNY 12,000/year research allowance",
+   "deadline": "30 November 2026",
+   "deadlineDate": "2026-11-30",
+   "status": "Open now",
+   "url": "https://lxs.szu.edu.cn/en/info/1112/3623.htm",
+   "added": "2026-11-18"
   }
  ]
 }
