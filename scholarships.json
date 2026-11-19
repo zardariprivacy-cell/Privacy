@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -216,9 +216,9 @@
    ],
    "who": "Pakistani nationals, age 28 or under, 4-year Bachelor with CGPA 3.0/4.0 — sirf 5 listed Master programmes (IMT Atlantique, Grenoble INP Pagora, Avignon, ONIRIS, Lille)",
    "coverage": "Full — tuition, monthly living allowance, return airfare, health cover (Études en France fee PKR 30,000)",
-   "deadline": "18 November 2026",
+   "deadline": "18 November 2026 (band ho chuki hai — agli cycle 2027 mein expected)",
    "deadlineDate": "2026-11-18",
-   "status": "Open now",
+   "status": "Closed",
    "url": "https://www.pakistan.campusfrance.org/2027-call-france-excellence-pakistan-climate-change",
    "added": "2026-11-14"
   },
@@ -391,7 +391,7 @@
    ],
    "who": "Pakistani citizens with a completed degree and at least 2,800 hours of work experience",
    "coverage": "Full — tuition, monthly stipend, airfare and arrival allowances",
-   "deadline": "August 2027 mein dobara khulengi",
+   "deadline": "August 2027 mein dobara khulengi — Chevening-ABL partnership se har saal 2 Pakistani scholars ko bhi fund kiya jayega (existing Chevening pool se)",
    "deadlineDate": null,
    "status": "Closed",
    "url": "https://www.chevening.org/scholarship/pakistan/",
@@ -662,6 +662,21 @@
    "status": "Open now",
    "url": "https://lxs.szu.edu.cn/en/info/1112/3623.htm",
    "added": "2026-11-18"
+  },
+  {
+   "name": "Leiden University Excellence Scholarship (LExS)",
+   "scope": "International",
+   "country": "Netherlands",
+   "levels": [
+    "Master"
+   ],
+   "who": "Non-EEA/non-EFTA passport holders (including Pakistanis) — previous programme ke top 10% mein, eligible full-time Leiden Master (September 2027 start) mein admission; Advanced LLM aur MSc International Relations & Diplomacy ke liye sab nationalities eligible",
+   "coverage": "€10,000–€19,000 tuition fee reduction (partial — living costs aur visa funds khud arrange karne hote hain); sirf ~25 awards",
+   "deadline": "1 December 2026 (admission application bhi isi date tak submit karni zaroori hai)",
+   "deadlineDate": "2026-12-01",
+   "status": "Open now",
+   "url": "https://www.staff.universiteitleiden.nl/scholarships/sea/leiden-university-excellence-scholarship-lexs?cf=governance-and-global-affairs",
+   "added": "2026-11-19"
   }
  ]
 }
