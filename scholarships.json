@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -677,6 +677,39 @@
    "status": "Open now",
    "url": "https://www.staff.universiteitleiden.nl/scholarships/sea/leiden-university-excellence-scholarship-lexs?cf=governance-and-global-affairs",
    "added": "2026-11-19"
+  },
+  {
+   "name": "WAMY Scholarships for IIUI Students (Spring 2027)",
+   "scope": "Pakistan",
+   "country": "Islamabad, Pakistan",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "IIUI mein enrolled talented aur deserving students — BS, MS aur PhD, sirf listed disciplines (Computer Science, Software Engineering, IT, Data Science, AI, Electrical/Mechanical/Civil Engineering, Law, Economics, Management Sciences, Project Management, Computational Mathematics)",
+   "coverage": "Tuition fees (Spring 2027 semester se; 100 nayi scholarships — WAMY ke total 111 awards)",
+   "deadline": "25 November 2026 (application window 18–25 November 2026)",
+   "deadlineDate": "2026-11-25",
+   "status": "Open now",
+   "url": "https://www.iiu.edu.pk/wamy-approves-100-more-scholarships-for-iiui-students/",
+   "added": "2026-11-21"
+  },
+  {
+   "name": "SAARC Scholarship at Bangladesh University of Professionals (BUP)",
+   "scope": "International",
+   "country": "Bangladesh",
+   "levels": [
+    "Bachelor",
+    "Master"
+   ],
+   "who": "SAARC countries ke students (Pakistan ke liye 4 seats) — BUP ke undergraduate/Master programmes mein admission; apply seedha BUP ko karna hai, HEC sirf advertise kar raha hai (nominating agency nahi)",
+   "coverage": "80% tuition fee waiver — fees sirf ~US$180 per semester (max 2 students per SAARC country ko yeh special waiver); rehne/khane ka kharcha khud uthana hoga",
+   "deadline": "31 December 2026 (classes 31 January 2027 se)",
+   "deadlineDate": "2026-12-31",
+   "status": "Open now",
+   "url": "https://www.hec.gov.pk/english/HECAnnouncements/Pages/SAARC-Scholarship.aspx",
+   "added": "2026-11-21"
   }
  ]
 }
