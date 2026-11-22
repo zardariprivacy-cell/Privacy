@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -216,9 +216,9 @@
    ],
    "who": "Pakistani nationals, age 28 or under, 4-year Bachelor with CGPA 3.0/4.0 — sirf 5 listed Master programmes (IMT Atlantique, Grenoble INP Pagora, Avignon, ONIRIS, Lille)",
    "coverage": "Full — tuition, monthly living allowance, return airfare, health cover (Études en France fee PKR 30,000)",
-   "deadline": "18 November 2026 (band ho chuki hai — agli cycle 2027 mein expected)",
-   "deadlineDate": "2026-11-18",
-   "status": "Closed",
+   "deadline": "15 December 2026 (Etudes en France file submit karein; PKR 30,000 fee 20 December 2026 tak)",
+   "deadlineDate": "2026-12-15",
+   "status": "Open now",
    "url": "https://www.pakistan.campusfrance.org/2027-call-france-excellence-pakistan-climate-change",
    "added": "2026-11-14"
   },
@@ -710,6 +710,54 @@
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/HECAnnouncements/Pages/SAARC-Scholarship.aspx",
    "added": "2026-11-21"
+  },
+  {
+   "name": "Ramzan Talent Scholarship 2026",
+   "scope": "Pakistan",
+   "country": "All Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor",
+    "Master"
+   ],
+   "who": "Pakistan mein diploma (DAE samet), Bachelor ya Master programme mein admission hasil karne wale mustahiq students — koi minimum percentage nahi, koi aur scholarship nahi le rahe hon",
+   "coverage": "Tuition fees ki madad — selection board har student ke liye 25% se 100% tak tuition decide karta hai (need + merit based)",
+   "deadline": "18 December 2026",
+   "deadlineDate": "2026-12-18",
+   "status": "Open now",
+   "url": "https://www.ramzan.org.pk/",
+   "added": "2026-11-22"
+  },
+  {
+   "name": "IBA OGDCL Talent Hunt Scholarship 2026",
+   "scope": "Pakistan",
+   "country": "All Pakistan (selected districts)",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "HSSC-I 2026 mein 80%+ marks wale financially deserving students — Punjab, Sindh, KP aur Balochistan ke selected districts ke domicile",
+   "coverage": "IBA Karachi mein undergraduate admission ki tayyari — 3 haftay ki muft orientation/training + admission par 100% tak tuition scholarship",
+   "deadline": "15 December 2026 (Stage 1 pre-application)",
+   "deadlineDate": "2026-12-15",
+   "status": "Open now",
+   "url": "https://nthp.iba.edu.pk/",
+   "added": "2026-11-22"
+  },
+  {
+   "name": "University of Sindh Need-Cum-Merit Scholarship 2026",
+   "scope": "Pakistan",
+   "country": "Sindh, Pakistan",
+   "levels": [
+    "Bachelor",
+    "Master"
+   ],
+   "who": "University of Sindh ke deserving students — Bachelor batches 2024, 2025, 2026; Law & Pharmacy 2023–2026; Master 2026 (Zakat Istehqaq Certificate zaroori)",
+   "coverage": "Zakat & Ushr Department, Government of Sindh se financial assistance (amount notice mein nahi batayi gayi)",
+   "deadline": "6 December 2026",
+   "deadlineDate": "2026-12-06",
+   "status": "Open now",
+   "url": "https://news.usindh.edu.pk/Web/news_detail?id=2272",
+   "added": "2026-11-22"
   }
  ]
 }
