@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -278,7 +278,7 @@
    ],
    "who": "Pakistani/AJK citizens; apply on BOTH HEC and CSC portals (Type A, Agency No. 5861); entry test score 50+ required",
    "coverage": "Full — tuition, dormitory, monthly stipend and medical insurance (airfare not included); 61 seats (25 Bachelor, 21 Master, 15 PhD)",
-   "deadline": "5 January 2027 (4:00 PM PKT) — ETC test registration 22 November 2026 tak",
+   "deadline": "5 January 2027 (4:00 PM PKT) — ETC test registration 22 November 2026 ko band ho gayi; jin ke paas valid HAT/USAT score hai woh apply kar sakte hain",
    "deadlineDate": "2027-01-05",
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/How-to-Apply.aspx",
@@ -360,9 +360,9 @@
    ],
    "who": "Pakistani citizens nominated by HEC; apply on BOTH the Hungarian and HEC portals",
    "coverage": "Full — tuition, housing contribution, stipend, health insurance and travel contribution",
-   "deadline": "Applications jald khulengi — aam tor par January mein band hoti hain",
-   "deadlineDate": null,
-   "status": "Opening soon",
+   "deadline": "15 January 2027 (2:00 PM CET — Hungarian portal; HEC portal par bhi apply zaroori hai)",
+   "deadlineDate": "2027-01-15",
+   "status": "Open now",
    "url": "https://apply.stipendiumhungaricum.hu/",
    "added": "2026-11-13"
   },
@@ -758,6 +758,21 @@
    "status": "Open now",
    "url": "https://news.usindh.edu.pk/Web/news_detail?id=2272",
    "added": "2026-11-22"
+  },
+  {
+   "name": "University of Trento M3 Postgraduate Grant (Italy)",
+   "scope": "International",
+   "country": "Italy",
+   "levels": [
+    "Master"
+   ],
+   "who": "4-year Bachelor's degree holders from abroad (including Pakistanis) — M3 Postgraduate Programme in Multifunctional Metamaterials and Metastructures, Jan–Dec 2027",
+   "coverage": "20 grants — full €3,000 tuition fee (living aur travel khud uthana hoga)",
+   "deadline": "27 November 2026 (12:00 noon CET)",
+   "deadlineDate": "2026-11-27",
+   "status": "Open now",
+   "url": "https://master-m3.unitn.it/2027-grants/",
+   "added": "2026-11-23"
   }
  ]
 }
