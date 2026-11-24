@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -773,6 +773,84 @@
    "status": "Open now",
    "url": "https://master-m3.unitn.it/2027-grants/",
    "added": "2026-11-23"
+  },
+  {
+   "name": "Punjab Minority Scholarships 2026-27 (HRMA)",
+   "scope": "Pakistan",
+   "country": "Punjab, Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Punjab domicile ghair-Muslim (minority) students — Matric se PhD tak, sarkari taleemi idaron mein regular students; aakhri exam mein 40%+ marks; family income Rs 62,400/month ya kam",
+   "coverage": "Rs 30,000 (Matric) se Rs 100,000 (professional degrees — MBBS, Engineering, PhD) tak; Intermediate Rs 40,000, Bachelor Rs 60,000, Postgraduate Rs 70,000",
+   "deadline": "31 December 2026 (raat 12 baje tak — sirf online)",
+   "deadlineDate": "2026-12-31",
+   "status": "Open now",
+   "url": "https://scholarships-hrma.punjab.gov.pk",
+   "added": "2026-11-24"
+  },
+  {
+   "name": "UBC PhD Programmes — Minimum Funding CAD 40,000/year (Canada)",
+   "scope": "International",
+   "country": "Canada",
+   "levels": [
+    "PhD"
+   ],
+   "who": "International students (including Pakistanis) jo UBC Vancouver ke kisi PhD programme mein admission lein — full-time PhD, September 2027 intake",
+   "coverage": "Kam az kam CAD 40,000/year funding pehle 4 saal tak (tuition alag se — international tuition ~CAD 10,082/year; International Tuition Award CAD 3,200 tak)",
+   "deadline": "Har programme ki apni date — zyada tar December 2026 mein (Counselling Psychology 1 Dec, Anthropology 15 Dec, Economics 21 Dec, Business Accounting 31 Dec)",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://www.grad.ubc.ca/awards/minimum-funding-policy-phd-students",
+   "added": "2026-11-24"
+  },
+  {
+   "name": "King's Business School Doctoral Studentships (UK)",
+   "scope": "International",
+   "country": "United Kingdom",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Full-time PhD applicants (Home, EU aur International — Pakistanis bhi) — Economics Research ya Management Research, October 2027 entry; pehle supervisor se rabta zaroori",
+   "coverage": "Full — 3 saal ki tuition fees + £23,805/year tax-free stipend 4 saal tak, training aur conference grant bhi",
+   "deadline": "1 December 2026 (5:00 PM UK time — Round 1; Round 2: 1 June 2027)",
+   "deadlineDate": "2026-12-01",
+   "status": "Open now",
+   "url": "https://www.kcl.ac.uk/business/research/phd-pages/phd-admission-guide",
+   "added": "2026-11-24"
+  },
+  {
+   "name": "Erasmus Mundus MAPP — Master in Public Policy (Europe)",
+   "scope": "International",
+   "country": "Europe (Austria, Netherlands, Spain, UK)",
+   "levels": [
+    "Master"
+   ],
+   "who": "Bachelor degree holders (GPA 3.17/4.0 ya equivalent) — duniya bhar se, Pakistanis bhi; 2 saal ka joint Master (CEU Vienna, ISS Rotterdam, IBEI Barcelona, York)",
+   "coverage": "Full — tuition waiver + €1,400/month (max €33,600, 24 mahine) + health insurance; alag scholarship application nahi — admission form mein indicate karein",
+   "deadline": "1 December 2026 (11:59 PM CET — scholarship/financial aid deadline)",
+   "deadlineDate": "2026-12-01",
+   "status": "Open now",
+   "url": "https://www.mundusmapp.org/how-to-apply/",
+   "added": "2026-11-24"
+  },
+  {
+   "name": "Barry University Stamps Scholars Program (USA)",
+   "scope": "International",
+   "country": "United States",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "First-year undergraduate students (international bhi) — Fall 2027 intake; high school GPA 3.5+ aur active leadership; pehle Barry mein admission lena zaroori hai",
+   "coverage": "Full — 4 saal ki tuition, room & board, books aur transportation + $6,000 enrichment award (study abroad/research)",
+   "deadline": "15 December 2026 (11:59 PM EST)",
+   "deadlineDate": "2026-12-15",
+   "status": "Open now",
+   "url": "https://www.barry.edu/en/stamps-scholars-program",
+   "added": "2026-11-24"
   }
  ]
 }
