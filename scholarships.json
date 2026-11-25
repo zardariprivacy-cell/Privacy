@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -261,7 +261,7 @@
    ],
    "who": "Pakistani/AJK citizens with confirmed admission at a Top-100 QS US university; GRE 300+ or HAT 60%+",
    "coverage": "Full (Top-50 universities) / partial (51-100) — tuition, stipend, insurance, airfare",
-   "deadline": "30 March 2027 (Fall 2027 round — Spring/Summer 2027 round band ho chuka hai)",
+   "deadline": "30 March 2027 (Fall 2027 round — Spring/Summer 2027 round band ho chuka hai); GRE training (Talent Farming) ki registration bhi open hai — HEC portal par apply karein",
    "deadlineDate": "2027-03-30",
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/default.aspx",
@@ -851,6 +851,37 @@
    "status": "Open now",
    "url": "https://www.barry.edu/en/stamps-scholars-program",
    "added": "2026-11-24"
+  },
+  {
+   "name": "PEEF Master Scholarship 2026-27 for KP Merged Districts",
+   "scope": "Pakistan",
+   "country": "Khyber Pakhtunkhwa (merged districts), Pakistan",
+   "levels": [
+    "Master"
+   ],
+   "who": "KP merged districts (ex-FATA) domicile graduates — graduation 2024, 2025 ya 2026 mein 60%+ marks ya 2.5 CGPA, Master programme mein regular admission; family income Rs 100,000/month ya kam (kuch categories exempt)",
+   "coverage": "PEEF Master-level scholarship — financial assistance (amount ad mein nahi batayi gayi); special quota categories bhi hain",
+   "deadline": "30 December 2026 (form Higher Education Department KP, Civil Secretariat Peshawar tak pahunchni chahiye)",
+   "deadlineDate": "2026-12-30",
+   "status": "Open now",
+   "url": "https://www.peef.org.pk/",
+   "added": "2026-11-25"
+  },
+  {
+   "name": "PEEF Scholarships 2026-27 for Gilgit-Baltistan Students",
+   "scope": "Pakistan",
+   "country": "Gilgit-Baltistan, Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor"
+   ],
+   "who": "Gilgit-Baltistan domicile students — Matric ya Intermediate annual 2026 mein 60%+ marks (sarkari school/college se), Intermediate Part-I ya BS/ADP Part-I mein full-time regular admission 2026-27; family income Rs 100,000/month ya kam",
+   "coverage": "50 scholarships — 30 Intermediate aur 20 BS/ADP; stipend PEEF rates ke mutabiq (amount ad mein nahi batayi gayi)",
+   "deadline": "15 March 2027 (form Directorate of Higher Education Colleges GB, Sakwar, Gilgit tak pahunchni chahiye)",
+   "deadlineDate": "2027-03-15",
+   "status": "Open now",
+   "url": "https://www.peef.org.pk/other-provinces",
+   "added": "2026-11-25"
   }
  ]
 }
