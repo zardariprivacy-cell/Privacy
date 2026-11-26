@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -261,7 +261,7 @@
    ],
    "who": "Pakistani/AJK citizens with confirmed admission at a Top-100 QS US university; GRE 300+ or HAT 60%+",
    "coverage": "Full (Top-50 universities) / partial (51-100) — tuition, stipend, insurance, airfare",
-   "deadline": "30 March 2027 (Fall 2027 round — Spring/Summer 2027 round band ho chuka hai); GRE training (Talent Farming) ki registration bhi open hai — HEC portal par apply karein",
+   "deadline": "30 March 2027 (Fall 2027 round — Spring/Summer 2027 round band ho chuka hai); GRE Training (Talent Farming) ki registration 13 December 2026 tak open hai — HEC portal par apply karein",
    "deadlineDate": "2027-03-30",
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/scholarshipsgrants/US-Pakcorridor/Pages/default.aspx",
@@ -679,6 +679,21 @@
    "added": "2026-11-19"
   },
   {
+   "name": "Punjab Workers Welfare Fund (PWWF) COMSATS Free Education — Spring 2027",
+   "scope": "Pakistan",
+   "country": "Punjab, Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "Punjab ke registered industrial/mine workers aur un ke bachay — COMSATS ke 7 campuses (Islamabad, Lahore, Abbottabad, Wah, Attock, Sahiwal, Vehari) mein Spring 2027 admission; worker ka CNIC, employment verification aur establishment registration certificate zaroori",
+   "coverage": "Full — tuition fees, hostel aur transport (degree ki normal duration tak); Rs 100 E-Stamp affidavit bhi dena hota hai",
+   "deadline": "Campus-wise: Islamabad 18 December 2026; Lahore 4 January 2027; Wah & Abbottabad 11 January 2027; Attock 15 January 2027; Sahiwal & Vehari 22 January 2027",
+   "deadlineDate": "2026-12-18",
+   "status": "Open now",
+   "url": "https://admissions.comsats.edu.pk/",
+   "added": "2026-11-26"
+  },
+  {
    "name": "WAMY Scholarships for IIUI Students (Spring 2027)",
    "scope": "Pakistan",
    "country": "Islamabad, Pakistan",
@@ -689,9 +704,9 @@
    ],
    "who": "IIUI mein enrolled talented aur deserving students — BS, MS aur PhD, sirf listed disciplines (Computer Science, Software Engineering, IT, Data Science, AI, Electrical/Mechanical/Civil Engineering, Law, Economics, Management Sciences, Project Management, Computational Mathematics)",
    "coverage": "Tuition fees (Spring 2027 semester se; 100 nayi scholarships — WAMY ke total 111 awards)",
-   "deadline": "25 November 2026 (application window 18–25 November 2026)",
+   "deadline": "25 November 2026 (band ho chuki hai — application window 18–25 November 2026 thi)",
    "deadlineDate": "2026-11-25",
-   "status": "Open now",
+   "status": "Closed",
    "url": "https://www.iiu.edu.pk/wamy-approves-100-more-scholarships-for-iiui-students/",
    "added": "2026-11-21"
   },
