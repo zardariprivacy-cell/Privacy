@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -278,7 +278,7 @@
    ],
    "who": "Pakistani/AJK citizens; apply on BOTH HEC and CSC portals (Type A, Agency No. 5861); entry test score 50+ required",
    "coverage": "Full — tuition, dormitory, monthly stipend and medical insurance (airfare not included); 61 seats (25 Bachelor, 21 Master, 15 PhD)",
-   "deadline": "5 January 2027 (4:00 PM PKT) — ETC test registration 22 November 2026 ko band ho gayi; jin ke paas valid HAT/USAT score hai woh apply kar sakte hain",
+   "deadline": "5 January 2027 (4:00 PM PKT) — ETC test registration 24 November 2026 ko band ho gayi (extended thi); HAT/USAT test 13 December 2026 ko hoga; jin ke paas valid HAT/USAT score hai woh apply kar sakte hain",
    "deadlineDate": "2027-01-05",
    "status": "Open now",
    "url": "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CGSP/Pages/How-to-Apply.aspx",
@@ -897,6 +897,150 @@
    "status": "Open now",
    "url": "https://www.peef.org.pk/other-provinces",
    "added": "2026-11-25"
+  },
+  {
+   "name": "CAS-ANSO Scholarship 2027 (China)",
+   "scope": "International",
+   "country": "China",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Duniya bhar ke graduates (Pakistanis bhi) — USTC ya UCAS mein full-time Master/PhD; sirf aik university ko apply karein (dono ko apply karne par disqualify)",
+   "coverage": "Full — tuition, health insurance, aik return airfare aur monthly stipend (PhD CNY 7,000/month tak)",
+   "deadline": "28 February 2027 (Beijing time — applicants aur referees dono ke liye)",
+   "deadlineDate": "2027-02-28",
+   "status": "Open now",
+   "url": "https://ic.ustc.edu.cn/?news=6323",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "Hamad Bin Khalifa University (HBKU) Graduate Scholarship 2027 (Qatar)",
+   "scope": "International",
+   "country": "Qatar",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Tamam nationalities (Pakistanis bhi) — HBKU ke graduate programmes mein admission; alag scholarship form nahi, admission ke saath hi consider hote hain; GPA 3.0/4.0 minimum",
+   "coverage": "Tuition waiver (PhD 100%) + monthly stipend — international PhD QAR 9,000/month, Master QAR 7,000/month; aik return airfare bhi",
+   "deadline": "1 February 2027 (international graduate applicants)",
+   "deadlineDate": "2027-02-01",
+   "status": "Open now",
+   "url": "https://www.hbku.edu.qa/en/cse/admission-requirements?tab=important_dates",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "MBZUAI Scholarship 2027 (UAE)",
+   "scope": "International",
+   "country": "United Arab Emirates",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "STEM degree holders (CGPA 3.0–3.5/4.0) — AI research MSc/PhD (Machine Learning, Computer Vision, NLP, Robotics waghera); screening test + AED 200 fee",
+   "coverage": "Funded students: full tuition + stipend AED 15,500/month (MSc) / AED 17,500/month (PhD), annual flight, health insurance aur visa; MSc funding merit/assistantship par munhasir hai (2027 se automatic nahi)",
+   "deadline": "15 December 2026 (5:00 PM GST — 6:00 PM PKT); Computational Biology: 22 January 2027",
+   "deadlineDate": "2026-12-15",
+   "status": "Open now",
+   "url": "https://mbzuai.ac.ae/admissions/graduate-phd-admissions",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "KAUST Fellowship 2027 (Saudi Arabia)",
+   "scope": "International",
+   "country": "Saudi Arabia",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Tamam nationalities (Pakistanis bhi) — science, engineering, computing ya maths graduates; GPA 3.0/4.0 minimum, IELTS 7.0 ya equivalent; alag scholarship form nahi — admission milne par fellowship automatic",
+   "coverage": "Full — tuition + bench fees, stipend US$20,000/year (MS) / US$25,000–30,000/year (PhD), free housing, health insurance aur relocation support",
+   "deadline": "3 January 2027 (Fall 2027, Round 2 — dates tentative hain, jaldi apply karein)",
+   "deadlineDate": "2027-01-03",
+   "status": "Open now",
+   "url": "https://admissions.kaust.edu.sa/how-to-apply/admission-timelines",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "BEEF CM Merit Foreign PhD Scholarship 2027 (Balochistan)",
+   "scope": "Pakistan",
+   "country": "Balochistan, Pakistan",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Balochistan domicile, age 40 ya kam, MS/MPhil mein 60%+ — QS Top-100 university se Fall 2027 PhD ki unconditional offer zaroori; 70% STEM, 30% social sciences/humanities",
+   "coverage": "Full — tuition, living allowance, health insurance, airfare aur visa fees (BEEF ki limits ke mutabiq); har saal 10 scholars",
+   "deadline": "30 April 2027 (form submission 1 February 2027 se)",
+   "deadlineDate": "2027-04-30",
+   "status": "Opening soon",
+   "url": "https://beef.org.pk/cmspp",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "PWWF Talent Scholarship 2026-27 (Punjab)",
+   "scope": "Pakistan",
+   "country": "Punjab, Pakistan",
+   "levels": [
+    "Intermediate",
+    "Bachelor",
+    "Master"
+   ],
+   "who": "Punjab ke registered factory/mine workers (PESSI/EOBI) ke bachay — Intermediate se higher education tak; deceased/disabled workers ke bachay bhi eligible",
+   "coverage": "Full fees (tuition, admission, exam, registration, library, lab) + monthly stipend Rs 3,500 (Intermediate) / Rs 5,000 (us ke baad)",
+   "deadline": "Koi fixed last date nahi — admission/registration ke 1 saal ke andar apply karein (online portal par)",
+   "deadlineDate": null,
+   "status": "Open now",
+   "url": "https://mis.pwwf.punjab.gov.pk",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "Swiss Government Excellence Scholarships 2027-28",
+   "scope": "International",
+   "country": "Switzerland",
+   "levels": [
+    "PhD"
+   ],
+   "who": "Master's degree holders (early-career researchers) — Switzerland ki university mein research; Swiss supervisor ki support zaroori; age 35 tak",
+   "coverage": "Research scholarship — CHF 2,450/month + tuition; art scholarships sirf limited countries ke liye hain",
+   "deadline": "2027-28 round band ho chuka hai — agli call August 2027 mein advertise hogi (official SBF page)",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "Rhodes Scholarship (Pakistan)",
+   "scope": "International",
+   "country": "United Kingdom",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Pakistani citizens — Oxford mein postgraduate study; har saal sirf 2 scholarships Pakistan ke liye; academic excellence + leadership + character",
+   "coverage": "Full — Oxford tuition, college fees, living stipend aur airfare",
+   "deadline": "2027 entry band ho chuki hai (5 August 2026) — agli cycle June 2027 mein expected (har saal June mein khulti hai)",
+   "deadlineDate": null,
+   "status": "Closed",
+   "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/apply/pakistan/",
+   "added": "2026-11-27"
+  },
+  {
+   "name": "Romania Government Scholarship 2027-28",
+   "scope": "International",
+   "country": "Romania",
+   "levels": [
+    "Bachelor",
+    "Master",
+    "PhD"
+   ],
+   "who": "Non-EU citizens (Pakistanis bhi) — Romania ki public universities mein Bachelor/Master/PhD; sirf official online portal se apply hota hai",
+   "coverage": "Full — tuition, free accommodation, monthly stipend aur 1 saal ka free Romanian language course",
+   "deadline": "February–March 2027 mein expected — official call abhi announce nahi hua",
+   "deadlineDate": null,
+   "status": "Opening soon",
+   "url": "https://scholarships.studyinromania.gov.ro",
+   "added": "2026-11-27"
   }
  ]
 }
