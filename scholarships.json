@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "scholarships": [
   {
    "name": "CM Punjab Honhaar Undergraduate Scholarship",
@@ -566,9 +566,9 @@
    ],
    "who": "Pakistani civil servants / government officers (BPS-17 ya upar) — Master ke liye age 25-40, PhD ke liye 25-45 (1 April 2027 tak); sirf sarkari officers, aam students ke liye nahi",
    "coverage": "Full — tuition, airfare, visa, monthly stipend aur Japan mein rehne ka kharcha (16 Master + 1 PhD seats)",
-   "deadline": "27 November 2026 (5:00 PM PKT)",
+   "deadline": "27 November 2026 (5:00 PM PKT) — band ho chuki hai, agli cycle 2027 mein expected",
    "deadlineDate": "2026-11-27",
-   "status": "Open now",
+   "status": "Closed",
    "url": "https://jds-scholarship.org/country/pakistan/index.html",
    "added": "2026-11-17"
   },
@@ -582,10 +582,10 @@
    ],
    "who": "International students (including Pakistanis) jo Sabancı ke academic graduate programme (thesis Master ya PhD) mein admission lein; scholarship admission ke saath merit par decide hoti hai",
    "coverage": "Full — 100% tuition waiver (USD 24,500), Master stipend TL 43,500/month, PhD TL 67,500/month, free dormitory, health insurance aur laptop",
-   "deadline": "27 November 2026 (Engineering & Natural Sciences — thesis Master/PhD); Management PhD: 11 December 2026",
-   "deadlineDate": "2026-11-27",
+   "deadline": "Engineering & Natural Sciences ki deadline 27 November 2026 guzar gayi — Management PhD: 11 December 2026",
+   "deadlineDate": "2026-12-11",
    "status": "Open now",
-   "url": "https://www.sabanciuniv.edu",
+   "url": "https://www.sabanciuniv.edu/en/application-dates-graduate-programs",
    "added": "2026-11-17"
   },
   {
@@ -783,9 +783,9 @@
    ],
    "who": "4-year Bachelor's degree holders from abroad (including Pakistanis) — M3 Postgraduate Programme in Multifunctional Metamaterials and Metastructures, Jan–Dec 2027",
    "coverage": "20 grants — full €3,000 tuition fee (living aur travel khud uthana hoga)",
-   "deadline": "27 November 2026 (12:00 noon CET)",
+   "deadline": "27 November 2026 (12:00 noon CET) — band ho chuki hai, agli cycle expected 2027",
    "deadlineDate": "2026-11-27",
-   "status": "Open now",
+   "status": "Closed",
    "url": "https://master-m3.unitn.it/2027-grants/",
    "added": "2026-11-23"
   },
@@ -1041,6 +1041,37 @@
    "status": "Opening soon",
    "url": "https://scholarships.studyinromania.gov.ro",
    "added": "2026-11-27"
+  },
+  {
+   "name": "Zhejiang University Graduate Scholarships 2027 (China)",
+   "scope": "International",
+   "country": "China",
+   "levels": [
+    "Master",
+    "PhD"
+   ],
+   "who": "Non-Chinese citizens (Pakistanis bhi) — Zhejiang University mein full-time Master/PhD; CSC Type B ke liye agency number 10335",
+   "coverage": "CSC Type B: full — tuition, accommodation, monthly stipend aur medical insurance; Zhejiang Government Scholarship CNY 30,000 (1 saal) aur university scholarships bhi available hain",
+   "deadline": "31 December 2026 (CSC Type B); 28 February 2027 (general applications aur Zhejiang Government Scholarship)",
+   "deadlineDate": "2026-12-31",
+   "status": "Open now",
+   "url": "https://iczu.zju.edu.cn/admissionsen/95499/list.htm",
+   "added": "2026-11-28"
+  },
+  {
+   "name": "HEC Need-Based Scholarship 2026-27 — IST Islamabad",
+   "scope": "Pakistan",
+   "country": "Islamabad, Pakistan",
+   "levels": [
+    "Bachelor"
+   ],
+   "who": "IST Islamabad ke students — primarily freshmen BS students; senior students bhi special circumstances (guardian ki death, job loss waghera) mein consider ho sakte hain",
+   "coverage": "Need-based financial support (HEC NBS programme — university fee + monthly stipend; exact amount IST notice mein nahi bataya gaya)",
+   "deadline": "2 December 2026 (Student Login Portal se apply karein)",
+   "deadlineDate": "2026-12-02",
+   "status": "Open now",
+   "url": "https://www.ist.edu.pk/research",
+   "added": "2026-11-28"
   }
  ]
 }
